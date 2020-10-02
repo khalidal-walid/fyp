@@ -1,6 +1,6 @@
 //Dimensions and colors
-var width = 1200;
-var height = 300;
+var width = 1000;
+var height = 600;
 var color = d3.scaleOrdinal(d3.schemeCategory10);
 var profs = [];
 var ttpJustDisplayed = false;
@@ -29,15 +29,16 @@ d3.json("data.json").then(function (graph) {
     //data layout
     var dataLayout = d3.forceSimulation(data.nodes)
         .force("charge", d3.forceManyBody().strength(-50))
-        .force("link", d3.forceLink(data.links).distance(0).strength(2));
+        .force("link", d3.forceLink(data.links).distance(0).strength(2))
+        .force("collide", d3.forceCollide().radius(d => d.r + 1).iterations(3));
 
     //graph layout
     var graphLayout = d3.forceSimulation(graph.nodes)
-        .force("charge", d3.forceManyBody().strength(-1000))
+        .force("charge", d3.forceManyBody().strength(-500))
         .force("center", d3.forceCenter(width / 2, height / 2))
-        // .force("x", d3.forceX(width / 2).strength(1))
+        // .force("x", d3.forceX(width).strength(1))
          .force("y", d3.forceY(height / 2).strength(1))
-        .force("link", d3.forceLink(graph.links).id(function (d) { return d.id; }).distance(500).strength(1))
+        .force("link", d3.forceLink(graph.links).id(function (d) { return d.id; }).distance(40).strength(1))
         .on("tick", ticked);
 
     var adjlist = [];
@@ -57,7 +58,8 @@ d3.json("data.json").then(function (graph) {
     var svg = d3.select("#viz")
         .attr('height', "auto")
         .attr('width', "auto")
-        .attr('viewBox', [-width / width, -height / 3.6, width * 1.29, height * 1.5])
+        // .attr('viewBox', [-width / width, -height / 3.6, width * 1.29, height * 1.5])
+        .attr('viewBox', [0, 0, width / 2, -height / 2])
 
     var container = svg.append("g");
 
@@ -74,24 +76,23 @@ d3.json("data.json").then(function (graph) {
         })])
         .range([4, 4]);
 
-    svg.call(
-        d3.zoom()
-            .scaleExtent([.1, 4])
-            .on("zoom", function () { container.attr("transform", d3.event.transform); })
-    );
+    // svg.call(
+    //     d3.zoom()
+    //         .scaleExtent([.1, 8])
+    //         .on("zoom", function () { container.attr("transform", d3.event.transform); })
+    // );
 
     var link = container.append("g").attr("class", "links")
         .selectAll("path")
         .data(graph.links)
         .enter()
         .append("path")
-        // .attr("stroke", "#aaa")
+        .attr("stroke", "#f9f9f9")
+        .attr("stroke-width", "0.1")
         // .attr("stroke-width", function (d, i) {
         //     return path_scale(d.value);
         // })
         .attr("fill", "none");
-        // .style("opacity", "0");
-
 
     var node = container.append("g").attr("class", "nodes")
         .selectAll("g")
@@ -102,18 +103,33 @@ d3.json("data.json").then(function (graph) {
         .attr("r", function (d, i) {
             return node_scale(i);
         })
-        .attr("fill", function (d) { return color(d.group); });
+        // .attr("fill", function (d) { return color(d.group); });
+        .attr("fill", "#ffea72")
+        .style("opacity", "1");
 
+    // var nodeSelected = container.append("g").attr("class", "nodes")
+    //     .selectAll("g")
+    //     .data(graph.nodes)
+    //     .enter()
+    //     .append("g").attr("class", "node")
+    //     .append("circle")
+    //     .attr("stroke", "ff0000")
+    //     .attr("r", function (d, i) {
+    //         return node_scale(i);
+    //     })
+    //     .attr("fill", function (d) { return color(d.group); });
+        // .attr("fill", "#ff0000");
 
-
-    node.on("focusin", focus).on("focusout", unfocus);
+    // node.on("mouseover", focus).on("mouseout", unfocus);
 
     node.on("mouseover", function (d) {
         var mousePos = d3.mouse(svg.node());
         var tooltip = d3.select("#tooltip");
 
+        // tooltip.style("left", mousePos[0] + 20 + "px")
+             // .style("top", mousePos[1] - 20 + "px")
         tooltip.style("left", mousePos[0] + 20 + "px")
-            .style("top", mousePos[1] - 20 + "px")
+            .style("top", mousePos[1] + "px")
             .classed("hidden", false)
             .classed("show", true);
 
@@ -134,6 +150,10 @@ d3.json("data.json").then(function (graph) {
         ttpJustDisplayed = true;
     })
 
+    node.on("mouseout", function (d) {
+        ttpJustDisplayed = false;
+    })
+
     node.call(
         d3.drag()
             .on("start", dragstarted)
@@ -147,7 +167,7 @@ d3.json("data.json").then(function (graph) {
         .enter()
         .append("text")
         .text(function (d, i) { return i % 2 == 0 ? "" : d.node.id; })
-        .style("fill", "#555")
+        .style("fill", "#fff")
         .style("font-family", "Arial")
         .style("font-size", 12)
         .style("pointer-events", "none") // to prevent mouseover/drag capture
@@ -187,20 +207,20 @@ d3.json("data.json").then(function (graph) {
         return 0;
     }
 
-    function focus(d) {
-        console.log(d)
-        var index = d3.select(d3.event.target).datum().index;
-        console.log("focus: " + index)
-        node.style("opacity", function (o) {
-            return neigh(index, o.index) ? 1 : 0.1;
-        });
-        dataNode.attr("display", function (o) {
-            return neigh(index, o.node.index) ? "block" : "none";
-        });
-        link.style("opacity", function (o) {
-            return o.source.index == index || o.target.index == index ? 1 : 0.1;
-        });
-    }
+    // function focus(d) {
+    //     console.log(d)
+    //     var index = d3.select(d3.event.target).datum().index;
+    //     console.log("focus: " + index)
+    //     node.style("opacity", function (o) {
+    //         return neigh(index, o.index) ? 1 : 0.1;
+    //     });
+    //     dataNode.attr("display", function (o) {
+    //         return neigh(index, o.node.index) ? "block" : "none";
+    //     });
+    //     link.style("opacity", function (o) {
+    //         return o.source.index == index || o.target.index == index ? 1 : 0.1;
+    //     });
+    // }
 
     function hideTooltip(e) {
         if (ttpJustDisplayed) {
@@ -236,12 +256,12 @@ d3.json("data.json").then(function (graph) {
         link.style("opacity", 1);
     }
 
-    function unfocus() {
-        document.addEventListener('click', hideTooltip)
-        // dataNode.attr("display", "block");
-        // node.style("opacity", 1);
-        // link.style("opacity", 1);
-    }
+    // function unfocus() {
+    //     document.addEventListener('click', hideTooltip)
+    //     dataNode.attr("display", "block");
+    //     node.style("opacity", 1);
+    //     link.style("opacity", 1);
+    // }
 
 
     function updateLink(link) {
@@ -281,8 +301,7 @@ d3.json("data.json").then(function (graph) {
     makeProfList(graph);
     loadAutocomplete();
 
-
-
+    //Search function
     function loadAutocomplete() {
 
         const autoCompletejs = new autoComplete({
@@ -332,7 +351,6 @@ d3.json("data.json").then(function (graph) {
 
                 focus_searcher(current_node, selection.id);
 
-
             }
         });
 
@@ -345,8 +363,8 @@ d3.json("data.json").then(function (graph) {
         ttp_searchbox = true;
         var tooltip = d3.select("#tooltip");
 
-        tooltip.style("left", 70 + "%")
-            .style("top", 20 + "px")
+        tooltip.style("left", 20 + "%")
+            .style("top", 15 + "px")
             .classed("hidden", false)
             .classed("show", true);
 
@@ -357,8 +375,8 @@ d3.json("data.json").then(function (graph) {
         tooltip.select("#tooltip-body")
             .html(
                 '<div>' +
-                '<a href="https://www.google.com" target="_blank"> <i class="fas fa-user-o"></i> ' + d.target + '</a >' +
-                '</div > ' 
+                '<a href="https://www.twitter.com" target="_blank"> <i class="fas fa-user-o"></i> ' + d.target + '</a>' +
+                '</div> ' 
 
                 // '<div>' +
                 // '<a href="https://www.google.com" target="_blank"> <i class="fas fa-user-o"></i> ' + d.group + ' investigadores</a >' +
@@ -368,27 +386,34 @@ d3.json("data.json").then(function (graph) {
                 // '<i class="fas fa-sticky-note-o"></i> ' + d.group + ' publicaciones' +
                 // '</div>'
             );
+
         ttpJustDisplayed = true;
 
-
+        
         node.style("opacity", function (o) {
             return neigh(index, o.index) ? 1 : 0.1;
         });
+
+        node.attr("fill", function (d) { return color(d.group); });
+        node.style("opacity", function (o) {
+            return neigh(index, o.index) ? 1 : 0.1;
+        });
+        
+        dataNode.style("opacity", function (o) {
+            return neigh(index, o.node.index) ? 1 : 0.1;
+        });
+        link.attr("stroke", "#aaa")
+            .attr("stroke-width", function (o) {
+                return o.source.index == index || o.target.index == index ? 1 : 0.1;
+        });
+
         // dataNode.attr("display", function (o) {
         //     return neigh(index, o.node.index) ? "block" : "none";
         // });
         // link.style("opacity", function (o) {
         //     return o.source.index == index || o.target.index == index ? 1 : 0.1;
-        // });
-         dataNode.style("opacity", function (o) {
-                return neigh(index, o.node.index) ? 1 : 0.1;
-        });
-        link.attr("stroke", "#aaa")
-            .attr("stroke-width", function (o) {
-                return o.source.index == index || o.target.index == index ? 1 : 0.1;
-         });
+        // });   
     }
-
 });
 
 function positionLink(d) {
