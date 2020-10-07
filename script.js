@@ -103,7 +103,6 @@ d3.json("data.json").then(function (graph) {
         .attr("r", function (d, i) {
             return node_scale(i);
         })
-        // .attr("fill", function (d) { return color(d.group); });
         .attr("fill", "#ffea72")
         .style("opacity", "1");
 
@@ -393,10 +392,12 @@ d3.json("data.json").then(function (graph) {
         node.style("opacity", function (o) {
             return neigh(index, o.index) ? 1 : 0.1;
         });
-
         node.attr("fill", function (d) { return color(d.group); });
         node.style("opacity", function (o) {
             return neigh(index, o.index) ? 1 : 0.1;
+        });
+        node.attr("r", function (o) {
+            return neigh(index, o.index) ? 6 : 4;
         });
         
         dataNode.style("opacity", function (o) {
@@ -404,7 +405,7 @@ d3.json("data.json").then(function (graph) {
         });
         link.attr("stroke", "#aaa")
             .attr("stroke-width", function (o) {
-                return o.source.index == index || o.target.index == index ? 1 : 0.1;
+                return o.source.index == index || o.target.index == index ? 3 : 0.1;
         });
 
         // dataNode.attr("display", function (o) {
