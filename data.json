@@ -8,15 +8,18 @@
       },
       {
         "id": "Napoleon",
-        "group": 1
+        "group": 1,
+        "year": 2011
       },
       {
         "id": "Mlle.Baptistine",
-        "group": 1
+        "group": 1,
+        "year": 2012
       },
       {
         "id": "Mme.Magloire",
-        "group": 1
+        "group": 1,
+        "year": 2013
       },
       {
         "id": "CountessdeLo",
