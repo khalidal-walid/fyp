@@ -1,0 +1,27 @@
+// count total 2010 and above //
+db.try.aggregate(
+  [
+    {
+      $match: {
+        year: {
+          $gt: 2010
+        }
+      }
+    },
+    {
+      $count: "total"
+    }
+  ]
+)
+
+// find min max of year //
+db.try.aggregate([ 
+  { "$group": { 
+      "_id": null,
+      "max": { "$max": "$year" }, 
+      "min": { "$min": "$year" } 
+  }}
+])
+
+// delete doc based on condition //
+db.try.deleteMany({ year : 2009})

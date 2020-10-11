@@ -138,9 +138,10 @@ d3.json("data.json").then(function (graph) {
 
         tooltip.select("#tooltip-body")
             .html(
-                // '<div>' +
-                // '<a href="https://www.google.com" target="_blank"> <i class="fas fa-user-o"></i> ' + d.group + ' investigadores</a >' +
-                // '</div > ' +
+                '<div>' +
+                     d.group + ' investigadores</a >' +
+                '</div > ' 
+                // +
 
                 // '<div> ' +
                 // '<i class="fas fa-sticky-note-o"></i> ' + d.group + ' publicaciones' +
@@ -392,7 +393,7 @@ d3.json("data.json").then(function (graph) {
         node.style("opacity", function (o) {
             return neigh(index, o.index) ? 1 : 0.1;
         });
-        node.attr("fill", function (d) { return color(d.group); });
+        node.attr("fill", function (d) { return color(d.year); });
         node.style("opacity", function (o) {
             return neigh(index, o.index) ? 1 : 0.1;
         });
