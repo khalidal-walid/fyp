@@ -25,3 +25,13 @@ db.try.aggregate([
 
 // delete doc based on condition //
 db.try.deleteMany({ year : 2009})
+
+// split references column jadi single value //
+db.data.aggregate( [ 
+  { $unwind: "$sizes" },
+  {$project: {_id:1,item:1, sizes:1}} 
+] )
+
+// rename field name //
+db.try.updateMany( {}, { $rename: { "references": "target" } } )
+
