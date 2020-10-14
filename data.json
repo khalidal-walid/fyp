@@ -3,7 +3,8 @@
       {
         "id": "Myriel",
         "group": 1,
-        "target": "OldMan",
+        "target": ["OldMan",
+          "Khalid"],
         "year": 2010
       },
       {
