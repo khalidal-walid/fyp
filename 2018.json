@@ -339,43 +339,98 @@
   "id": 
     "Huisheng Shu"
 },{
+  "title": "Temporal information extraction",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Daniel S. Weld"
+},{
   "title": "Combining Flat and Structured Approaches for Temporal Slot Filling or: How Much to Compress?",
   "year": 2012,
   "target": [
-    "01f15552-88f8-48ca-a75a-663822a6199a",
-    "03ec40ae-43cc-4570-83aa-c32b70230257",
-    "0e1d46f1-0879-486b-a349-17cab36b8034",
-    "2814987d-e0c0-4238-905c-1162ed7533fd",
-    "50dd56db-151d-4d62-8576-65f0ef6f381b",
-    "5c0753fa-866f-4fdb-9b09-9e687c9bcf76",
-    "718e40cf-cbbc-4abf-81f1-3c8c039fba2a",
-    "7fed727f-239d-4dba-81d6-81a0db29ac8e",
-    "8fa389f5-22aa-4e3b-8ade-834c298fd14f",
-    "9b2e695b-8f77-443a-9332-d2ed96777496",
-    "bbc72c15-1225-4f5a-a9c2-216a4f7e087e",
-    "c1b6b493-01ef-420f-be44-7bacfe34e846",
-    "ce798595-17de-487c-840e-4ebf89d694b8",
-    "dbeda963-15b8-44a4-b21d-a0d94e5cc759"
+    "Daniel S. Weld",
+    "Chih-Chung Chang",
+    "Fei Wu"
   ],
   "id":
     "Qi Li"
 },{
+  "title": "Open Information Extraction Using Wikipedia",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Fei Wu"
+},{
+  "title": "Fast and Scalable Local Kernel Machines",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Enrico Blanzieri"
+},{
+  "title": "LIBSVM: A library for support vector machines",
+  "year": 2011,
+  "target": [
+    "Enrico Blanzieri",
+    "Kevin C. Dorff"
+  ],
+  "id": 
+    "Chih-Chung Chang"
+},{
+  "title": "BDVal: reproducible large-scale predictive model development and validation in high-throughput datasets",
+  "year": 2010,
+  "target": [],
+  "id":
+    "Kevin C. Dorff"
+},{
   "title": "Wide baseline stereo object matching using minimal cost flow algorithm",
   "year": 2012,
   "target": [
-    "078d5767-ac7e-40d1-876f-f16474463fee",
-    "1fb6815d-f8e3-4f5b-936b-7ed7477e3c5e",
-    "27ce24c2-4262-4a7d-b56d-9969a8c33330",
-    "3593ec78-983b-424c-b46c-994d10d72c90",
-    "4d7d646b-dac0-4e2f-8e58-8ce2aa2ba6dd",
-    "91c275b0-ae61-4ca2-94fc-c95e8b1830c3",
-    "927c890a-f974-4c74-9ec4-492287cf0a9b",
-    "96b94b90-3de3-4512-8a83-6d5df73539bc",
-    "9a4be017-defe-4fd1-8923-c95e3158ff16",
-    "a059d073-977f-43bd-8af4-9aae97250be6"
+    "Florin Oniga",
+    "Christoph Gustav Keller"
   ],
   "id":
     "Shuqing Zeng"
+},{
+  "title": "2D-3D-based on-board pedestrian detection system",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Angel Domingo Sappa"
+},{
+  "title": "On Exploration of Classifier Ensemble Synergism in Pedestrian Detection",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "L. Oliveira"
+},{
+  "title": "Survey of Pedestrian Detection for Advanced Driver Assistance Systems",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "David Gerónimo"
+},{
+  "title": "The Benefits of Dense Stereo for Pedestrian Detection",
+  "year": 2011,
+  "target": [
+    "Angel Domingo Sappa",
+    "L. Oliveira",
+    "David Gerónimo",
+    "Markus Enzweiler"
+  ],
+  "id":
+    "Christoph Gustav Keller"
+},{
+  "title": "Multi-cue pedestrian classification with partial occlusion handling",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Markus Enzweiler"
+},{
+  "title": "Processing Dense Stereo Data Using Elevation Maps: Road Surface, Traffic Isle, and Obstacle Detection",
+  "year": 2010,
+  "target": [],
+  "id":
+    "Florin Oniga"
 },{
   "title": "Enabling Multiple BSN Applications Using the SPINE Framework",
   "year": 2010,
@@ -396,7 +451,7 @@
     "079f8288-ff82-4388-9085-2d82c50dad85",
     "108deb1a-f09c-4d65-ae13-ce545c09dbb9",
     "11719559-b7a7-40ed-a660-c391cd154c6e",
-    "1bfaea19-9ccb-4a78-9572-773eca9143be",
+    "Jian-Feng Cai",
     "1dcf9503-51bc-4646-b599-6cae8a903547",
     "2c8b2c55-3211-4565-ab90-662aa50ef1c3",
     "30219044-70b3-4a0a-9cf2-c72d7fa66864",
@@ -520,7 +575,6 @@
     "9d41a5bf-f4fa-4da8-b4c5-6b16652adbbc",
     "c1097995-85a2-4981-94cd-338cc7b7d837",
     "d5396f08-82b8-4fc3-b4ad-417251b89b3d",
-    "d59063e2-e7ce-4ef9-a8b0-85e76bfdf37a",
     "d71d3833-8d9b-4c7e-8589-d6a51093d3f5",
     "e3fd281f-5611-4597-8216-fb67da209464"
   ],
@@ -571,7 +625,6 @@
     "9b7f180d-8d25-4ee3-941c-cae78251c7fc",
     "9e27b18f-8e4d-46fb-ae78-c60e9c8690af",
     "abd8d3a2-97d9-41ba-b661-edea973ad81c",
-    "da3591c1-6a8f-4ac3-8481-b1fe147deb85",
     "df46ee2b-91f6-4a1c-a1b2-9f9fb70c32ca",
     "e42520bb-1d4d-4869-bec1-9b55e9426b7e",
     "fabc51ab-55cb-412d-bc0d-ece4042a614f"
@@ -696,7 +749,6 @@
     "de9f72b3-e2c6-4b91-bbf9-78219114c0a4",
     "e59ff251-0766-4da5-8448-d89a492a9f29",
     "e5f474e0-3c4c-4bc3-9c6c-b9021f3938d5",
-    "e62ff43e-b9cf-4db3-91ad-8e1e74384a7c",
     "e9c58903-de95-4a4a-8445-072e2ffb6c84",
     "ef304083-20bc-4b7a-b271-6708d7af2c08",
     "f5b4617e-bc53-4157-a20e-6ec9831c6865",
@@ -852,11 +904,9 @@
     "1191781d-1d00-4773-8f32-fd1dbe3c76c8",
     "2ba8193c-58e1-46fb-9f4c-5c3e393cf5c0",
     "2cbdd97b-393f-4def-b945-b0694dea2db8",
-    "38135245-8eff-4078-af6a-ea559ffa660b",
     "3ffe9cef-7c30-45e0-9103-d62ba9701f85",
     "64707a64-e9f8-4117-b828-e1905366b06c",
-    "679281a2-591a-43cc-9bc8-e1908f574a91",
-    "91979159-37d8-410f-a245-a33ef80a092b"
+    "679281a2-591a-43cc-9bc8-e1908f574a91"
   ],
   "id": 
     "Hong Cao"
@@ -975,10 +1025,6 @@
   "title": "Modeling Documents with Deep Boltzmann Machines",
   "year": 2013,
   "target": [
-    "0eba61c2-a0bc-4524-a9f6-8e4a7ad78904",
-    "4453fa3b-308f-472a-be61-65d1ce5c3de2",
-    "46ddddd5-83b4-42aa-98b1-5c87a09f77d9",
-    "49e15f5d-44e6-47e9-b94b-db0291609b30",
     "62869658-5891-4efb-b6a1-585daffbe2d2",
     "8dea51fc-4156-4de8-a1df-ff52335f30fd",
     "a20fbbed-86b3-4d15-acb5-a09c3c9b637e",
@@ -1001,14 +1047,12 @@
   "year": 2012,
   "target": [
     "23e76342-cf05-4435-8e4d-6c676240d88f",
-    "3ae77959-f332-4322-9ddb-93f1088d095d",
+    "Abdel-rahman Mohamed",
     "4c8a52b6-bd99-494e-864f-8a82abe7394a",
-    "75951c61-a613-4fa1-aa06-92507534d559",
     "9576585a-4864-4802-b471-35ae5d47fc34",
-    "9a269110-6509-4939-a1da-24a5858d208d",
-    "ae22966a-0564-44bc-9be2-3d5111b1a6bd",
-    "b440a75c-2969-43be-a089-948a5e4d7de1",
-    "d3061c82-4a85-4323-a2f4-f1f757d14936"
+    "Abdel-rahman Mohamed",
+    "George E. Dahl",
+    "b440a75c-2969-43be-a089-948a5e4d7de1"
   ],
   "id": 
     "Brian Hutchinson"
@@ -1025,21 +1069,17 @@
     "29774995-7bd0-4c63-9f1a-b585f878d0c0",
     "29a743c4-db38-441e-82fd-9829ed349e05",
     "2d94566b-ac2d-49b0-a867-2392c41a2172",
-    "3ae77959-f332-4322-9ddb-93f1088d095d",
-    "3fc64326-b339-4952-a114-80eeeabb74b4",
-    "4453fa3b-308f-472a-be61-65d1ce5c3de2",
+    "Abdel-rahman Mohamed",
+    "Ilya Sutskever",
     "56b19b67-f01f-4a8c-877c-faa8c376894b",
     "61dc8edb-bc5d-4166-b93d-a9acfb53d8b3",
     "68b51c3d-5d5d-4e37-a811-7063aeabfc91",
-    "6a414f2d-2125-4ff2-98c1-e8231751bdfd",
-    "73ec9d29-4fc5-4019-97d3-c496c8509f37",
     "890b849f-90fb-46fa-9e89-f2e319fabc40",
     "9283289e-5de9-4b75-9ae3-49ffa5c19600",
     "Dan Ciregan",
     "a80c501a-e196-40b8-a19b-b525b3c73ad7",
-    "b0733946-aa20-4f0b-a38e-8523850e9374",
+    "Jonathan Masci",
     "b0fd1fc5-780a-46e7-bb16-22931c028b1b",
-    "b75abe04-6fdf-42b7-8b71-e7b05e6991da",
     "d3814e5b-e6f4-4fd0-a390-9adba3ecf67f",
     "d4033783-7634-4272-ad63-dd554bcfc145",
     "Alex Krizhevsky",
@@ -1053,13 +1093,10 @@
   "title": "Why Deep Learning Works: A Manifold Disentanglement Perspective",
   "year": 2016,
   "target": [
-    "061d43fb-e3af-4700-bdc2-2e34dfbace26",
     "06b9665b-56ab-42e4-b67a-f839f6e61c16",
     "21760417-7b45-4b5b-8402-f47a78ddb1a8",
-    "21d5efdf-f5a5-4ae7-b97e-67562dc01f83",
     "Li Wan",
     "638e9154-c676-467b-a768-08ca688e9f3e",
-    "640bfef8-3c8b-4f57-8db8-5184529ffe1b",
     "8fed7067-5f57-4f15-88cc-c948bcdd83f4",
     "ab8979d2-af7e-4617-9f23-e60c91ee4869",
     "Li Deng",
@@ -1077,13 +1114,12 @@
     "051956bb-f64b-4fdb-87f8-3e2868b8b5d8",
     "3582c30f-c989-4479-9aba-860e4caa01c3",
     "493f502b-b1b8-412c-95fd-3c1103480f1d",
-    "5da29eee-8cfd-4916-8b9e-01f58f218f9e",
     "65404116-7ed8-404b-a87a-e578deb8d7cb",
     "6996760a-97de-4ea0-9b33-dda325b252af",
     "8221d05e-9b73-49f1-8ee4-708fe5df40b5",
     "88d1f7c7-bec0-4e01-a7c2-e2a895ee36d4",
     "bdabe2ac-d193-4c14-99c1-eab8aff05908",
-    "c700dc12-7eac-4091-8462-527773668dfa",
+    "Vinod Nair",
     "eb46a383-9541-4762-9bb7-804fa57a315f",
     "f18e4cdb-6699-4995-839d-feede68cf160",
     "f26a8a8a-9ad6-4dc1-8ae2-a59be1f80267"
@@ -1097,7 +1133,6 @@
     "2d94566b-ac2d-49b0-a867-2392c41a2172",
     "37f7e41e-64f9-409d-be65-5ce0406b6feb",
     "76fb6889-7338-490c-b2fb-7ec4a9ea51d4",
-    "820b9eee-e009-4dc1-b464-f5fd4485d6b3",
     "e57d5178-eb38-4375-90ef-e9286d033c86"
   ],
   "id": 
@@ -1136,24 +1171,13 @@
   "year": 2011,
   "target": [
     "Matthew D. Zeiler",
-    "1e01d830-3550-4011-b4b9-1ce237995d28",
-    "1f7bbc73-33cf-4f70-9a8a-739a095650bd",
-    "2fdd735f-1bfa-44ea-9862-13cf95d79d21",
-    "32e6799b-f4eb-4f5e-bfe2-34ec35d43517",
-    "3871db29-4ce5-4ab0-a1fa-4bb93d04e88d",
-    "4bbacb77-1097-4cc5-b001-6554ea01fb75",
-    "56c91206-84fe-4322-bb43-5f7685f8e0d9",
-    "73ec9d29-4fc5-4019-97d3-c496c8509f37",
-    "7aed0c7c-27a1-4c45-9ffd-31cb69d09aa2",
-    "7e282059-5e08-4d24-afa7-d9e7c5c47f7b",
-    "a52ab4da-f798-4d6f-840c-bf1ffba8ef1a",
-    "b0733946-aa20-4f0b-a38e-8523850e9374",
-    "bda59c4c-8f46-45f2-86c7-2d3d28957b22",
-    "ca250ca4-70fd-411f-8cc7-fb17be31cd9e",
-    "e4024c87-12a3-478e-a918-bcac673b8c48",
-    "e4830a39-2587-4a15-b1ab-8e9c4f8af0ba",
-    "f63153b7-f62e-4d1e-b89d-7c4dafdc2f89",
-    "f7ac19b7-daaf-4dc1-bbb9-7f4ffd7385ba"
+    "Fei Yin",
+    "Dominik Scherer",
+    "Ueli Meier",
+    "Jonathan Masci",
+    "Jürgen Schmidhuber",
+    "Luca Maria Gambardella",
+    "Srinivas C. Turaga"
   ],
   "id": 
     "Dan C. Ciresan"
@@ -1161,19 +1185,12 @@
   "title": "Deep networks are effective encoders of periodicity.",
   "year": 2014,
   "target": [
-    "296a0ad4-dc5f-4158-ac11-64ffda60a439",
-    "36396294-3044-4092-9db7-174ebdae10d9",
-    "3b83c815-532d-4122-811f-2b57e8b80c5d",
-    "69da4fa4-78f0-41fd-9853-a764a1d828e5",
-    "873b967f-3823-4587-b177-36317e57ee68",
-    "89f10062-acf1-4171-b882-f3222c3a357e",
+    "Nicolas Le Roux",
+    "Lech Szymanski",
     "8f7b5ed4-cdf8-4e91-90ed-07089a37a435",
-    "91979159-37d8-410f-a245-a33ef80a092b",
     "934d5cea-208c-44e4-8c12-d8d22289b3ea",
     "9922df01-3cf5-4834-ab95-57b0722363a3",
-    "c4024860-8d55-47c1-bab0-6c53f90831ee",
     "d1bb5e5b-5e90-4203-899b-9ced81942bb8",
-    "e89bb9fb-4b26-4e7a-aaf7-84c3bb498836",
     "Guido Montufar"
   ],
   "id":
@@ -1302,7 +1319,6 @@
     "b3f98531-b356-4d45-ad9f-c5053cb0e40e",
     "b6a5a008-9b63-46fe-b361-f4570a44bc65",
     "b7c2a37b-4274-46e5-896a-c44479c9a105",
-    "b889d6ec-330d-406f-87b6-ea34804fadfd",
     "b8a54967-1eee-4a22-b60c-d4d3fa113e46",
     "bf7facce-5d3d-4122-9c84-2fcade8ca31a",
     "c11953f5-788d-4fbe-9c1a-6f14c7dcc154",
@@ -1318,7 +1334,6 @@
     "ce0a04c2-951e-4f1d-b8eb-6bdf4cdd6523",
     "cf281edb-d0e5-41a0-8e72-7851e267999b",
     "cf740e2c-f5bf-4e0c-8375-2948d6dff2c7",
-    "d32ba741-b475-4661-b61a-1aef885a0a16",
     "d73cf715-adde-4f09-86bc-c31c90639ace",
     "db26488d-78be-44b1-a343-e896f43c5d29",
     "de504771-40ab-4a75-8e0a-0beca0e67fd3",
@@ -1327,7 +1342,6 @@
     "e55562e1-85d0-422a-a3f2-15a55fb8858b",
     "e61b6fa6-6e08-47e2-ae77-adcde48e750e",
     "e623137f-da6a-4497-a027-19f808cb809e",
-    "e62ff43e-b9cf-4db3-91ad-8e1e74384a7c",
     "e6ae0c3d-0683-4587-b7b2-1a6dbcf7748b",
     "e6b6e8f4-3c7d-4435-8ca9-192c3a76cdf8",
     "e7a9e05d-c05b-4f0d-a820-1e8e9dedf9d2",
@@ -1352,15 +1366,10 @@
   "title": "Deep Convex Net: A Scalable Architecture for Speech Pattern Classification",
   "year": 2011,
   "target": [
-    "33abc1fc-50ea-4837-a4a0-65c1d4c0e0b7",
-    "5be8571b-abe7-4c20-97b0-c648613e9682",
-    "79a265e8-6364-4c26-bf97-45bb6272376e",
-    "7cda227c-faa2-4f49-8024-8ec89535fc80",
-    "9a269110-6509-4939-a1da-24a5858d208d",
-    "ae22966a-0564-44bc-9be2-3d5111b1a6bd",
-    "d3061c82-4a85-4323-a2f4-f1f757d14936",
-    "d9030e1b-c16c-4d8e-89be-0e48dcf8396c",
-    "f1b00944-6066-4c21-8a2b-0e60058b4c7f"
+    "Dong Yu",
+    "Navdeep Jaitly",
+    "Abdel-rahman Mohamed",
+    "Michael L. Seltzer"
   ],
   "id": 
     "Li Deng"
@@ -1368,25 +1377,17 @@
   "title": "Multi-column deep neural networks for image classification",
   "year": 2012,
   "target": [
-    "32c1bdf2-cea7-4d60-8289-2207eaa41a77",
-    "4a605288-3763-478b-8ea4-035a8b4feecc",
-    "56c91206-84fe-4322-bb43-5f7685f8e0d9",
+     "Johannes Stallkamp",
+    "Dominik Scherer",
     "626e3a7e-ccda-4ea3-a0b5-9e0c6809ef8d",
     "6d3bd422-9563-4b8b-ad73-473fb89c81dd",
-    "7ad93cde-cbca-4061-b62e-0d99c0ef8dd5",
-    "7aed0c7c-27a1-4c45-9ffd-31cb69d09aa2",
-    "820b9eee-e009-4dc1-b464-f5fd4485d6b3",
+    "Daniel Strigl",
+    "Ueli Meier",
     "87011d39-f6e7-4e72-a026-333a26bba502",
-    "9067e47c-a8f1-48ac-9cff-76a4130f37d0",
+   "Dumitru Erhan",
     "924fe569-7b4c-4968-bcc9-35aa73dbb587",
     "a4d9008a-d15b-4d87-a173-bef2f4b0d453",
-    "a52ab4da-f798-4d6f-840c-bf1ffba8ef1a",
-    "b0733946-aa20-4f0b-a38e-8523850e9374",
-    "ca250ca4-70fd-411f-8cc7-fb17be31cd9e",
-    "e4830a39-2587-4a15-b1ab-8e9c4f8af0ba",
-    "f22e0bfa-5357-413f-b7fe-a58cf1f024ea",
-    "f63153b7-f62e-4d1e-b89d-7c4dafdc2f89",
-    "ff948282-ac63-40ea-821b-e32f748e1e3f"
+    "Jonathan Masci"
   ],
   "id":
     "Dan Ciregan"
@@ -1394,32 +1395,11 @@
   "title": "Shallow vs. Deep Sum-Product Networks",
   "year": 2011,
   "target": [
-    "19ee8d2a-1dca-40f7-bfb9-ad800108410e",
-    "2155ff69-7025-4e8c-b6b4-f513ab4c5fd9",
-    "22c23d0b-ffd3-4679-9297-0ca70e909b65",
-    "28b81350-0d65-4c68-91ed-9f5aa6b97bc8",
-    "296a0ad4-dc5f-4158-ac11-64ffda60a439",
-    "2ba41db5-ac76-4805-a904-67ff0361f528",
-    "32c1bdf2-cea7-4d60-8289-2207eaa41a77",
-    "3b83c815-532d-4122-811f-2b57e8b80c5d",
-    "3bc75d49-c9e3-412d-a63c-93bc5be110dd",
-    "4119077e-f77a-4056-8f3f-36fd86a668de",
-    "47e20669-55b1-4e50-9ef2-e9f0496ce79a",
-    "4c5ed508-b6e5-4db5-a59f-00e1d88dc221",
-    "640bfef8-3c8b-4f57-8db8-5184529ffe1b",
-    "6c6a4dc9-6224-471c-b159-a4b3d8ac96b8",
-    "73ec9d29-4fc5-4019-97d3-c496c8509f37",
-    "77b79c16-03f5-4c75-994e-38a9e0cc7bfe",
-    "7db5b031-03e2-4051-9049-e0cc7b0a4f11",
-    "825d95f7-21af-478f-b76e-455431bad7a9",
-    "89f10062-acf1-4171-b882-f3222c3a357e",
-    "94ff744f-7608-4e20-9fae-2c3a760c1222",
-    "a5084ea3-25bd-4cc7-8c79-29034e9a9c7c",
-    "d0d13c7a-308c-4138-9802-8e7c0260bb90",
-    "de7e534b-6d80-46c7-bf2a-2b2b4112a42b",
-    "e89bb9fb-4b26-4e7a-aaf7-84c3bb498836",
-    "f69cd21c-73e4-4878-a12d-b67760db889b",
-    "ff948282-ac63-40ea-821b-e32f748e1e3f"
+    "Marc'Aurelio Ranzato",
+    "Mark Braverman",
+    "Clarence Simard",
+    "Hoifung Poon",
+    "Koray Kavukcuoglu"
   ],
   "id":
     "Olivier Delalleau"
@@ -1436,7 +1416,6 @@
     "051956bb-f64b-4fdb-87f8-3e2868b8b5d8",
     "0847e1e4-f373-49e6-9ecf-dac4e466669b",
     "246d8517-4552-4d2b-8586-d2e70f3c362e",
-    "32c1bdf2-cea7-4d60-8289-2207eaa41a77",
     "35062fee-1b7e-4185-9e14-030c7f2d486c",
     "3d4f1ae9-1fb3-412f-aaac-21754f59b91b",
     "493f502b-b1b8-412c-95fd-3c1103480f1d",
@@ -1451,355 +1430,6 @@
   ],
   "id":
     "Dmytro Mishkin"
-},{
-  "title": "Deep Learning: Methods and Applications",
-  "year": 2014,
-  "target": [
-    "00281aec-9429-4045-80f4-fb0eea9db169",
-    "0098ef90-5549-462d-8ac9-8d021fd08456",
-    "015086f3-b9a3-45ad-9551-93a4655b20f5",
-    "01d40208-ccae-4526-ba53-2224c29f8855",
-    "01efd057-0042-4d4e-b064-d631d12d0815",
-    "0217b0e6-73ff-4766-b12e-681950e823f2",
-    "033f5f9b-d487-49dc-b4a0-aef9b9433d19",
-    "037d93ae-5e3d-4c50-9fd9-3d4161bd82c5",
-    "0605bdab-00c5-49cb-8c89-ca00e0705afa",
-    "06225d37-cbbe-455c-aef0-c08e3b63b77f",
-    "0668b830-2bbd-4039-b33b-ab6b8f7f0ef1",
-    "06b9665b-56ab-42e4-b67a-f839f6e61c16",
-    "0725ab4c-eebb-482c-bf92-d2f6384c0a64",
-    "07aa2948-eb57-4eca-a912-f71e316d2158",
-    "08097488-f4b5-48fe-845b-a4e9a63f5171",
-    "080f5d61-ed23-49e4-8e72-69ec8cbd0e15",
-    "0a1b6daa-efc8-4a91-bb64-fd211ad649e7",
-    "0adcba23-1e5f-4f08-a26f-83979bb75223",
-    "0b8cf3ba-af8d-4125-891b-a54da6d183c4",
-    "0c598ccc-88a8-4961-8be2-eeb9b7f79841",
-    "0e9a5b88-789a-403a-b4c1-623dd489e81d",
-    "0f3db470-b18a-48a1-8947-734a6b9de8ce",
-    "0f6a368c-c516-4d07-a59b-04bd60a8a8bf",
-    "1035d56c-06b3-40bb-93c7-6306b24bac93",
-    "112b877f-5f12-4ecb-b5a6-5276f5c6c485",
-    "11f1890b-2a0f-429c-9962-2d24d5777602",
-    "125e92b0-d879-43ac-bf56-9408a6fea183",
-    "12f40b38-cd99-4801-8074-d765a29a2101",
-    "154d7bea-db64-4aba-8736-3abc00fecc08",
-    "1568252d-5a3c-4b3f-9be8-e42cfe5a5f85",
-    "1574763c-e38d-4e89-a980-fea357f533bb",
-    "17054a05-bc5d-4868-91bf-ad83b3376af2",
-    "176a7436-78ea-4c2a-82e6-7930ab023bd1",
-    "17f34823-f011-4924-8558-587fc6a29426",
-    "1848db9b-578b-4658-a7bd-a056ab6c973f",
-    "19ae7955-e8b1-4ac5-a3b4-9e7f92b0e294",
-    "19c0e5d2-d5f3-4bd4-aba1-e9e975a9b580",
-    "19ee8d2a-1dca-40f7-bfb9-ad800108410e",
-    "1a09e6c3-ae93-4561-8119-e25861e0590d",
-    "1d23e6ac-528a-470a-8a22-5b9ebdc9dcfb",
-    "1d6b5144-ff1f-4232-9a42-6ccc1ed918f4",
-    "1dde2c3d-9170-4920-8842-2543074b1537",
-    "1e6f4b1f-7bfe-4b8c-9a60-c9f0bea232f7",
-    "1fea5c4c-91cc-4c8e-a5b0-15801e927eaa",
-    "1ff806ce-923d-4cfd-8a29-b43738c3af4e",
-    "211bcfff-910d-49da-aca3-5b6b286c8332",
-    "2342e243-ebe7-4e00-905f-29632a11719b",
-    "23e76342-cf05-4435-8e4d-6c676240d88f",
-    "24c04b93-f8ae-4802-8a96-5e47b46bd408",
-    "2679e545-f75e-4a61-a126-5d6d0b4f9443",
-    "26cd4681-f454-4533-9801-148b582a8954",
-    "270b9bfe-7e81-43c2-80b2-b38c7fa4e714",
-    "28b81350-0d65-4c68-91ed-9f5aa6b97bc8",
-    "28d06a39-fdb7-4c5a-9ff8-580ae92b0db9",
-    "28df143f-1d06-489d-832c-7cc89fe0fc4d",
-    "29042545-4ddf-4bf9-ae8b-d65876c9eb41",
-    "2a2c68f2-0709-40ec-ae3a-7224b4968e43",
-    "2b4c55a5-7191-4964-9975-5d24b510b97a",
-    "2b698639-f446-4ff1-a223-93a22f9b2041",
-    "2ba41db5-ac76-4805-a904-67ff0361f528",
-    "2c1c32dc-5cc6-4ae3-a403-3d4141e38235",
-    "2c414d33-9a10-4aee-8ea1-2e0fc3438451",
-    "2d94566b-ac2d-49b0-a867-2392c41a2172",
-    "2e0adc28-411e-4008-bdb1-caff0803be59",
-    "2f00ece1-1fda-4ada-bc3c-2a54ca68166c",
-    "2fb38790-c78d-4959-9617-26e2ef0dad17",
-    "3068d105-a56a-4f4f-b68b-cb11cd47ead6",
-    "310487e9-107e-40c3-aac7-777128f08ccd",
-    "315b166d-89db-4abd-899d-cbcbd1ecea0c",
-    "3235951e-ba24-46d1-8a91-f3cd27036afa",
-    "328513e8-1f93-4ae2-98f5-baf3b108e3ae",
-    "32c1bdf2-cea7-4d60-8289-2207eaa41a77",
-    "32fff099-4d7a-4e1b-91ea-e76c80e98518",
-    "3412ad85-00bb-4f5e-8dd1-6010fc3bf095",
-    "34607723-82f2-43ad-be51-4a29a43393d1",
-    "357628ef-a0a2-4821-b2f8-d8f47b46cb1e",
-    "37f7e41e-64f9-409d-be65-5ce0406b6feb",
-    "382f3bd7-d257-4a70-8e7b-126b319e9cf0",
-    "3a0d5d28-1f94-4e6f-97ad-fd4cac855fe2",
-    "3a74e461-4d4b-485c-9b0b-65866bbd6ad8",
-    "3a7996d0-d005-4e60-b313-c9d08e75a5fc",
-    "3ae77959-f332-4322-9ddb-93f1088d095d",
-    "3cf16bf3-206f-483e-9841-fec0638469ab",
-    "3d7dcf42-cfb7-4851-bbc8-8c044eb10393",
-    "3e9117a2-c042-4eb0-a31f-58db7efe36a9",
-    "3effb9e9-5211-482b-8243-22c9a282abfb",
-    "4336fd16-7ab0-4f21-99f4-d500e0b323da",
-    "43a790ca-42bd-4f32-a234-4a1c00779cb9",
-    "44024b57-0adc-4d62-a97a-4f24bdeec96c",
-    "44630f8e-0e12-491c-9215-6488ce14c94a",
-    "44f8a1fb-329d-4966-be2e-cd3f8a47c1fc",
-    "45517950-63d4-4e70-915c-899ff78e3ce7",
-    "45b4db35-bea7-491f-bb21-48b1617afc4e",
-    "46ddddd5-83b4-42aa-98b1-5c87a09f77d9",
-    "47e20669-55b1-4e50-9ef2-e9f0496ce79a",
-    "492f4525-17a3-43b4-88cc-2cb691dad52b",
-    "49b0495d-2caa-4dbf-b1ab-6f9695b8bd72",
-    "49e15f5d-44e6-47e9-b94b-db0291609b30",
-    "4aa0cbd1-9022-4e76-a2e2-29a457d2b30b",
-    "4b16cec4-f2fd-465c-8eeb-477b54bc8669",
-    "4be27644-ea23-4e71-b2e4-718b13676470",
-    "4c5ed508-b6e5-4db5-a59f-00e1d88dc221",
-    "4c8a52b6-bd99-494e-864f-8a82abe7394a",
-    "4ecd4e4b-a0be-4dcb-b9f5-01b3c3ec5fa8",
-    "51d27bab-1492-48bf-9ae1-88fdfad8a8b9",
-    "527f1fa9-9ada-46ca-826c-67dbfe576c87",
-    "54554fcd-dd8c-457a-8f80-33dd5a0a5648",
-    "54d9ab41-9b76-4253-a5f9-91ae42909b87",
-    "55d67782-ca3c-4a8f-a699-3913bd75f1e9",
-    "57511d95-6468-4884-a9c2-de82841b295e",
-    "5829a29b-b912-4249-8535-82089c44a7bb",
-    "58de9247-5815-4a35-81db-4f5c074c6b16",
-    "59235c9e-b171-44d3-a14a-3054fd825229",
-    "59a820d9-abc9-456c-846d-992eb80943b6",
-    "59d99eb6-836e-4f61-9bc9-8dd0dd927680",
-    "5a8ba42a-0c91-4dcb-85f5-a9bb195bd1f1",
-    "5ad3b1dc-bd4e-42f4-ac6f-65bd42c7c0b4",
-    "5ad689ae-25fa-4267-bd2b-36fcd72e3593",
-    "5b8cd8f4-17c9-4ac3-ba05-ebeba7cd6691",
-    "5be8571b-abe7-4c20-97b0-c648613e9682",
-    "5c4271f5-296b-4eb8-a798-a36b82e74f11",
-    "5d0024c0-9ee1-450e-a83b-9c1262e0de77",
-    "5df6a140-f376-4486-920e-4c7d6911bde6",
-    "5e312982-057f-4762-b26e-52914c36faa6",
-    "5e59312e-b19d-4dfa-bab9-c31cd1eefeb9",
-    "5e615626-0941-414c-b89e-f372b3afb1f2",
-    "5e84db37-7c90-4c83-a7e7-0a5f81ca9121",
-    "5eeba764-5d8d-46cf-a2d1-e8f226e1d9f5",
-    "5f394bef-3112-4061-a97b-8aa7af813213",
-    "5f60307e-f313-4aaa-bb3a-0d6bdb886a55",
-    "5fd116e5-6537-4fd4-b434-f332a6b5b383",
-    "600455bf-6491-4c87-b786-444a82b8150c",
-    "608cbced-8bd3-4dce-806c-6a4ba0f598de",
-    "60ab79a0-9257-4729-b096-ff974e34848e",
-    "60e7eb53-bd18-4744-8f01-589ddde72835",
-    "611bb3d4-f7b0-4dab-ae44-00a661ff1280",
-    "61ccc5a8-e3e9-4a7c-943c-9f14053e027d",
-    "61dcad2b-ef68-4240-95e2-79c12c6bfda9",
-    "62815494-8398-4dd1-a896-578b21e833cf",
-    "62869658-5891-4efb-b6a1-585daffbe2d2",
-    "632130cf-c92c-4b94-bd98-e9011d4a7971",
-    "65ebe5a7-737c-4e1b-8918-0a343543e171",
-    "6666464e-18c5-4fa6-95f7-b8fa84a097a3",
-    "66cf8ee6-a3a2-4199-a87e-68523ef3b954",
-    "670aa686-fb61-4599-a24f-4c3e9471683f",
-    "67e6d747-520d-4853-8fbe-cb06c95648df",
-    "68453f24-4276-4d0c-b37e-19d23af549be",
-    "6926c9f9-888c-44d5-9dbc-e368b6bbcaf0",
-    "69eecff3-6a95-43ea-9bc5-ab5cb14a4a4a",
-    "6a3e914e-b665-4269-9676-089832fd4e59",
-    "6a414f2d-2125-4ff2-98c1-e8231751bdfd",
-    "6a97a03d-7337-4f4a-a8db-714d81cff194",
-    "6b8934f8-7d5e-4486-a9fe-d6a9c302595c",
-    "6cad2c4a-3568-42db-8c8d-cfd56105de0e",
-    "6d8fa457-f192-486c-a67b-0725b0020432",
-    "6ea4c115-7670-4836-a31b-b4ecf2b13f97",
-    "6ed670f0-e292-4e8d-8fa3-2020f655039a",
-    "6ee864aa-3869-4fb3-8523-132f51fbf0de",
-    "6f50069e-9e42-4522-be5a-594fb3335f18",
-    "6fc9e58a-603f-485f-9c27-dd593d7ddb83",
-    "714794e0-879d-4b87-83a6-6478cc5b3b18",
-    "7169a26b-750d-433b-b965-8e54ae04f7ba",
-    "719e45e8-96e3-4377-859f-31569f95eb7d",
-    "72e0ab2c-7ccc-4a6a-94cc-aa0fd80d69d4",
-    "73ec9d29-4fc5-4019-97d3-c496c8509f37",
-    "74383ad6-cf2c-483c-a480-e2372426eae3",
-    "756c77e2-fd67-4d96-9dba-37c71199ac3b",
-    "75a3c137-a79d-41b9-9cc1-10a44bd2032b",
-    "76494bc0-df76-46ed-995f-b8bc32e5ffc2",
-    "76fb6889-7338-490c-b2fb-7ec4a9ea51d4",
-    "775178e7-9e9e-4092-b485-08fce1800cbf",
-    "77b79c16-03f5-4c75-994e-38a9e0cc7bfe",
-    "78828416-cc0f-48b1-8f49-a5cd0f6c3cd9",
-    "79a265e8-6364-4c26-bf97-45bb6272376e",
-    "79da7c9f-5221-47a2-8d1c-19d2a1930068",
-    "7aa454b2-47c6-4117-b823-1df65289e8e7",
-    "7aed0c7c-27a1-4c45-9ffd-31cb69d09aa2",
-    "7cda227c-faa2-4f49-8024-8ec89535fc80",
-    "7d5ee701-12fb-4e66-80a0-056b05ef80fc",
-    "7dcb25ec-4726-45a6-99b4-fd99ad45b16e",
-    "7e9debd8-268f-4faa-be0e-9c8dbb0e9b50",
-    "7fb9fda7-b42d-4ccd-a254-e0351956ad6a",
-    "81f85431-14c7-4bc4-a785-bb5efed675b1",
-    "8266e203-dc03-4c1d-9724-eb2f3f4f9577",
-    "83823929-6183-416a-8099-e51e09efbd39",
-    "839041b0-d352-4205-bab5-67d12176d7dd",
-    "84b3efce-a793-4220-a111-1330a04ea215",
-    "87334291-58d8-47b8-abd5-34ddeb21048a",
-    "877dde4d-ef74-4b59-86ac-1ba86198fbfd",
-    "89a70a1e-142a-4403-932f-6822ff7994d7",
-    "89f10062-acf1-4171-b882-f3222c3a357e",
-    "8a4b85f6-4467-421f-b9c0-a081fe5d4c7e",
-    "8a94f822-1211-4739-b881-3078ad6bc19f",
-    "8b5dd574-2675-4fa2-8808-9ca2e1d87119",
-    "8b8580b5-544f-48a6-9f7f-533dd27dd685",
-    "8ccfb088-49df-46c9-becd-73be3362f8cd",
-    "8cfdc5a3-3afd-47df-8a6f-5e7d464fb8b6",
-    "8d3395a5-989c-4098-9e3d-9844d03422cf",
-    "8d454ad8-c5d5-496f-acf9-0b5602be02f3",
-    "8e39b3d3-dda8-4f1f-98bd-5d6b5141ad23",
-    "8f50b141-e2b9-46ec-9eb3-19efce1bd12a",
-    "903c64fd-faea-4997-b1d4-2598fe4f9446",
-    "9067e47c-a8f1-48ac-9cff-76a4130f37d0",
-    "91621b3f-33af-4f1f-b852-945a9b215d50",
-    "91877738-01b4-4509-9c00-60cf142e11df",
-    "92f69a52-1623-40c7-9b87-1430828f1f5b",
-    "930d298b-74e2-4945-aaf3-8aa133cc9454",
-    "932008ce-0a09-4a57-8d72-e967735832bb",
-    "932ec9d9-6541-41d4-a5bd-1955c43bd9f5",
-    "94ff744f-7608-4e20-9fae-2c3a760c1222",
-    "9576585a-4864-4802-b471-35ae5d47fc34",
-    "967cfa49-e7cc-420c-be14-8f6ac66e1655",
-    "97fa1c18-05bf-47c9-b72d-5d712b186ccd",
-    "983a2eff-22fe-40d2-bb87-fea35e63db6c",
-    "99794060-89c3-4000-8423-08f7fb91adc0",
-    "9a269110-6509-4939-a1da-24a5858d208d",
-    "9b24d418-0cb2-469a-babd-fb47bb03326d",
-    "9c4508dd-99c1-4890-b7af-a87164a6ecef",
-    "9e3b3339-b9aa-4e70-b7a5-41886a055173",
-    "9e46b9b4-3b15-4bc8-aac1-654b46f2bbca",
-    "9f5d6df5-2df1-45dc-973b-6c126aedfbab",
-    "a04592f9-9ff7-4c5d-951a-f946b826073b",
-    "a0a2060c-3c21-42c8-bab4-044a1c3461ad",
-    "a2807d22-06d6-4888-8611-975ebfee6ce0",
-    "a3d725f7-f23d-4200-a755-327762cf1127",
-    "a3e74d4a-ddb7-43f6-a743-b257a1931672",
-    "a5385126-a3c0-462f-b3cf-489a3d3a2eab",
-    "a67d52e8-c14a-407f-993a-88cce53b9124",
-    "a7d6d696-6a27-440a-8a20-bf433b6e8f9b",
-    "a8aeffc4-20a4-48f3-b49b-7ee08d495b7a",
-    "a8b221ef-6541-4d42-8ef9-c95cc7324f83",
-    "aa74281a-65d8-4fac-adcd-0e4f29589cdd",
-    "ac4415c8-9ad8-4f7b-a161-0a653b8919ef",
-    "adca4af3-a490-45d0-99c4-a5e1fc64c25d",
-    "ae22966a-0564-44bc-9be2-3d5111b1a6bd",
-    "b01a7c4f-e863-48f3-8dc0-56616577ed37",
-    "b0d753e0-6660-495f-8fab-e41b84b910aa",
-    "b10564ae-571f-4398-b18d-08eeb462f244",
-    "b1a07c94-3dac-40d0-ad5c-a3be7560d873",
-    "b41c43b5-35bb-437c-9947-f1947539fb12",
-    "b440a75c-2969-43be-a089-948a5e4d7de1",
-    "b585bad2-70e3-4628-add4-9370b6e8f55b",
-    "b8682a43-131d-4e40-91f3-74f169c6f33b",
-    "b89d4a70-8e53-4f84-880e-f218a188cb5e",
-    "b9f389a8-d3ad-4da9-907f-0a4fd9199fa7",
-    "bbba277d-69f3-4bfe-9cc9-1b254caf8878",
-    "bda59c4c-8f46-45f2-86c7-2d3d28957b22",
-    "beaa6d52-a7a0-4b4a-badf-bd74b226116f",
-    "bf3af8ea-7f0d-4564-8e71-4186dea95626",
-    "bf5a70ef-fa60-48a1-827d-6d8987e75c1f",
-    "c0654e9b-2d39-40e2-bdd0-ad43b17e20bc",
-    "c0c32ab4-17a6-472f-9cf8-55d9dee04b3a",
-    "c0d2c6a6-c66e-4ada-9761-81c79e04daf2",
-    "c1823a4b-d7ad-41ad-b5c9-c0ddff288a25",
-    "c186e8f6-42e1-4bb8-8fe3-039e0cd02532",
-    "c5e80274-a942-4f88-bb11-7cc9513ea03f",
-    "c61efabe-4f71-4d5c-a6cc-9e50be780411",
-    "c66b0103-4ce0-431c-bd9d-b0c0ad2e91af",
-    "c72d959e-9d11-439a-9af7-926eb77a639d",
-    "cae4c847-8890-4aa7-ac81-c3097602a7b4",
-    "cb47323e-5e74-4e58-a21b-5a15d4cb139d",
-    "ccc91c53-bb9c-4b35-a09c-4407e34dfd35",
-    "cdf60c4f-1a1c-4587-b241-cae92580e667",
-    "cfc571c4-574d-4835-ac41-ead585c71d29",
-    "d0bbf973-4708-42b7-a2a0-04b564023015",
-    "d0d13c7a-308c-4138-9802-8e7c0260bb90",
-    "d0f5d455-b63b-43c1-aea9-4311293cfccb",
-    "d13c2cf3-73b7-46fa-b996-551ac59cffd7",
-    "d2c6e3a0-e202-4417-be42-4afe660de7e1",
-    "d2c8c14f-6cd4-4250-be0e-eacf388eaee9",
-    "d3061c82-4a85-4323-a2f4-f1f757d14936",
-    "d34584d4-44fd-4172-a54b-ec903cbe1584",
-    "d44599a9-8344-4e47-90da-13c6f9918a41",
-    "d546d0d9-a5ce-41e1-b39f-c54cf5440c44",
-    "d54a850f-8646-4e10-b440-e06cba1b7c57",
-    "d6520840-71dc-488e-8bf7-bc838c09116f",
-    "d6c4eb10-521e-454a-92ba-b931bc18d54c",
-    "d7c0958d-cd62-4770-83b2-c68ca6a1369a",
-    "d7f737bd-b8a3-487f-9125-ac52402de0b5",
-    "d9030e1b-c16c-4d8e-89be-0e48dcf8396c",
-    "d9e565fa-96af-41fc-bf42-07ffd518878b",
-    "da394300-0db8-4ca9-92aa-4873ad9b0946",
-    "db478c8c-f857-4e2b-bd06-a1e2ff8620ad",
-    "db949b6a-f7d4-4394-90e9-d1fc4453d0fa",
-    "dd06c729-b5a9-4c90-869d-61bb032e6645",
-    "dd42c77b-5c4a-40c4-8154-4f76301a5a37",
-    "def0955d-0862-43da-be85-3fd71a215135",
-    "dfa5496e-f161-4922-8b68-40d91bb479d9",
-    "e086b13f-7bdb-48ad-9ba1-66885f4619ee",
-    "e0d67120-583e-49e9-a7aa-32ba3fb7b73d",
-    "e10f5f7f-ceef-4003-a2b2-8d423b55b17c",
-    "Alex Krizhevsky",
-    "Yoshua Bengio",
-    "e452c84c-be43-4768-aa62-2fe3f6dacfa2",
-    "e45a03a2-923b-40d7-8ad9-f60b0fe9c5f8",
-    "e5058ce0-5725-4843-bce5-5bfb0d3e0a09",
-    "e54bf807-5bf4-4b93-9f80-8e4a9c0425a1",
-    "e557fbfa-c142-4aae-8c77-dac077a02b7d",
-    "e57eed1c-9f04-42d6-83f0-945eb50104b2",
-    "e5cc85c3-1c49-42bd-afea-9c31a90f95e9",
-    "e6401ed9-229c-4f73-8f63-29b3d04279b1",
-    "e65b3e65-6b95-4d91-be7c-31e9b5b5228c",
-    "e70ee079-821c-4b98-bd6c-06eec57bae58",
-    "e81dc85c-98d3-408c-9dee-6d43fa5b8911",
-    "e85df1c7-6935-4e68-b830-6e9dde20866a",
-    "ea01f4a4-69b0-405c-ae94-c29329b0c66b",
-    "ea331cc9-1c90-4f3a-977a-63b1f3fcf086",
-    "eb0fbb0d-6add-4053-9c49-5031e5bd9a5d",
-    "ecffa8fe-92cb-48c0-b7a7-fe4d631d16c9",
-    "ed2d0a4c-3139-44db-8a27-763162b1795f",
-    "ef5d8973-abae-4472-bae7-be84db37ef0b",
-    "efd5dca3-5fc1-4603-94fd-ad729ee0b904",
-    "efdbb142-8b7b-4d51-b20e-50938358e8fd",
-    "f001c62f-1a32-4b6f-b1c7-afee1bb1cf9c",
-    "f05560df-d908-4e07-9c85-0b9761e0b5dd",
-    "f0615754-2313-4fc7-a814-57401ab7de41",
-    "f18e4cdb-6699-4995-839d-feede68cf160",
-    "f1b00944-6066-4c21-8a2b-0e60058b4c7f",
-    "f2379459-37e9-45ce-8ac0-e8e1546b2598",
-    "f26a8a8a-9ad6-4dc1-8ae2-a59be1f80267",
-    "f28901fe-c9c8-42c6-a48e-624f77532e94",
-    "f2962296-5249-4fcc-b294-c9af74f5cd1e",
-    "f2e05a70-5747-4f09-adf6-c1a47d21748a",
-    "f3939827-bb5b-498e-b630-043d2b372361",
-    "f5029fff-4224-43e6-bbff-6841cf989bdb",
-    "f509fb61-5252-4bf4-ac75-f908095f7516",
-    "f69cd21c-73e4-4878-a12d-b67760db889b",
-    "f6b2b536-8349-4cd2-9758-f7743b2ce50f",
-    "f7f32168-dca0-4580-9e78-92a23727225c",
-    "f8af71de-30f9-4288-a169-13ab19bf89fb",
-    "f8c7c787-fe5f-4947-aa66-fc50977d60e4",
-    "f930adc9-fbde-4aab-946a-3570cdddedce",
-    "f95955e7-5b9d-40c1-ace1-cf7ad1d67359",
-    "fa1510e6-8d83-45a7-9968-70cadde08aea",
-    "fcde55de-01c4-4f60-93a6-8ae4acc5be7b",
-    "fd5fb5c8-2002-4eba-bf49-8c392c6e963c",
-    "fe91d70c-dc73-4466-8513-1c5e3e9564d3",
-    "ff2f6fdd-ac18-4c97-a5c7-a30d0a8e8b22",
-    "ff52b9b3-890c-42e6-bbf9-48758b1fdf41",
-    "ff6e9043-83ee-4ba1-8f16-f132e0e49c07",
-    "ff6ec445-4a14-4bf3-a35f-7fde0a9b5200",
-    "ff948282-ac63-40ea-821b-e32f748e1e3f"
-  ],
-  "id": 
-    "Li Deng"
 },{
   "title": "Twenty Years of Mixture of Experts",
   "year": 2012,
@@ -1860,7 +1490,6 @@
     "b272c0e2-fe0c-4969-995a-c12d1b915da1",
     "b5b5f933-d323-4b32-83d0-823acd71ed44",
     "b60ce676-2bb6-40d4-944e-295cf7bb4e43",
-    "b889d6ec-330d-406f-87b6-ea34804fadfd",
     "bfc554f7-9594-4653-a829-b93601e548ac",
     "bfcfdd13-f6fd-4b1e-b420-ebdea6bdb09a",
     "c2f59bd5-d7e1-4e65-a415-2bb2d4c9d8fe",
@@ -1899,7 +1528,6 @@
     "aee32ada-939e-403d-b824-1cb1f6295a0e",
     "af72ae3e-1626-4b19-a674-2a0b74ee8fb9",
     "b25d230c-cf98-48d6-a351-a208f7c9ee07",
-    "b889d6ec-330d-406f-87b6-ea34804fadfd",
     "be8652e1-7280-4e05-8944-fcf576d9fcc1",
     "bfcfdd13-f6fd-4b1e-b420-ebdea6bdb09a",
     "c7996cb4-308f-4e3f-919e-531863439521",
@@ -1918,8 +1546,6 @@
     "015086f3-b9a3-45ad-9551-93a4655b20f5",
     "0217b0e6-73ff-4766-b12e-681950e823f2",
     "0449422a-83d2-48c1-81f4-bcb0d1f9d50d",
-    "05bbaec3-7980-4941-8638-2bbfa4ac8be0",
-    "061d43fb-e3af-4700-bdc2-2e34dfbace26",
     "0732f92d-f1af-4a23-8529-278ff3f3eefa",
     "08097488-f4b5-48fe-845b-a4e9a63f5171",
     "080f5d61-ed23-49e4-8e72-69ec8cbd0e15",
@@ -1932,31 +1558,24 @@
     "14425194-fab6-4722-93ef-b213434713f1",
     "1574763c-e38d-4e89-a980-fea357f533bb",
     "16c37100-0533-42e1-aebd-a3805a7c3dde",
-    "1770a8ce-36a3-42c8-a6b2-9faeb4dca127",
     "17f34823-f011-4924-8558-587fc6a29426",
     "19c0e5d2-d5f3-4bd4-aba1-e9e975a9b580",
-    "19ee8d2a-1dca-40f7-bfb9-ad800108410e",
+    "Marc'Aurelio Ranzato",
     "1b78632b-6457-4c97-8e09-a340edce16fd",
-    "1d01026a-3385-4412-ab3c-59d2f8f934b3",
+    "James Martens",
     "1e6f4b1f-7bfe-4b8c-9a60-c9f0bea232f7",
     "21760417-7b45-4b5b-8402-f47a78ddb1a8",
-    "21d5efdf-f5a5-4ae7-b97e-67562dc01f83",
-    "22c23d0b-ffd3-4679-9297-0ca70e909b65",
+    "Clarence Simard",
     "241ea50e-d401-4d6e-bab2-5256eabd0f11",
     "24364066-f58c-4213-b3a3-20ea207e7ac2",
     "25a4d0c1-5449-4bed-80a3-d1fa5a2744f1",
-    "2679e545-f75e-4a61-a126-5d6d0b4f9443",
-    "28b81350-0d65-4c68-91ed-9f5aa6b97bc8",
+    "Marc'Aurelio Ranzato",
     "29042545-4ddf-4bf9-ae8b-d65876c9eb41",
-    "296a0ad4-dc5f-4158-ac11-64ffda60a439",
     "2a5a2b04-75be-4396-808f-e20fc021b6ef",
-    "2b5b8950-10c8-4ced-b4f8-38ebbf373b56",
-    "2ba41db5-ac76-4805-a904-67ff0361f528",
     "2bb6beda-7ca9-4aaf-a44c-52aa7de25094",
     "30f8332c-404c-4c4f-8d4e-33d7358eec69",
     "314d33de-6c22-43df-8c5d-69ff0e065c19",
     "325e7720-4298-47dc-8d2c-34b665691703",
-    "32c1bdf2-cea7-4d60-8289-2207eaa41a77",
     "33e9cfdc-c769-43d3-9b9f-6a1cc22ecff5",
     "3514c54b-4a5a-4807-9d10-174915c9202b",
     "369e2633-5fc4-455a-bd63-eccefdb120d8",
@@ -1964,86 +1583,69 @@
     "374196c1-6e90-4dd7-93fd-93a65dd8ea59",
     "37ae2ab4-35a3-4bad-a90f-818a102afe0a",
     "39d000a0-598e-4288-9d6d-bce760a524e9",
-    "3ae77959-f332-4322-9ddb-93f1088d095d",
+    "Abdel-rahman Mohamed",
     "3ca5d5c0-c976-4dd7-8f20-4c3edfd4a4d8",
     "3ce33521-5cb8-4af4-b5c9-76619b60215e",
     "3dad3bfa-d409-4e60-94eb-38b4626550c1",
     "3effb9e9-5211-482b-8243-22c9a282abfb",
-    "3f577c05-b3d6-47e4-85fe-876d05d785e7",
-    "3fc64326-b339-4952-a114-80eeeabb74b4",
-    "4119077e-f77a-4056-8f3f-36fd86a668de",
-    "4453fa3b-308f-472a-be61-65d1ce5c3de2",
+    "Kai Yu",
+    "Ilya Sutskever",
     "450edd79-0214-4acd-9638-d5e936d90192",
     "45312d4d-40d5-4262-baa0-0885a7229e69",
-    "46ddddd5-83b4-42aa-98b1-5c87a09f77d9",
-    "47e20669-55b1-4e50-9ef2-e9f0496ce79a",
     "492f4525-17a3-43b4-88cc-2cb691dad52b",
-    "49e15f5d-44e6-47e9-b94b-db0291609b30",
     "4b21cc99-6385-47a5-8671-bed9d1fc6b14",
     "4b8dca95-4634-4492-b914-2050c5ca400d",
-    "4bbacb77-1097-4cc5-b001-6554ea01fb75",
-    "4c5ed508-b6e5-4db5-a59f-00e1d88dc221",
     "4d21292a-9861-4214-a616-2f6f0d98aa49",
     "53d34a50-b895-4f7c-8082-4a4523857c38",
     "55e7840c-87c8-4ee3-ada5-39b391344029",
     "5b35e6b8-3077-4ca4-aa34-5e211cace1b9",
-    "5be8571b-abe7-4c20-97b0-c648613e9682",
+    "Dong Yu",
     "5d2031d2-5ad2-406c-aba2-4c0fbee461af",
     "5f6dfe34-7075-4490-8c39-32721a55e1a9",
     "600455bf-6491-4c87-b786-444a82b8150c",
-    "6018a516-8149-4bce-bc33-5449d86e58c2",
     "606ec6f9-c359-43b1-9b3a-91a2d2dc0b68",
-    "640bfef8-3c8b-4f57-8db8-5184529ffe1b",
     "64104a7d-a5ac-40eb-9db1-2f6f6650cde7",
     "680445e3-1636-44f9-a741-ad63023dc6cc",
     "69269fd1-f029-4aee-b9fb-2ee5123f17ea",
-    "6a414f2d-2125-4ff2-98c1-e8231751bdfd",
     "6b962f02-f97d-49a6-8c2c-7e751a2e03a9",
     "6d3bd422-9563-4b8b-ad73-473fb89c81dd",
     "6ee864aa-3869-4fb3-8523-132f51fbf0de",
     "7000b47a-b350-48ba-ace4-d65948a3d99c",
-    "73ec9d29-4fc5-4019-97d3-c496c8509f37",
     "76fb6889-7338-490c-b2fb-7ec4a9ea51d4",
     "786aeae4-0d6b-408d-8908-796f1f06f9d7",
-    "78b0ba4b-b8a0-4689-9972-cabab721ab40",
     "7a74bdb1-93cf-4234-b152-bd413efed591",
     "7aa454b2-47c6-4117-b823-1df65289e8e7",
-    "7aed0c7c-27a1-4c45-9ffd-31cb69d09aa2",
-    "7db5b031-03e2-4051-9049-e0cc7b0a4f11",
+    "Ueli Meier",
     "81f85431-14c7-4bc4-a785-bb5efed675b1",
     "8210446d-574a-493e-94e0-2661dd722b09",
-    "84a95529-0c58-4128-8f35-10d0c78aaed8",
-    "8766e877-9399-4ef1-9e00-a184d662fc9b",
+   "Roland Memisevic",
     "88103971-d06c-4f2b-9338-e16c51ff5632",
-    "89f10062-acf1-4171-b882-f3222c3a357e",
     "8b2c0aff-4589-4e0f-aae4-4f84a4413406",
     "8be74688-a55d-4543-b0ad-ccb6bd2bd3c8",
     "8e6ddac4-a120-400e-bd3f-45ce5a4d1ee5",
     "8f0a7a93-0b28-4dd1-801b-fdbab29c5283",
     "8f238d79-7255-474f-a458-3cd604935668",
     "8f7b5ed4-cdf8-4e91-90ed-07089a37a435",
-    "9067e47c-a8f1-48ac-9cff-76a4130f37d0",
+   "Dumitru Erhan",
     "94898e1d-1e50-41ab-9dcc-2c2e030cddd0",
     "9517e823-1ee3-43f6-bd63-33d7b9a3caaf",
     "964bf666-0a88-4d01-bc30-16c440f2b526",
     "96ddab7d-c977-4f2f-9258-70f24c4ebc11",
     "97005b64-515f-48d2-82cf-3065887be860",
     "9793c0f3-69fd-4206-9d7a-9ddb36e41cbb",
-    "97fa1c18-05bf-47c9-b72d-5d712b186ccd",
+    "Dan Ciregan",
     "97ff945a-4b0a-40c5-a3d2-1118173e25b6",
     "9f80f79f-822b-44d5-ad4e-01edf9edbf11",
     "a12f8dee-b1eb-4114-b033-10d0fcee4d4f",
     "a3d725f7-f23d-4200-a755-327762cf1127",
     "a4d9008a-d15b-4d87-a173-bef2f4b0d453",
-    "a5084ea3-25bd-4cc7-8c79-29034e9a9c7c",
     "a5385126-a3c0-462f-b3cf-489a3d3a2eab",
     "a9b88757-1121-473c-9e2a-7023c1843884",
     "a9e121b1-26b0-430d-97c1-19f25a59331a",
     "aa7b7a12-94a7-4fc1-85cf-6df7a2eab7fa",
-    "ae22966a-0564-44bc-9be2-3d5111b1a6bd",
+    "George E. Dahl",
     "ae3e7593-586f-495f-9416-4b50ed1fcd10",
     "ae71e737-e28a-4e5d-8446-78c53b6d4fbd",
-    "b75abe04-6fdf-42b7-8b71-e7b05e6991da",
     "b7ae1af3-4835-46e4-8635-d22c6e01d231",
     "bdabe2ac-d193-4c14-99c1-eab8aff05908",
     "be778389-07ff-4a43-b9dd-7fef6af6a8af",
@@ -2052,7 +1654,7 @@
     "c0654e9b-2d39-40e2-bdd0-ad43b17e20bc",
     "c1823a4b-d7ad-41ad-b5c9-c0ddff288a25",
     "c2b54856-8361-4454-a3da-c23586f270b4",
-    "c700dc12-7eac-4091-8462-527773668dfa",
+    "Vinod Nair",
     "c8857e7b-071a-40ed-9b9a-875553b09916",
     "c9c22013-f7d0-495e-a15b-d0f07bebafad",
     "c9d3f25c-6494-4b4e-aa42-4d2d3052a77c",
@@ -2062,7 +1664,6 @@
     "ce6b7910-67b1-4388-86d5-da2a369ba9d9",
     "d0d18692-434c-4c7a-b4d8-33ff328f3e3e",
     "d21f8263-80a9-4235-baaa-eb17a40c2c99",
-    "d28acb36-5766-4c1e-8d57-a55c2630bd90",
     "d2bb63e7-e65b-4a14-a9bb-1cf87e0c692f",
     "d30d8e07-a1a1-407c-abe1-05b95ad4bed2",
     "d329bbfd-d0ce-452a-870b-e696a964f799",
@@ -2072,31 +1673,27 @@
     "d7f737bd-b8a3-487f-9125-ac52402de0b5",
     "d93f6cda-c9ff-4fe5-a6de-305ca34ba5a5",
     "da394300-0db8-4ca9-92aa-4873ad9b0946",
-    "da47b574-1fbc-422f-993e-4248cc416bb6",
+    "Marc'Aurelio Ranzato",
     "db1e6fe1-ffa4-4e81-87e7-f99716835a4a",
     "dce9c82d-1a31-4bd9-9dfd-7e3408fcc920",
     "dd2cb3c4-a31b-405c-96db-4fec3030ffef",
     "dd8aad90-d5a5-4a53-8b9f-05705abeb2ac",
     "e01c3fd3-4cf6-4197-9f06-67f9f22bb0e1",
-    "e0ac4812-7729-4a2d-8a1f-74b1b7c8eb5d",
     "e19fc625-0721-4d71-b891-90bc3a8ec819",
     "Alex Krizhevsky",
     "e53303cf-96f1-495e-94ad-9f35dbb2575f",
     "e6401ed9-229c-4f73-8f63-29b3d04279b1",
     "e8528559-d600-4dcb-8438-4e291b93fbb4",
-    "e8571238-943e-46d2-920b-63013e5dd5cd",
-    "e89bb9fb-4b26-4e7a-aaf7-84c3bb498836",
     "e8c0c8f5-636c-4a68-907e-4a0af15738d2",
     "eb48d0c2-7b26-49a6-8521-9282ba486880",
-    "f1b00944-6066-4c21-8a2b-0e60058b4c7f",
+    "Michael L. Seltzer",
     "f2cbb6cd-cee3-4423-bc52-f7b0a750216d",
     "f4c71d0b-b116-49e8-9fd4-00855a666407",
-    "f69cd21c-73e4-4878-a12d-b67760db889b",
-    "f7ac19b7-daaf-4dc1-bbb9-7f4ffd7385ba",
+    "Koray Kavukcuoglu",
+    "Srinivas C. Turaga",
     "fc9a26c5-e7f5-4ac6-ad38-0c6fd406af7a",
     "fd4c2dc1-317b-41f0-8469-2896b2768fbb",
-    "ff926feb-b567-416d-84a5-ffb715d649fe",
-    "ff948282-ac63-40ea-821b-e32f748e1e3f"
+    "ff926feb-b567-416d-84a5-ffb715d649fe"
   ],
   "id": 
     "Yoshua Bengio"
@@ -2116,11 +1713,9 @@
     "53b44ada-dcf0-4d49-8610-c956740da7de",
     "6c3d1c8f-a12f-4581-baea-f8f46759756b",
     "818642d5-e198-451a-9567-a5341f5b8703",
-    "89f10062-acf1-4171-b882-f3222c3a357e",
-    "ae22966a-0564-44bc-9be2-3d5111b1a6bd",
+    "George E. Dahl",
     "b440a75c-2969-43be-a089-948a5e4d7de1",
     "d7f737bd-b8a3-487f-9125-ac52402de0b5",
-    "dd89193e-1796-4d89-a197-f088b1452f4f",
     "e8778b0f-2118-4bd0-9213-d1c0089c07af"
   ],
   "id":
@@ -2129,8 +1724,7 @@
   "title": "Weighted Convolutional Neural Network Ensemble",
   "year": 2014,
   "target": [
-    "40e36f49-9f2f-4586-8899-a282fdd320d1",
-    "4bbacb77-1097-4cc5-b001-6554ea01fb75"
+    "40e36f49-9f2f-4586-8899-a282fdd320d1"
   ],
   "id": 
     "Xavier Frazão"
@@ -2140,16 +1734,13 @@
   "target": [
     "037d93ae-5e3d-4c50-9fd9-3d4161bd82c5",
     "1d1fd670-6549-4b39-ab3f-9425894a245a",
-    "78b0ba4b-b8a0-4689-9972-cabab721ab40",
     "84806dbe-fa0e-47c0-b1f2-00fb2eed25a7",
     "87011d39-f6e7-4e72-a026-333a26bba502",
-    "8d7bb750-adbb-4a71-813f-09fdfab8f7d0",
     "92f69a52-1623-40c7-9b87-1430828f1f5b",
-    "97fa1c18-05bf-47c9-b72d-5d712b186ccd",
+    "Dan Ciregan",
     "a5385126-a3c0-462f-b3cf-489a3d3a2eab",
     "ae3e7593-586f-495f-9416-4b50ed1fcd10",
     "c88edc45-936d-4cda-9d12-1a7a21cdb651",
-    "d28acb36-5766-4c1e-8d57-a55c2630bd90",
     "ed94c215-e378-4bdc-bbd2-36c0bc420573",
     "f00fc370-0854-4967-bc6a-83b6c49da8bf",
     "f16d44b8-270a-47d9-8eec-42e6a61b8948",
@@ -2161,11 +1752,7 @@
   "title": "Refinements of universal approximation results for deep belief networks and restricted boltzmann machines",
   "year": 2011,
   "target": [
-    "1770a8ce-36a3-42c8-a6b2-9faeb4dca127",
-    "36396294-3044-4092-9db7-174ebdae10d9",
-    "873b967f-3823-4587-b177-36317e57ee68",
-    "89f10062-acf1-4171-b882-f3222c3a357e",
-    "c4024860-8d55-47c1-bab0-6c53f90831ee"
+    "Nicolas Le Roux"
   ],
   "id":
     "Guido Montufar"
@@ -2208,43 +1795,17 @@
 },{
   "title": "Modeling score distributions in information retrieval",
   "year": 2011,
-  "target": [
-    "06f1575a-c67e-47bc-a442-0980a147ab0b",
-    "1c9f56de-2d28-4b4f-89d6-32d1b1a05cfb",
-    "2c14a4a3-0f10-48d3-bd46-5a2b4422bc5e",
-    "3595e0e2-afdc-4975-adf2-a155c827fac5",
-    "36012c16-e9d3-4f1b-9526-a9adda3827dd",
-    "4a29b56b-b74e-4945-9017-61a7ab844fd9",
-    "4bfddbf5-0435-45b4-a26a-832ad359a175",
-    "5151938c-d074-4464-85cd-744c0b192f96",
-    "556a6f2e-2737-40f0-aec1-9a13a2fdb1ef",
-    "57a3475c-0c4a-46ca-998e-6236475b3295",
-    "5d134b15-3e3f-402e-a4cd-d5022aef1305",
-    "65d56378-871b-4e71-a1fa-be07c3ec280f",
-    "8c361f4e-5ee7-4e92-831b-41cdcc025dc9",
-    "936a79c0-9f81-472a-a637-2cdeeee3bf8d",
-    "a6d5b790-71ee-42bd-9c88-326825fce63d",
-    "ab86c28c-7875-4204-b8a4-cece6e401239",
-    "c2cce1cf-b653-430b-b5e4-b5141484f09c",
-    "c98f8eb4-170b-4b21-8051-442b0637f514",
-    "d36f50b1-58fb-4d77-bd29-3ec2e4d28c5c",
-    "d9e52882-c0f6-4c6c-b5b0-68dde6a2507c",
-    "dacc4283-2823-4b85-aa89-661bd83b34eb",
-    "e2853037-6730-43ca-b056-27976ac19c4d",
-    "ebe5cad6-2916-4e12-bce2-af7c9412ce6f",
-    "fada1cc8-d343-45fb-9040-22795f1ca833"
-  ],
+  "target": [],
   "id":
     "Avi Arampatzis"
 },{
   "title": "On theoretically valid score distributions in information retrieval",
   "year": 2012,
   "target": [
-    "36012c16-e9d3-4f1b-9526-a9adda3827dd",
-    "3ea7dc3b-ce46-4db7-ba5b-4fe6838f9068",
-    "81e0bb5c-07cd-417b-b532-534ccc9eff7d",
+    "Avi Arampatzis",
+    "Marianne Lykke",
     "Ronan Cummins",
-    "ceca36f0-4bd7-41f5-943d-c4a0cd594829"
+    "Stephen Robertson"
   ],
   "id":
     "Ronan Cummins"
@@ -2317,7 +1878,6 @@
     "23f41d74-a8f2-4e87-8b2c-858dfc96b449",
     "31fe4e98-de36-4fa0-bb30-fadd0d98d5f0",
     "3e9bf1ed-2bb7-495e-924c-961d83bc7f54",
-    "471026f6-8a3b-425e-a838-671d6f86bac2",
     "4a027c29-6711-4c60-a077-cb94173fb1d3",
     "4dbe2547-9a1a-4b6d-95e8-0d073ebaca13",
     "52a0c101-c4c0-45d9-8cf7-d8de496b5fcc",
@@ -2326,7 +1886,6 @@
     "5fbbc863-2561-47f1-a7da-dfbb35302b77",
     "6917082d-9468-4042-9e1c-f2893e1a1769",
     "7a676a2c-69a2-427c-bf69-038e3d2bf87d",
-    "86e83387-985d-4169-be03-5fe7a5f52785",
     "8ab53dc3-d8a9-4350-838e-ed81f3cd9321",
     "8e1ba6c6-e6ce-4844-91cd-52c1fe130152",
     "96169c6c-76e1-401f-925c-5a87df9f85d5",
@@ -2384,7 +1943,6 @@
     "8a6ea3ac-09b1-45ff-9c40-a0947e0c0212",
     "8be291a3-23dd-4def-9a73-b946d5b8ed4e",
     "8ecc3469-2406-4f15-98b8-64679b14225a",
-    "936a79c0-9f81-472a-a637-2cdeeee3bf8d",
     "9d0b1ff7-8113-4d98-af60-fd9989d10e1e",
     "a5dae82e-f36c-4db7-9827-27b456160908",
     "ac36ccbc-b110-4f5f-841e-0eaa254cfabc",
@@ -2414,22 +1972,16 @@
   "year": 2016,
   "target": [
     "04b94f12-fe42-4960-af7b-0f86ea0a0099",
-    "21b0565b-c109-4736-9935-5588794e1162",
     "2337db10-2dc9-4d64-b1d0-b92b9a53587b",
-    "2d842097-4d2c-4c8e-8d13-b37aadd3e4d8",
     "41b13457-04df-40c5-9fa8-028ca69d00c0",
     "45ea899e-226a-4e61-975b-b81a6be39df4",
     "5096f6b5-2e0a-47d2-91d4-2bcb8d907e0a",
-    "54e8171a-0fb2-4982-90b4-8d6940354010",
     "5c57e186-634c-496a-9618-6abc0ef698e6",
     "90c1d105-e6e5-4fe8-9da3-c0cad3fabfa8",
-    "949f24a5-d4d8-4096-a810-1bd94cfaa877",
     "9ec7a03b-6ab9-4283-acbc-626bba58953f",
-    "a19690cb-8d82-4f72-aeef-33b77b6ff85e",
     "bee2c68e-b319-448c-be1c-2114b4247f0d",
     "cf70703d-1237-4e92-9000-ff978397f2f0",
-    "Cees H. Elzinga",
-    "dcfee28c-ef1d-4448-933d-c41d8c6ac1fc"
+    "Cees H. Elzinga"
   ],
   "id": 
     "Zhiwei Lin"
@@ -2516,50 +2068,17 @@
   "title": "Measuring the ability of score distributions to model relevance",
   "year": 2011,
   "target": [
-    "06f1575a-c67e-47bc-a442-0980a147ab0b",
-    "11aa85b4-af74-40d2-872e-065965b4ab2d",
-    "36012c16-e9d3-4f1b-9526-a9adda3827dd",
-    "36d58dae-5b4a-4c6b-9668-34fb0769b139",
-    "3ea7dc3b-ce46-4db7-ba5b-4fe6838f9068",
-    "43d05ba5-52a1-46e4-be2e-7d6844cdc537",
-    "558686ea-5df6-4120-a5f8-96cb491e87d8",
-    "81e0bb5c-07cd-417b-b532-534ccc9eff7d",
-    "88aac5cb-119b-4c92-8271-d94d51e18b90",
-    "8c361f4e-5ee7-4e92-831b-41cdcc025dc9",
-    "ceca36f0-4bd7-41f5-943d-c4a0cd594829",
-    "d5a0f77f-786f-4fa0-91ce-b909f82e5f7e",
-    "dd20097d-5411-44c2-88e3-39e9a9328328",
-    "dff16c1f-e3ce-4302-a591-64cccf6167be"
+    "Avi Arampatzis",
+    "Evangelos Kanoulas",
+    "Marianne Lykke",
+    "Stephen Robertson"
   ],
   "id":
     "Ronan Cummins"
 },{
   "title": "Concordance and consensus",
   "year": 2011,
-  "target": [
-    "01f15552-88f8-48ca-a75a-663822a6199a",
-    "047d23cb-7ebc-4767-8431-851044e455fe",
-    "193e962c-1eac-4b39-9f73-b82c88ba3aca",
-    "21b0565b-c109-4736-9935-5588794e1162",
-    "2d842097-4d2c-4c8e-8d13-b37aadd3e4d8",
-    "3c383c6f-3503-458d-bdd7-a34cb8f4515f",
-    "44a6d499-eb35-4acd-841e-dcaca526b57e",
-    "45f24d26-bbd0-488d-b3d5-efa420e0d7bb",
-    "54e8171a-0fb2-4982-90b4-8d6940354010",
-    "718562ef-10d7-43a7-b958-cdcdca367151",
-    "939b72bb-619e-481d-91e1-878011f9f570",
-    "949f24a5-d4d8-4096-a810-1bd94cfaa877",
-    "9b10f56e-48f6-4e3a-8b63-cc3c0ca30c66",
-    "9c2cecb4-a1dc-4723-982e-467a75a5dd75",
-    "a19690cb-8d82-4f72-aeef-33b77b6ff85e",
-    "a635556b-397c-4ff0-b12e-23cc1fec75ad",
-    "b406c0e2-f2a0-4c7e-aaca-dd8f0f63c1a2",
-    "ce0e4248-6d4b-4146-bebb-00653c2ab150",
-    "d1c93534-82a5-41fa-a5fa-9d18f5c2577f",
-    "dcfee28c-ef1d-4448-933d-c41d8c6ac1fc",
-    "dec60913-39dc-4193-a972-cd88ad7a613c",
-    "f6a92c95-f454-42eb-bc9c-11ff78483dc1"
-  ],
+  "target": [],
   "id": 
     "Cees H. Elzinga"
 },{
@@ -2587,8 +2106,6 @@
     "a2ed7fe7-dd1d-4910-9d5e-57f48f64598d",
     "a468d773-9829-42f2-b0df-8cd237b7fce9",
     "adaacf2f-fc45-4f7d-a918-ed704c61b733",
-    "b944f77f-113b-4a02-ae5e-d4a124b8fd5b",
-    "c2cce1cf-b653-430b-b5e4-b5141484f09c",
     "c84ffdb4-da8a-426e-b79c-e1c8f63617e9",
     "ca9c1670-1e41-4a90-b612-fd4781140ad5",
     "ccb283b5-7af5-459d-85b7-ff2e743e2dc6",
@@ -2605,36 +2122,12 @@
   "title": "LambdaMerge: merging the results of query reformulations",
   "year": 2011,
   "target": [
-    "0058c9dc-fbe9-44ad-b345-a94d947972ba",
-    "0493f1bf-2d37-46dd-a147-d5304780c404",
-    "0f4f2790-14a9-4524-8850-503aa094a6be",
-    "1348bfcd-3678-4b9f-9d4c-da15d9be6b21",
-    "17a32bb6-148c-4f28-add4-8de42e063f61",
-    "1ef6d076-e82f-4bdd-8d8b-ee669a056de8",
-    "2fbe4db3-ccbc-455e-a701-fca3a12071fb",
-    "4949db1c-0ef8-4473-b498-6e20e4580d3e",
-    "503adfc5-3336-4532-990b-626060c5d3d5",
-    "6607ab3c-8a99-420a-bb91-73c5d1e47f5c",
-    "69f25994-a9f8-4da0-9960-d74949b8214f",
-    "6f1624eb-ad5d-4d16-8f66-65b81f654f73",
-    "73e66360-b541-459f-aff3-866d01a77fec",
-    "7e06b498-d182-46b9-b4e2-cfc57788f188",
-    "8ad4ccae-199b-44c7-b8c0-11faabffcbf1",
-    "8db5bfda-8cdb-4bf6-8b67-f1eaf952ed85",
-    "9ec1e51d-3da8-42b4-be30-06ea3fd322cb",
-    "a9cba2a6-8def-4a5b-94b6-3bc9adabaa58",
-    "abb4e1b1-63c3-432b-9399-51600c1e77e7",
-    "b5490ecf-a51e-421e-b5df-f3a20b4a494a",
-    "b889d6ec-330d-406f-87b6-ea34804fadfd",
-    "ce2a2fa1-d278-443a-870c-28aae29cc9aa",
-    "d8cbf86b-49fa-4077-b3f1-9de6a220eacc",
-    "e02e1022-6557-4aae-969d-1459a260b315",
-    "e362d30b-6439-4040-bd65-74304bfe4d7c",
-    "eb89e176-75d3-4cf7-95a3-fe82826b37f9",
-    "f024f95c-3828-4384-8df2-786578447e7a",
-    "f5b13f47-134a-4b0f-9daf-81a44d94d6f2",
-    "facd0902-9e7f-41eb-ab2e-ab7205265c98",
-    "fc336276-07d5-44ce-b5c6-b4c90d012a59"
+    "Niranjan Balasubramanian",
+    "Van Dang",
+    "Giridhar Kumaran",
+    "James Allan",
+    "W. Bruce Croft",
+    "Bruce Croft"
   ],
   "id": 
     "Daniel Sheldon"
@@ -2643,13 +2136,8 @@
   "year": 2014,
   "target": [
     "0511a38d-d386-48f2-b62d-301a115f6365",
-    "06f1575a-c67e-47bc-a442-0980a147ab0b",
-    "11aa85b4-af74-40d2-872e-065965b4ab2d",
-    "1c9f56de-2d28-4b4f-89d6-32d1b1a05cfb",
-    "1ef6d076-e82f-4bdd-8d8b-ee669a056de8",
     "21ffeb2b-5a26-471c-a9a7-7dc2052c31d9",
-    "36012c16-e9d3-4f1b-9526-a9adda3827dd",
-    "43d05ba5-52a1-46e4-be2e-7d6844cdc537",
+    "Evangelos Kanoulas",
     "46676411-d1de-4876-97f1-c644ceaec792",
     "49074659-2f4f-4fee-ac3a-eed47e0459a4",
     "4a382e19-7704-44dd-a25d-1e6d8c61de73",
@@ -2659,15 +2147,12 @@
     "6a54e65a-d417-472e-b65a-c3e8bbef9a83",
     "75d846fe-cf53-4ac3-8d9c-d92420a47218",
     "82f45343-6962-4e1b-a85d-a03c4ac65072",
-    "8c361f4e-5ee7-4e92-831b-41cdcc025dc9",
     "af9f2bc7-fb42-4b13-a719-505a7f6d5eb3",
     "bf9991a5-e7c1-437d-beec-8aee3d2512fe",
     "cc909fb1-d0de-424b-96d2-75a1a05a9575",
     "dfb3bfa6-221c-4636-b37f-fce59336c7f2",
-    "e02e1022-6557-4aae-969d-1459a260b315",
     "e6c2d462-2449-41f1-ae6f-47abbdb9f0b6",
-    "f3641ce6-c378-4c5c-8589-72568f28b088",
-    "f5b13f47-134a-4b0f-9daf-81a44d94d6f2"
+    "f3641ce6-c378-4c5c-8589-72568f28b088"
   ],
   "id": 
     "Javier Parapar"
@@ -2765,20 +2250,17 @@
     "Ivan V. Oseledets",
     "3a4a8846-ccb1-4751-beb8-b571a1cbfac9",
     "3bca244a-63d9-40df-bc2e-ac25f0b65f64",
-    "3ddb1f82-9d4b-4d08-9b5e-7dad19174cc9",
     "40afbc9e-1651-4734-946c-0c70329d69b5",
     "4361723a-fe3e-472d-b59e-bcd8ef6635b1",
     "53f40399-fe51-4853-8cf5-cc657ec1898a",
     "57896ba1-6a77-430c-aea2-d90344319feb",
-    "61b70ef3-3bf9-4479-b811-433a50c1cb45",
     "66f9eb79-312b-457c-9a64-f5a774dffb6c",
-    "75951c61-a613-4fa1-aa06-92507534d559",
     "79344985-5319-45cb-b65f-92166c739640",
     "7c805a7f-fe2a-4c7f-9ac8-a08e6e3e1651",
     "7cc078a7-3562-4b73-bcdc-7bd61ae5b6e0",
     "833fe13e-13b4-4fa4-9cae-5dc7b55602d2",
     "8eab9707-97d3-40fa-9d6a-0af60a78ddc2",
-    "90c87e50-502b-4b39-b217-2e33efb0be0e",
+    "Lars Grasedyck",
     "970170f2-960e-44dd-be3d-a2d9be334111",
     "98bfa470-ff8d-44ca-8523-f3d6cbb93c0c",
     "b67f1b3f-0388-4fb5-ae2f-6e0c0e0088db",
@@ -2841,40 +2323,15 @@
   "title": "Tensor-Train Decomposition",
   "year": 2011,
   "target": [
-    "21c3b5cd-4dfc-4033-8a99-a807ea0dbf7e",
-    "2363339a-a3df-4edf-ada2-18b573ac0870",
-    "237c4c64-5a25-45e4-a9e4-dd121f176d7c",
-    "3ddb1f82-9d4b-4d08-9b5e-7dad19174cc9",
-    "61b70ef3-3bf9-4479-b811-433a50c1cb45",
-    "6e2237e4-297d-46c3-9a86-5bfc32c88249",
-    "71bcae86-8517-436d-b525-adf323c5fc01",
-    "75951c61-a613-4fa1-aa06-92507534d559",
-    "7714f1d0-0b1f-4025-a65a-d2c3d7efd330",
-    "7a66e5e1-447c-4ac9-b1fc-6236b56271ec",
-    "90c87e50-502b-4b39-b217-2e33efb0be0e",
-    "b23ecbda-2644-4901-aa6e-59fd01746ee9",
-    "bacb49a9-9aa7-45f4-a8c5-87cfc67d9fcd",
-    "d523d73c-662c-47b5-83a4-ac5a145413a1",
-    "ff17c202-3ab2-44cd-bf0f-d34c10f8ef24"
+    "Boris N. Khoromskij",
+    "Lars Grasedyck"
   ],
   "id": 
     "Ivan V. Oseledets"
 },{
   "title": "Weighted and constrained possibilistic C-means clustering for online fault detection and isolation",
   "year": 2011,
-  "target": [
-    "1cc700e9-5aa3-4658-8ef4-33e28ee81085",
-    "2b3e7642-24ff-4c59-8e1a-f9c4f00df701",
-    "359c18fd-f833-497e-89b3-db004cfbae37",
-    "38135245-8eff-4078-af6a-ea559ffa660b",
-    "390274c2-f71c-40a1-92c1-598ffbc3d156",
-    "4074838c-c163-44cd-b239-8e836c44db3c",
-    "64eff64f-132c-49c7-a8ff-647a5dc2e734",
-    "6b18bed1-7098-4ad3-9126-c8639d8c82f5",
-    "8f436e6b-60a9-41be-b5e6-dc97c8d4e067",
-    "d3ca543b-a6d3-4dac-af08-b8e591340aaf",
-    "e3f53c6a-9be3-4eb3-81f0-682000ddee3a"
-  ],
+  "target": [],
   "id": 
     "Soheil Bahrampour"
 },{
@@ -2919,7 +2376,6 @@
     "3134175f-6211-4ce0-9667-d7556610a4d9",
     "39bd9746-13be-4a08-9ebb-c26cb187e9d6",
     "3bb72d18-d713-47ad-8eb9-68ed207aa9fe",
-    "41ef14ab-1903-42f1-98e6-878158cf87f4",
     "420b652d-96a8-4251-a21b-8642e6e1f5f1",
     "42b270f3-c508-4ee5-acfb-863453242248",
     "47dc6c43-af1a-42c7-afda-b4db2cbbefec",
@@ -2957,7 +2413,6 @@
     "e658f926-217f-4b98-8a1c-2421035a9d92",
     "e9c7e788-78d7-41f1-bf29-fa85bd7dc137",
     "e9f5e156-5766-4494-ae9a-33ffbc4ef53b",
-    "ea8cd3d8-17ae-4a1e-8f83-1609469087af",
     "ee720643-6892-441a-8449-9d1f95548842",
     "f00273ab-7a81-46d4-857b-8ef25562cb59",
     "f8d7bd24-abac-4467-8fbe-d770e0f2f088",
@@ -2971,14 +2426,11 @@
   "target": [
     "084d1f2b-735d-497e-977f-db47baaa1a3a",
     "0bad6b51-4381-4fdb-9f73-5bce5264952e",
-    "26c76481-5da4-43e1-b16d-438e1a0d0167",
     "26f355e3-ebcf-4a61-b520-2755cd3434c3",
     "2def2481-be2a-443d-96d6-bdaa99be6c95",
     "310cbba4-d88d-4bf4-a4f2-738f91b5f8c8",
     "33716924-a3c8-407b-8448-0398eaf90bc1",
-    "38135245-8eff-4078-af6a-ea559ffa660b",
     "40b56413-a1fe-465f-b63f-eabe7f61c6de",
-    "41ef14ab-1903-42f1-98e6-878158cf87f4",
     "47652d45-02dc-4ddc-81be-81ae9b10ee03",
     "5880d47f-8b99-416d-a743-28d6b49f7ba9",
     "5b535882-1620-4c3a-9a9e-26f70063464b",
@@ -2999,7 +2451,6 @@
     "d9150c43-b726-4cd5-87ed-debc6c66d895",
     "e29440b1-b989-47b0-93b7-c5a449ce62eb",
     "e3a40536-5580-4c24-b273-4fa4dab2579e",
-    "ea8cd3d8-17ae-4a1e-8f83-1609469087af",
     "f8c6665c-80bf-4c3a-91a1-5ebdefb9f403",
     "feacaed5-689f-4337-ac89-9fbf79b46fcc"
   ],
@@ -3119,21 +2570,7 @@
 },{
   "title": "Online Clustering of Distributed Streaming Data Using Belief Propagation Techniques",
   "year": 2011,
-  "target": [
-    "00b19d5f-41b8-49d4-add1-29ef91b3a80b",
-    "00c7f46d-8549-4ab6-aa75-990456d9c014",
-    "47935f30-a4c9-497c-9811-c3fc3291750d",
-    "4912df77-05f6-433c-934f-2aee833850b6",
-    "5c762b20-06ae-477f-b769-a2218fbbca6a",
-    "64d8ab8b-7432-47c2-ae4f-b75c3315f3f1",
-    "678547c1-f138-4987-9b66-3247c6d93bf0",
-    "8878b3b6-7eff-435c-8798-4f55ae0a22a6",
-    "cbb5a6f9-7fd1-4a52-b8d1-4963defdfa98",
-    "dac4464b-39c8-41d8-964e-4d24c5907ea2",
-    "f3dea4f7-8f84-49c2-a9f0-366918a52389",
-    "f86ff967-b185-491d-a546-55c00601b677",
-    "fb739bf0-40a7-48c9-a30d-c3ac421819de"
-  ],
+  "target": [],
   "id": 
     "Maria Halkidi"
 },{
@@ -3146,7 +2583,6 @@
     "4d3aa421-68c9-4e75-af90-9c04d517f5e1",
     "50a7c09b-7e7b-42a3-86e5-95062e8111fb",
     "5a4d42c2-b987-4f40-bef1-adc61571a395",
-    "61b70ef3-3bf9-4479-b811-433a50c1cb45",
     "6ad9cca6-fc2a-40e8-97bf-c8ebed483254",
     "826cac34-103b-4f95-aee6-aeebbbdee5a1",
     "83b8d081-2d0a-43d5-8536-d1056ba8d34c",
@@ -3174,24 +2610,20 @@
     "182de71b-cac4-4526-a1bd-2905e2f4c191",
     "1bdbf9d4-3113-4b98-8128-79347b088398",
     "27ce0b08-4735-480e-a134-a44686e0a234",
-    "2ba41db5-ac76-4805-a904-67ff0361f528",
     "2dc7de32-7afd-4fe0-a970-c5b464da3ede",
     "3c1f9893-1a32-4afb-9f40-5d4856b7f886",
-    "4da60bc9-751f-4629-a142-f9aae0175c23",
+    "Adam Coates",
     "58de9247-5815-4a35-81db-4f5c074c6b16",
     "600455bf-6491-4c87-b786-444a82b8150c",
     "608820cf-471d-4708-97cb-a11f68e0c220",
     "69c54068-5ba0-4e96-a22d-d870124a7d36",
-    "78b0ba4b-b8a0-4689-9972-cabab721ab40",
     "7f69ed09-fcf4-42c3-a4eb-fbeb0f731112",
     "82fe483e-f629-4d7e-a8a3-11ceba793f38",
-    "89f10062-acf1-4171-b882-f3222c3a357e",
     "8f7b5ed4-cdf8-4e91-90ed-07089a37a435",
     "94ca5c81-7da7-4b2e-8d5f-c62ec8db9539",
     "a5385126-a3c0-462f-b3cf-489a3d3a2eab",
     "b68ee233-0d57-4ffc-9df1-12778500a2bb",
     "bda9039b-4780-4e25-abfd-9f1a6d90e969",
-    "d28acb36-5766-4c1e-8d57-a55c2630bd90",
     "db1e6fe1-ffa4-4e81-87e7-f99716835a4a",
     "e407acd7-dfcf-4ee8-9140-6726c01abf4e",
     "e6401ed9-229c-4f73-8f63-29b3d04279b1"
@@ -3268,7 +2700,6 @@
   "year": 2016,
   "target": [
     "51e2d9f5-a7c8-4774-a31b-de74fa006ac5",
-    "75951c61-a613-4fa1-aa06-92507534d559",
     "9ac1eebe-3dd2-4d40-ae46-4d093286e1fb",
     "9fde62a2-ed54-4d6c-ac4d-772a53aa797f",
     "c76c2987-c744-479c-8cf6-956d4576da4b",
@@ -3293,7 +2724,6 @@
     "4f6d6ac0-f671-4f28-b423-989243a6c5e1",
     "539ece79-493b-48eb-8134-4947154b6783",
     "53c1a55b-36dc-4f3a-bcba-88c7b6c4b513",
-    "5c762b20-06ae-477f-b769-a2218fbbca6a",
     "679281a2-591a-43cc-9bc8-e1908f574a91",
     "6a1b675f-8f20-462b-b497-0d2145823160",
     "6baebc1e-4f84-49ef-b729-32110b489811",
@@ -3312,7 +2742,6 @@
     "d4c5d3e5-f620-475c-a3ce-aef29af66d5d",
     "d9bed384-14fb-4766-8b03-228964eb70e7",
     "ef957f4d-69d8-4b91-8bf4-3d1b9c3659fc",
-    "fb739bf0-40a7-48c9-a30d-c3ac421819de",
     "fb74c88a-aa50-4f9b-9b71-e5bb0903828f",
     "fcf59ce2-7cb7-426c-b5ee-bfa9fc3de163"
   ],
@@ -3375,11 +2804,9 @@
     "2fc0e58b-c8a6-4da4-baa7-e81b7e03633d",
     "35853424-3306-4e3c-921c-d5fdf5aa6a0f",
     "3c52ba53-374e-440c-b519-102d58a83182",
-    "4074838c-c163-44cd-b239-8e836c44db3c",
     "4731d3a8-9c78-419c-b5e9-6341b06aa27e",
     "4a494ce5-eef9-4a4a-8fe9-ea09f7705ff6",
     "53c1a55b-36dc-4f3a-bcba-88c7b6c4b513",
-    "64eff64f-132c-49c7-a8ff-647a5dc2e734",
     "8aa3334d-2601-477d-81a9-28cf699e621d",
     "950b5abf-76f6-469f-9abc-159839cd1aa7",
     "ccc9b44b-c4fc-490e-bc1f-396b2d25b4e0",
@@ -3488,14 +2915,10 @@
     "397080ff-f20a-4c7e-9324-7106290e5c63",
     "4062d776-ae5e-441c-aa27-a31dd7293f82",
     "4a37fb3c-989a-4364-acf1-7563ae58f67c",
-    "5acc263e-e192-440d-8d27-bf6e8b64e0b1",
-    "5c593968-bcdd-4d59-95fd-e2f2f4918372",
     "6f75936c-6e54-4a8d-8f98-7c9b03f69864",
     "7e8c33e4-48ca-49f3-acfa-a8a9f53ff471",
     "b150e086-f53e-40d5-97bf-ad450aeca284",
-    "c8bceca2-d9b5-4958-8739-1aafd2d1616d",
     "d9bac3a3-0474-4593-b0d0-afbcced858f2",
-    "db784315-42cf-4b73-bc6a-44060880839a",
     "deaae0f8-9590-4005-aa0d-1c4f4c347c7e"
   ],
   "id":
@@ -3590,28 +3013,23 @@
     "1f5640a3-33d6-454c-b416-d0916382c5c9",
     "22eabd29-07a8-4f2c-a66b-7d1b28bca7c2",
     "25283605-976c-4906-b6f5-81bbb20ae840",
-    "28b81350-0d65-4c68-91ed-9f5aa6b97bc8",
     "28d06a39-fdb7-4c5a-9ff8-580ae92b0db9",
     "29a743c4-db38-441e-82fd-9829ed349e05",
     "29b7ce7c-bca4-4a95-8e50-d735fdcb4925",
     "2b6a3d0f-368f-45bb-be23-4e82f62fbbf7",
-    "32c1bdf2-cea7-4d60-8289-2207eaa41a77",
     "33cc11ce-2dac-4a17-b3d6-cf38eee2550c",
     "352d897a-08a0-4b36-a5d5-5e4b1a134c85",
     "35951b7b-057b-46be-a0b8-fae2c1b08a97",
     "36d5c38d-648d-452c-9aa8-f8b411b5189d",
     "3715c870-6569-4d20-8797-af8569e5fde5",
     "37f7e41e-64f9-409d-be65-5ce0406b6feb",
-    "3ae77959-f332-4322-9ddb-93f1088d095d",
+    "Abdel-rahman Mohamed",
     "3cdd875a-19ce-4e4f-a6bc-174e8e5b8c79",
     "3fbff536-506e-4657-a138-34128fa95e9f",
-    "3fc64326-b339-4952-a114-80eeeabb74b4",
+    "Ilya Sutskever",
     "43a790ca-42bd-4f32-a234-4a1c00779cb9",
-    "4453fa3b-308f-472a-be61-65d1ce5c3de2",
     "448563b7-4f74-439f-8b53-b155d23c9c0f",
     "45a2ff7e-d1e6-4e7e-9f69-b6bdaca34740",
-    "47e20669-55b1-4e50-9ef2-e9f0496ce79a",
-    "4bbacb77-1097-4cc5-b001-6554ea01fb75",
     "4caf2be7-1436-4843-b6a0-4b45981c0b4d",
     "4ea6fa88-ad84-48d1-b64d-995a8f58d01b",
     "4f363ea7-961a-4d6b-9512-3644b2700804",
@@ -3620,28 +3038,23 @@
     "5d3474eb-017b-4aa3-9975-503264d4b4eb",
     "600455bf-6491-4c87-b786-444a82b8150c",
     "649279e5-dde4-4edd-b13b-aafbc4ff0f70",
-    "6a414f2d-2125-4ff2-98c1-e8231751bdfd",
     "7023f744-becb-4264-bcd8-0f80588af3d4",
     "70cd8867-188d-4afc-93b0-5f508b610057",
     "7169a26b-750d-433b-b965-8e54ae04f7ba",
     "71fbfef7-e8b9-424e-86d8-5ba55caa6bc9",
     "73dbdf1f-da95-4b8c-9109-c966e08c6f13",
-    "73ec9d29-4fc5-4019-97d3-c496c8509f37",
     "741d8472-5e1b-49de-8bee-dd7922fbbbd7",
     "77955d94-64e1-4934-96a3-34f1fe5f11e1",
     "77fa2e46-c746-4f11-9818-003bd9ccc903",
     "7883590f-66ea-4652-9970-f94c92a7e38f",
-    "78b0ba4b-b8a0-4689-9972-cabab721ab40",
-    "79a265e8-6364-4c26-bf97-45bb6272376e",
+    "Navdeep Jaitly",
     "7d1f9a83-d82d-4d67-a61c-4aa43103ea05",
     "7eb6c488-39f2-4c60-b03f-82657bdede67",
-    "820b9eee-e009-4dc1-b464-f5fd4485d6b3",
     "84d6e1a1-b837-4978-b1bd-33c37b940bb6",
     "874e11be-e9f9-402b-ab9d-96776fbf2b14",
     "88810569-8a89-4459-91fd-ab4b6698d44e",
     "890b849f-90fb-46fa-9e89-f2e319fabc40",
     "89671fce-8efc-4e4c-9a68-d2ccd9046877",
-    "89f10062-acf1-4171-b882-f3222c3a357e",
     "8ad7d9ba-08f6-4726-a9a0-65521ce78f29",
     "8ca0475d-f2ed-4672-b4b8-423c37c07d41",
     "8ccb4c84-a7c1-47b6-bd4d-1b462405e787",
@@ -3649,10 +3062,10 @@
     "90a5f570-c407-4d58-9097-34206275d434",
     "92f69a52-1623-40c7-9b87-1430828f1f5b",
     "93b9ffc3-4ad0-41d9-889f-02feba34e541",
-    "97fa1c18-05bf-47c9-b72d-5d712b186ccd",
+    "Dan Ciregan",
     "9970da0b-826d-4603-8543-e82890cec29f",
     "9a199fbc-5fb6-479c-9fc6-7c8f88e07f56",
-    "9a269110-6509-4939-a1da-24a5858d208d",
+    "Abdel-rahman Mohamed",
     "9c8453cc-85b6-405f-bcd9-ee8357979fe3",
     "a0129062-35a4-47a1-b52e-9505dc308b17",
     "a4ce6cec-ae82-4e5b-bdd0-0ba745469add",
@@ -3662,7 +3075,7 @@
     "a8fab480-2afd-4292-ae77-306452243501",
     "ac4415c8-9ad8-4f7b-a161-0a653b8919ef",
     "acd92e2b-93ae-4661-8d78-17a8086242cc",
-    "ae22966a-0564-44bc-9be2-3d5111b1a6bd",
+    "George E. Dahl",
     "b0aca35a-4f97-4838-8b5a-d90cf23dcd7b",
     "b0fd1fc5-780a-46e7-bb16-22931c028b1b",
     "b10f3ad1-3bb9-45e8-8df5-f0f1319bfd47",
@@ -3674,16 +3087,14 @@
     "cc523012-a46e-4310-8821-7c1e11b794e4",
     "ccd46a5d-73b8-4168-b828-8a5cd447e8bf",
     "cd27419b-4947-4792-bf91-7170693b4168",
-    "d28acb36-5766-4c1e-8d57-a55c2630bd90",
     "d2bb63e7-e65b-4a14-a9bb-1cf87e0c692f",
     "d93f6cda-c9ff-4fe5-a6de-305ca34ba5a5",
     "daf066d2-7e89-498e-8c45-d8b0b6325016",
     "db1e6fe1-ffa4-4e81-87e7-f99716835a4a",
-    "dd42c77b-5c4a-40c4-8154-4f76301a5a37",
     "dd86a5c2-d26f-4c17-a218-e5f02743ab84",
     "de3e3141-2450-40d6-9263-1147b01669a9",
     "e00917f7-1629-48db-baa5-7cc0d179de17",
-    "e0b95bc1-e105-4b51-9294-68771c4598fd",
+    "Y-Lan Boureau",
     "Alex Krizhevsky",
     "Hongwei Chen",
     "e407acd7-dfcf-4ee8-9140-6726c01abf4e",
@@ -3694,8 +3105,7 @@
     "fa94907a-74b5-49cc-880c-e6fa31a58422",
     "fb8c345e-f3a4-46d4-b7b3-2ef185fb44bc",
     "fcaa30e9-8fc6-4df3-a670-50765f8cd297",
-    "fe372ee1-70f6-4a09-97b0-1eee8f05ad7d",
-    "ff948282-ac63-40ea-821b-e32f748e1e3f"
+    "fe372ee1-70f6-4a09-97b0-1eee8f05ad7d"
   ],
   "id": 
     "Weibo Liu"
@@ -3772,39 +3182,6 @@
   "id": 
     "Lixian Zhang"
 },{
-  "title": "Error-constrained reliable tracking control for discrete time-varying systems subject to quantization effects",
-  "year": 2016,
-  "target": [
-    "0fd1ba08-380a-4b55-911f-cd4931af6b5f",
-    "1777dac8-53dc-4b1c-8901-1328552d2326",
-    "1e428815-0b74-4bf4-b23d-02b2b1d98f08",
-    "21434adf-9175-4f11-83fe-2d4fc944cc21",
-    "36d06845-be90-45ff-9790-8360a86f5e77",
-    "3e632d21-0c76-454d-a512-02d1c9902559",
-    "40af3d39-aaf9-453a-8a97-14d0f18c0836",
-    "46de7593-84da-4ebd-b362-f95c4a639b3e",
-    "4e02fb5e-333b-4292-81d7-baf5b6bec4f1",
-    "532cc6b3-0ee3-4dc1-8435-c68cb0afefde",
-    "5871daca-3cca-4187-a30b-f68a6ebc818f",
-    "62dfc547-01b7-4d6d-80c3-c5ed30af7e97",
-    "6af6c3eb-4c30-4ca1-a740-2509ceaa6d01",
-    "75698b6a-1350-4ea9-90b0-d853bad382fc",
-    "7831e4f5-0700-4703-ba18-02b97930b08b",
-    "7ba04523-a5d3-447e-b850-f36086a5a869",
-    "7ddce5ea-bcbb-4d0d-bcba-b97654010b11",
-    "82ab6448-7cf2-42e2-a71d-57ad9d24d92a",
-    "82fb0b67-d921-437d-bb12-5d68388d6b23",
-    "9970da0b-826d-4603-8543-e82890cec29f",
-    "9d41a5bf-f4fa-4da8-b4c5-6b16652adbbc",
-    "c1097995-85a2-4981-94cd-338cc7b7d837",
-    "d5396f08-82b8-4fc3-b4ad-417251b89b3d",
-    "d59063e2-e7ce-4ef9-a8b0-85e76bfdf37a",
-    "d71d3833-8d9b-4c7e-8589-d6a51093d3f5",
-    "e3fd281f-5611-4597-8216-fb67da209464"
-  ],
-  "id": 
-    "Guoliang Wei"
-},{
   "title": "Event-triggered distributed state estimation for a class of time-varying systems over sensor networks with redundant channels",
   "year": 2017,
   "target": [
@@ -3846,24 +3223,7 @@
 },{
   "title": "Gossip and Distributed Kalman Filtering: Weak Consensus Under Weak Detectability",
   "year": 2011,
-  "target": [
-    "0aef08a4-9fb6-41df-a465-94dd331e7825",
-    "12dacb28-cffe-4774-9d20-29e1b7124a13",
-    "142a38de-8d17-4d67-91da-ed7488dab21c",
-    "1cb63979-852f-4a31-8555-ed2e995b745f",
-    "207c9c45-c1df-4073-abf2-dd2ba9957b7e",
-    "2a71c985-5219-419d-8d7c-6113f50701f7",
-    "3c7e1ef1-fa85-4b0f-8c18-d31d0a59bf30",
-    "4a78d773-7703-4de6-9881-2bcef9e336ea",
-    "4af2ba6d-4699-44a8-8f4a-4b62d8cec3cd",
-    "4d3d5ff0-9654-42ae-8235-330e0d861d1a",
-    "83fda908-ccc3-48dd-b2d4-7a1ba486d0cd",
-    "8c27c66b-31d0-42b8-88bb-806f118fede7",
-    "9567a5f7-66f4-4e57-afab-fb55b9391159",
-    "b24b16e6-5eed-4798-b0d4-4cf8ae41057b",
-    "bf40f657-d004-4b64-8fd8-25b5971a1dc4",
-    "ee33c06d-79d1-4e04-abec-9a13d519e3ce"
-  ],
+  "target": [],
   "id": 
     "Soummya Kar"
 },{
@@ -3886,10 +3246,8 @@
   "year": 2012,
   "target": [
     "002d645b-6f22-4c4c-a7e7-00530bf513f1",
-    "0aef08a4-9fb6-41df-a465-94dd331e7825",
     "0afd0cc3-1b40-4256-b373-938acb03e54f",
     "0d42066a-b706-4061-86b8-aa77cc46d3a4",
-    "1cb63979-852f-4a31-8555-ed2e995b745f",
     "1f26c190-8e57-42b5-810d-b4403f01b109",
     "2bd98590-5f2d-4614-a9ec-e67ea5f2769f",
     "3f133ae1-ea88-45d6-99ab-944170d33be6",
@@ -4036,7 +3394,6 @@
     "414d9be9-c6c0-4199-8a44-8e3e96460027",
     "44b3e8ac-e673-40ff-b833-da522e730852",
     "523bd010-97a4-4475-a3f3-128b1742c160",
-    "55b66c34-985a-4cdb-9fda-f14933dfef9d",
     "55ec4652-4b3d-41d7-bd42-eed5507e34e5",
     "62c6e0c5-0871-431c-ad8f-fcb931bd43f4",
     "85143574-b7da-401b-9cf3-7327edb8a1be",
@@ -4044,7 +3401,6 @@
     "92b1474e-e149-4dec-b4af-15fd0c3242ea",
     "ad5ca2dc-3498-4d59-8d3c-2b7aa853f523",
     "adaf7ea3-547a-4365-a466-47c079fc67cf",
-    "b944f77f-113b-4a02-ae5e-d4a124b8fd5b",
     "c5a5aef4-5691-495c-b250-3663c557b707",
     "c7652e3c-2d99-4c94-85a2-346da9e7abe2",
     "d5825391-4d4f-4de7-9c34-bfedfef75885",
@@ -4119,13 +3475,7 @@
 },{
   "title": "GPS/INS integration utilizing dynamic neural networks for vehicular navigation",
   "year": 2011,
-  "target": [
-    "92fe4ea9-8f07-4f5b-9b26-916506c16809",
-    "9844913d-6cf1-49fc-b070-eaead4a894da",
-    "baf5b23d-3c05-4ec9-8a88-3209df6a02d2",
-    "d1dd2540-5a75-4dfd-9179-866a1df7c1db",
-    "d908554f-f91c-451a-8a41-6ca59835392c"
-  ],
+  "target": [],
   "id": 
     "Aboelmagd Noureldin"
 },{
@@ -4477,10 +3827,8 @@
   "title": "Collaborative Fuzzy Clustering From Multiple Weighted Views",
   "year": 2015,
   "target": [
-    "06dc0648-62ce-4357-8fb5-9d0dbd83faed",
     "0970927a-3234-42b6-a91e-eedaffacadc7",
     "102e255a-5367-40cf-b926-a20819ff3c86",
-    "142e7b62-35e3-4cf3-9e7c-6f975a8b3741",
     "149962a3-2e3b-4e5a-a501-e5a3313debd7",
     "16d4392b-7898-43cd-b61b-a6b5105ce1f0",
     "Benoît Depaire",
@@ -4493,7 +3841,6 @@
     "787c9cab-681f-4dec-baa1-cfe820fe7689",
     "7a6d9555-ff71-4a22-b1b1-4f14e7a0a855",
     "84fad9b1-7857-490f-a87e-d76b8b919cb9",
-    "87d794c5-9089-43d7-a812-de7fd55b1953",
     "8c7ef517-819f-4c01-96e2-b111dae88739",
     "90161524-503e-4faa-ac41-e79e06c3153b",
     "aa08d40f-2000-4828-bfc5-fba0fb064fc2",
@@ -4513,18 +3860,7 @@
 },{
   "title": "PSO driven collaborative clustering: A clustering algorithm for ubiquitous environments",
   "year": 2011,
-  "target": [
-    "06dc0648-62ce-4357-8fb5-9d0dbd83faed",
-    "142e7b62-35e3-4cf3-9e7c-6f975a8b3741",
-    "26c76481-5da4-43e1-b16d-438e1a0d0167",
-    "2dbcfd4a-2e78-4ca6-9afd-2c1dd672fc0f",
-    "41ef14ab-1903-42f1-98e6-878158cf87f4",
-    "48f017bc-ad30-4770-a4b2-759a8f160e7a",
-    "9201a828-f1ac-428f-8e79-d4f7bc985e55",
-    "922cb881-d9fe-4949-b662-c57217a3210c",
-    "a3ef76b0-a80a-4525-9e10-d71c24855886",
-    "f7f6d633-692c-445a-b587-052c25da1e76"
-  ],
+  "target": [],
   "id": 
     "Benoît Depaire"
 },{
@@ -4537,7 +3873,6 @@
   "title": "Collaborative generative topographic mapping",
   "year": 2012,
   "target": [
-    "142e7b62-35e3-4cf3-9e7c-6f975a8b3741",
     "2834deb1-eaf2-40c8-899c-fdf2d28e556f",
     "33375882-6c9a-4172-8465-522e8d4e6db4",
     "76f1dbfc-6b55-4fb2-b343-69d8daa05b14",
@@ -4549,11 +3884,9 @@
   "title": "Consensus clustering in complex networks",
   "year": 2012,
   "target": [
-    "06dc0648-62ce-4357-8fb5-9d0dbd83faed",
     "0d38b60f-2002-46e9-b726-ccb995eed3fb",
     "24065196-bfc0-44b2-998c-4f3c4b5027b4",
     "26cd1d0d-331d-499a-8d35-a501e6af9200",
-    "41ef14ab-1903-42f1-98e6-878158cf87f4",
     "5b9802ac-5450-4c43-a076-5a9735136ae1",
     "60ef3852-fa16-44bf-9434-9909268ba5d8",
     "68faab18-b537-4f62-85cf-ddc9ef352362",
@@ -4585,7 +3918,6 @@
     "7f1214b2-e070-4ff2-a5d3-647e7c16c2d7",
     "7f8db62d-f7e8-47b9-9519-5d237680f9f3",
     "8ab45dd2-7d9a-408d-8e73-88798f611aa1",
-    "8c43094a-99b0-4929-9925-ab9a8c3e26f6",
     "8f810b88-0803-44e4-86a2-f1bae5cda9c9",
     "94378711-2836-4147-b961-54cc250caac1",
     "95228e48-2f25-48be-9fa0-c53ddd68f5a8",
@@ -4596,7 +3928,6 @@
     "d2065d9d-7799-44d4-afb1-dfe42bd46441",
     "d563a58a-078e-4d80-9c6b-07d5d86db94b",
     "d57b088e-b875-40e9-91cc-cf645cb10d56",
-    "db831574-e036-4ded-aa34-76d73a7e0f45",
     "e54496ac-a353-40b8-baeb-90655d2725ff",
     "eb5d489a-605d-42ed-b938-dfdf7688fe14",
     "f02fea35-e22d-420a-98d0-4b62b4614646",
@@ -4611,7 +3942,6 @@
     "00253bd5-20c6-4ad6-853a-4a8952c7efba",
     "0ce65577-0bcd-418a-990e-2866cd3d6914",
     "1173868e-79bd-4b2e-9b0e-252029a2fe2b",
-    "19491d37-876d-4a4d-95a9-f119494be93b",
     "22b8cb2b-79b4-4756-8467-823322628cf1",
     "3704f939-09a2-4e9f-b851-1261bcd310df",
     "37a5c368-7a6d-41f0-9362-171f305c5267",
@@ -4638,7 +3968,6 @@
     "Ingrid Visentini",
     "c5449afd-7ee3-4709-88fc-22ee976a4151",
     "d0d6583f-c15c-4bd7-886e-4e72363d48ec",
-    "d130ecec-e5cf-4f59-b4f8-1cbda4b0c307",
     "d2b31f0e-6326-4ec6-97be-60a8f6196dbb",
     "d967f588-ed50-4d92-b958-74df440b472a",
     "db62a611-029e-4b9c-b569-58e92a8a76b8",
@@ -4701,12 +4030,10 @@
   "title": "Spectral-360: A Physics-Based Technique for Change Detection",
   "year": 2014,
   "target": [
-    "177b7083-bfca-472b-833a-515f1ad77735",
     "2807e6ff-b9a5-49ec-8b9f-892aee014156",
     "4e2ddfc3-75a7-44d6-a23b-9bee8b7d434f",
     "55efde55-8875-4f89-926b-c3c5601cc7a0",
     "73d14956-b600-42bf-b42c-f17b08481b4e",
-    "8c43094a-99b0-4929-9925-ab9a8c3e26f6",
     "980ffb49-b842-439d-b309-6f8ee5e10b83",
     "Nil Goyette"
   ],
@@ -4715,21 +4042,7 @@
 },{
   "title": "A fuzzy spatial coherence-based approach to background/foreground separation for moving object detection",
   "year": 2010,
-  "target": [
-    "0d4110ff-7794-48b3-8b5e-f3a55446af83",
-    "32148a0b-6ce4-4a1e-a1d2-98a96b27b24f",
-    "423469ad-f461-4409-a797-cd82724bc1ff",
-    "55b66c34-985a-4cdb-9fda-f14933dfef9d",
-    "76508b5b-13b4-44a9-8a76-f93f3269b64b",
-    "7a658282-83b8-4978-8aff-464f8087806c",
-    "83ace420-7a93-4a39-a163-dfc2267c1798",
-    "8f591be0-f686-4af2-8596-4e51d6abfb85",
-    "9977682d-8b93-4f60-8b1d-96aa07731113",
-    "afe12c61-72e0-4526-bb3c-5c91bb63739d",
-    "c64f0da6-3b3c-4566-8015-6e82784dd17b",
-    "d24968e7-b7b3-4907-a99f-a4c602d7c026",
-    "f8ca8502-4489-4bf5-bb41-719938761786"
-  ],
+  "target": [],
   "id": 
     "Lucia Maddalena"
 },{
@@ -4740,7 +4053,6 @@
     "094a414a-6579-4148-9b80-0a3c1210f189",
     "0ce65577-0bcd-418a-990e-2866cd3d6914",
     "187c1480-50d6-44a2-9a5a-8d7950240e60",
-    "19491d37-876d-4a4d-95a9-f119494be93b",
     "1ac8c203-9ce1-4419-907f-eabf515220f8",
     "1bae5610-e7e3-40ca-9e78-e278641c8843",
     "1fb27fe2-2e9d-41b0-ac9b-bd79affb06ec",
@@ -4787,18 +4099,15 @@
   "target": [
     "01425c8b-241f-4f64-aacd-bebd4665e772",
     "03d6cca5-32a8-4c32-9228-9d97d85ff201",
-    "0669f0d9-57ee-4957-9857-4114fc959dd2",
     "091033ac-f2b8-4b63-945d-e607501cf0d9",
     "0c97ef1e-bf00-4e95-9eba-5833a9745744",
     "146a2d55-7f98-44c4-899c-4fc0d72813a7",
-    "177b7083-bfca-472b-833a-515f1ad77735",
     "1d844606-eb96-49d0-84cd-4bf5d1a0acd8",
     "21e972a8-ee8d-41f5-a5d4-3e93da32515b",
     "23565766-7289-4959-abf3-4e452c24724b",
     "2807e6ff-b9a5-49ec-8b9f-892aee014156",
     "2e8317ef-655e-41d3-86c1-552c627ca9c5",
     "3510a7f9-759e-463e-bdd8-2e29995abc3d",
-    "417d1684-e1ae-4fc4-8505-74db0d282011",
     "4229f73b-ebec-48d2-8d19-9bb5ca879f05",
     "445e6f57-e416-487a-9f86-bba804d88d4b",
     "4e2ddfc3-75a7-44d6-a23b-9bee8b7d434f",
@@ -4807,23 +4116,18 @@
     "Massimo De Gregorio",
     "73d14956-b600-42bf-b42c-f17b08481b4e",
     "743633b7-bcc1-4967-a0b5-1f522760a1e2",
-    "7469dc95-cf4c-4660-a2da-96fd0d504b9d",
     "87953b2a-c855-45fd-876f-df021b018e5c",
     "87ff93d0-3b06-49fc-b35b-e0bf6100d6ce",
-    "8c43094a-99b0-4929-9925-ab9a8c3e26f6",
     "95228e48-2f25-48be-9fa0-c53ddd68f5a8",
     "95874b10-ca1d-4d74-ab86-d9c2bcc15c05",
-    "9977682d-8b93-4f60-8b1d-96aa07731113",
     "9bdbb29a-558a-4c6d-b191-b2334f017ba4",
     "Nil Goyette",
-    "afe12c61-72e0-4526-bb3c-5c91bb63739d",
     "Alfredo Petrosino",
     "c5b86555-c78d-4ef3-bd00-09f55bc50a70",
     "c8c30000-f5c2-4884-bfe2-6a02990262d3",
     "Sebastian Brutzer",
     "Bin Wang",
     "dece0eb0-fa54-42ba-a150-5ff03d6ac587",
-    "eaba7ba3-275d-4445-85f3-a7c596a2f09d",
     "ee3c630c-8557-4cff-b74d-3eba144a5ba1"
   ],
   "id": 
@@ -4840,7 +4144,6 @@
     "2d42e753-d7b0-4d0f-8089-486fe7c41d19",
     "3634361a-34df-4b9e-924e-93baa70c00a6",
     "3a9865fe-c0cc-4a28-a721-53099ad63481",
-    "3c383c6f-3503-458d-bdd7-a34cb8f4515f",
     "43026418-4d7b-42ef-86f7-e630a62ed41b",
     "4c19a216-f84d-460a-a59b-14b103e54443",
     "4c2ef1d4-9837-4239-8b08-0270c1ff0a62",
@@ -4858,7 +4161,6 @@
     "9579b106-b311-4070-a570-babc9ba3e6b7",
     "96b45b5b-4ab5-468f-80a4-1ed1923cd481",
     "a1879950-eb22-49eb-98f9-2e07b7a599ec",
-    "b944f77f-113b-4a02-ae5e-d4a124b8fd5b",
     "bbd555c5-1479-4f00-831c-81cfcba4f85f",
     "ca9e222c-4a19-4892-bc75-c2bee5cd4899",
     "ce27fac2-00d6-4589-82fd-ef2b415f75f1",
@@ -4918,16 +4220,12 @@
     "39d227ed-5658-49ef-9819-19c6d1392c63",
     "3a8fbc53-3805-4e6f-9f45-6881b640eb5e",
     "3ac80a71-fb8d-470e-bdbd-0d96f884c10e",
-    "3c383c6f-3503-458d-bdd7-a34cb8f4515f",
     "4f203988-9601-4710-80cf-fb7dcdd27192",
-    "57e35e32-f009-4b9b-bfb2-3747eac40b72",
-    "5ffadf36-4496-4be6-b8a8-828fa37f7757",
     "6445f129-25df-4d9f-9bd5-1ed88bf244a4",
     "67c686ae-046a-46bc-92ed-3c8041a3c5c5",
     "74b679ad-8ed7-4ff6-8065-1b857ad9c716",
     "762fce21-1089-462f-a84f-834172bf9016",
     "7924ff7d-51e7-4f3f-a780-219cbd6265c0",
-    "7c78306f-870f-422c-9c71-4d21c0ae7692",
     "85a62001-6223-4843-b732-eff920fe67cd",
     "88db5775-d4f3-4b7b-bd77-e6b76aab73d2",
     "8935a68d-efa8-40e6-b0bf-e37694337df4",
@@ -4949,23 +4247,15 @@
   "title": "A label field fusion model with a variation of information estimator for image segmentation",
   "year": 2014,
   "target": [
-    "05c86322-8109-4627-bddf-8d209db4aa83",
     "06ca2440-3615-427b-b5b2-21b4dd35eb92",
-    "06dc0648-62ce-4357-8fb5-9d0dbd83faed",
     "197cd416-f51b-4758-8a6e-bfb25fd1f904",
     "1c231023-925c-4385-9b32-4af7de215a52",
     "1e393f84-d184-4223-bbb0-c1efc84aee33",
-    "24c95d51-3ad4-45aa-ba3d-049c121337f7",
-    "309f11f3-0575-4787-9f2d-d3888c5db5b1",
+    "Pablo Arbelaez",
     "3351fe7e-3627-4bb5-805b-68975114a66c",
-    "45beeef2-a57d-436d-8fc4-56136234b4b9",
-    "4b2309f2-aa56-4f6a-b258-3bc60ad2f264",
     "4efed829-8069-4591-b6de-e88b7a4fff02",
-    "50deb9e0-e10b-40bd-a73f-c544285457e3",
     "510e4713-8df0-4c77-9089-f0204f33b7c3",
-    "556dd29c-fda2-411c-b0c2-99536e14ff0c",
     "566e973f-6d1c-41ee-9f59-8d943d334cca",
-    "57e35e32-f009-4b9b-bfb2-3747eac40b72",
     "5ef678e8-186e-4744-a17a-55979f9dd7cf",
     "63e015a7-5bb0-484e-8fd5-32b420eda16a",
     "6c871065-76b8-44f3-97d5-ac3bce951421",
@@ -4974,21 +4264,17 @@
     "75ae9c49-3ac3-47e9-98d1-a5ca671ae927",
     "8c5f71aa-eec1-4b78-adfa-7ffb6f7068ee",
     "985c0fc8-2593-4508-9e64-2e958595236b",
-    "99fcc16f-8399-4e25-91b9-7030d1d58a36",
     "9df26197-da53-4d26-bef3-ad901a60ced9",
     "a0b52c86-eb39-4dbd-9452-34def2d42dde",
     "a8c902b6-560c-484f-80a7-d09995bef551",
     "b03cbf10-bb38-453d-bfd2-10e43f7e8952",
     "b20fc6ae-c711-4e84-a80a-86ac19dbf70e",
-    "b93f2165-d6df-4a6f-8459-b97dd96adc9f",
     "c17aa6f5-fd1e-4219-ab56-5514883de8ce",
     "c45feaa6-d5b5-41ed-b390-a0f2cdcf0567",
-    "c8f80ea6-4602-458c-9a70-daf1c646c89b",
     "ccef8024-718f-4481-a45d-fbc81b35c3fd",
     "d6637917-ca38-47f8-bd90-9013ff02a920",
     "d6f0b500-7fe4-44cc-a237-5e633e4bce37",
     "dec070b9-be20-4c7d-b0de-39cd86d53c84",
-    "e7661c61-2d14-409a-bf64-35129ca2d254",
     "f3d1929c-bf19-499f-af4a-f5663bda2da4",
     "fa13dfda-ed8b-41e7-b4c4-0b8d566df89c",
     "fd50c7a0-1d76-4b39-9f5d-9fa4581c5c54"
@@ -5025,18 +4311,15 @@
     "01425c8b-241f-4f64-aacd-bebd4665e772",
     "0daa2f36-6f8c-45e7-9a34-4c98be6f35e1",
     "146a2d55-7f98-44c4-899c-4fc0d72813a7",
-    "177b7083-bfca-472b-833a-515f1ad77735",
     "1d844606-eb96-49d0-84cd-4bf5d1a0acd8",
     "258aaa80-14ee-467b-9978-0e725b4a1040",
     "2807e6ff-b9a5-49ec-8b9f-892aee014156",
     "3c5c55db-cad4-4427-b88a-2da8a10705d4",
     "3f8e07c5-cb64-4d85-9fa6-44cc7dea0375",
-    "417d1684-e1ae-4fc4-8505-74db0d282011",
     "4e2ddfc3-75a7-44d6-a23b-9bee8b7d434f",
     "61d0ea35-869f-4834-b1eb-edc0d60526d7",
     "690d4e67-34a6-4b7c-830f-b0cd0dcccb8b",
     "6b58ddfe-c732-4070-a89e-9760fd27b436",
-    "8c43094a-99b0-4929-9925-ab9a8c3e26f6",
     "8ca1e619-416b-4758-bf4f-517694a11b3a",
     "b983c87b-c61b-4a47-92f0-cb7aceba9738",
     "Alfredo Petrosino",
@@ -5072,17 +4355,13 @@
     "03d6cca5-32a8-4c32-9228-9d97d85ff201",
     "0c97ef1e-bf00-4e95-9eba-5833a9745744",
     "12cd7612-73be-40e4-b28c-b56924b665c9",
-    "177b7083-bfca-472b-833a-515f1ad77735",
     "23565766-7289-4959-abf3-4e452c24724b",
     "2807e6ff-b9a5-49ec-8b9f-892aee014156",
     "3510a7f9-759e-463e-bdd8-2e29995abc3d",
     "367e0d1d-430f-46fb-aeea-448768eb8928",
     "4e2ddfc3-75a7-44d6-a23b-9bee8b7d434f",
     "690d4e67-34a6-4b7c-830f-b0cd0dcccb8b",
-    "8c43094a-99b0-4929-9925-ab9a8c3e26f6",
-    "9977682d-8b93-4f60-8b1d-96aa07731113",
     "9bdbb29a-558a-4c6d-b191-b2334f017ba4",
-    "afe12c61-72e0-4526-bb3c-5c91bb63739d",
     "Alfredo Petrosino",
     "c8c30000-f5c2-4884-bfe2-6a02990262d3",
     "Sebastian Brutzer",
@@ -5098,7 +4377,6 @@
     "01425c8b-241f-4f64-aacd-bebd4665e772",
     "091033ac-f2b8-4b63-945d-e607501cf0d9",
     "146a2d55-7f98-44c4-899c-4fc0d72813a7",
-    "177b7083-bfca-472b-833a-515f1ad77735",
     "1b7ee959-a97d-42f2-a07c-f941dd7de8a8",
     "21e972a8-ee8d-41f5-a5d4-3e93da32515b",
     "3c5c55db-cad4-4427-b88a-2da8a10705d4",
@@ -5113,7 +4391,6 @@
   "year": 2014,
   "target": [
     "0c97ef1e-bf00-4e95-9eba-5833a9745744",
-    "177b7083-bfca-472b-833a-515f1ad77735",
     "1e8447e7-da46-476e-b18d-ecca88cae8ad",
     "21e972a8-ee8d-41f5-a5d4-3e93da32515b",
     "4229f73b-ebec-48d2-8d19-9bb5ca879f05",
@@ -5121,7 +4398,6 @@
     "73d14956-b600-42bf-b42c-f17b08481b4e",
     "86ec76b5-f389-45fd-bf45-947de03d117b",
     "ac8d31c9-69e3-47e0-b6b8-a2786cebf353",
-    "afe12c61-72e0-4526-bb3c-5c91bb63739d",
     "b25e767f-5b95-4694-a8aa-cbc9c695584d",
     "c6abd99c-f685-4832-b081-0dd5cd0892c5",
     "Sebastian Brutzer",
@@ -5186,9 +4462,6 @@
   "target": [
     "258aaa80-14ee-467b-9978-0e725b4a1040",
     "32148a0b-6ce4-4a1e-a1d2-98a96b27b24f",
-    "55b66c34-985a-4cdb-9fda-f14933dfef9d",
-    "9977682d-8b93-4f60-8b1d-96aa07731113",
-    "afe12c61-72e0-4526-bb3c-5c91bb63739d",
     "c64f0da6-3b3c-4566-8015-6e82784dd17b",
     "f0598ec2-a0f0-403e-96c6-05cddd4e27dd",
     "f8ca8502-4489-4bf5-bb41-719938761786"
@@ -5202,9 +4475,7 @@
     "01425c8b-241f-4f64-aacd-bebd4665e772",
     "0c97ef1e-bf00-4e95-9eba-5833a9745744",
     "146a2d55-7f98-44c4-899c-4fc0d72813a7",
-    "177b7083-bfca-472b-833a-515f1ad77735",
     "2807e6ff-b9a5-49ec-8b9f-892aee014156",
-    "417d1684-e1ae-4fc4-8505-74db0d282011",
     "4e2ddfc3-75a7-44d6-a23b-9bee8b7d434f",
     "598c5808-ed24-4b30-b7b2-565520d442e6",
     "5cf6dd30-7ca0-405f-9a42-ef990d1f5b92",
@@ -5215,12 +4486,10 @@
     "76508b5b-13b4-44a9-8a76-f93f3269b64b",
     "96a9ade3-30af-4738-a63c-6169128130a3",
     "ac8d31c9-69e3-47e0-b6b8-a2786cebf353",
-    "afe12c61-72e0-4526-bb3c-5c91bb63739d",
     "bd5d9bf5-aacd-44ca-bf88-ec7f38d321f3",
     "c18e7645-a814-49b0-a468-d33d336d8609",
     "c67f0f34-6582-498c-a94e-b8de05387442",
     "c9523365-dd05-47e1-8fd0-3d7e4868b5e9",
-    "db831574-e036-4ded-aa34-76d73a7e0f45",
     "e66464dd-acc1-453b-ae14-0c044de0a0e4",
     "ed4fcd27-06da-4bd9-af15-90f02acaa1f9",
     "ee3c630c-8557-4cff-b74d-3eba144a5ba1",
@@ -5233,29 +4502,7 @@
 },{
   "title": "Evaluation of background subtraction techniques for video surveillance",
   "year": 2011,
-  "target": [
-    "04ab69ae-0638-4189-9a79-820f64f93b3d",
-    "0669f0d9-57ee-4957-9857-4114fc959dd2",
-    "177b7083-bfca-472b-833a-515f1ad77735",
-    "19491d37-876d-4a4d-95a9-f119494be93b",
-    "417d1684-e1ae-4fc4-8505-74db0d282011",
-    "41f3a6c3-2dfd-4d1a-94c3-c4cb81c2ff9f",
-    "55b66c34-985a-4cdb-9fda-f14933dfef9d",
-    "7469dc95-cf4c-4660-a2da-96fd0d504b9d",
-    "8c43094a-99b0-4929-9925-ab9a8c3e26f6",
-    "8c6ad04a-7a4c-4c59-9a38-6e40f0a29408",
-    "9977682d-8b93-4f60-8b1d-96aa07731113",
-    "afe12c61-72e0-4526-bb3c-5c91bb63739d",
-    "b7380d17-27b2-48ea-a8dd-37e63c9952c9",
-    "cfae3e7c-3a23-46f2-95b6-ef6384c9a25a",
-    "cfeddce4-ceeb-4398-8317-a4dc7eb33a83",
-    "d100025f-5595-42f2-8a80-4e26c191cdda",
-    "d24968e7-b7b3-4907-a99f-a4c602d7c026",
-    "d3725eec-5ddd-44d1-b8fa-872a5390fe88",
-    "db831574-e036-4ded-aa34-76d73a7e0f45",
-    "eaba7ba3-275d-4445-85f3-a7c596a2f09d",
-    "eecfc051-e4f2-44ee-bd19-b50533110a4e"
-  ],
+  "target": [],
   "id": 
     "Sebastian Brutzer"
 },{
@@ -5263,13 +4510,11 @@
   "year": 2014,
   "target": [
     "0c97ef1e-bf00-4e95-9eba-5833a9745744",
-    "177b7083-bfca-472b-833a-515f1ad77735",
     "2807e6ff-b9a5-49ec-8b9f-892aee014156",
     "3ba1e680-b3cc-40e6-bc90-2af6c781f9bc",
     "5e4d0f6e-14bf-4f3d-aa2f-2f5524d16cf9",
     "690d4e67-34a6-4b7c-830f-b0cd0dcccb8b",
-    "ac8d31c9-69e3-47e0-b6b8-a2786cebf353",
-    "d24968e7-b7b3-4907-a99f-a4c602d7c026"
+    "ac8d31c9-69e3-47e0-b6b8-a2786cebf353"
   ],
   "id": 
     "Bin Wang"
@@ -5284,7 +4529,6 @@
     "4935259d-fca4-454d-9128-6dfed1c72357",
     "4f14555b-f8ca-4247-a35f-c19e34d9f74f",
     "4fc8ffab-c5f9-468f-931b-7109adca7877",
-    "50dd56db-151d-4d62-8576-65f0ef6f381b",
     "5cb24cc1-b597-4ef7-9f4f-ff757b729323",
     "5d8d1e86-5993-4925-8985-464fa28d8b46",
     "62549bc2-e0b3-46e8-8d32-390dded105d5",
@@ -5292,7 +4536,6 @@
     "6c871065-76b8-44f3-97d5-ac3bce951421",
     "6f0b04f0-d83f-47a0-8ed7-653da517758c",
     "7a10be82-6113-4f60-9e37-f35f2d9423c5",
-    "7c6a970a-0d6f-4e4b-b50e-6c6fbd23a9ab",
     "82715e1a-60ca-4f42-a1d3-3a1771e9eb0a",
     "832a34e5-ea81-44e4-a270-2cb9e9ed4002",
     "83e0e0b8-db7f-42dd-9110-5f54b3a1fad1",
@@ -5300,14 +4543,12 @@
     "89053402-680c-4402-875f-721f0eb5f63c",
     "91c44d64-b62b-44bf-b284-86f90737d0ee",
     "9d391f89-9fbd-438a-bbba-57f8fe085e0c",
-    "a9f4d231-e11d-452d-b527-7b76cce31b73",
     "aa767a83-de19-4421-bfb4-f63808992758",
     "ac237969-3fd5-4303-83b7-a67e02afe976",
     "b889d6ec-330d-406f-87b6-ea34804fadfd",
-    "b90f9310-726f-4116-9322-6fc01ab598fd",
     "bb844411-c2b3-45b3-8f6e-14537c26a164",
     "bd6f6ac3-f209-4247-9984-f27bf26e2f3a",
-    "c1b6b493-01ef-420f-be44-7bacfe34e846",
+     "Chih-Chung Chang",
     "d6cd1916-c095-48b3-b122-c32b229f8b72",
     "db26488d-78be-44b1-a343-e896f43c5d29",
     "db6f22d3-b01b-4d3d-999b-14fe80b7bbb7",
@@ -5323,7 +4564,6 @@
   "target": [
     "0abf7292-4867-44af-b636-658f627e229b",
     "13648a64-4269-4e20-bf56-1477735732e6",
-    "177b7083-bfca-472b-833a-515f1ad77735",
     "2189dd35-abf9-42e7-9473-72ce3d240f46",
     "233937b7-9422-4d5c-a50c-04b31154162e",
     "42005840-bb1e-43a7-97bc-070e91de11b8",
@@ -5331,7 +4571,6 @@
     "4687b9fc-c8bc-41a1-937f-520154f080c9",
     "4ad58b7d-d702-4cf0-a73e-85aac845fd40",
     "4e48b3a7-04ec-4a9f-96f6-912a0e43ee91",
-    "55b66c34-985a-4cdb-9fda-f14933dfef9d",
     "5b10bab7-3bda-4b95-9945-f783be2c4b44",
     "5c5a8e65-d91a-40a8-b66e-4cd91f50ce10",
     "6a3447fe-ea43-40b6-bd86-d499566b0e9f",
@@ -5341,12 +4580,9 @@
     "85e7b196-740a-446d-9e6e-086d3cf3ea14",
     "90a41f9e-6f8a-4808-b7ca-f9da8f6f6f83",
     "950178ab-0f65-4c87-9ad0-2e20b431f0cf",
-    "9977682d-8b93-4f60-8b1d-96aa07731113",
     "9f78fbaf-bf02-4c22-98a7-02366f8c0360",
-    "afe12c61-72e0-4526-bb3c-5c91bb63739d",
     "b8c9c8e7-dd9e-4158-aa02-1d22bfe7c10c",
     "cfb7b7a7-d93d-44c7-b826-595f85ed9613",
-    "d24968e7-b7b3-4907-a99f-a4c602d7c026",
     "da8b37e1-8fd2-43ba-afc5-1f580cbe1163",
     "db24ca9c-6ee0-41d8-a878-91d55968cb45",
     "e58f94a9-2346-452f-98a6-175a2c7f7cd5",
@@ -5409,7 +4645,7 @@
     "a0028588-a2e4-4a4d-87ea-6186c9511090",
     "a6e178c8-d55f-460c-8e5b-c9d5cfb04c20",
     "bcdb7caf-03b7-4b54-a9e6-08e7692c3f01",
-    "c1b6b493-01ef-420f-be44-7bacfe34e846",
+     "Chih-Chung Chang",
     "e2204e92-e6dc-4884-9bbc-200029491fc7",
     "e649a9fd-f6d9-4aac-b428-29b82c20a484",
     "Dmitry O. Gorodnichy"
@@ -5466,12 +4702,7 @@
 },{
   "title": "Using the kernel trick in compressive sensing: Accurate signal recovery from fewer measurements",
   "year": 2011,
-  "target": [
-    "1d34187b-e0a0-431e-9ede-f0a277934766",
-    "7e2bafb1-2b37-4ad5-b752-73bccf409b27",
-    "a083a1b9-8dfb-45d6-99a9-fa30c4a6e9f5",
-    "f56b877b-4060-4754-b303-e8140968544c"
-  ],
+  "target": [],
   "id": 
     "Hanchao Qi"
 },{
@@ -5486,14 +4717,11 @@
     "2d33180f-2e77-4da8-96f5-a37bb290aa7f",
     "Xiaochun Cao",
     "3b0f815d-631d-4ed0-8357-44b750ef08e6",
-    "3c032e2b-79c1-437e-bf64-a0336daa2e21",
     "3d216b94-d459-4d28-8e29-b2099301136e",
     "Bin Cheng",
     "Zhouchen Lin",
     "49f98a2c-0141-4df3-80a8-05cde8bf158f",
     "559f4e0e-4611-47cb-8f06-de98ec43fc75",
-    "5d642229-7532-47b1-9483-82098da2f920",
-    "61b70ef3-3bf9-4479-b811-433a50c1cb45",
     "66ad9398-b5bc-478f-a72f-7f3a7740cc90",
     "Hongxing Wang",
     "Rongkai Xia",
@@ -5505,7 +4733,6 @@
     "d194f1f2-9926-44be-8fe9-9d06583aca91",
     "Martha White",
     "e2204e92-e6dc-4884-9bbc-200029491fc7",
-    "ea8cd3d8-17ae-4a1e-8f83-1609469087af",
     "f15782c2-a6fb-4ecf-bb9a-eff1a20a30c9",
     "f7fb4742-431a-423f-9f9e-6990a213f854"
   ],
@@ -5529,14 +4756,12 @@
     "2170ea6b-43b8-4849-9d4c-b6a9ab1bdf54",
     "25b678e1-fe98-4ecb-929f-9efc06d6ad85",
     "2f0b85b3-f927-4901-bf20-ea3fa61d7e5d",
-    "33059499-335c-4d40-bc2d-dd15cb34b74c",
+    "Donglin Niu",
     "3b0f815d-631d-4ed0-8357-44b750ef08e6",
-    "3c032e2b-79c1-437e-bf64-a0336daa2e21",
     "Bin Cheng",
     "Zhouchen Lin",
     "559f4e0e-4611-47cb-8f06-de98ec43fc75",
     "5bd69f07-26da-4948-93a3-3aff605700bb",
-    "5d642229-7532-47b1-9483-82098da2f920",
     "670ea5fc-2f1c-4ff6-b757-de4f310c5415",
     "Hongxing Wang",
     "7d257986-74e9-48a3-bc2d-cdaaf7f37cd6",
@@ -5544,7 +4769,6 @@
     "A. Kumar",
     "Martha White",
     "d8674a84-a92c-4b5a-b2c5-afa1c39b2496",
-    "ea8cd3d8-17ae-4a1e-8f83-1609469087af",
     "f15782c2-a6fb-4ecf-bb9a-eff1a20a30c9",
     "f6bfd41c-73d1-48fa-8830-eb529977e9f5"
   ],
@@ -5554,69 +4778,46 @@
   "title": "Multi-task low-rank affinity pursuit for image segmentation",
   "year": 2011,
   "target": [
-    "05c86322-8109-4627-bddf-8d209db4aa83",
-    "0ab71a43-a7d8-437c-83e0-6caf7523235f",
-    "10aeabc2-0193-4cf1-b9c0-2693b92a4c68",
-    "1bfaea19-9ccb-4a78-9572-773eca9143be",
-    "21c33957-ea0f-4997-97a0-0f133064e87e",
-    "231d1a48-9bb7-4877-885b-2dc25c9a8b19",
-    "24c95d51-3ad4-45aa-ba3d-049c121337f7",
-    "309f11f3-0575-4787-9f2d-d3888c5db5b1",
-    "393124a9-9e11-4247-8b01-2355a56ad007",
-    "Zhouchen Lin",
-    "416bd4e9-b3ed-40f1-804a-ac926263d2e9",
-    "44443fd6-79b9-48fe-a66d-b212f2a26e82",
-    "45beeef2-a57d-436d-8fc4-56136234b4b9",
-    "4d452e49-1f68-4f06-b52e-45da5a46895f",
-    "5986f96a-d1de-442d-9208-0bfbcde00b5a",
-    "59fca89c-a575-44ed-ace1-7d367f3cd603",
-    "6018a516-8149-4bce-bc33-5449d86e58c2",
-    "61447020-9a4b-4742-affd-fb5cde9d84ae",
-    "62dc33a6-4acc-4070-b063-9c75d6cd563a",
-    "87d794c5-9089-43d7-a812-de7fd55b1953",
-    "99fcc16f-8399-4e25-91b9-7030d1d58a36",
-    "ba4089ca-9dc8-4035-86eb-30ed997b207b",
-    "bf39cfea-bdc9-40b9-9d81-38c512bfafd5",
-    "c8f80ea6-4602-458c-9a70-daf1c646c89b",
-    "dafb2efd-e62c-4236-a886-d6a407f8e67f",
-    "de7686aa-6d09-4f1f-90a3-ba7815808e1d",
-    "e7661c61-2d14-409a-bf64-35129ca2d254",
-    "faaa3316-17a4-4fd1-aa45-72acf3b4c83b"
+    "Jian-Feng Cai",
+    "Yong Yu",
+    "Pablo Arbelaez",
+    "Guangcan Liu",
+    "Zhouchen Lin"
   ],
   "id":
     "Bin Cheng"
 },{
+  "title": "Contour Detection and Hierarchical Image Segmentation",
+  "year": 2011,
+  "target": [],
+  "id": 
+    "Pablo Arbelaez"
+},{
   "title": "Robust Recovery of Subspace Structures by Low-Rank Representation",
   "year": 2013,
   "target": [
-    "0ef86310-d001-49c3-ace0-0d20374148de",
-    "1bfaea19-9ccb-4a78-9572-773eca9143be",
-    "21c33957-ea0f-4997-97a0-0f133064e87e",
+    "Jian-Feng Cai",
+    "Yong Yu",
     "23db9f2a-45b8-42af-a63a-f03e9caa503e",
     "2acc8104-e9c6-4104-a3aa-b74ad149325a",
     "2e169597-978d-4557-9703-fe64260aa79c",
-    "393124a9-9e11-4247-8b01-2355a56ad007",
+    "Guangcan Liu",
     "3d650753-6eac-4b35-8af1-c521c55bab56",
-    "4d452e49-1f68-4f06-b52e-45da5a46895f",
     "4ff42208-3f2e-4c54-bc20-ed699ebe05fb",
     "6154049b-b6ad-450f-934a-92f83e24ae07",
     "65106f7a-8bce-4521-ac08-a545f9fd59fa",
     "6706fdce-1b13-4242-b70f-d24db0c34253",
     "6e13a1b4-622f-4ffe-bc6f-2ffdbb08cc48",
-    "6ff01654-66d1-49c7-b526-1c8ed7fa893a",
     "7236dbb7-f0b2-4e28-bb7c-6de187c32d64",
     "78455a55-4f30-41ac-8416-26524333f026",
-    "86e83387-985d-4169-be03-5fe7a5f52785",
     "8ad502ac-ee0d-4430-a201-cd506de8beaf",
     "Paolo Favaro",
     "91107696-0457-4f5c-b384-e19739490b5a",
     "9ae270e8-96c6-49ce-8ab2-7c733c16f403",
-    "a1fc9ff4-c101-4416-9a16-7390a5166074",
+    "Yaniv Plan",
     "a42a1791-2109-4007-899d-6cdf7d6fa4e6",
     "a569c45c-b317-46b8-a803-0beaeb5cf25f",
-    "a5d31c22-bdb4-4f0d-ab7b-4af2a8e37b9c",
-    "a81d35e6-d5cd-4eef-9144-b0755ef268d1",
-    "ac23630b-4b0f-4ef3-967d-44b997ea8d80",
+    "Emmanuel J. Candès",
     "ac7e245a-b63e-4e9c-a25a-6d6772fb2ea9",
     "afcbb2af-3c42-4c43-ba44-0889bd1c95d4",
     "b2a16900-8785-420e-9405-9f1c66dbf09b",
@@ -5627,9 +4828,7 @@
     "caa42811-7a30-4813-a111-4193a975efb4",
     "cbe3b6f4-58e1-48af-ae6e-b2544688f907",
     "d953f944-1446-46e5-8eef-5a463494c23c",
-    "dd09b758-5c43-405d-895c-9275c68da2e4",
-    "e7661c61-2d14-409a-bf64-35129ca2d254",
-    "ebfca554-7a3c-4597-954b-07336a2e3030"
+    "dd09b758-5c43-405d-895c-9275c68da2e4"
   ],
   "id": 
     "Zhouchen Lin"
@@ -5661,9 +4860,7 @@
   "year": 2013,
   "target": [
     "00ec3f20-26b8-4cd7-9b79-ec3d4365b3cf",
-    "04c47f14-8533-41ff-bafd-affc1eb52287",
     "0c74481e-6895-4a3a-9389-13cb6487a7fc",
-    "10ebbda8-d881-4c11-9d71-a7448d3b384e",
     "137e592c-e45a-43b6-87f2-900d90c30cd2",
     "19a42cd3-c8ae-4f71-8c8c-4eae6ca48345",
     "1a141a6a-9b25-4284-8352-2c70d056b9f8",
@@ -5679,9 +4876,7 @@
     "7af6585a-b797-47ad-84f3-a8fec553f67a",
     "7ca35a30-f496-490d-bf55-c3f1abf99178",
     "7cdd68ef-876b-4214-bd85-38dd01ac99c9",
-    "7e2bafb1-2b37-4ad5-b752-73bccf409b27",
     "9db8165e-81c9-4ca0-b1d4-33e5278aa4ca",
-    "a641f3ab-ecb8-4ae9-8728-49b0e2bd26e6",
     "a9ba4a9d-bc12-4218-a66b-867ece6e1746",
     "b51fdffd-16e9-4e0c-9ed7-0a8f8e0a44a2",
     "bb3c38fa-c2b0-4d4f-8c9d-ca1884343474",
@@ -5693,7 +4888,6 @@
     "Shenghua Gao",
     "de729393-e7c5-4cf8-8ca0-ae4c57157ac6",
     "e08ef99f-18bc-4d96-bf48-7636fc5243c4",
-    "e0ac4812-7729-4a2d-8a1f-74b1b7c8eb5d",
     "e153659a-1a81-4740-87fc-68e324169318",
     "e2204e92-e6dc-4884-9bbc-200029491fc7",
     "e2472011-1a31-40d8-ba98-302d7965b9d3",
@@ -5731,9 +4925,8 @@
     "7fc7f660-e356-4aab-839b-c9d9e8cce779",
     "817661da-68b2-43ab-82e2-b196d0336bc8",
     "89d0faf3-9719-42fa-8844-684b36c4cfbe",
-    "91979159-37d8-410f-a245-a33ef80a092b",
     "9245471e-57ea-466a-91bd-98bab49a74ca",
-    "a81d35e6-d5cd-4eef-9144-b0755ef268d1",
+    "Emmanuel J. Candès",
     "a9ba4a9d-bc12-4218-a66b-867ece6e1746",
     "b7850d71-2cee-4c3b-9d53-216d63ca0515",
     "be8f7b80-9c50-4362-afa2-cfd24cfdaee3",
@@ -5774,7 +4967,6 @@
     "98b54b85-dad3-4a1c-bdcd-c479213bf6bb",
     "9a6b2b82-19cf-4a20-820d-0ca09d0860d6",
     "9bc8e3c0-5780-40c1-bd8a-c6bc3a7da597",
-    "b944f77f-113b-4a02-ae5e-d4a124b8fd5b",
     "bb603bec-d27b-47f0-a068-48bde55a0dec",
     "bccc15e7-8707-409a-95fd-6c630f517feb",
     "bee2f277-7c52-40e5-acfc-c6ed913cf890",
@@ -5796,11 +4988,9 @@
   "target": [
     "00ec3f20-26b8-4cd7-9b79-ec3d4365b3cf",
     "22d5d6bd-0183-4f6c-9354-5b849a1ec3eb",
-    "393124a9-9e11-4247-8b01-2355a56ad007",
+    "Guangcan Liu",
     "3b0f815d-631d-4ed0-8357-44b750ef08e6",
-    "415570d4-085c-48ac-a46d-45ff905b4238",
-    "4b4d25b8-76dd-43d5-bb5c-ca55894243f9",
-    "4cfd5d32-dc41-40f9-8742-4023cf122888",
+    "Zhouchen Lin",
     "4f69d576-05f4-48eb-8365-4d411abccdc1",
     "58a7423c-90b5-456d-a3c0-d7ac7575f4a0",
     "6154049b-b6ad-450f-934a-92f83e24ae07",
@@ -5810,13 +5000,10 @@
     "9d7fdc49-6d98-49fe-8072-56ccadbc13fa",
     "9db8165e-81c9-4ca0-b1d4-33e5278aa4ca",
     "a569c45c-b317-46b8-a803-0beaeb5cf25f",
-    "ac23630b-4b0f-4ef3-967d-44b997ea8d80",
     "b51fdffd-16e9-4e0c-9ed7-0a8f8e0a44a2",
     "cfd8e043-a8be-4518-9cf7-943ed6d88b8e",
     "d20e94a5-4bc7-4e4f-92cc-e0577c138a61",
-    "d8ff90e0-edaf-41da-98d1-60c0fbbf86a3",
-    "ea8cd3d8-17ae-4a1e-8f83-1609469087af",
-    "ebfca554-7a3c-4597-954b-07336a2e3030"
+    "d8ff90e0-edaf-41da-98d1-60c0fbbf86a3"
   ],
   "id": 
     "Vishal M. Patel"
@@ -5830,17 +5017,14 @@
     "21c65e83-779d-4cd5-834c-8b9476bcf40b",
     "22ab89ae-a471-409f-ba0a-796d6e6c07c0",
     "23fcad0e-4108-4b2b-b1f7-4b72a8ba50c1",
-    "2b191e7e-e1e8-4cf0-9053-1c2b2b7cd11c",
     "44e38893-b9e0-4608-94e9-f1060a8b8d55",
     "559f4e0e-4611-47cb-8f06-de98ec43fc75",
     "58a3e3b6-cb64-41f6-ae0a-69bc746e3aad",
-    "5d642229-7532-47b1-9483-82098da2f920",
     "5e10d054-8376-4d02-8f82-d7f3b974fde3",
     "6765f61a-6752-4d6b-8eec-de87796b53cb",
     "750f33b7-9ca9-458d-8000-f51f1518982e",
     "7cdd68ef-876b-4214-bd85-38dd01ac99c9",
     "83479553-947a-4ae1-8ee8-e75ea7866a9e",
-    "87d794c5-9089-43d7-a812-de7fd55b1953",
     "8c7b695e-6dab-4f83-be1d-bd0c1c64019b",
     "9b422103-62f1-4683-821b-86ae5ebc20e1",
     "9dd7a250-3036-4d9b-9a2f-56a87256ff36",
@@ -5857,7 +5041,6 @@
     "d9fd813c-58cb-47e6-891f-ea9e6793f830",
     "dd50701e-b775-4ebf-8e71-bb71c4e6018d",
     "e968d352-f69b-4411-bf8b-571f2ec82db0",
-    "ea8cd3d8-17ae-4a1e-8f83-1609469087af",
     "ed94c215-e378-4bdc-bbd2-36c0bc420573"
   ],
   "id": 
@@ -5874,15 +5057,13 @@
   "target": [
     "040708e6-57de-4639-a488-3c68e918cad2",
     "1323877c-8f78-4b04-a52c-2dcfcbf8162b",
-    "1bfaea19-9ccb-4a78-9572-773eca9143be",
+    "Jian-Feng Cai",
     "1ca459f3-22c0-4de2-8edd-ea779a5b6c04",
     "21b7e952-d559-4fb8-8e0e-f9ae7dda156e",
-    "2b191e7e-e1e8-4cf0-9053-1c2b2b7cd11c",
     "586f91a0-c53c-4388-bcfb-c97044669184",
     "68453f24-4276-4d0c-b37e-19d23af549be",
     "755c84ff-0909-43fc-86db-bbe18c366156",
     "7e578899-6e08-4604-bbfa-fd66137daf38",
-    "87d794c5-9089-43d7-a812-de7fd55b1953",
     "8c7ef517-819f-4c01-96e2-b111dae88739",
     "9d29da4e-0292-4e36-ad3f-ee1efeb5d86b",
     "af022893-de71-4566-b2a8-b49fc1d40940",
@@ -5908,9 +5089,8 @@
     "3b0f815d-631d-4ed0-8357-44b750ef08e6",
     "3b36772f-e0de-498b-8128-7dff5f32542b",
     "3bdd822c-24ce-4958-8433-d747202dca12",
-    "3c032e2b-79c1-437e-bf64-a0336daa2e21",
     "40d38cfa-21bc-40d6-a947-01d0e9d9908f",
-    "415570d4-085c-48ac-a46d-45ff905b4238",
+    "Zhouchen Lin",
     "4299a511-ca97-4bbf-ad3a-037c9058051d",
     "47b09a19-0c16-452b-8459-4348cde02256",
     "484039c7-b088-4188-9394-b3b91188c6a4",
@@ -5923,7 +5103,6 @@
     "7d257986-74e9-48a3-bc2d-cdaaf7f37cd6",
     "7dd1b051-4aec-4d5f-bcab-0363e7b96ea5",
     "807b8ea8-a82a-46ae-87d4-387ea795fa7a",
-    "87d794c5-9089-43d7-a812-de7fd55b1953",
     "880746df-3125-4134-b3e4-09da05efdb2f",
     "8b8a2247-bd77-4736-b493-449734f56b9a",
     "8d002dfc-f8fc-4236-a2b1-1364d130816c",
@@ -5945,7 +5124,6 @@
     "e2412d71-e723-457a-a395-0c988c1a193d",
     "e48ae9b9-f7d1-4bf9-8de1-495f4d71807f",
     "e95dd5ec-bdb6-4908-a1e6-1c897f7ea392",
-    "ea8cd3d8-17ae-4a1e-8f83-1609469087af",
     "f2f453d8-2e1a-47dd-bea2-19e5c741f667",
     "f677b5dd-d188-4300-a7e8-1d90d81bd114",
     "fa5a2cc0-e3eb-4085-b795-3e2e7df4fef0",
@@ -5957,12 +5135,9 @@
   "title": "A subspace co-training framework for multi-view clustering",
   "year": 2014,
   "target": [
-    "06dc0648-62ce-4357-8fb5-9d0dbd83faed",
     "1323877c-8f78-4b04-a52c-2dcfcbf8162b",
     "17256e55-24e3-4607-869d-ba2c9bcb9f51",
-    "2b191e7e-e1e8-4cf0-9053-1c2b2b7cd11c",
     "5a7a0988-670c-4ab3-ace4-f7fb59fefca7",
-    "5d642229-7532-47b1-9483-82098da2f920",
     "5d84cc94-3a29-47a1-a9b6-4e397c987479",
     "6d22f04e-3c61-43c7-8d08-903d50be3a85",
     "7c158b31-d36c-4e18-80a8-832decebde1a",
@@ -5974,8 +5149,7 @@
     "b029c38f-ad57-46b2-9c51-f7dcde087555",
     "c331aef3-bf7d-4f0b-95f2-1d31570e7144",
     "A. Kumar",
-    "e08d8f3f-877f-4ed5-b4a4-59d236a0c436",
-    "ea8cd3d8-17ae-4a1e-8f83-1609469087af"
+    "e08d8f3f-877f-4ed5-b4a4-59d236a0c436"
   ],
   "id": 
     "Xuran Zhao"
@@ -5983,22 +5157,15 @@
   "title": "A closed form solution to robust subspace estimation and clustering",
   "year": 2011,
   "target": [
-    "0ef86310-d001-49c3-ace0-0d20374148de",
-    "19a146bb-8fc4-48ce-878a-0839587b3f07",
-    "1bfaea19-9ccb-4a78-9572-773eca9143be",
-    "393124a9-9e11-4247-8b01-2355a56ad007",
-    "415570d4-085c-48ac-a46d-45ff905b4238",
-    "4b4d25b8-76dd-43d5-bb5c-ca55894243f9",
-    "4c9f2bac-2f23-4170-a0f1-a3001f63a7b9",
-    "4cfd5d32-dc41-40f9-8742-4023cf122888",
-    "6ff01654-66d1-49c7-b526-1c8ed7fa893a",
-    "70ae29bb-ae72-41c0-9ea9-f17ba2372ccc",
-    "7c90045b-63b9-4f29-82a0-bf7c914a6ef6",
-    "a81d35e6-d5cd-4eef-9144-b0755ef268d1",
-    "ac23630b-4b0f-4ef3-967d-44b997ea8d80",
-    "b48833a6-8c74-4e4d-8ac8-a24988e4c774",
+    "Ehsan Elhamifar",
+    "Jian-Feng Cai",
+    "Guangcan Liu",
+    "Zhouchen Lin",
+    "Benjamin Recht",
+    "René Vidal",
+    "Emmanuel J. Candès",
     "Shankar R. Rao",
-    "edd0d1b5-d544-4182-af0e-e9a344e6c9e3"
+    "Necmiye Ozay"
   ],
   "id": 
     "Paolo Favaro"
@@ -6009,10 +5176,10 @@
     "0c4fcc0e-d3ad-44bf-bb19-881c4d9c0c84",
     "0cf74b67-545e-4e06-8a9f-cd921fb9565e",
     "1478c6cb-5976-49f7-b096-edbcfd9d67d0",
-    "1bfaea19-9ccb-4a78-9572-773eca9143be",
+    "Jian-Feng Cai",
     "22d5d6bd-0183-4f6c-9354-5b849a1ec3eb",
     "2f3c1f28-db7e-4399-ba30-6b8fb1377318",
-    "415570d4-085c-48ac-a46d-45ff905b4238",
+    "Zhouchen Lin",
     "482f0fc9-58b0-46d1-9310-776e00d5cf3b",
     "56ebd570-632f-4348-9e5f-9dd866c98eb1",
     "64cb4f87-45cb-4ceb-bbbe-9bf2627640d1",
@@ -6020,15 +5187,14 @@
     "767319b3-1d27-402f-b411-7a158ad19ae5",
     "a0badd02-741e-4e10-bb82-d03e9156f6ec",
     "a2d4f788-c746-4575-a16d-42d4197e2bb4",
-    "a81d35e6-d5cd-4eef-9144-b0755ef268d1",
+    "Emmanuel J. Candès",
     "a9ba4a9d-bc12-4218-a66b-867ece6e1746",
     "b7850d71-2cee-4c3b-9d53-216d63ca0515",
     "bbc58b53-0fcf-47ee-a57c-5c55bc042782",
     "cf285877-bc98-466b-8802-e70320cbafa9",
     "e6a1607a-88cf-4964-afb5-41f97f7fe2e2",
     "f3372004-8d32-439b-ae87-0f496c906e67",
-    "f48fb36d-f6ef-4f77-b053-08fe20108ab0",
-    "fc2aafdb-950b-4031-a9e2-46952518a135"
+    "f48fb36d-f6ef-4f77-b053-08fe20108ab0"
   ],
   "id": 
     "Heng Zhang"
@@ -6041,24 +5207,18 @@
     "182520e6-ad4c-4763-9968-e6445409d99b",
     "3647da95-2471-4feb-94a7-dc14e699c18c",
     "37cfee3a-6b0b-4aa7-95d3-3fc97dafa048",
-    "393124a9-9e11-4247-8b01-2355a56ad007",
+    "Guangcan Liu",
     "3b0f815d-631d-4ed0-8357-44b750ef08e6",
-    "415570d4-085c-48ac-a46d-45ff905b4238",
-    "4cfd5d32-dc41-40f9-8742-4023cf122888",
+    "Zhouchen Lin",
     "6154049b-b6ad-450f-934a-92f83e24ae07",
-    "70ae29bb-ae72-41c0-9ea9-f17ba2372ccc",
-    "7c90045b-63b9-4f29-82a0-bf7c914a6ef6",
+    "René Vidal",
     "8f865724-3fb5-405a-80cc-a4df54bfc45d",
     "8fa0d827-01d1-40d9-a812-f3e028c79085",
     "91107696-0457-4f5c-b384-e19739490b5a",
     "a42a1791-2109-4007-899d-6cdf7d6fa4e6",
-    "a5d31c22-bdb4-4f0d-ab7b-4af2a8e37b9c",
-    "ac23630b-4b0f-4ef3-967d-44b997ea8d80",
     "afcbb2af-3c42-4c43-ba44-0889bd1c95d4",
-    "b48833a6-8c74-4e4d-8ac8-a24988e4c774",
     "d3745a56-704c-40d4-849c-7af0721a41b1",
     "dd09b758-5c43-405d-895c-9275c68da2e4",
-    "ea8cd3d8-17ae-4a1e-8f83-1609469087af",
     "f291b072-6b96-4417-b566-4b616ef7e813"
   ],
   "id": 
@@ -6076,20 +5236,18 @@
     "07c2aaf1-a326-47e2-bcdb-3861776527f7",
     "0c151818-b6c3-4e8a-89a8-9a84a22c7249",
     "13a30c34-b7c2-444f-964c-6566acf3c648",
-    "19a146bb-8fc4-48ce-878a-0839587b3f07",
+    "Ehsan Elhamifar",
     "1c629a57-2c9c-4f03-a696-bcaa54e1ea76",
     "3571d0c0-51b8-41c7-980e-4131fae8cadb",
     "37cfee3a-6b0b-4aa7-95d3-3fc97dafa048",
     "3a7fa722-5ba8-4f2c-b6a5-cb42b1687275",
     "3b0f815d-631d-4ed0-8357-44b750ef08e6",
     "3dce5456-9e3d-4e29-b31d-c1d6e330cc07",
-    "415570d4-085c-48ac-a46d-45ff905b4238",
+    "Zhouchen Lin",
     "42b3d174-1e77-4880-b222-781b726ced8d",
     "4809ac37-e8f2-429d-a612-8e4c576a2465",
     "48a30618-c7f8-4552-9fed-d3ad21aa6605",
     "4abe3ad9-7d7f-4899-9aca-0325600eb7ec",
-    "4cfd5d32-dc41-40f9-8742-4023cf122888",
-    "4d452e49-1f68-4f06-b52e-45da5a46895f",
     "4da61b5d-6445-42b0-b3a7-feebd571dbcd",
     "4e517fa8-b591-4f4d-85f9-f2fa81e81984",
     "4ff42208-3f2e-4c54-bc20-ed699ebe05fb",
@@ -6101,10 +5259,8 @@
     "653505cd-543f-493e-9f2e-22d2428e14f8",
     "69db5ada-da30-4768-b722-60a54c2e510f",
     "6ee3760d-4b29-426b-88b2-3dab1b361a61",
-    "6ff01654-66d1-49c7-b526-1c8ed7fa893a",
-    "70ae29bb-ae72-41c0-9ea9-f17ba2372ccc",
-    "71a18de9-e543-4337-ab7a-3db31d9f8c00",
-    "76c13b0f-60d1-48c8-bc29-2c0bbf25b8cc",
+    "René Vidal",
+     "Roman Vershynin",
     "77f542d5-4aef-4d7c-b38a-6cbed070fc9f",
     "7c863f81-9cb0-46c0-8795-004570d2c6c5",
     "8adcf167-4789-4697-aaf3-4294d6e11bd1",
@@ -6117,9 +5273,7 @@
     "bfd0c508-4407-4c58-9001-fe5f206aa5bb",
     "d953f944-1446-46e5-8eef-5a463494c23c",
     "e314a6df-ef67-4d4a-b136-aa509842da30",
-    "e7661c61-2d14-409a-bf64-35129ca2d254",
-    "ea8cd3d8-17ae-4a1e-8f83-1609469087af",
-    "edd0d1b5-d544-4182-af0e-e9a344e6c9e3"
+    "Necmiye Ozay"
   ],
   "id": 
     "Ehsan Elhamifar"
@@ -6127,19 +5281,7 @@
   "title": "Co-regularized Multi-view Spectral Clustering",
   "year": 2011,
   "target": [
-    "0184b574-4969-49e4-8822-aab37f0b8862",
-    "06dc0648-62ce-4357-8fb5-9d0dbd83faed",
-    "0ad38f3e-8131-4287-9e62-2b2ae77f47f7",
-    "2b191e7e-e1e8-4cf0-9053-1c2b2b7cd11c",
-    "33059499-335c-4d40-bc2d-dd15cb34b74c",
-    "3c032e2b-79c1-437e-bf64-a0336daa2e21",
-    "5d642229-7532-47b1-9483-82098da2f920",
-    "7c90045b-63b9-4f29-82a0-bf7c914a6ef6",
-    "87d794c5-9089-43d7-a812-de7fd55b1953",
-    "9d23d60c-a48a-4a72-901b-b6a1815365fb",
-    "9d5ddbdd-7c25-4e74-8f7a-59b897297f6d",
-    "b5ed7586-8f67-4e79-ac6b-f8cd6422650a",
-    "ea8cd3d8-17ae-4a1e-8f83-1609469087af"
+    "Donglin Niu"
   ],
   "id": 
     "A. Kumar"
@@ -6149,8 +5291,7 @@
   "target": [
     "0bc83749-8225-4f84-975c-5674e021dcf8",
     "0f80ec27-572e-473b-a403-f0f7c47c4743",
-    "109367fa-db04-4db0-8777-d6ca7e9e78fd",
-    "1bfaea19-9ccb-4a78-9572-773eca9143be",
+    "Jian-Feng Cai",
     "1c3e927a-4bb1-476e-887c-19f822975448",
     "25b678e1-fe98-4ecb-929f-9efc06d6ad85",
     "29abedd4-853e-4ea1-9d34-023eee0227a7",
@@ -6159,14 +5300,13 @@
     "50a58824-e4e6-472a-80a2-30adcb3d6822",
     "553d5bba-c95f-4a24-89a1-3682ee025259",
     "5ab1529e-c6f9-4fa9-a461-9294e5639748",
-    "5cc51c6b-04cc-4d21-b78c-c291f776b859",
+    "Shiqian Ma",
     "5e10d054-8376-4d02-8f82-d7f3b974fde3",
-    "5e8b0e8a-d687-4333-bfe9-73b4c1bebde5",
     "67247d3a-986c-4559-aa67-6783c8ff782f",
     "7196c9a8-d95d-493f-a6e4-9b1f653c3a01",
     "72e71d9c-0b0c-41f6-9599-69f327ca0824",
     "78cd5a83-5613-4c20-ae4e-7c26b8f4b78e",
-    "a81d35e6-d5cd-4eef-9144-b0755ef268d1",
+    "Emmanuel J. Candès",
     "c5138491-5f5d-4fef-9bd2-8a9de24fb1fc",
     "cc82b36d-c96c-4a42-acf1-4c4d30f1bb74",
     "f49fb38c-20c2-4122-a082-301dcf2c40f6",
@@ -6187,7 +5327,6 @@
     "0c4fcc0e-d3ad-44bf-bb19-881c4d9c0c84",
     "56ebd570-632f-4348-9e5f-9dd866c98eb1",
     "7236dbb7-f0b2-4e28-bb7c-6de187c32d64",
-    "91979159-37d8-410f-a245-a33ef80a092b",
     "b7850d71-2cee-4c3b-9d53-216d63ca0515",
     "f3372004-8d32-439b-ae87-0f496c906e67"
   ],
@@ -6201,17 +5340,12 @@
     "2caf053c-09a4-4536-b303-6d4c834e429a",
     "2d94566b-ac2d-49b0-a867-2392c41a2172",
     "32a53bab-1ede-4869-98ad-d2ff0c1e3367",
-    "4bbacb77-1097-4cc5-b001-6554ea01fb75",
     "657e0ce9-3a0c-4cc3-ac69-0f60aaf955f1",
-    "73ec9d29-4fc5-4019-97d3-c496c8509f37",
-    "820b9eee-e009-4dc1-b464-f5fd4485d6b3",
-    "a21b42c9-dff1-4cf2-becd-0bc9f922ea72",
     "adea0a98-d74d-43be-a238-a1ef027c6a58",
     "bd62aacb-5037-43d3-926a-af4d38ec3bfc",
-    "c700dc12-7eac-4091-8462-527773668dfa",
+    "Vinod Nair",
     "c9482f1f-6600-44a7-a69a-e63ef13cdff8",
-    "ca250ca4-70fd-411f-8cc7-fb17be31cd9e",
-    "f7ac19b7-daaf-4dc1-bbb9-7f4ffd7385ba"
+    "Srinivas C. Turaga"
   ],
   "id": 
     "Alex Krizhevsky"
@@ -6268,9 +5402,7 @@
 },{
   "title": "Optimal removal of out-of-sequence measurements from tracks using the IF-equivalent measurement",
   "year": 2010,
-  "target": [
-    "e54f66cf-ae82-49d5-a22b-784f08bfcabe"
-  ],
+  "target": [],
   "id": 
     "Shuo Zhang"
 },{
@@ -6293,32 +5425,31 @@
   "title": "Robust decentralized direct adaptive output feedback fuzzy control for a class of large-sale nonaffine nonlinear systems",
   "year": 2011,
   "target": [
-    "0655ad80-ac6a-45a8-ab7a-ab9071e45f20",
-    "0ca5670c-1427-4dd1-aebb-884ef314356f",
-    "21c5d131-6111-40c5-9b77-ecadd65c2cfb",
     "Bing Chen",
-    "3faa6244-4283-4ece-b8f4-3ffe32b7653d",
-    "4b7dfa72-397b-492f-b13c-9f594d5e015b",
-    "5073b9a4-0941-45f1-bb33-cd1eb5115026",
-    "79c374d8-9296-448a-9442-047c17f7bbcd",
-    "826da568-d1fa-41b0-bd71-9fbe2c9453c6",
-    "843ecec6-97e8-45c4-945d-7c3889874d6d",
-    "8f13c029-7f7d-4f66-b2ad-796f47d14ef9",
-    "92583c86-8122-4033-b249-9133610a0ecd",
-    "a207dc86-bde1-48c9-b5b2-401239bd897d",
-    "a69478c0-b9bb-4b06-b796-e287c2aa1270",
-    "b1458a1c-7482-4e92-8406-b2d20d18b793",
-    "cb7f7dad-b261-42eb-9b19-0e3ed9ad4f6a",
-    "d055c750-071a-400b-a891-20c0aa944720",
-    "d9845ec6-1bac-46a3-8bdb-3f38b9830543",
-    "dc94b43c-34f4-411a-a973-46b36e35b775",
-    "e275159a-a892-4bd0-b42b-0880f0f14473",
-    "e516ce64-5ca3-4918-af9b-ec71e038ad3f",
-    "e5b7c026-196d-47fd-8444-0be85c63f4b4",
-    "e65ac882-26a9-4284-bbbf-43f0308b6123"
+    "Yan-Jun Liu",
+    "B. Karimi",
+    "Shaocheng Tong"
   ],
   "id": 
     "Yi-Shao Huang"
+},{
+  "title": "Fuzzy adaptive robust backstepping stabilization for SISO nonlinear systems with unknown virtual control direction",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Shaocheng Tong"
+},{
+  "title": "Non-affine nonlinear adaptive control of decentralized large-scale systems using neural networks",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "B. Karimi"
+},{
+  "title": "Robust Adaptive Tracking Control for Nonlinear Systems Based on Bounds of Fuzzy Approximation Parameters",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Yan-Jun Liu"
 },{
   "title": "Decentralized adaptive output-feedback control for a class of nonlinear large-scale systems with unknown time-varying delayed interactions",
   "year": 2012,
@@ -6332,7 +5463,7 @@
     "70d78f52-ec07-4d9e-b763-1c8aca66df62",
     "75c9ecf8-e722-4526-b8db-73f805ea18ae",
     "9cc98cc8-533a-419a-960e-99c77149f3b0",
-    "a69478c0-b9bb-4b06-b796-e287c2aa1270",
+     "B. Karimi",
     "b245d9e0-4ea6-458d-b766-3196e754d7b4",
     "b248bdb9-aac2-4548-b060-b21ecb921862",
     "bc9fadf1-e955-49ca-b90c-1b9811b5f3d8",
@@ -6370,21 +5501,7 @@
 },{
   "title": "Modeling the Skull–Face Overlay Uncertainty Using Fuzzy Sets",
   "year": 2011,
-  "target": [
-    "07082b61-9055-407c-980f-e9069a6c3e7c",
-    "145213e9-fb2b-4f49-85aa-6b9462dc5e44",
-    "2ecd1bdc-3713-4dde-b9ef-5c07862237f7",
-    "36e2290a-d302-487a-aac6-2fa8f3c8a1b1",
-    "52d7c8b1-3bc6-4223-a110-db24c3c08ec8",
-    "6679bf1d-b593-451f-934d-6d7885710fba",
-    "69b621e2-77fa-4506-b1c4-985a6d0d3aae",
-    "75698a96-86ea-4fbb-bd54-fa3e2d350d49",
-    "7e21b45c-ea85-4d71-b4c4-899ae0d04c73",
-    "a7bdace3-4ab0-4fee-af6b-3aadebc9638c",
-    "ad6cebdf-e58f-4be5-8c0a-74b48fbd43ce",
-    "b03ac655-47f1-49e9-a73f-6af3d63993f6",
-    "c13e5e43-1f0f-45f9-9726-89a8a009db64"
-  ],
+  "target": [],
   "id": 
     "O. Cordón"
 },{  "title": "Microscopic autofocusing using regional monotonous variations of multiple focal value measures",
@@ -6401,10 +5518,7 @@
 },{
   "title": "Accurate Telemonitoring of Parkinson's Disease Progression by Noninvasive Speech Tests",
   "year": 2010,
-  "target": [
-    "1080cf45-e80d-405a-8dd0-a41d57da3dcb",
-    "fd1540fe-1466-44c9-99a9-5cb6c6d1500c"
-  ],
+  "target": [],
   "id": 
     "Athanasios Tsanas"
 },{
@@ -6417,21 +5531,16 @@
   "title": "Further Results on Exponential Estimates of Markovian Jump Systems With Mode-Dependent Time-Varying Delays",
   "year": 2011,
   "target": [
-    "10472540-2830-42a4-a716-006e8a2f460e",
-    "1dae040f-2c2f-419b-81d6-d398e46c068b",
-    "608dba1a-b81b-428d-b9c1-bfa8b9bafff0",
-    "830d3ec4-56d8-4286-a0c0-ab2163c56ac8",
-    "8f95ab31-6eb7-4dea-983c-9ed6dcfdb359",
-    "a549ff6c-055b-4be4-991e-64ae4d24c0b0",
-    "b4d0e220-0621-453d-81e1-84af43563652",
-    "c01de22f-f87b-4504-9a47-484ff8a67f57",
-    "d59063e2-e7ce-4ef9-a8b0-85e76bfdf37a",
-    "e9abaeaa-5dcb-48a0-ade0-8e289df97cac",
-    "ef913c6b-3f41-4734-afd7-c9d52f583175",
-    "f21b09b0-2787-42dd-9505-cd234a99667f"
+    "Zidong Wang"
   ],
   "id": 
     "Huijun Gao"
+},{
+  "title": "Exponential Stabilization of a Class of Stochastic System With Markovian Jump Parameters and Mode-Dependent Mixed Time-Delays",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Zidong Wang"
 },{
   "title": "Robust state estimation for stochastic genetic regulatory networks",
   "year": 2010,
@@ -6472,33 +5581,705 @@
   "title": "New results on H∞ filtering for fuzzy systems with interval time-varying delays",
   "year": 2011,
   "target": [
-    "15fed975-7b6e-45e0-9c9b-1802e28aec15",
-    "1879c027-a39e-4cab-949c-890314522863",
-    "24365db3-eeb9-479c-a97b-4884475e9188",
-    "3600e0ef-f226-470f-8b9b-6cf452bc2568",
-    "5acc263e-e192-440d-8d27-bf6e8b64e0b1",
-    "5c593968-bcdd-4d59-95fd-e2f2f4918372",
-    "5cb3a3ee-16cb-4796-ba1d-fa890e8beff1",
-    "6a7f80b4-a8f9-4e31-980f-14313b8e040c",
-    "6f734c6f-1ddb-45a2-a06f-61f196799e1c",
-    "8393a839-da13-41ce-8aaf-d4ace7323de4",
-    "b55b93bf-7a48-4f8f-8fea-c497b86246ed",
-    "b6887f71-0b26-4602-895c-841dc9122999",
-    "b7cae51c-f5f8-4fca-8529-caf345f3fd68",
-    "b9f2954c-3de3-4329-825a-411c1671c459",
-    "c8bceca2-d9b5-4958-8739-1aafd2d1616d",
-    "db784315-42cf-4b73-bc6a-44060880839a",
-    "dd8d28da-88ab-4d3d-aed1-912ab97cf09a",
-    "f324b0f0-4fb6-42d6-b42b-c0ad95bfb535",
-    "f560049c-0755-4443-a8c1-2ef9a0dc913b",
-    "fa263018-f565-4b80-ba61-86cdb46b09df"
+    "Chang-Ho Hyun"
   ],
   "id": 
     "Yan Zhao"
+},{
+  "title": "Takagi-Sugeno fuzzy model based indirect adaptive fuzzy observer and controller design",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Chang-Ho Hyun"
 },{
   "title": "Input-Delayed Control of Uncertain Seat Suspension Systems With Human-Body Model",
   "year": 2010,
   "target": [],
   "id": 
     "Huijun Gao"
+},{
+  "title": "On-line Handwritten Japanese Characters Recognition Using a MRF Model with Parameter Optimization by CRF",
+  "year": 2011,
+  "target": [],
+  "id": 
+    "Bilan Zhu"
+},{
+  "title": "SCUT-COUCH2009—a comprehensive online unconstrained Chinese handwriting database and benchmark evaluation",
+  "year": 2011,
+  "target": [],
+  "id": 
+    "Lianwen Jin"
+},{
+  "title": "A Coarse Classifier Construction Method from a Large Number of Basic Recognizers for On-line Recognition of Handwritten Japanese Characters",
+  "year": 2011,
+  "target": [
+    "Cheng-Lin Liu",
+    "Bilan Zhu"
+  ],
+  "id": 
+    "Masaki Nakagawa"
+},{
+  "title": "MQDF Discriminative Learning Based Offline Handwritten Chinese Character Recognition",
+  "year": 2011,
+  "target": [],
+  "id":
+    "Yanwei Wang"
+},{
+  "title": "Perceptron Learning of Modified Quadratic Discriminant Function",
+  "year": 2011,
+  "target": [
+    "Xiao-Bo Jin",
+    "Qiang Huo",
+    "C. Panagiotakopoulos"
+  ],
+  "id": 
+    "Tonghua Su"
+},{
+  "title": "The Margin Perceptron with Unlearning",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "C. Panagiotakopoulos"
+},{
+  "title": "Sample-separation-margin based minimum classification error training of pattern classifiers with quadratic discriminant functions",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Qiang Huo"
+},{
+  "title": "Regularized margin-based conditional log-likelihood loss for prototype learning",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Xiao-Bo Jin"
+},{
+  "title": "ICDAR 2011 Chinese Handwriting Recognition Competition",
+  "year": 2011,
+  "target": [
+    "Bilan Zhu",
+    "Lianwen Jin",
+    "Ueli Meier",
+    "Masaki Nakagawa",
+    "Yanwei Wang",
+    "Tonghua Su",
+    "Cheng-Lin Liu",
+    "Jonathan Masci",
+    "Nanxi Li",
+    "Qiufeng Wang",
+    "Jinfeng Gao"
+  ],
+  "id": 
+    "Fei Yin"
+},{
+  "title": "Objective Function Design for MCE-Based Combination of On-line and Off-line Character Recognizers for On-line Handwritten Japanese Text Recognition",
+  "year": 2011,
+  "target": [
+    "Masaki Nakagawa",
+    "Yojiro Tonouchi",
+    "Cheng-Lin Liu",
+    "Christopher Kermorvant"
+  ],
+  "id": 
+    "Jinfeng Gao"
+},{
+  "title": "The A2iA-Telecom ParisTech-UOB System for the ICDAR 2009 Handwriting Recognition Competition",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Christopher Kermorvant"
+},{
+  "title": "Path Evaluation and Character Classifier Training on Integrated Segmentation and Recognition of Online Handwritten Japanese Character String",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Yojiro Tonouchi"
+},{
+  "title": "CASIA Online and Offline Chinese Handwriting Databases",
+  "year": 2011,
+  "target": [
+    "Lianwen Jin",
+    "Shusen Zhou"
+  ],
+  "id": 
+    "Qiufeng Wang"
+},{
+  "title": "HIT-OR3C: an opening recognition corpus for Chinese characters",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Shusen Zhou"
+},{
+  "title": "A Bayesian-based probabilistic model for unconstrained handwritten offline Chinese text line recognition",
+  "year": 2010,
+  "target": [],
+  "id":
+    "Nanxi Li"
+},{
+  "title": "A robust model for on-line handwritten japanese text recognition",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Cheng-Lin Liu"
+},{
+  "title": "Evaluation of pooling operations in convolutional architectures for object recognition",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Dominik Scherer"
+},{
+  "title": "Deep, big, simple neural nets for handwritten digit recognition",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Ueli Meier"
+},{
+  "title": "Flexible, high performance convolutional neural networks for image classification",
+  "year": 2011,
+  "target": [
+    "Kai Yu",
+    "Luca Maria Gambardella",
+    "Adam Coates",
+    "Dominik Scherer",
+    "Daniel Strigl",
+    "Ueli Meier",
+    "Jürgen Schmidhuber",
+    "Y-Lan Boureau"
+  ],
+  "id": 
+    "Jonathan Masci"
+},{
+  "title": "A Theoretical Analysis of Feature Pooling in Visual Recognition",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Y-Lan Boureau"
+},{
+  "title": "Performance and Scalability of GPU-Based Convolutional Neural Networks",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Daniel Strigl"
+},{
+  "title": "Modeling pixel means and covariances using factorized third-order boltzmann machines",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Marc'Aurelio Ranzato"
+},{
+  "title": "An Analysis of Single-Layer Networks in Unsupervised Feature Learning",
+  "year": 2011,
+  "target": [
+    "Marc'Aurelio Ranzato",
+    "Kai Yu",
+    "Marc'Aurelio Ranzato",
+    "Y-Lan Boureau",
+    "Jean Ponce",
+    "Koray Kavukcuoglu"
+  ],
+  "id": 
+    "Adam Coates"
+},{
+  "title": "Learning mid-level features for recognition",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Jean Ponce"
+},{
+  "title": "Factored 3-Way Restricted Boltzmann Machines For Modeling Natural Images",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Marc'Aurelio Ranzato"
+},{
+  "title": "Better Digit Recognition with a Committee of Simple Neural Nets",
+  "year": 2011,
+  "target": [
+    "Johannes Stallkamp",
+    "Ueli Meier",
+    "Jürgen Schmidhuber"
+  ],
+  "id": 
+    "Luca Maria Gambardella"
+},{
+  "title": "Improved Local Coordinate Coding using Local Tangents",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Kai Yu"
+},{
+  "title": "A committee of neural networks for traffic sign classification",
+  "year": 2011,
+  "target": [
+    "Johannes Stallkamp",
+    "Dominik Scherer",
+    "Daniel Strigl",
+    "Ueli Meier",
+    "Jonathan Masci"
+  ],
+  "id": 
+    "Jürgen Schmidhuber"
+},{
+  "title": "The German Traffic Sign Recognition Benchmark: A multi-class classification competition",
+  "year": 2011,
+  "target": [
+    "S. Maldonado Bascon",
+    "Dominik Scherer",
+    "Ueli Meier",
+    "Jürgen Schmidhuber"
+  ],
+  "id": 
+    "Johannes Stallkamp"
+},{
+  "title": "An optimization on pictogram identification for the road-sign recognition task using SVMs",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "S. Maldonado Bascon"
+},{
+  "title": "Handwritten Digit Recognition with a Committee of Deep Neural Nets on GPUs",
+  "year": 2011,
+  "target": [
+    "Ueli Meier"
+  ],
+  "id": 
+    "Luca Maria Gambardella"
+},{
+  "title": "Convolutional networks can learn to generate affinity graphs for image segmentation",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Srinivas C. Turaga"
+},{
+  "title": "Sequential Labeling Using Deep-Structured Conditional Random Fields",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Dong Yu"
+},{
+  "title": "Learning a better representation of speech soundwaves using restricted boltzmann machines",
+  "year": 2011,
+  "target": [
+    "Marc'Aurelio Ranzato",
+    "Roland Memisevic",
+    "Vinod Nair"
+  ],
+  "id": 
+    "Navdeep Jaitly"
+},{
+  "title": "Rectified Linear Units Improve Restricted Boltzmann Machines",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Vinod Nair"
+},{
+  "title": "Learning to represent spatial transformations with factored higher-order boltzmann machines",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Roland Memisevic"
+},{
+  "title": "Investigation of Full-Sequence Training of Deep Belief Networks for Speech Recognition",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Abdel-rahman Mohamed"
+},{
+  "title": "A comparative large scale study of MLP features for Mandarin ASR.",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Mathew Magimai-Doss"
+},{
+  "title": "A log-linear discriminative modeling framework for speech recognition",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Georg Heigold"
+},{
+  "title": "Learning to detect roads in high-resolution aerial images",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Volodymyr Mnih"
+},{
+  "title": "Acoustic Modeling Using Deep Belief Networks",
+  "year": 2012,
+  "target": [
+    "Marc'Aurelio Ranzato",
+    "Geoffrey E. Hinton",
+    "Volodymyr Mnih",
+    "George E. Dahl"
+  ],
+  "id": 
+    "Abdel-rahman Mohamed"
+},{
+  "title": "A Practical Guide to Training Restricted Boltzmann Machines",
+  "year": 2012,
+  "target": [
+    "Ilya Sutskever",
+    "Abdel-rahman Mohamed",
+    "Vinod Nair"
+  ],
+  "id":
+    "Geoffrey E. Hinton"
+},{
+  "title": "Phone recognition using Restricted Boltzmann Machines",
+  "year": 2010,
+  "target": [],
+  "id":
+    "Abdel-rahman Mohamed"
+},{
+  "title": "On the Convergence Properties of Contrastive Divergence",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Ilya Sutskever"
+},{
+  "title": "Why Does Unsupervised Pre-training Help Deep Learning?",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Dumitru Erhan"
+},{
+  "title": "Context-Dependent Pre-Trained Deep Neural Networks for Large-Vocabulary Speech Recognition",
+  "year": 2012,
+  "target": [
+    "Mathew Magimai-Doss",
+    "Marc'Aurelio Ranzato",
+    "James Martens",
+    "Clarence Simard",
+    "Marc'Aurelio Ranzato",
+    "Georg Heigold",
+    "Abdel-rahman Mohamed",
+    "Alex Acero",
+    "Dumitru Erhan",
+    "Abdel-rahman Mohamed",
+    "Volodymyr Mnih",
+    "Dong Yu"
+  ],
+  "id": 
+    "George E. Dahl"
+},{
+  "title": "Large vocabulary continuous speech recognition with context-dependent DBN-HMMS",
+  "year": 2011,
+  "target": [
+    "Marc'Aurelio Ranzato",
+    "Abdel-rahman Mohamed",
+    "Dong Yu",
+    "Michael L. Seltzer"
+  ],
+  "id": 
+    "Alex Acero"
+},{
+  "title": "Deep-Structured Hidden Conditional Random Fields for Phonetic Recognition",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Dong Yu"
+},{
+  "title": "Binary Coding of Speech Spectrograms Using a Deep Auto-encoder",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Michael L. Seltzer"
+},{
+  "title": "Phone Recognition with the Mean-Covariance Restricted Boltzmann Machine",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Marc'Aurelio Ranzato"
+},{
+  "title": "Poly-logarithmic independence fools bounded-depth boolean circuits",
+  "year": 2011,
+  "target": [],
+  "id": 
+    "Mark Braverman"
+},{
+  "title": "DECISION TREES DO NOT GENERALIZE TO NEW VARIATIONS",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Clarence Simard"
+},{
+  "title": "Sum-product networks: A new deep architecture",
+  "year": 2011,
+  "target": [],
+  "id": 
+    "Hoifung Poon"
+},{
+  "title": "Learning Convolutional Feature Hierarchies for Visual Recognition",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Koray Kavukcuoglu"
+},{
+  "title": "Developing a test collection for the evaluation of integrated search",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Marianne Lykke"
+},{
+  "title": "Extending average precision to graded relevance judgments",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Stephen Robertson"
+},{
+  "title": "Deep belief networks are compact universal approximators",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Nicolas Le Roux"
+},{
+  "title": "Learning in deep architectures with folding transformations",
+  "year": 2013,
+  "target": [
+    "Nicolas Le Roux"
+  ],
+  "id":
+    "Lech Szymanski"
+},{
+  "title": "Exploring reductions for long web queries",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Niranjan Balasubramanian"
+},{
+  "title": "Learning to rank query reformulations",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Van Dang"
+},{
+  "title": "Predicting query performance on the web",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Giridhar Kumaran"
+},{
+  "title": "Learning to select rankers",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "James Allan"
+},{
+  "title": "Improving verbose queries using subset distribution",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "W. Bruce Croft"
+},{
+  "title": "Query reformulation using anchor text",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Bruce Croft"
+},{
+  "title": "Numerical Solution of the Hartree-Fock Equation in Multilevel Tensor-Structured Format",
+  "year": 2011,
+  "target": [
+    "Boris N. Khoromskij"
+  ],
+  "id": 
+    "Boris N. Khoromskij"
+},{
+  "title": "Hierarchical Singular Value Decomposition of Tensors",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Lars Grasedyck"
+},{
+  "title": "Fast and accurate tensor approximation of a multivariate convolution with linear scaling in dimension",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Boris N. Khoromskij"
+},{
+  "title": "Score distribution models: assumptions, intuition, and robustness to score manipulation",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Evangelos Kanoulas"
+},{
+  "title": "A Singular Value Thresholding Algorithm for Matrix Completion",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Jian-Feng Cai"
+},{
+  "title": "Unsupervised Object Segmentation with a Hybrid Graph Model (HGM)",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Yong Yu"
+},{
+  "title": "Clustering disjoint subspaces via sparse representation",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Ehsan Elhamifar"
+},{
+  "title": "Guaranteed Minimum-Rank Solutions of Linear Matrix Equations via Nuclear Norm Minimization",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Benjamin Recht"
+},{
+  "title": "Robust principal component analysis",
+  "year": 2011,
+  "target": [
+    "Jian-Feng Cai",
+    "Donald Goldfarb",
+    "Benjamin Recht",
+    "Shiqian Ma",
+    "Stephen Becker",
+    "Roman Vershynin",
+    "Terence Tao",
+    "Yaniv Plan",
+    "Raghunandan H. Keshavan",
+    "David J. Gross"
+  ],
+  "id":
+    "Emmanuel J. Candès"
+},{
+  "title": "Recovering Low-Rank Matrices From Few Coefficients in Any Basis",
+  "year": 2011,
+  "target": [
+    "Benjamin Recht",
+    "Terence Tao",
+    "Amit Singer",
+    "Yaniv Plan",
+    "Raghunandan H. Keshavan",
+    "Vincent Nesme"
+  ],
+  "id": 
+    "David J. Gross"
+},{
+  "title": "Note on sampling without replacing from a finite collection of matrices",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Vincent Nesme"
+},{
+  "title": "Uniqueness of Low-Rank Matrix Completion by Rigidity Theory",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Amit Singer"
+},{
+  "title": "Matrix Completion From a Few Entries",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Raghunandan H. Keshavan"
+},{
+  "title": "Matrix Completion With Noise",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Yaniv Plan"
+},{
+  "title": "The Power of Convex Relaxation: Near-Optimal Matrix Completion",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Terence Tao"
+},{
+  "title": "Introduction to the non-asymptotic analysis of random matrices",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Roman Vershynin"
+},{
+  "title": "NESTA: A Fast and Accurate First-Order Method for Sparse Recovery",
+  "year": 2011,
+  "target": [
+    "Manya V. Afonso",
+    "Zaiwen Wen",
+    "Joachim Dahl",
+    "Stanley Osher"
+  ],
+  "id": 
+    "Stephen Becker"
+},{
+  "title": "Fast Linearized Bregman Iteration for Compressive Sensing and Sparse Denoising",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Stanley Osher"
+},{
+  "title": "Algorithms and software for total variation image reconstruction via first-order methods",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Joachim Dahl"
+},{
+  "title": "A Fast Algorithm for Sparse Reconstruction Based on Shrinkage, Subspace Optimization, and Continuation",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Zaiwen Wen"
+},{
+  "title": "Fast Image Recovery Using Variable Splitting and Constrained Optimization",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Manya V. Afonso"
+},{
+  "title": "GPCA with denoising: A moments-based convex approach",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Necmiye Ozay"
+},{
+  "title": "Multiple Non-Redundant Spectral Clustering Views",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Donglin Niu"
+},{
+  "title": "Convergence of Fixed-Point Continuation Algorithms for Matrix Rank Minimization",
+  "year": 2011,
+  "target": [
+    "Jian-Feng Cai",
+    "Benjamin Recht",
+    "Shiqian Ma",
+    "Terence Tao",
+    "Yaniv Plan",
+    "Raghunandan H. Keshavan",
+    "Prateek Jain",
+    "Kiryung Lee"
+  ],
+  "id": 
+    "Donald Goldfarb"
+},{
+  "title": "ADMiRA: Atomic Decomposition for Minimum Rank Approximation",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Kiryung Lee"
+},{
+  "title": "Guaranteed Rank Minimization via Singular Value Projection",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Prateek Jain"
+},{
+  "title": "Fixed point and Bregman iterative methods for matrix rank minimization",
+  "year": 2011,
+  "target": [
+    "Jian-Feng Cai",
+    "Donald Goldfarb",
+    "Galen Reeves",
+    "Zaiwen Wen",
+    "Terence Tao"
+  ],
+  "id": 
+    "Shiqian Ma"
+},{
+  "title": "\"Compressed\" Compressed Sensing",
+  "year": 2010,
+  "target": [],
+  "id": 
+    "Galen Reeves"
 }]
