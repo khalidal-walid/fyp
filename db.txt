@@ -15,7 +15,7 @@ db.try.aggregate(
 )
 
 // find min max of year //
-db.try.aggregate([ 
+db.data.aggregate([ 
   { "$group": { 
       "_id": null,
       "max": { "$max": "$year" }, 
@@ -24,7 +24,7 @@ db.try.aggregate([
 ])
 
 // delete doc based on condition //
-db.try.deleteMany({ year : 2009})
+db.data.deleteMany({ year : {$lt:2017}})
 
 // split references column jadi single value //
 db.data.aggregate( [ 
@@ -34,4 +34,8 @@ db.data.aggregate( [
 
 // rename field name //
 db.try.updateMany( {}, { $rename: { "references": "target" } } )
+
+//  //
+{authors:{$size:3}}
+{bmi:{$gt:25}}
 

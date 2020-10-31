@@ -388,7 +388,6 @@ d3.json("data.json").then(function (graph) {
             );
 
         ttpJustDisplayed = true;
-
         
         node.style("opacity", function (o) {
             return neigh(index, o.index) ? 1 : 0.1;
@@ -409,6 +408,7 @@ d3.json("data.json").then(function (graph) {
                 return o.source.index == index || o.target.index == index ? 3 : 0.1;
         });
 
+
         // dataNode.attr("display", function (o) {
         //     return neigh(index, o.node.index) ? "block" : "none";
         // });
@@ -416,6 +416,8 @@ d3.json("data.json").then(function (graph) {
         //     return o.source.index == index || o.target.index == index ? 1 : 0.1;
         // });   
     }
+
+    createLegend(hoverColors, colorScale, interestingRoyalColor);
 });
 
 function positionLink(d) {
