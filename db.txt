@@ -15,7 +15,7 @@ db.try.aggregate(
 )
 
 // find min max of year //
-db.data.aggregate([ 
+db.try.aggregate([ 
   { "$group": { 
       "_id": null,
       "max": { "$max": "$year" }, 
@@ -24,7 +24,7 @@ db.data.aggregate([
 ])
 
 // delete doc based on condition //
-db.data.deleteMany({ year : {$lt:2017}})
+db.try.deleteMany({ year : {$lt:2010}})
 
 // split references column jadi single value //
 db.data.aggregate( [ 
@@ -38,4 +38,26 @@ db.try.updateMany( {}, { $rename: { "references": "target" } } )
 //  //
 {authors:{$size:3}}
 {bmi:{$gt:25}}
+
+// //
+db.try_lagi.aggregate([
+  {
+    "$lookup": {
+      "from": "try_lagi",
+      "localField": "references",
+      "foreignField": "id",
+      "as": "selfJoin"
+    }
+  },
+  {
+    $addFields: {
+      references: "$selfJoin.title"
+    }
+  },
+  {
+    $project: {
+      selfJoin: 0
+    }
+  }
+])
 

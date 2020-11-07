@@ -1,0 +1,3788 @@
+[{
+  "authors": [
+    "Huisheng Shu",
+    "Sijing Zhang",
+    "Bo Shen",
+    "Yurong Liu"
+  ],
+  "references": [],
+  "title": "Unknown input and state estimation for linear discrete-time systems with missing measurements and correlated noises",
+  "year": 2016,
+  "id": "2a78e948-5577-4ba8-9685-36cf7f8afc5d"
+},{
+  "authors": [
+    "Hang Geng",
+    "Yan Liang",
+    "Feng Yang",
+    "Linfeng Xu",
+    "Quan Pan"
+  ],
+  "references": [],
+  "title": "Model-reduced fault detection for multi-rate sensor fusion with unknown inputs",
+  "year": 2017,
+  "id": "3d60f060-5eb0-4c87-a302-082ac446eea1"
+},{
+  "authors": [
+    "Qi Li",
+    "Bo Shen",
+    "Yurong Liu",
+    "Fuad E. Alsaadi"
+  ],
+  "references": [],
+  "title": "Event-triggered H ∞ state estimation for discrete-time stochastic genetic regulatory networks with Markovian jumping parameters and time-varying delays",
+  "year": 2016,
+  "id": "5d458393-ff7f-4eda-a5b4-634d4bc42868"
+},{
+  "authors": [
+    "Shuqing Zeng"
+  ],
+  "references": [],
+  "title": "Fast Optimal Joint Tracking–Registration for Multisensor Systems",
+  "year": 2011,
+  "id": "638ab5b7-6ed7-43d8-b839-f8c528e3b534"
+},{
+  "authors": [
+    "Raffaele Gravina",
+    "Parastoo Alinia",
+    "Hassan Ghasemzadeh",
+    "Giancarlo Fortino"
+  ],
+  "references": [],
+  "title": "Multi-sensor fusion in body sensor networks: State-of-the-art and research challenges",
+  "year": 2017,
+  "id": "6de3b8c1-7215-43b3-a054-129c527ebbf1"
+},{
+  "authors": [
+    "Wen-An Zhang",
+    "Gang Feng",
+    "Li Yu"
+  ],
+  "references": [],
+  "title": "Multi-rate distributed fusion estimation for sensor networks with packet losses",
+  "year": 2012,
+  "id": "73ec8850-1753-4cfc-b802-4f27fd1d2c91"
+},{
+  "authors": [
+    "Jie Zhang",
+    "Lifeng Ma",
+    "Yurong Liu"
+  ],
+  "references": [],
+  "title": "Passivity analysis for discrete-time neural networks with mixed time-delays and randomly occurring quantization effects ☆",
+  "year": 2016,
+  "id": "7eb6c488-39f2-4c60-b03f-82657bdede67"
+},{
+  "authors": [
+    "Bahador Khaleghi",
+    "Alaa Khamis",
+    "Fakhreddine Karray",
+    "Saiedeh Razavi"
+  ],
+  "references": [],
+  "title": "Multisensor data fusion: A review of the state-of-the-art",
+  "year": 2013,
+  "id": "9136faa7-2c5f-4d1c-9596-ec23dcc77d3e"
+},{
+  "authors": [
+    "Jing Ma",
+    "Shuli Sun"
+  ],
+  "references": [],
+  "title": "Information fusion estimators for systems with multiple sensors of different packet dropout rates",
+  "year": 2011,
+  "id": "a0c8b755-16a3-4139-9297-f57460f6a6fe"
+},{
+  "authors": [
+    "Wangyan Li",
+    "Guoliang Wei",
+    "Fei Han",
+    "Yurong Liu"
+  ],
+  "references": [],
+  "title": "Weighted Average Consensus-Based Unscented Kalman Filtering",
+  "year": 2016,
+  "id": "a164c6a6-a237-4e6d-89ec-5b9d2b876090"
+},{
+  "authors": [
+    "Shuai Liu",
+    "Guoliang Wei",
+    "Yan Song",
+    "Yurong Liu"
+  ],
+  "references": [],
+  "title": "Extended Kalman filtering for stochastic nonlinear systems with randomly occurring cyber attacks",
+  "year": 2016,
+  "id": "a39b74fb-ca67-4279-b03a-f68a2d9e7f4b"
+},{
+  "authors": [
+    "Hang Geng",
+    "Yan Liang",
+    "Feng Yang",
+    "Linfeng Xu",
+    "Quan Pan"
+  ],
+  "references": [],
+  "title": "The joint optimal filtering and fault detection for multi-rate sensor fusion under unknown inputs",
+  "year": 2016,
+  "id": "b5bcfa9a-4399-41d3-8688-5958dc46fa43"
+},{
+  "authors": [
+    "Dan Liu",
+    "Yurong Liu",
+    "Fuad E. Alsaadi"
+  ],
+  "references": [],
+  "title": "A new framework for output feedback controller design for a class of discrete-time stochastic nonlinear system with quantization and missing measurement",
+  "year": 2016,
+  "id": "bae9767c-56d2-4c68-8721-bb70f2a8380f"
+},{
+  "authors": [
+    "Yanyan Hu",
+    "Xiao He",
+    "Lan Zhang",
+    "Chang-Yin Sun"
+  ],
+  "references": [],
+  "title": "IMM fusion estimation with multiple asynchronous sensors",
+  "year": 2014,
+  "id": "c6376e77-9dc3-4df4-9a86-fba0b2d53d55"
+},{
+  "authors": [
+    "Hang Geng",
+    "Yan Liang",
+    "Yurong Liu",
+    "Fuad E. Alsaadi"
+  ],
+  "references": [
+    "Unknown input and state estimation for linear discrete-time systems with missing measurements and correlated noises",
+    "Model-reduced fault detection for multi-rate sensor fusion with unknown inputs",
+    "Event-triggered H ∞ state estimation for discrete-time stochastic genetic regulatory networks with Markovian jumping parameters and time-varying delays",
+    "Fast Optimal Joint Tracking–Registration for Multisensor Systems",
+    "Multi-sensor fusion in body sensor networks: State-of-the-art and research challenges",
+    "Multi-rate distributed fusion estimation for sensor networks with packet losses",
+    "Passivity analysis for discrete-time neural networks with mixed time-delays and randomly occurring quantization effects ☆",
+    "Multisensor data fusion: A review of the state-of-the-art",
+    "Information fusion estimators for systems with multiple sensors of different packet dropout rates",
+    "Weighted Average Consensus-Based Unscented Kalman Filtering",
+    "Extended Kalman filtering for stochastic nonlinear systems with randomly occurring cyber attacks",
+    "The joint optimal filtering and fault detection for multi-rate sensor fusion under unknown inputs",
+    "A new framework for output feedback controller design for a class of discrete-time stochastic nonlinear system with quantization and missing measurement",
+    "IMM fusion estimation with multiple asynchronous sensors",
+    "A framework for collaborative computing and multi-sensor data fusion in body sensor networks",
+    "A reduced-order approach to filtering for systems with linear equality constraints"
+  ],
+  "title": "Bias Estimation for Asynchronous Multi-rate Multi-sensor Fusion With Unknown Inputs",
+  "year": 2018,
+  "id": "76101493-5b8d-4ff0-b077-5bccc34c2750"
+},{
+  "authors": [
+    "Chuanbo Wen",
+    "Yunze Cai",
+    "Yurong Liu",
+    "Chenglin Wen"
+  ],
+  "references": [],
+  "title": "A reduced-order approach to filtering for systems with linear equality constraints",
+  "year": 2016,
+  "id": "d9225bdd-0653-4980-9f46-1a7f320dc652"
+},{
+  "authors": [
+    "Giancarlo Fortino",
+    "Stefano Galzarano",
+    "Raffaele Gravina",
+    "Wenfeng Li"
+  ],
+  "references": [],
+  "title": "A framework for collaborative computing and multi-sensor data fusion in body sensor networks",
+  "year": 2015,
+  "id": "cb83702a-db38-4a26-bfb5-1bd3ce6007db"
+},{
+  "authors": [
+    "Jingbo Huang",
+    "Mingquan Zhou",
+    "Fuqing Duan",
+    "Qingqiong Deng",
+    "Zhongke Wu",
+    "Yun Tian"
+  ],
+  "references": [],
+  "title": "The weighted landmark-based algorithm for skull identification",
+  "year": 2011,
+  "id": "26b7f8df-c9cf-4fe7-880e-408961387215"
+},{
+  "authors": [
+    "Oscar Ibáñez",
+    "Oscar Cordón",
+    "Sergio Damas"
+  ],
+  "references": [],
+  "title": "A cooperative coevolutionary approach dealing with the skull–face overlay uncertainty in forensic identification by craniofacial superimposition",
+  "year": 2012,
+  "id": "4d968f48-4ec8-4395-a6ca-14fcfaefef82"
+},{
+  "authors": [
+    "Sergio Damas",
+    "Oscar Cordón",
+    "Oscar Ibáñez",
+    "Jose Santamaría",
+    "Inmaculada Alemán",
+    "Miguel C. Botella",
+    "F. Navarro"
+  ],
+  "references": [],
+  "title": "Forensic identification by computer-aided craniofacial superimposition: A survey",
+  "year": 2011,
+  "id": "52d7c8b1-3bc6-4223-a110-db24c3c08ec8"
+},{
+  "authors": [
+    "Xin Xu",
+    "Huiling Chen"
+  ],
+  "references": [],
+  "title": "Adaptive computational chemotaxis based on field in bacterial foraging optimization",
+  "year": 2014,
+  "id": "60686ff8-731a-4931-b903-608a56207494"
+},{
+  "authors": [
+    "Carmen Campomanes-Alvarez",
+    "Oscar Ibáñez",
+    "Oscar Cordón"
+  ],
+  "references": [],
+  "title": "Modeling the consistency between the bony and facial chin outline in craniofacial superimposition",
+  "year": 2015,
+  "id": "63455f05-a7fa-4073-a8ff-c541b3187578"
+},{
+  "authors": [
+    "Carmen Campomanes-Alvarez",
+    "Oscar Ibáñez",
+    "Oscar Cordón",
+    "Caroline Wilkinson"
+  ],
+  "references": [
+    "The weighted landmark-based algorithm for skull identification",
+    "A cooperative coevolutionary approach dealing with the skull–face overlay uncertainty in forensic identification by craniofacial superimposition",
+    "Forensic identification by computer-aided craniofacial superimposition: A survey",
+    "Adaptive computational chemotaxis based on field in bacterial foraging optimization",
+    "Modeling the consistency between the bony and facial chin outline in craniofacial superimposition",
+    "Experimental study of different aggregation functions for modeling craniofacial correspondence in craniofacial superimposition",
+    "Modeling the Skull–Face Overlay Uncertainty Using Fuzzy Sets",
+    "Design of criteria to assess craniofacial correspondence in forensic identification based on computer vision and fuzzy integrals",
+    "Modeling Facial Soft Tissue Thickness for Automatic Skull-Face Overlay"
+  ],
+  "title": "Hierarchical information fusion for decision making in craniofacial superimposition",
+  "year": 2018,
+  "id": "87eec01c-92fe-4c92-ae25-25ff72a3abef"
+},{
+  "authors": [
+    "B. Rosario Campomanes-Álvarez",
+    "Oscar Ibáñez",
+    "Carmen Campomanes-Alvarez",
+    "Sergio Damas",
+    "Oscar Cordón"
+  ],
+  "references": [],
+  "title": "Modeling Facial Soft Tissue Thickness for Automatic Skull-Face Overlay",
+  "year": 2015,
+  "id": "f5431fbb-83da-44e9-80aa-e2731d751397"
+},{
+  "authors": [
+    "Carmen Campomanes-Alvarez",
+    "Oscar Ibáñez",
+    "Oscar Cordón"
+  ],
+  "references": [],
+  "title": "Design of criteria to assess craniofacial correspondence in forensic identification based on computer vision and fuzzy integrals",
+  "year": 2016,
+  "id": "ec177fad-601f-4a38-8644-48f5e5bce03d"
+},{
+  "authors": [
+    "O. Cordón",
+    "Sergio Damas",
+    "Jose Santamaría"
+  ],
+  "references": [],
+  "title": "Modeling the Skull–Face Overlay Uncertainty Using Fuzzy Sets",
+  "year": 2011,
+  "id": "dc750df5-d235-4851-a99a-30e67df8f10a"
+},{
+  "authors": [
+    "Carmen Campomanes-Alvarez",
+    "Oscar Ibáñez",
+    "Oscar Cordón"
+  ],
+  "references": [],
+  "title": "Experimental study of different aggregation functions for modeling craniofacial correspondence in craniofacial superimposition",
+  "year": 2016,
+  "id": "926311ce-8740-4565-b8f4-5834691f00d9"
+},{
+  "authors": [
+    "Chris Seiffert",
+    "Taghi M. Khoshgoftaar",
+    "J. Van Hulse",
+    "Amri Napolitano"
+  ],
+  "references": [],
+  "title": "RUSBoost: A Hybrid Approach to Alleviating Class Imbalance",
+  "year": 2010,
+  "id": "048636b6-96a3-44af-88b7-ee8f9ff4c45f"
+},{
+  "authors": [
+    "Mikel Galar",
+    "Alberto Fernández",
+    "Edurne Barrenechea",
+    "Humberto Bustince",
+    "Francisco Herrera"
+  ],
+  "references": [],
+  "title": "A Review on Ensembles for the Class Imbalance Problem: Bagging-, Boosting-, and Hybrid-Based Approaches",
+  "year": 2012,
+  "id": "0ce65577-0bcd-418a-990e-2866cd3d6914"
+},{
+  "authors": [
+    "Jesús Alcalá-Fdez",
+    "Alberto Fernández",
+    "Julián Luengo",
+    "Joaquín Derrac",
+    "Salvador García"
+  ],
+  "references": [],
+  "title": "KEEL Data-Mining Software Tool: Data Set Repository, Integration of Algorithms and Experimental Analysis Framework",
+  "year": 2011,
+  "id": "2bd582da-4223-43e4-af69-48046f07ed3d"
+},{
+  "authors": [
+    "Jinyan Li",
+    "Simon Fong",
+    "Sabah Mohammed",
+    "Jinan Fiaidhi"
+  ],
+  "references": [],
+  "title": "Improving the classification performance of biological imbalanced datasets by swarm optimization algorithms",
+  "year": 2016,
+  "id": "2cc93793-055c-4e1a-8263-355d37868217"
+},{
+  "authors": [
+    "Jinyan Li",
+    "Simon Fong",
+    "Meng Yuan",
+    "Raymond K. Wong"
+  ],
+  "references": [],
+  "title": "Adaptive Multi-objective Swarm Crossover Optimization for Imbalanced Data Classification",
+  "year": 2016,
+  "id": "4c391086-8397-4232-9edd-5fc1e01d2f85"
+},{
+  "authors": [
+    "Hong Cao",
+    "Xiao-Li Li",
+    "David Yew-Kwong Woon",
+    "See-Kiong Ng"
+  ],
+  "references": [],
+  "title": "Integrated Oversampling for Imbalanced Time Series Classification",
+  "year": 2013,
+  "id": "6524ff2e-4315-43ed-8dc4-254b5652374a"
+},{
+  "authors": [
+    "Jinyan Li",
+    "Simon Fong",
+    "Yunsick Sung",
+    "Kyungeun Cho",
+    "Raymond K. Wong",
+    "Kelvin K. L. Wong"
+  ],
+  "references": [],
+  "title": "Adaptive swarm cluster-based dynamic multi-objective synthetic minority oversampling technique algorithm for tackling binary imbalanced datasets in biomedical data classification",
+  "year": 2016,
+  "id": "9e9527dd-90c1-4db0-9b30-ac7c283435da"
+},{
+  "authors": [
+    "Xin She Yang",
+    "Xingshi He"
+  ],
+  "references": [],
+  "title": "Bat algorithm: literature review and applications",
+  "year": 2013,
+  "id": "a17ee4aa-8aa1-4918-8937-5d0da8ad0057"
+},{
+  "authors": [
+    "Nikolaos Nikolaou",
+    "Narayanan Unny Edakunni",
+    "Meelis Kull",
+    "Peter A. Flach",
+    "G. Brown"
+  ],
+  "references": [],
+  "title": "Cost-sensitive boosting algorithms: Do we really need them?",
+  "year": 2016,
+  "id": "ad589f3c-2abf-4333-8476-00478ff5989c"
+},{
+  "authors": [
+    "Jinyan Li",
+    "Simon Fong",
+    "Raymond K. Wong",
+    "Victor W. Chu"
+  ],
+  "references": [
+    "RUSBoost: A Hybrid Approach to Alleviating Class Imbalance",
+    "A Review on Ensembles for the Class Imbalance Problem: Bagging-, Boosting-, and Hybrid-Based Approaches",
+    "KEEL Data-Mining Software Tool: Data Set Repository, Integration of Algorithms and Experimental Analysis Framework",
+    "Improving the classification performance of biological imbalanced datasets by swarm optimization algorithms",
+    "Adaptive Multi-objective Swarm Crossover Optimization for Imbalanced Data Classification",
+    "Integrated Oversampling for Imbalanced Time Series Classification",
+    "Adaptive swarm cluster-based dynamic multi-objective synthetic minority oversampling technique algorithm for tackling binary imbalanced datasets in biomedical data classification",
+    "Bat algorithm: literature review and applications",
+    "Cost-sensitive boosting algorithms: Do we really need them?",
+    "Feature Selection in Life Science Classification: Metaheuristic Swarm Search",
+    "Eidetic Wolf Search Algorithm with a global memory structure",
+    "A review of boosting methods for imbalanced data classification",
+    "Advanced nonparametric tests for multiple comparisons in the design of experiments in computational intelligence and data mining: Experimental analysis of power",
+    "Adjusted F-measure and kernel scaling for imbalanced data learning"
+  ],
+  "title": "Adaptive multi-objective swarm fusion for imbalanced data classification",
+  "year": 2018,
+  "id": "f15fa175-290e-4c2e-b379-2428750a7c53"
+},{
+  "authors": [
+    "Antonio Maratea",
+    "Alfredo Petrosino",
+    "Mario Manzo"
+  ],
+  "references": [],
+  "title": "Adjusted F-measure and kernel scaling for imbalanced data learning",
+  "year": 2014,
+  "id": "f322d304-b627-4021-b97c-179388f12c65"
+},{
+  "authors": [
+    "Salvador García",
+    "Alberto Fernández",
+    "Julián Luengo",
+    "Francisco Herrera"
+  ],
+  "references": [],
+  "title": "Advanced nonparametric tests for multiple comparisons in the design of experiments in computational intelligence and data mining: Experimental analysis of power",
+  "year": 2010,
+  "id": "e92fa09f-55d9-4263-a84e-7cab64ec046e"
+},{
+  "authors": [
+    "Qiujie Li",
+    "Yaobin Mao"
+  ],
+  "references": [],
+  "title": "A review of boosting methods for imbalanced data classification",
+  "year": 2014,
+  "id": "d89ef711-dd40-49d8-86cc-6b30596eba21"
+},{
+  "authors": [
+    "Simon Fong",
+    "Suash Deb",
+    "Thomas Hanne",
+    "Jinyan Li"
+  ],
+  "references": [],
+  "title": "Eidetic Wolf Search Algorithm with a global memory structure",
+  "year": 2016,
+  "id": "cc174581-f163-40f7-b66d-f8d2006c143f"
+},{
+  "authors": [
+    "Simon Fong",
+    "Suash Deb",
+    "Xin-She Yang",
+    "Jinyan Li"
+  ],
+  "references": [],
+  "title": "Feature Selection in Life Science Classification: Metaheuristic Swarm Search",
+  "year": 2014,
+  "id": "b9b925f8-73d5-408a-8fb9-e8fec07cce97"
+},{
+  "authors": [
+    "Nitish Srivastava",
+    "Geoffrey E. Hinton",
+    "Alex Krizhevsky",
+    "Ilya Sutskever",
+    "Ruslan Salakhutdinov"
+  ],
+  "references": [],
+  "title": "Dropout: a simple way to prevent neural networks from overfitting",
+  "year": 2014,
+  "id": "0063b640-385d-4136-adea-1a82c5b97c27"
+},{
+  "authors": [
+    "Brian Hutchinson",
+    "Li Deng",
+    "Dong Yu"
+  ],
+  "references": [],
+  "title": "A deep architecture with bilinear modeling of hidden representations: Applications to phonetic recognition",
+  "year": 2012,
+  "id": "037d93ae-5e3d-4c50-9fd9-3d4161bd82c5"
+},{
+  "authors": [
+    "James Martens"
+  ],
+  "references": [],
+  "title": "Deep learning via Hessian-free optimization",
+  "year": 2010,
+  "id": "1d01026a-3385-4412-ab3c-59d2f8f934b3"
+},{
+  "authors": [
+    "Ling Shao",
+    "Di Wu",
+    "Xuelong Li"
+  ],
+  "references": [],
+  "title": "Learning Deep and Wide: A Spectral Method for Learning Deep Networks",
+  "year": 2014,
+  "id": "1d1fd670-6549-4b39-ab3f-9425894a245a"
+},{
+  "authors": [
+    "Pratik Prabhanjan Brahma",
+    "Dapeng Wu",
+    "Yiyuan She"
+  ],
+  "references": [],
+  "title": "Why Deep Learning Works: A Manifold Disentanglement Perspective",
+  "year": 2016,
+  "id": "23944b3b-fd2f-4215-ae36-445d8f92610c"
+},{
+  "authors": [
+    "Sergey Ioffe",
+    "Christian Szegedy"
+  ],
+  "references": [],
+  "title": "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift",
+  "year": 2015,
+  "id": "3d4f1ae9-1fb3-412f-aaac-21754f59b91b"
+},{
+  "authors": [
+    "Li Wan",
+    "Matthew D. Zeiler",
+    "Sixin Zhang",
+    "Yann Le Cun",
+    "Rob Fergus"
+  ],
+  "references": [],
+  "title": "Regularization of Neural Networks using DropConnect",
+  "year": 2013,
+  "id": "40e36f49-9f2f-4586-8899-a282fdd320d1"
+},{
+  "authors": [
+    "Lior Rokach"
+  ],
+  "title": "Pattern Classification Using Ensemble Methods",
+  "year": 2010,
+  "id": "4d444310-2586-4300-9c68-bde087646ad3"
+},{
+  "authors": [
+    "Stefan Lee",
+    "Senthil Purushwalkam",
+    "Michael Cogswell",
+    "Viresh Ranjan",
+    "David J. Crandall",
+    "Dhruv Batra"
+  ],
+  "references": [],
+  "title": "Stochastic Multiple Choice Learning for Training Diverse Deep Ensembles",
+  "year": 2016,
+  "id": "7fb4fc9f-1138-46fa-ad3d-31da92b1a9b0"
+},{
+  "authors": [
+    "Dan C. Ciresan",
+    "Ueli Meier",
+    "Luca Maria Gambardella",
+    "Jürgen Schmidhuber"
+  ],
+  "references": [],
+  "title": "Convolutional Neural Network Committees for Handwritten Character Classification",
+  "year": 2011,
+  "id": "87011d39-f6e7-4e72-a026-333a26bba502"
+},{
+  "authors": [
+    "Lech Szymanski",
+    "Brendan McCane"
+  ],
+  "references": [],
+  "title": "Deep networks are effective encoders of periodicity.",
+  "year": 2014,
+  "id": "875b7bf7-7df1-4c9a-ac7a-cb95f0693768"
+},{
+  "authors": [
+    "Michał Woniak",
+    "Manuel Graña",
+    "Emilio Corchado"
+  ],
+  "references": [],
+  "title": "A survey of multiple classifier systems as hybrid systems",
+  "year": 2014,
+  "id": "91c44d64-b62b-44bf-b284-86f90737d0ee"
+},{
+  "authors": [
+    "Li Deng",
+    "Dong Yu"
+  ],
+  "references": [],
+  "title": "Deep Convex Net: A Scalable Architecture for Speech Pattern Classification",
+  "year": 2011,
+  "id": "92f69a52-1623-40c7-9b87-1430828f1f5b"
+},{
+  "authors": [
+    "Dan Ciregan",
+    "Ueli Meier",
+    "Jürgen Schmidhuber"
+  ],
+  "references": [],
+  "title": "Multi-column deep neural networks for image classification",
+  "year": 2012,
+  "id": "97fa1c18-05bf-47c9-b72d-5d712b186ccd"
+},{
+  "authors": [
+    "Olivier Delalleau",
+    "Yoshua Bengio"
+  ],
+  "references": [],
+  "title": "Shallow vs. Deep Sum-Product Networks",
+  "year": 2011,
+  "id": "9922df01-3cf5-4834-ab95-57b0722363a3"
+},{
+  "authors": [
+    "Pascal Vincent",
+    "Hugo Larochelle",
+    "Isabelle Lajoie",
+    "Yoshua Bengio",
+    "Pierre-Antoine Manzagol"
+  ],
+  "references": [],
+  "title": "Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion",
+  "year": 2010,
+  "id": "a5385126-a3c0-462f-b3cf-489a3d3a2eab"
+},{
+  "authors": [
+    "Dmytro Mishkin",
+    "Jiri Matas"
+  ],
+  "references": [],
+  "title": "All you need is a good init",
+  "year": 2016,
+  "id": "a8f16aea-3926-47dd-acc9-61539532c818"
+},{
+  "authors": [
+    "Ricardo F. Alvear-Sandoval",
+    "Aníbal R. Figueiras-Vidal"
+  ],
+  "references": [
+    "Dropout: a simple way to prevent neural networks from overfitting",
+    "A deep architecture with bilinear modeling of hidden representations: Applications to phonetic recognition",
+    "Deep learning via Hessian-free optimization",
+    "Learning Deep and Wide: A Spectral Method for Learning Deep Networks",
+    "Why Deep Learning Works: A Manifold Disentanglement Perspective",
+    "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift",
+    "Regularization of Neural Networks using DropConnect",
+    "Pattern Classification Using Ensemble Methods",
+    "Stochastic Multiple Choice Learning for Training Diverse Deep Ensembles",
+    "Convolutional Neural Network Committees for Handwritten Character Classification",
+    "Deep networks are effective encoders of periodicity.",
+    "A survey of multiple classifier systems as hybrid systems",
+    "Deep Convex Net: A Scalable Architecture for Speech Pattern Classification",
+    "Multi-column deep neural networks for image classification",
+    "Shallow vs. Deep Sum-Product Networks",
+    "Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion",
+    "All you need is a good init",
+    "Deep Learning: Methods and Applications",
+    "Twenty Years of Mixture of Experts",
+    "Feature Combiners With Gate-Generated Weights for Classification",
+    "Representation Learning: A Review and New Perspectives",
+    "ed94c215-e378-4bdc-bbd2-36c0bc420573",
+    "Building an ensemble of CD-DNN-HMM acoustic model using random forests of phonetic decision trees",
+    "Weighted Convolutional Neural Network Ensemble",
+    "Does diversity improve deep learning",
+    "Refinements of universal approximation results for deep belief networks and restricted boltzmann machines"
+  ],
+  "title": "On building ensembles of stacked denoising auto-encoding classifiers and their further improvement",
+  "year": 2018,
+  "id": "d6e7d7b3-8289-4cd3-b7a7-65db20b563a6"
+},{
+  "authors": [
+    "Guido Montufar",
+    "Nihat Ay"
+  ],
+  "references": [],
+  "title": "Refinements of universal approximation results for deep belief networks and restricted boltzmann machines",
+  "year": 2011,
+  "id": "fc11bf8d-2cfd-40e0-86c5-3ad1bfcd5f3e"
+},{
+  "authors": [
+    "Ricardo F. Alvear-Sandoval",
+    "Aníbal R. Figueiras-Vidal"
+  ],
+  "references": [],
+  "title": "Does diversity improve deep learning",
+  "year": 2015,
+  "id": "fa06b4be-4db4-4d15-82f7-16c8e7bd70f9"
+},{
+  "authors": [
+    "Xavier Frazão",
+    "Luís A. Alexandre"
+  ],
+  "references": [],
+  "title": "Weighted Convolutional Neural Network Ensemble",
+  "year": 2014,
+  "id": "f7cb377a-9c3b-4d08-afa9-17cb3cdd9518"
+},{
+  "authors": [
+    "Tuo Zhao",
+    "Yunxin Zhao",
+    "Xin Chen"
+  ],
+  "references": [],
+  "title": "Building an ensemble of CD-DNN-HMM acoustic model using random forests of phonetic decision trees",
+  "year": 2014,
+  "id": "f16d44b8-270a-47d9-8eec-42e6a61b8948"
+},{
+  "authors": [
+    "Yoshua Bengio",
+    "Aaron C. Courville",
+    "Pascal Vincent"
+  ],
+  "references": [],
+  "title": "Representation Learning: A Review and New Perspectives",
+  "year": 2013,
+  "id": "e407acd7-dfcf-4ee8-9140-6726c01abf4e"
+},{
+  "authors": [
+    "Adil Omari",
+    "Aníbal R. Figueiras-Vidal"
+  ],
+  "references": [],
+  "title": "Feature Combiners With Gate-Generated Weights for Classification",
+  "year": 2013,
+  "id": "d2a5090b-637e-49ef-80f1-4fc4cbf432e7"
+},{
+  "authors": [
+    "Seniha Esen Yuksel",
+    "Joseph N. Wilson",
+    "Paul D. Gader"
+  ],
+  "references": [],
+  "title": "Twenty Years of Mixture of Experts",
+  "year": 2012,
+  "id": "caff96dd-a2ca-494b-b208-bfaa08fcc1a3"
+},{
+  "authors": [
+    "Li Deng",
+    "Dong Yu"
+  ],
+  "references": [],
+  "title": "Deep Learning: Methods and Applications",
+  "year": 2014,
+  "id": "b6b998ee-2e78-4d0e-8c55-e7806e449b9e"
+},{
+  "authors": [
+    "David E. Losada",
+    "Javier Parapar",
+    "Álvaro Barreiro"
+  ],
+  "references": [
+    "Suffix Array Construction in External Memory Using D-Critical Substrings",
+    "A review of soft consensus models in a fuzzy environment",
+    "Measuring the ability of score distributions to model relevance",
+    "Document Score Distribution Models for Query Performance Inference and Prediction",
+    "Score distributions for Pseudo Relevance Feedback",
+    "Ordering based decision making - A survey",
+    "Ranking Retrieval Systems without Relevance Assessments: Revisited."
+  ],
+  "title": "A rank fusion approach based on score distributions for prioritizing relevance assessments in information retrieval evaluation",
+  "year": 2018,
+  "id": "013123e8-7ae6-45a9-9f94-778bc37d6260"
+},{
+  "authors": [
+    "Ronan Cummins"
+  ],
+  "references": [],
+  "title": "Document Score Distribution Models for Query Performance Inference and Prediction",
+  "year": 2014,
+  "id": "c48873e1-d1b7-43b5-bfa0-d56e5e14d00e"
+},{
+  "authors": [
+    "Ronan Cummins"
+  ],
+  "references": [],
+  "title": "Measuring the ability of score distributions to model relevance",
+  "year": 2011,
+  "id": "c1272ef4-79cb-4696-a4fa-1702de4f373a"
+},{
+  "authors": [
+    "Enrique Herrera-Viedma",
+    "Francisco Javier Cabrerizo",
+    "Janusz Kacprzyk",
+    "Witold Pedrycz"
+  ],
+  "references": [],
+  "title": "A review of soft consensus models in a fuzzy environment",
+  "year": 2014,
+  "id": "c05f545e-1ab6-453f-89ab-d10cc15da452"
+},{
+  "authors": [
+    "Ge Nong",
+    "Wai Hong Chan",
+    "Sen Zhang",
+    "Xiao Feng Guan"
+  ],
+  "references": [],
+  "title": "Suffix Array Construction in External Memory Using D-Critical Substrings",
+  "year": 2014,
+  "id": "b8c7c40c-ba57-4376-8395-a9b6b1b5f7d2"
+},{
+  "authors": [
+    "Javier Parapar",
+    "Manuel A. Presedo-Quindimil",
+    "Álvaro Barreiro"
+  ],
+  "references": [],
+  "title": "Score distributions for Pseudo Relevance Feedback",
+  "year": 2014,
+  "id": "ed8af019-706b-4769-b1c9-e77160ad1f79"
+},{
+  "authors": [
+    "Shuwei Chen",
+    "Jun Liu",
+    "Hui Wang",
+    "Juan Carlos Augusto"
+  ],
+  "references": [],
+  "title": "Ordering based decision making - A survey",
+  "year": 2013,
+  "id": "f38bd656-1c8a-4185-bd7a-6ca70b86f910"
+},{
+  "authors": [
+    "Tetsuya Sakai",
+    "Chin-Yew Lin"
+  ],
+  "title": "Ranking Retrieval Systems without Relevance Assessments: Revisited.",
+  "year": 2010,
+  "id": "f8f61472-c2c3-44c3-950b-5fbd20b31282"
+},{
+  "authors": [
+    "Qingchen Zhang",
+    "Zhikui Chen"
+  ],
+  "references": [],
+  "title": "A weighted kernel possibilistic c-means algorithm based on cloud computing for clustering big data",
+  "year": 2014,
+  "id": "2dc7de32-7afd-4fe0-a970-c5b464da3ede"
+},{
+  "authors": [
+    "Ivan V. Oseledets"
+  ],
+  "references": [],
+  "title": "Tensor-Train Decomposition",
+  "year": 2011,
+  "id": "3a2140f5-9392-405b-9899-907734f73e4b"
+},{
+  "authors": [
+    "Soheil Bahrampour",
+    "Behzad Moshiri",
+    "Karim Salahshoor"
+  ],
+  "references": [],
+  "title": "Weighted and constrained possibilistic C-means clustering for online fault detection and isolation",
+  "year": 2011,
+  "id": "40439fa6-2ef6-460a-a3e5-6adcd28ef05c"
+},{
+  "authors": [
+    "Xiaolei Zhang"
+  ],
+  "references": [],
+  "title": "Convex Discriminative Multitask Clustering",
+  "year": 2015,
+  "id": "5addb0fd-f22c-44d1-b446-192ded7515fc"
+},{
+  "authors": [
+    "Qingchen Zhang",
+    "Laurence T. Yang",
+    "Zhikui Chen",
+    "Peng Li"
+  ],
+  "references": [
+    "Era of Big Data Processing: A New Approach via Tensor Networks and Tensor Decompositions",
+    "A weighted kernel possibilistic c-means algorithm based on cloud computing for clustering big data",
+    "Tensor-Train Decomposition",
+    "Weighted and constrained possibilistic C-means clustering for online fault detection and isolation",
+    "Convex Discriminative Multitask Clustering",
+    "Tensorizing neural networks",
+    "Non-Negative Matrix Factorization for Semisupervised Heterogeneous Data Coclustering",
+    "Distributed fuzzy c-means algorithms for big sensor data based on cloud computing",
+    "A Novel Adaptive Possibilistic Clustering Algorithm"
+  ],
+  "title": "High-order possibilistic c-means algorithms based on tensor decompositions for big data in IoT",
+  "year": 2018,
+  "id": "512da554-3842-49c9-8c90-7c9a2edc616b"
+},{
+  "authors": [
+    "Alexander Novikov",
+    "Dmitrii Podoprikhin",
+    "Anton Osokin",
+    "Dmitry P. Vetrov"
+  ],
+  "references": [],
+  "title": "Tensorizing neural networks",
+  "year": 2015,
+  "id": "b7e0df41-f6f4-4e00-9bcd-86656f48eabc"
+},{
+  "authors": [
+    "Yanhua Chen",
+    "Lijun Wang",
+    "Ming Dong"
+  ],
+  "references": [],
+  "title": "Non-Negative Matrix Factorization for Semisupervised Heterogeneous Data Coclustering",
+  "year": 2010,
+  "id": "da89a28e-f866-4bb8-84be-98885c59c260"
+},{
+  "authors": [
+    "Qingchen Zhang",
+    "Zhikui Chen",
+    "Yonglin Leng"
+  ],
+  "references": [],
+  "title": "Distributed fuzzy c-means algorithms for big sensor data based on cloud computing",
+  "year": 2015,
+  "id": "f319ffac-ab06-4976-a452-507d0adf0e6a"
+},{
+  "authors": [
+    "Spyridoula D. Xenaki",
+    "Konstantinos Koutroumbas",
+    "Athanasios A. Rontogiannis"
+  ],
+  "references": [],
+  "title": "A Novel Adaptive Possibilistic Clustering Algorithm",
+  "year": 2016,
+  "id": "f503e4d8-a122-4269-a312-d975c0a711f1"
+},{
+  "authors": [
+    "Andrzej Cichocki"
+  ],
+  "references": [],
+  "title": "Era of Big Data Processing: A New Approach via Tensor Networks and Tensor Decompositions",
+  "year": 2014,
+  "id": "182de71b-cac4-4526-a1bd-2905e2f4c191"
+},{
+  "authors": [
+    "Chuanbo Wen",
+    "Zidong Wang",
+    "Tao Geng",
+    "Fuad E. Alsaadi"
+  ],
+  "references": [
+    "Unknown input and state estimation for linear discrete-time systems with missing measurements and correlated noises",
+    "Model-reduced fault detection for multi-rate sensor fusion with unknown inputs",
+    "Event-triggered H ∞ state estimation for discrete-time stochastic genetic regulatory networks with Markovian jumping parameters and time-varying delays",
+    "Passivity analysis for discrete-time neural networks with mixed time-delays and randomly occurring quantization effects ☆",
+     "Weighted Average Consensus-Based Unscented Kalman Filtering",
+    "Extended Kalman filtering for stochastic nonlinear systems with randomly occurring cyber attacks",
+    "A new framework for output feedback controller design for a class of discrete-time stochastic nonlinear system with quantization and missing measurement",
+    "A reduced-order approach to filtering for systems with linear equality constraints"
+  ],
+  "title": "Event-based distributed recursive filtering for state-saturated systems with redundant channels",
+  "year": 2018,
+  "id": "e5343e0f-4812-4e04-ad13-aabc67ccf0b2"
+},{
+  "authors": [
+    "Chung-Hao Huang",
+    "Lun-Hui Lee",
+    "Chian C. Ho",
+    "Lang-Long Wu",
+    "Zu-Hao Lai"
+  ],
+  "references": [],
+  "title": "Real-Time RFID Indoor Positioning System Based on Kalman-Filter Drift Removal and Heron-Bilateration Location Estimation",
+  "year": 2015,
+  "id": "08f470f0-7894-4642-b620-3439a1f6c2b5"
+},{
+  "authors": [
+    "Juan Li",
+    "Juan A. Besada",
+    "Ana M. Bernardos",
+    "Paula Tarrio",
+    "Jose R. Casar"
+  ],
+  "references": [],
+  "title": "A novel system for object pose estimation using fused vision and inertial data",
+  "year": 2017,
+  "id": "12c7841a-8431-4ff4-b45e-9c258a6de6da"
+},{
+  "authors": [
+    "Ozkan Bebek",
+    "Michael A. Suster",
+    "Srihari Rajgopal",
+    "Michael J. Fu",
+    "Xuemei Huang",
+    "M. Cenk Cavusoglu",
+    "Darrin J. Young",
+    "Mehran Mehregany",
+    "Antonie J. van den Bogert",
+    "Carlos H. Mastrangelo"
+  ],
+  "references": [],
+  "title": "Personal navigation via shoe mounted inertial measurement units",
+  "year": 2010,
+  "id": "24ffe6b0-b7ea-49f8-bfbd-4b3b6664a86b"
+},{
+  "authors": [
+    "You Li",
+    "Yuan Zhuang",
+    "Peng Zhang",
+    "Haiyu Lan",
+    "Xiaoji Niu",
+    "Naser El-Sheimy"
+  ],
+  "references": [],
+  "title": "An improved inertial/wifi/magnetic fusion structure for indoor navigation",
+  "year": 2017,
+  "id": "41290f2b-d1f3-46b5-a8e2-38da407ff4b0"
+},{
+  "authors": [
+    "Xiaoping Yun",
+    "James Calusdian",
+    "Eric R. Bachmann",
+    "Robert B. McGhee"
+  ],
+  "references": [],
+  "title": "Estimation of Human Foot Motion During Normal Walking Using Inertial and Magnetic Sensor Measurements",
+  "year": 2012,
+  "id": "447e268d-b11c-43f7-9ca5-adbfa0464f08"
+},{
+  "authors": [
+    "Aboelmagd Noureldin",
+    "Ahmed El-Shafie",
+    "Mohamed M. Bayoumi"
+  ],
+  "references": [],
+  "title": "GPS/INS integration utilizing dynamic neural networks for vehicular navigation",
+  "year": 2011,
+  "id": "48b08ccc-edb6-4bda-890b-3da7f7ba936d"
+},{
+  "authors": [
+    "Isaac Skog",
+    "Peter Händel",
+    "John-Olof Nilsson",
+    "Jouni Rantakokko"
+  ],
+  "references": [],
+  "title": "Zero-Velocity Detection—An Algorithm Evaluation",
+  "year": 2010,
+  "id": "60f7e213-6cbd-439f-b104-d76915c10e68"
+},{
+  "authors": [
+    "Sen Qiu",
+    "Zhelong Wang",
+    "Hongyu Zhao",
+    "Kai-Rong Qin",
+    "Zhenglin Li",
+    "Huosheng Hu"
+  ],
+  "references": [
+    "Real-Time RFID Indoor Positioning System Based on Kalman-Filter Drift Removal and Heron-Bilateration Location Estimation",
+    "A novel system for object pose estimation using fused vision and inertial data",
+    "Personal navigation via shoe mounted inertial measurement units",
+    "An improved inertial/wifi/magnetic fusion structure for indoor navigation",
+    "Estimation of Human Foot Motion During Normal Walking Using Inertial and Magnetic Sensor Measurements",
+    "GPS/INS integration utilizing dynamic neural networks for vehicular navigation",
+    "Zero-Velocity Detection—An Algorithm Evaluation",
+    "Multi-sensor fusion in body sensor networks: State-of-the-art and research challenges",
+    "Enabling Effective Programming and Flexible Management of Efficient Body Sensor Network Applications",
+    "Kernel fusion based extreme learning machine for cross-location activity recognition",
+    "A framework for collaborative computing and multi-sensor data fusion in body sensor networks",
+    "db56affd-bede-4b17-812a-1a10223673b3",
+    "e057140f-57bd-4982-a57e-4a8e8b9ec79f",
+    "Using Distributed Wearable Sensors to Measure and Evaluate Human Lower Limb Motions",
+    "Using Smart-Phones and Floor Plans for Indoor Location Tracking"
+  ],
+  "title": "Inertial/magnetic sensors based pedestrian dead reckoning by means of multi-sensor fusion",
+  "year": 2018,
+  "id": "6e6d4a3b-d57b-4729-9f3e-31c6e0d06a89"
+},{
+  "authors": [
+    "Zhelong Wang",
+    "Donghui Wu",
+    "Raffaele Gravina",
+    "Giancarlo Fortino",
+    "Yongmei Jiang",
+    "Kai Tang"
+  ],
+  "references": [],
+  "title": "Kernel fusion based extreme learning machine for cross-location activity recognition",
+  "year": 2017,
+  "id": "a9e93365-c345-431a-9c12-a5ef24973fe0"
+},{
+
+  "authors": [
+    "Sen Qiu",
+    "Zhelong Wang",
+    "Hongyu Zhao",
+    "Huosheng Hu"
+  ],
+  "references": [],
+  "title": "Using Distributed Wearable Sensors to Measure and Evaluate Human Lower Limb Motions",
+  "year": 2016,
+  "id": "e90d8547-d686-4b9f-816c-f0b0e4645cf1"
+},{
+  "authors": [
+    "Kun-chan Lan",
+    "Wen-Yuah Shih"
+  ],
+  "references": [],
+  "title": "Using Smart-Phones and Floor Plans for Indoor Location Tracking",
+  "year": 2014,
+  "id": "fa936941-490e-4fed-ba60-944624568896"
+},{
+  "authors": [
+    "Germain Forestier",
+    "Pierre Gançarski",
+    "Cédric Wemmert"
+  ],
+  "references": [],
+  "title": "Collaborative clustering with background knowledge",
+  "year": 2010,
+  "id": "102e255a-5367-40cf-b926-a20819ff3c86"
+},{
+  "authors": [
+    "Antoine Cornuéjols",
+    "Cédric Wemmert",
+    "Pierre Gançarski",
+    "Younès Bennani"
+  ],
+  "references": [
+    "Collaborative clustering with background knowledge",
+    "Concavity and Initialization for Unsupervised Dependency Parsing",
+    "Towards Property-Based Classification of Clustering Paradigms",
+    "Perspective Motion Segmentation via Collaborative Clustering"
+  ],
+  "title": "Collaborative clustering: Why, when, what and how",
+  "year": 2018,
+  "id": "9e21a9e1-cea2-4646-ba80-b84d43e8dcba"
+},{
+  "authors": [
+    "Kevin Gimpel",
+    "Noah A. Smith"
+  ],
+  "references": [],
+  "title": "Concavity and Initialization for Unsupervised Dependency Parsing",
+  "year": 2012,
+  "id": "d809c93e-2611-4c88-b044-38d30a22155c"
+},{
+  "authors": [
+    "Margareta Ackerman",
+    "Shai Ben-David",
+    "David Loker"
+  ],
+  "references": [],
+  "title": "Towards Property-Based Classification of Clustering Paradigms",
+  "year": 2010,
+  "id": "dadbf03f-4e3a-44a6-855d-2bebd2dd297a"
+},{
+  "authors": [
+    "Zhuwen Li",
+    "Jiaming Guo",
+    "Loong-Fah Cheong",
+    "Steven ZhiYing Zhou"
+  ],
+  "references": [],
+  "title": "Perspective Motion Segmentation via Collaborative Clustering",
+  "year": 2013,
+  "id": "e70bc592-7392-48ab-9ed4-b63743448b0b"
+},{
+  "authors": [
+    "Hongze Li",
+    "Sen Guo",
+    "Chunjie Li",
+    "Jingqi Sun"
+  ],
+  "references": [],
+  "title": "A hybrid annual power load forecasting model based on generalized regression neural network with fruit fly optimization algorithm",
+  "year": 2013,
+  "id": "2023e8d4-50f9-4f69-813b-2973f1159002"
+},{
+  "authors": [
+    "Pengwen Xiong",
+    "Changcheng Wu",
+    "Huamao Zhou",
+    "Aiguo Song",
+    "Lingyan Hu",
+    "Xiaoping P. Liu"
+  ],
+  "references": [
+    "A hybrid annual power load forecasting model based on generalized regression neural network with fruit fly optimization algorithm",
+    "Multi-sensor fusion in body sensor networks: State-of-the-art and research challenges",
+    "Enabling Effective Programming and Flexible Management of Efficient Body Sensor Network Applications",
+    "Blind Image Quality Assessment Using a General Regression Neural Network",
+    "Control System Design for an Upper-Limb Rehabilitation Robot"
+  ],
+  "title": "Design of an accurate end-of-arm force display system based on wearable arm gesture sensors and EMG sensors",
+  "year": 2018,
+  "id": "acfbe8cf-11aa-45a8-b539-56f1f87bd133"
+},{
+  "authors": [
+    "Guozheng Xu",
+    "Aiguo Song",
+    "Huijun Li"
+  ],
+  "references": [],
+  "title": "Control System Design for an Upper-Limb Rehabilitation Robot",
+  "year": 2011,
+  "id": "c3f3fc3e-6225-4381-b780-c184080ebc4d"
+},{
+  "authors": [
+    "Chaofeng Li",
+    "Alan C. Bovik",
+    "Xiaojun Wu"
+  ],
+  "references": [],
+  "title": "Blind Image Quality Assessment Using a General Regression Neural Network",
+  "year": 2011,
+  "id": "94886cc1-b032-45fd-acfa-8ef172e06ed0"
+},{
+  "authors": [
+    "Giancarlo Fortino",
+    "Roberta Giannantonio",
+    "Raffaele Gravina",
+    "Philip Kuryloski",
+    "Roozbeh Jafari"
+  ],
+  "references": [],
+  "title": "Enabling Effective Programming and Flexible Management of Efficient Body Sensor Network Applications",
+  "year": 2013,
+  "id": "88a319bc-135b-4a3f-87ae-edd4dc4087ea"
+},{
+  "authors": [
+    "Rui Wang",
+    "Filiz Bunyak",
+    "Guna Seetharaman",
+    "Kannappan Palaniappan"
+  ],
+  "references": [],
+  "title": "Static and Moving Object Detection Using Flux Tensor with Split Gaussian Models",
+  "year": 2014,
+  "id": "01425c8b-241f-4f64-aacd-bebd4665e772"
+},{
+  "authors": [
+    "K SuganyaDevi",
+    "N. Malmurugan",
+    "R Sivakumar"
+  ],
+  "references": [],
+  "title": "OF-SMED: An optimal foreground detection method in surveillance system for traffic monitoring",
+  "year": 2012,
+  "id": "06a26601-0cee-48d4-a1a4-f790ae725da8"
+},{
+  "authors": [
+    "Graciela Ramirez-Alonso",
+    "Mario I. Chacon-Murguia"
+  ],
+  "references": [],
+  "title": "Auto-Adaptive Parallel SOM Architecture with a modular analysis for dynamic object segmentation in videos",
+  "year": 2016,
+  "id": "11561788-a208-4ae5-8df3-30439d55a30b"
+},{
+  "authors": [
+    "Ingrid Visentini",
+    "Lauro Snidaro",
+    "Gian Luca Foresti"
+  ],
+  "references": [],
+  "title": "Diversity-aware classifier ensemble selection via f-score",
+  "year": 2016,
+  "id": "198d82e7-6d7d-4fb9-89de-22c2a1e5081f"
+},{
+  "authors": [
+    "Christophe C. Pagano",
+    "Eric Granger",
+    "Robert Sabourin",
+    "Gian Luca Marcialis",
+    "Fabio Roli"
+  ],
+  "references": [],
+  "title": "Adaptive ensembles for face recognition in changing video surveillance environments",
+  "year": 2014,
+  "id": "1cdf7cbc-c1ce-48fe-b523-059d3ee9eab1"
+},{
+  "authors": [
+    "Mohamed Sedky",
+    "Mansour Moniri",
+    "Claude C. Chibelushi"
+  ],
+  "references": [],
+  "title": "Spectral-360: A Physics-Based Technique for Change Detection",
+  "year": 2014,
+  "id": "1d844606-eb96-49d0-84cd-4bf5d1a0acd8"
+},{
+  "authors": [
+    "Lucia Maddalena",
+    "Alfredo Petrosino"
+  ],
+  "references": [],
+  "title": "A fuzzy spatial coherence-based approach to background/foreground separation for moving object detection",
+  "year": 2010,
+  "id": "258aaa80-14ee-467b-9978-0e725b4a1040"
+},{
+  "authors": [
+    "Paulo Vinicius Wolski Radtke",
+    "Eric Granger",
+    "Robert Sabourin",
+    "Dmitry O. Gorodnichy"
+  ],
+  "references": [],
+  "title": "Skew-sensitive boolean combination for adaptive ensembles - An application to face recognition in video surveillance",
+  "year": 2014,
+  "id": "29d9415f-2741-467a-82f7-f455368ea1cb"
+},{
+  "authors": [
+    "Thierry Bouwmans"
+  ],
+  "references": [],
+  "title": "Traditional and Recent Approaches in Background Modeling for Foreground Detection: An Overview",
+  "year": 2014,
+  "id": "2fa2c8c4-668b-4fbf-afa4-b0322b29b74c"
+},{
+  "authors": [
+    "Pierre-Luc St-Charles",
+    "Guillaume-Alexandre Bilodeau",
+    "Robert Bergevin"
+  ],
+  "references": [],
+  "title": "SuBSENSE: A Universal Change Detection Method With Local Adaptive Sensitivity",
+  "year": 2015,
+  "id": "3c5c55db-cad4-4427-b88a-2da8a10705d4"
+},{
+  "authors": [
+    "Yi-Tung Chan",
+    "Shuenn-Jyi Wang",
+    "Chung-Hsien Tsai"
+  ],
+  "references": [
+    "Static and Moving Object Detection Using Flux Tensor with Split Gaussian Models",
+    "OF-SMED: An optimal foreground detection method in surveillance system for traffic monitoring",
+    "Auto-Adaptive Parallel SOM Architecture with a modular analysis for dynamic object segmentation in videos",
+    "Diversity-aware classifier ensemble selection via f-score",
+    "Adaptive ensembles for face recognition in changing video surveillance environments",
+    "Spectral-360: A Physics-Based Technique for Change Detection",
+    "A fuzzy spatial coherence-based approach to background/foreground separation for moving object detection",
+    "Skew-sensitive boolean combination for adaptive ensembles - An application to face recognition in video surveillance",
+    "Traditional and Recent Approaches in Background Modeling for Foreground Detection: An Overview",
+    "SuBSENSE: A Universal Change Detection Method With Local Adaptive Sensitivity",
+    "A survey of multiple classifier systems as hybrid systems",
+    "Evaluation of background subtraction techniques for video surveillance",
+    "A Fast Self-Tuning Background Subtraction Algorithm",
+    "Video-Based Human Behavior Understanding: A Survey",
+    "Improved classification with allocation method and multiple classifiers",
+    "Stopped Object Detection by Learning Foreground Model in Videos",
+    "Adaptive Classification for Person Re-identification Driven by Change Detection",
+    "A Vision-Based Method for Parking Space Surveillance and Parking Lot Management",
+    "Classifier Ensembles with Trajectory Under-Sampling for Face Re-Identification",
+    "Partially-supervised learning from facial trajectories for face recognition in video surveillance"
+  ],
+  "title": "Real-time foreground detection approach based on adaptive ensemble learning with arbitrary algorithms for changing environments",
+  "year": 2018,
+  "id": "c24cc218-f4dc-4e60-83b6-09cf779b824b"
+},{
+  "authors": [
+    "Sebastian Brutzer",
+    "Benjamin Höferlin",
+    "Gunther Heidemann"
+  ],
+  "references": [],
+  "title": "Evaluation of background subtraction techniques for video surveillance",
+  "year": 2011,
+  "id": "cc965ba5-1b1d-4538-8035-443f6d1bb4c7"
+},{
+  "authors": [
+    "Bin Wang",
+    "Piotr Dudek"
+  ],
+  "references": [],
+  "title": "A Fast Self-Tuning Background Subtraction Algorithm",
+  "year": 2014,
+  "id": "ceb24d90-4dc1-4257-b679-a9ef639b2ef3"
+},{
+  "authors": [
+    "Paulo Vinicius Koerich Borges",
+    "Nicola Conci",
+    "Andrea Cavallaro"
+  ],
+  "references": [],
+  "title": "Video-Based Human Behavior Understanding: A Survey",
+  "year": 2013,
+  "id": "d1ad1422-940e-4b1b-8f1e-f1098aed979b"
+},{
+  "authors": [
+    "Sašo Karakatič",
+    "Vili Podgorelec"
+  ],
+  "references": [],
+  "title": "Improved classification with allocation method and multiple classifiers",
+  "year": 2016,
+  "id": "d9576149-0c36-444e-9ce3-9bdea4ed8f3a"
+},{
+  "authors": [
+    "Lucia Maddalena",
+    "Alfredo Petrosino"
+  ],
+  "references": [],
+  "title": "Stopped Object Detection by Learning Foreground Model in Videos",
+  "year": 2013,
+  "id": "dcd7876f-6c15-4ea5-8f0d-e17cf3297646"
+},{
+  "authors": [
+    "Christophe C. Pagano",
+    "Eric Granger",
+    "Robert Sabourin",
+    "Gian Luca Marcialis",
+    "Fabio Roli"
+  ],
+  "references": [],
+  "title": "Adaptive Classification for Person Re-identification Driven by Change Detection",
+  "year": 2015,
+  "id": "e5ec1425-7d34-496d-bebe-3a778d5ccad3"
+},{
+  "authors": [
+    "Ying Wang",
+    "Yangyang Hu",
+    "Xuefeng Hu",
+    "Yong Zhao"
+  ],
+  "title": "A Vision-Based Method for Parking Space Surveillance and Parking Lot Management",
+  "year": 2015,
+  "id": "f44f63e8-b378-4458-bfca-0fba5d69b4e0"
+},{
+  "authors": [
+    "Roghayeh Soleymani",
+    "Eric Granger",
+    "Giorgio Fumera"
+  ],
+  "references": [],
+  "title": "Classifier Ensembles with Trajectory Under-Sampling for Face Re-Identification",
+  "year": 2016,
+  "id": "f9a87ad1-d014-4c49-b6b4-c22ff09b90cc"
+},{
+  "authors": [
+    "Miguel De-la-Torre",
+    "Eric Granger",
+    "Paulo Vinicius Wolski Radtke",
+    "Robert Sabourin",
+    "Dmitry O. Gorodnichy"
+  ],
+  "references": [],
+  "title": "Partially-supervised learning from facial trajectories for face recognition in video surveillance",
+  "year": 2015,
+  "id": "fcc9d25d-093c-46b7-9824-a21e061dd7da"
+},{
+  "authors": [
+    "Wenwen Zong",
+    "Yong Su",
+    "Hua-Wen Liu",
+    "Bernard De Baets"
+  ],
+  "references": [
+    "Ordinal sum construction for uninorms and generalized uninorms",
+    "On the Choice of the Pair Conjunction–Implication Into the Fuzzy Morphological Edge Detector",
+    "Construction of Interval-Valued Fuzzy Relations With Application to the Generation of Fuzzy Edge Images",
+    "Construction of commutative and associative operations by paving",
+    "A note on decomposition of idempotent uninorms into an ordinal sum of singleton semigroups",
+    "Ordinal sums of representable uninorms",
+    "Evolving granular neural network for semi-supervised data stream classification",
+    "Block-wise construction of commutative increasing monoids",
+    "A survey on the existing classes of uninorms"
+  ],
+  "title": "On the Construction of Associative, Commutative and Increasing Operations by Paving",
+  "year": 2018,
+  "id": "a289d8fa-4074-466b-8404-ada505868460"
+},{
+  "authors": [
+    "Margarita Mas",
+    "Sebastia Massanet",
+    "Daniel Ruiz-Aguilera",
+    "Joan Torrens"
+  ],
+  "references": [],
+  "title": "A survey on the existing classes of uninorms",
+  "year": 2015,
+  "id": "da062517-ce24-4b7d-8249-ee808fc1d6ce"
+},{
+  "authors": [
+    "Slavka Bodjanova",
+    "Martin Kalina"
+  ],
+  "references": [],
+  "title": "Block-wise construction of commutative increasing monoids",
+  "year": 2016,
+  "id": "cc9b4b73-a127-4709-b584-1cbc9a09138e"
+},{
+  "authors": [
+    "Daniel Leite",
+    "Pyramo Costa",
+    "Fernando Gomide"
+  ],
+  "references": [],
+  "title": "Evolving granular neural network for semi-supervised data stream classification",
+  "year": 2010,
+  "id": "af4ae5c2-a26c-4070-9348-95a86d86d8a3"
+},{
+  "authors": [
+    "Andrea Mesiarová-Zemánková"
+  ],
+  "references": [],
+  "title": "Ordinal sums of representable uninorms",
+  "year": 2017,
+  "id": "a9bd4fa0-045e-4a8c-b6dd-e66ffadf7ad0"
+},{
+  "authors": [
+    "Andrea Mesiarová-Zemánková"
+  ],
+  "references": [],
+  "title": "A note on decomposition of idempotent uninorms into an ordinal sum of singleton semigroups",
+  "year": 2016,
+  "id": "870a3f2d-3dd8-49f4-a358-b07743ed482d"
+},{
+  "authors": [
+    "Martin Kalina",
+    "Pavol Král"
+  ],
+  "references": [],
+  "title": "Construction of commutative and associative operations by paving",
+  "year": 2015,
+  "id": "81be7025-e7bc-4050-91c4-0b4c04660c7b"
+},{
+  "authors": [
+    "Edurne Barrenechea",
+    "Humberto Bustince",
+    "B. De Baets",
+    "C. Lopez-Molina"
+  ],
+  "references": [],
+  "title": "Construction of Interval-Valued Fuzzy Relations With Application to the Generation of Fuzzy Edge Images",
+  "year": 2011,
+  "id": "7bcb9778-0a51-4243-a87c-1fe09b43c285"
+},{
+  "authors": [
+    "Manuel González-Hidalgo",
+    "Sebastia Massanet",
+    "Arnau Mir",
+    "Daniel Ruiz-Aguilera"
+  ],
+  "references": [],
+  "title": "On the Choice of the Pair Conjunction–Implication Into the Fuzzy Morphological Edge Detector",
+  "year": 2015,
+  "id": "534c0dcf-8042-4f63-82bb-b28b57bc0ffa"
+},{
+  "authors": [
+    "Andrea Mesiarová-Zemánková"
+  ],
+  "references": [],
+  "title": "Ordinal sum construction for uninorms and generalized uninorms",
+  "year": 2016,
+  "id": "51f3399f-1843-4402-b16e-4d524a64a1e4"
+},{
+  "authors": [
+    "Javier D. Fernandez",
+    "Maurizio Lenzerini",
+    "Marco Masseroli",
+    "Francesco Venco",
+    "Stefano Ceri"
+  ],
+  "references": [],
+  "title": "Ontology-Based Search of Genomic Metadata",
+  "year": 2016,
+  "id": "21c4acf4-7ad9-4fb1-bc7e-3f6def9e1706"
+},{
+  "authors": [
+    "Gianvito Pio",
+    "Donato Malerba",
+    "Domenica D'Elia",
+    "Michelangelo Ceci"
+  ],
+  "references": [],
+  "title": "Integrating microRNA target predictions for the discovery of gene regulatory networks: a semi-supervised ensemble learning approach",
+  "year": 2014,
+  "id": "381757bc-4f38-4b7f-90a4-b41f7b534c17"
+},{
+  "authors": [
+    "Francesca Cristiano",
+    "Pierangelo Veltri",
+    "Mattia Prosperi",
+    "Giuseppe Tradigo"
+  ],
+  "references": [],
+  "title": "On the identification of long non-coding RNAs from RNA-seq",
+  "year": 2016,
+  "id": "3e829f09-3618-44dc-b4fd-445c927a074f"
+},{
+  "authors": [
+    "Francesco Gullo",
+    "Giovanni Ponti",
+    "Andrea Tagarelli",
+    "Giuseppe Tradigo",
+    "Pierangelo Veltri"
+  ],
+  "references": [],
+  "title": "A time series approach for clustering mass spectrometry data",
+  "year": 2012,
+  "id": "40018d04-495c-4fae-8271-9705adf603ba"
+},{
+  "authors": [
+    "Predrag Kukic",
+    "Claudio Mirabello",
+    "Giuseppe Tradigo",
+    "Ian Walsh",
+    "Pierangelo Veltri",
+    "Gianluca Pollastri"
+  ],
+  "references": [],
+  "title": "Toward an accurate prediction of inter-residue distances in proteins using 2D recursive neural networks",
+  "year": 2014,
+  "id": "8f9a8e79-10cb-4559-8cd5-7400c4268ed8"
+},{
+  "authors": [
+    "Giuseppe Tradigo",
+    "Pierangelo Veltri",
+    "Sergio Greco"
+  ],
+  "references": [],
+  "title": "Geomedica: managing and querying clinical data distributions on geographical database systems",
+  "year": 2010,
+  "id": "f6e3fd6d-de28-45e4-9eed-dff1b36c1e16"
+},{
+  "authors": [
+    "Douglas B. Fridsma"
+  ],
+  "title": "Health informatics: our domain, our challenge",
+  "year": 2016,
+  "id": "9d8de946-aebc-4c46-883c-515c0bb30d9a"
+},{
+  "authors": [
+    "Pietro Hiram Guzzi",
+    "Giuseppe Tradigo",
+    "Pierangelo Veltri"
+  ],
+  "references": [
+    "Ontology-Based Search of Genomic Metadata",
+    "Integrating microRNA target predictions for the discovery of gene regulatory networks: a semi-supervised ensemble learning approach",
+    "On the identification of long non-coding RNAs from RNA-seq",
+    "A time series approach for clustering mass spectrometry data",
+    "Toward an accurate prediction of inter-residue distances in proteins using 2D recursive neural networks",
+    "Health informatics: our domain, our challenge",
+    "Perspectives in Healthcare Data Management with Application to Maternal and Fetal Wellbeing.",
+    "Vascular image registration techniques: A living review.",
+    "SINSE+: a software for the acquisition and analysis of open data in health and social area.",
+    "Geomedica: managing and querying clinical data distributions on geographical database systems"
+  ],
+  "title": "Database Community and Health Related Data: Experiences Through the Last Decade",
+  "year": 2018,
+  "id": "0b16bcfa-4af2-4ed5-8f9f-f0673cdbb48b"
+},{
+  "authors": [
+    "Lucia Vaira",
+    "Mario A. Bochicchio",
+    "Shamkant B. Navathe"
+  ],
+  "title": "Perspectives in Healthcare Data Management with Application to Maternal and Fetal Wellbeing.",
+  "year": 2016,
+  "id": "a4e6fa07-1653-4cb8-a151-209a950f84f4"
+},{
+  "authors": [
+    "Stefan Matl",
+    "Richard Brosig",
+    "Maximilian Baust",
+    "Nassir Navab",
+    "Stefanie Demirci"
+  ],
+  "references": [],
+  "title": "Vascular image registration techniques: A living review.",
+  "year": 2017,
+  "id": "a83c49d9-82b7-4800-93b0-1f429c68a173"
+},{
+  "authors": [
+    "Lidia Federico",
+    "Pasquale Franco",
+    "Antonio Minelli",
+    "Alessandra Perri",
+    "Luciano Caroprese",
+    "Rocco Picarelli",
+    "Giuseppe Tradigo",
+    "Eugenio Vocaturo",
+    "Francesco Dattola",
+    "Alfredo Fortunato",
+    "Pasquale Lambardi",
+    "Sara Laurita",
+    "Ivana Pellegrino",
+    "Alfredo Garro",
+    "Andrea Pugliese",
+    "Andrea Tagarelli",
+    "Pierangelo Veltri",
+    "Ester Zumpano"
+  ],
+  "title": "SINSE+: a software for the acquisition and analysis of open data in health and social area.",
+  "year": 2016,
+  "id": "a94635f0-2fc5-4e86-9053-d4c01d448162"
+},{
+  "authors": [
+    "Alexandros Chortaras",
+    "Despoina Trivela",
+    "Giorgos B. Stamou"
+  ],
+  "references": [],
+  "title": "Optimized query rewriting for OWL 2 QL",
+  "year": 2011,
+  "id": "07033165-79b1-49f0-af4f-81a643f66129"
+},{
+  "authors": [
+    "Floriana Di Pinto",
+    "Domenico Lembo",
+    "Maurizio Lenzerini",
+    "Riccardo Mancini",
+    "Antonella Poggi",
+    "Riccardo Rosati",
+    "Marco Ruzzi",
+    "Domenico Fabio Savo"
+  ],
+  "references": [],
+  "title": "Optimizing query rewriting in ontology-based data access",
+  "year": 2013,
+  "id": "0908c81e-cd1f-46eb-9e2c-d3924bf53217"
+},{
+  "authors": [
+    "Natalia Antonioli",
+    "Francesco Castanò",
+    "Spartaco Coletta",
+    "Stefano Grossi",
+    "Domenico Lembo",
+    "Maurizio Lenzerini",
+    "Antonella Poggi",
+    "Emanuela Virardi",
+    "Patrizia Castracane"
+  ],
+  "references": [],
+  "title": "Ontology-based data management for the Italian public debt",
+  "year": 2014,
+  "id": "0bfc2240-5edb-4fe4-8623-566771d9ea4e"
+},{
+  "authors": [
+    "Víctor Gutiérrez-Basulto",
+    "Yazmin Angélica Ibáñez-García",
+    "Roman Kontchakov",
+    "Egor V. Kostylev"
+  ],
+  "references": [],
+  "title": "Queries with negation and inequalities over lightweight ontologies",
+  "year": 2015,
+  "id": "14195173-20a2-4bc7-bcd8-f88d0c8839ea"
+},{
+  "authors": [
+    "Floriana Di Pinto",
+    "Giuseppe De Giacomo",
+    "Maurizio Lenzerini",
+    "Riccardo Rosati"
+  ],
+  "references": [],
+  "title": "Ontology-based data access with dynamic TBoxes in DL-lite",
+  "year": 2012,
+  "id": "16dd41f6-3a9c-4609-8772-fb7e203657d0"
+},{
+  "authors": [
+    "Bruno Marnette",
+    "Giansalvatore Mecca",
+    "Paolo Papotti",
+    "Salvatore Raunich",
+    "Donatello Santoro"
+  ],
+  "references": [],
+  "title": "++Spicy: an OpenSource Tool for Second-Generation Schema Mapping and Data Exchange",
+  "year": 2011,
+  "id": "2b9c37ef-8225-4463-87c5-8ea8e4e401d6"
+},{
+  "authors": [
+    "Andrea Calì",
+    "Georg Gottlob",
+    "Thomas Lukasiewicz"
+  ],
+  "references": [],
+  "title": "A general Datalog-based framework for tractable query answering over ontologies",
+  "year": 2012,
+  "id": "2f9abfd1-280d-4692-b41f-e374020b9e12"
+},{
+  "authors": [
+    "Elena Botoeva",
+    "Diego Calvanese",
+    "Benjamin Cogrel",
+    "Martin Rezk",
+    "Guohui Xiao"
+  ],
+  "title": "OBDA Beyond Relational DBs: A Study for MongoDB.",
+  "year": 2016,
+  "id": "3153a2d6-5eb7-424d-b203-84761b566c8e"
+},{
+  "authors": [
+    "Damian Bursztyn",
+    "François Goasdoué",
+    "Ioana Manolescu"
+  ],
+  "references": [],
+  "title": "Teaching an RDBMS about ontological constraints",
+  "year": 2016,
+  "id": "4c96f9fb-e0af-4cb4-8b85-f127361fec0e"
+},{
+  "authors": [
+    "Giuseppe De Giacomo",
+    "Domenico Lembo",
+    "Maurizio Lenzerini",
+    "Antonella Poggi",
+    "Riccardo Rosati"
+  ],
+  "references": [
+    "Optimized query rewriting for OWL 2 QL",
+    "Optimizing query rewriting in ontology-based data access",
+    "Ontology-based data management for the Italian public debt",
+    "Queries with negation and inequalities over lightweight ontologies",
+    "Ontology-based data access with dynamic TBoxes in DL-lite",
+    "The Price of Query Rewriting in Ontology-Based Data Access",
+    "++Spicy: an OpenSource Tool for Second-Generation Schema Mapping and Data Exchange",
+    "A general Datalog-based framework for tractable query answering over ontologies",
+    "OBDA Beyond Relational DBs: A Study for MongoDB.",
+    "Teaching an RDBMS about ontological constraints",
+    "Data quality in ontology-based data access: the case of consistency",
+    "Eddy: A Graphical Editor for OWL 2 Ontologies.",
+    "The combined approach to ontology-based data access",
+    "657f3755-a526-4d8c-96f9-1aacb5e952ea",
+    "7299bf2e-c246-412b-a8fe-57060fe2119e",
+    "788da3d7-6c8a-4ef6-8c4c-9c7dd174a5f7",
+    "Ontop: Answering SPARQL queries over relational databases",
+    "Query rewriting for horn-SHIQ plus rules",
+    "Capturing model-based ontology evolution at the instance level: The case of DL-Lite",
+    "Handling Inconsistencies Due to Class Disjointness in SPARQL Updates",
+    "Ontology evolution: a process-centric survey",
+    "Answering Metaqueries over Hi (OWL 2 QL) Ontologies.",
+    "Easy OWL drawing with the graphol visual ontology language",
+    "Improving Query Answering over DL-Lite Ontologies"
+  ],
+  "title": "Using Ontologies for Semantic Data Integration",
+  "year": 2018,
+  "id": "2cd83684-9e5f-4f7a-b62c-645e1c4413cf"
+},{
+  "authors": [
+    "Domenico Lembo",
+    "Daniele Pantaleone",
+    "Valerio Santarelli",
+    "Domenico Fabio Savo"
+  ],
+  "references": [],
+  "title": "Easy OWL drawing with the graphol visual ontology language",
+  "year": 2016,
+  "id": "f3517d9c-9073-46de-a1b9-7c78559d9197"
+},{
+  "authors": [
+    "Maurizio Lenzerini",
+    "Lorenzo Lepore",
+    "Antonella Poggi"
+  ],
+  "title": "Answering Metaqueries over Hi (OWL 2 QL) Ontologies.",
+  "year": 2016,
+  "id": "c6284453-b23c-4a69-8a57-c1c855e6e893"
+},{
+  "authors": [
+    "Fouad Zablith",
+    "Grigoris Antoniou",
+    "Mathieu d'Aquin",
+    "Giorgos Flouris",
+    "Haridimos Kondylakis",
+    "Enrico Motta",
+    "Dimitris Plexousakis",
+    "Marta Sabou"
+  ],
+  "references": [],
+  "title": "Ontology evolution: a process-centric survey",
+  "year": 2015,
+  "id": "c3b9405e-81ec-40d1-90c2-36de66c0173e"
+},{
+  "authors": [
+    "Albin Ahmeti",
+    "Diego Calvanese",
+    "Axel Polleres",
+    "Vadim Savenkov"
+  ],
+  "references": [],
+  "title": "Handling Inconsistencies Due to Class Disjointness in SPARQL Updates",
+  "year": 2016,
+  "id": "c2d0ff2d-67ec-4d2a-934f-04ca9e79671c"
+},{
+  "authors": [
+    "Evgeny Kharlamov",
+    "Dmitriy Zheleznyakov",
+    "Diego Calvanese"
+  ],
+  "references": [],
+  "title": "Capturing model-based ontology evolution at the instance level: The case of DL-Lite",
+  "year": 2013,
+  "id": "99531010-5f48-447e-b024-22e69085fbba"
+},{
+  "authors": [
+    "Roman Kontchakov",
+    "Carsten Lutz",
+    "David Toman",
+    "Frank Wolter",
+    "Michael Zakharyaschev"
+  ],
+  "references": [],
+  "title": "The combined approach to ontology-based data access",
+  "year": 2011,
+  "id": "6217afb6-f0bd-4c63-9a21-92faa730802b"
+},{
+  "authors": [
+    "Domenico Lembo",
+    "Daniele Pantaleone",
+    "Valerio Santarelli",
+    "Domenico Fabio Savo"
+  ],
+  "title": "Eddy: A Graphical Editor for OWL 2 Ontologies.",
+  "year": 2016,
+  "id": "59ce8cd5-47b5-4ef0-97b2-bdc7b705eb33"
+},{
+  "authors": [
+    "Marco Console",
+    "Maurizio Lenzerini"
+  ],
+  "references": [],
+  "title": "Data quality in ontology-based data access: the case of consistency",
+  "year": 2014,
+  "id": "521de3c9-e7cc-4ef8-ac59-ea5de16d1503"
+},{
+  "authors": [
+    "Riccardo Rosati",
+    "Alessandro Almatelli"
+  ],
+  "references": [],
+  "title": "Improving Query Answering over DL-Lite Ontologies",
+  "year": 2010,
+  "id": "fb60de03-8948-48cf-8dc6-c2873a0babe4"
+},{
+  "authors": [
+    "Franco Maria Nardini",
+    "Salvatore Orlando",
+    "Raffaele Perego",
+    "Alessandra Raffaetà",
+    "Chiara Renso",
+    "Claudio Silvestri"
+  ],
+  "references": [
+    "TripBuilder: A Tool for Recommending Sightseeing Tours",
+    "Visual Mobility Analysis using T-Warehouse",
+    "Semantic trajectories modeling and analysis",
+    "On planning sightseeing tours with TripBuilder",
+    "Where shall we go today?: planning touristic tours with tripbuilder",
+    "Visual analytics of movement: an overview of methods, tools and procedures",
+    "5W1H-based Conceptual Modeling Framework for Domain Ontology and Its Application on STPO",
+    "CONSTAnT – A Conceptual Data Model for Semantic Trajectories of Moving Objects",
+    "A general framework for trajectory data warehousing and visual OLAP",
+    "Mob-Warehouse: A Semantic Approach for Mobility Analysis with a Trajectory Data Warehouse"
+  ],
+  "title": "Analysing Trajectories of Mobile Users: From Data Warehouses to Recommender Systems",
+  "year": 2018,
+  "id": "2eac7fc0-4f8f-406e-9e60-da2f50f81b92"
+},{
+  "authors": [
+    "Ricardo Wagner",
+    "José Antônio Fernandes de Macêdo",
+    "Alessandra Raffaetà",
+    "Chiara Renso",
+    "Alessandro Roncato",
+    "Roberto Trasarti"
+  ],
+  "references": [],
+  "title": "Mob-Warehouse: A Semantic Approach for Mobility Analysis with a Trajectory Data Warehouse",
+  "year": 2013,
+  "id": "f58a5854-e375-4e53-a7ef-79fca94dffc4"
+},{
+  "authors": [
+    "Luca Leonardi",
+    "Salvatore Orlando",
+    "Alessandra Raffaetà",
+    "Alessandro Roncato",
+    "Claudio Silvestri",
+    "Gennady L. Andrienko",
+    "Natalia V. Andrienko"
+  ],
+  "references": [],
+  "title": "A general framework for trajectory data warehousing and visual OLAP",
+  "year": 2014,
+  "id": "e28d5662-736c-4861-b157-39f8de8985a5"
+},{
+  "authors": [
+    "Vania Bogorny",
+    "Chiara Renso",
+    "Artur Ribeiro de Aquino",
+    "Fernando de Lucca Siqueira",
+    "Luis Otavio Alvares"
+  ],
+  "references": [],
+  "title": "CONSTAnT – A Conceptual Data Model for Semantic Trajectories of Moving Objects",
+  "year": 2014,
+  "id": "d6ee61db-b7f1-4821-ab12-2f114fea1ca4"
+},{
+  "authors": [
+    "Liu Yang",
+    "Zhigang Hu",
+    "Jun Long",
+    "Tao Guo"
+  ],
+  "references": [],
+  "title": "5W1H-based Conceptual Modeling Framework for Domain Ontology and Its Application on STPO",
+  "year": 2011,
+  "id": "c8d4dbaa-99b6-4587-920a-bfbed09e1c53"
+},{
+  "authors": [
+    "Natalia V. Andrienko",
+    "Gennady L. Andrienko"
+  ],
+  "references": [],
+  "title": "Visual analytics of movement: an overview of methods, tools and procedures",
+  "year": 2013,
+  "id": "c2ba9e0e-b91c-41df-848e-f826b26dd161"
+},{
+  "authors": [
+    "Igo Ramalho Brilhante",
+    "José Antônio Fernandes de Macêdo",
+    "Franco Maria Nardini",
+    "Raffaele Perego",
+    "Chiara Renso"
+  ],
+  "references": [],
+  "title": "Where shall we go today?: planning touristic tours with tripbuilder",
+  "year": 2013,
+  "id": "8d1448f0-70d6-4c64-b05f-d691f2b5d9cd"
+},{
+  "authors": [
+    "Igo Ramalho Brilhante",
+    "José Antônio Fernandes de Macêdo",
+    "Franco Maria Nardini",
+    "Raffaele Perego",
+    "Chiara Renso"
+  ],
+  "references": [],
+  "title": "On planning sightseeing tours with TripBuilder",
+  "year": 2015,
+  "id": "7e1911f9-f43f-46ac-b130-fa58b5ea63b3"
+},{
+  "authors": [
+    "Christine Parent",
+    "Stefano Spaccapietra",
+    "Chiara Renso",
+    "Gennady L. Andrienko",
+    "Natalia V. Andrienko",
+    "Vania Bogorny",
+    "Maria Luisa Damiani",
+    "Aris Gkoulalas-Divanis",
+    "José Antônio Fernandes de Macêdo",
+    "Nikos Pelekis",
+    "Yannis Theodoridis",
+    "Zhixian Yan"
+  ],
+  "references": [],
+  "title": "Semantic trajectories modeling and analysis",
+  "year": 2013,
+  "id": "7d13c335-5550-4eff-af54-2d52928a7209"
+},{
+  "authors": [
+    "A. Raffaetí",
+    "Luca Leonardi",
+    "Gerasimos Marketos",
+    "Gennady L. Andrienko",
+    "Natalia V. Andrienko",
+    "Elias Frentzos",
+    "Nikos Giatrakos",
+    "Salvatore Orlando",
+    "Nikos Pelekis",
+    "Alessandro Roncato",
+    "Claudio Silvestri"
+  ],
+  "references": [],
+  "title": "Visual Mobility Analysis using T-Warehouse",
+  "year": 2011,
+  "id": "670661b9-1a0c-4ed2-acba-8d66e170ee29"
+},{
+  "authors": [
+    "Igo Ramalho Brilhante",
+    "José Antônio Fernandes de Macêdo",
+    "Franco Maria Nardini",
+    "Raffaele Perego",
+    "Chiara Renso"
+  ],
+  "references": [],
+  "title": "TripBuilder: A Tool for Recommending Sightseeing Tours",
+  "year": 2014,
+  "id": "085b1066-e099-43c3-b943-feddfc9b07fb"
+},{
+  "authors": [
+    "Devis Bianchini",
+    "Valeria De Antonellis",
+    "Michele Melchiori"
+  ],
+  "references": [
+    "A bottom-up, knowledge-aware approach to integrating and querying web data services",
+    "Service Recommendation Using Customer Similarity and Service Usage Pattern",
+    "Incorporating User, Topic, and Service Related Latent Factors into Web Service Recommendation",
+    "A Novel Approach for API Recommendation in Mashup Development",
+    "Recommending Web Services via Combining Collaborative Filtering with Content-Based Features",
+    "A Social-Aware Service Recommendation Approach for Mashup Creation",
+    "Mashup Service Recommendation Based on User Interest and Social Network",
+    "Search Computing: challenges and Directions",
+    "Social-Based Web Services Discovery and Composition for Step-by-Step Mashup Completion",
+    "A multi-perspective framework for web API search in enterprise mashup design"
+  ],
+  "title": "Services Discovery and Recommendation for Multi-datasource Access: Exploiting Semantic and Social Technologies",
+  "year": 2018,
+  "id": "3fa54ec1-d725-4fa1-8833-999fcbade826"
+},{
+  "authors": [
+    "Devis Bianchini",
+    "Valeria De Antonellis",
+    "Michele Melchiori"
+  ],
+  "references": [],
+  "title": "A multi-perspective framework for web API search in enterprise mashup design",
+  "year": 2013,
+  "id": "f685528d-8bf0-4fba-90c5-87eb13d7a536"
+},{
+  "authors": [
+    "Abderrahmane Maaradji",
+    "Hakim Hacid",
+    "Ryan Skraba",
+    "Adnan Lateef",
+    "Johann Daigremont",
+    "Noel Crespi"
+  ],
+  "references": [],
+  "title": "Social-Based Web Services Discovery and Composition for Step-by-Step Mashup Completion",
+  "year": 2011,
+  "id": "e6ed974e-5de9-4221-992b-4fda0eed69a6"
+},{
+  "authors": [
+    "Stefano Ceri",
+    "Daniele Braga",
+    "Francesco Corcoglioniti",
+    "Michael Grossniklaus",
+    "Salvatore Vadacca"
+  ],
+  "title": "Search Computing: challenges and Directions",
+  "year": 2010,
+  "id": "d454eee3-5752-4cd3-a23d-f701374c6543"
+},{
+  "authors": [
+    "Buqing Cao",
+    "Jianxun Liu",
+    "Mingdong Tang",
+    "Zibin Zheng",
+    "Guangrong Wang"
+  ],
+  "references": [],
+  "title": "Mashup Service Recommendation Based on User Interest and Social Network",
+  "year": 2013,
+  "id": "b0c71310-c07a-4610-8b97-4a5779561898"
+},{
+  "authors": [
+    "Jian Cao",
+    "Wenxing Xu",
+    "Liang Hu",
+    "Jie Wang",
+    "Minglu Li"
+  ],
+  "references": [],
+  "title": "A Social-Aware Service Recommendation Approach for Mashup Creation",
+  "year": 2013,
+  "id": "a7925258-be30-42fd-832e-6a49f4e471a3"
+},{
+  "authors": [
+    "Lina Yao",
+    "Quan Z. Sheng",
+    "Aviv Segev",
+    "Jian Yu"
+  ],
+  "references": [],
+  "title": "Recommending Web Services via Combining Collaborative Filtering with Content-Based Features",
+  "year": 2013,
+  "id": "a1dcd01f-fa62-476a-b1d6-f3976da8e412"
+},{
+  "authors": [
+    "Chune Li",
+    "Richong Zhang",
+    "Jinpeng Huai",
+    "Hailong Sun"
+  ],
+  "references": [],
+  "title": "A Novel Approach for API Recommendation in Mashup Development",
+  "year": 2014,
+  "id": "5cb9f377-5fb4-420e-a72f-c015d2ae3381"
+},{
+  "authors": [
+    "Xumin Liu",
+    "Isankumar Fulia"
+  ],
+  "references": [],
+  "title": "Incorporating User, Topic, and Service Related Latent Factors into Web Service Recommendation",
+  "year": 2015,
+  "id": "36d650d3-d7d5-48b3-95b9-c5f5c7295af8"
+},{
+  "authors": [
+    "Ruilin Liu",
+    "Xiaofei Xu",
+    "Zhongjie Wang"
+  ],
+  "references": [],
+  "title": "Service Recommendation Using Customer Similarity and Service Usage Pattern",
+  "year": 2015,
+  "id": "2b3d87ca-b510-4b8b-bf1c-4acdbb7479c3"
+},{
+  "authors": [
+    "Silvia Quarteroni",
+    "Marco Brambilla",
+    "Stefano Ceri"
+  ],
+  "references": [],
+  "title": "A bottom-up, knowledge-aware approach to integrating and querying web data services",
+  "year": 2013,
+  "id": "0cde2b42-e4a5-48a8-af50-1600fabbab79"
+},{
+  "authors": [
+    "Massimiliano Albanese",
+    "Cristian Molinaro",
+    "Fabio Persia",
+    "Antonio Picariello",
+    "V. S. Subrahmanian"
+  ],
+  "references": [],
+  "title": "Discovering the Top-k Unexplained Sequences in Time-Stamped Observation Data",
+  "year": 2014,
+  "id": "0c47265a-f683-4911-b159-9977d9ad6388"
+},{
+  "authors": [
+    "Francesco Colace",
+    "Massimo De Santo",
+    "Vincenzo Moscato",
+    "Antonio Picariello",
+    "Fabio A. Schreiber",
+    "Letizia Tanca"
+  ],
+  "title": "PATCH: A Portable Context-Aware ATlas for Browsing Cultural Heritage",
+  "year": 2015,
+  "id": "0c9d9c5a-4a7e-4b57-b1c6-62d187227217"
+},{
+  "authors": [
+    "Massimiliano Albanese",
+    "Rama Chellappa",
+    "Naresh P. Cuntoor",
+    "Vincenzo Moscato",
+    "Antonio Picariello",
+    "V. S. Subrahmanian",
+    "Octavian Udrea"
+  ],
+  "references": [],
+  "title": "PADS: A Probabilistic Activity Detection Framework for Video Data",
+  "year": 2010,
+  "id": "0d86c6dc-e219-4728-b353-4fe7778f69f2"
+},{
+  "authors": [
+    "Vincenzo Moscato",
+    "Antonio Penta",
+    "Fabio Persia",
+    "Antonio Picariello"
+  ],
+  "references": [],
+  "title": "MOWIS: A System for Building Multimedia Ontologies from Web Information Sources.",
+  "year": 2010,
+  "id": "1f306fb9-dc4b-443c-aa71-2d278fed43d8"
+},{
+  "authors": [
+    "Vincenzo Moscato",
+    "Antonio Picariello"
+  ],
+  "references": [
+    "Discovering the Top-k Unexplained Sequences in Time-Stamped Observation Data",
+    "PATCH: A Portable Context-Aware ATlas for Browsing Cultural Heritage",
+    "PADS: A Probabilistic Activity Detection Framework for Video Data",
+    "MOWIS: A System for Building Multimedia Ontologies from Web Information Sources.",
+    "Socializing the Semantic Gap: A Comparative Survey on Image Tag Assignment, Refinement, and Retrieval",
+    "A collaborative user-centered framework for recommending items in Online Social Networks",
+    "Recommending multimedia visiting paths in cultural heritage applications",
+    "A Multimedia Recommender System",
+    "PADUA: Parallel Architecture to Detect Unexplained Activities",
+    "The landscape of multimedia ontologies in the last decade",
+    "Multimedia Social Network Modeling: A Proposal",
+    "A Framework for Building Multimedia Ontologies from Web Information Sources.",
+    "Survey papers in multimedia - guest editorial"
+  ],
+  "title": "Multimedia Data Modeling and Management",
+  "year": 2018,
+  "id": "461532f5-256a-45da-837b-b3bd96d81ae1"
+},{
+  "authors": [
+    "Xirong Li",
+    "Tiberio Uricchio",
+    "Lamberto Ballan",
+    "Marco Bertini",
+    "Cees G. M. Snoek",
+    "Alberto Del Bimbo"
+  ],
+  "references": [],
+  "title": "Socializing the Semantic Gap: A Comparative Survey on Image Tag Assignment, Refinement, and Retrieval",
+  "year": 2016,
+  "id": "3d53e087-f9d2-4d67-ac6f-2be0b36ad2a2"
+},{
+  "authors": [
+    "Francesco Colace",
+    "Massimo De Santo",
+    "Luca Greco",
+    "Vincenzo Moscato",
+    "Antonio Picariello"
+  ],
+  "references": [],
+  "title": "A collaborative user-centered framework for recommending items in Online Social Networks",
+  "year": 2015,
+  "id": "41afc8bf-5d1e-4ebf-a648-197fefc9c6d5"
+},{
+  "authors": [
+    "Ilaria Bartolini",
+    "Vincenzo Moscato",
+    "Ruggero G. Pensa",
+    "Antonio Penta",
+    "Antonio Picariello",
+    "Carlo Sansone",
+    "Maria Luisa Sapino"
+  ],
+  "references": [],
+  "title": "Recommending multimedia visiting paths in cultural heritage applications",
+  "year": 2016,
+  "id": "6a15fde4-2f93-4ced-9451-708c5f3baf3c"
+},{
+  "authors": [
+    "Massimiliano Albanese",
+    "Antonio Acierno",
+    "Vincenzo Moscato",
+    "Fabio Persia",
+    "Antonio Picariello"
+  ],
+  "references": [],
+  "title": "A Multimedia Recommender System",
+  "year": 2013,
+  "id": "95d921f9-0860-463d-b6a8-69af3112d005"
+},{
+  "authors": [
+    "Cristian Molinaro",
+    "Vincenzo Moscato",
+    "Antonio Picariello",
+    "Andrea Pugliese",
+    "Antonino Rullo",
+    "V. S. Subrahmanian"
+  ],
+  "references": [],
+  "title": "PADUA: Parallel Architecture to Detect Unexplained Activities",
+  "year": 2014,
+  "id": "a69ed501-02ca-4ffb-ad63-f3a6b2549171"
+},{
+  "authors": [
+    "Mari Carmen Suárez-Figueroa",
+    "Ghislain Auguste Atemezing",
+    "Oscar Corcho"
+  ],
+  "references": [],
+  "title": "The landscape of multimedia ontologies in the last decade",
+  "year": 2013,
+  "id": "b0001d65-26e4-495b-b900-06c7c457949f"
+},{
+  "authors": [
+    "Flora Amato",
+    "Vincenzo Moscato",
+    "Antonio Picariello",
+    "Giancarlo Sperlì"
+  ],
+  "references": [],
+  "title": "Multimedia Social Network Modeling: A Proposal",
+  "year": 2016,
+  "id": "b3a38765-23ec-469b-a08f-01399bf7f7af"
+},{
+  "authors": [
+    "Angelo Chianese",
+    "Vincenzo Moscato",
+    "Fabio Persia",
+    "Antonio Picariello",
+    "Carlo Sansone"
+  ],
+  "references": [],
+  "title": "A Framework for Building Multimedia Ontologies from Web Information Sources.",
+  "year": 2012,
+  "id": "c8cd045e-414d-47d3-b824-e4fc965661d0"
+},{
+  "authors": [
+    "Ramesh Jain",
+    "Alberto Del Bimbo",
+    "Tat-Seng Chua",
+    "Borko Furht"
+  ],
+  "title": "Survey papers in multimedia - guest editorial",
+  "year": 2011,
+  "id": "e3a54447-2f24-4e77-b3c1-44756cbf6b45"
+},{
+  "authors": [
+    "Davide Martinenghi",
+    "Riccardo Torlone"
+  ],
+  "references": [],
+  "title": "Taxonomy-based relaxation of query answering in relational databases",
+  "year": 2014,
+  "id": "843d2e70-28b4-4b02-9406-6a0221d3fb5d"
+},{
+  "authors": [
+    "Paolo Atzeni",
+    "Luca Cabibbo",
+    "Riccardo Torlone"
+  ],
+  "references": [
+    "A runtime approach to model-generic translation of schema and data",
+    "Taxonomy-based relaxation of query answering in relational databases",
+    "Uniform access to NoSQL systems",
+    "Database Design for NoSQL Systems"
+  ],
+  "title": "Data Modeling Across the Evolution of Database Technology",
+  "year": 2018,
+  "id": "57c712e5-f28d-4373-8e2a-3ab8c5c451f9"
+},{
+  "authors": [
+    "Francesca Bugiotti",
+    "Luca Cabibbo",
+    "Paolo Atzeni",
+    "Riccardo Torlone"
+  ],
+  "references": [],
+  "title": "Database Design for NoSQL Systems",
+  "year": 2014,
+  "id": "fcffd7b6-e481-4bb1-9259-069ccada74d1"
+},{
+  "authors": [
+    "Paolo Atzeni",
+    "Francesca Bugiotti",
+    "Luca Rossi"
+  ],
+  "references": [],
+  "title": "Uniform access to NoSQL systems",
+  "year": 2014,
+  "id": "966b9aca-3cda-4408-9d1c-5d55b30c5806"
+},{
+  "authors": [
+    "Paolo Atzeni",
+    "Luigi Bellomarini",
+    "Francesca Bugiotti",
+    "Fabrizio Celli",
+    "Giorgio Gianforme"
+  ],
+  "references": [],
+  "title": "A runtime approach to model-generic translation of schema and data",
+  "year": 2012,
+  "id": "4b672935-16fd-4673-8f0b-27d16fd7be4f"
+},{
+  "authors": [
+    "Nicola Ferro"
+  ],
+  "references": [],
+  "title": "Reproducibility Challenges in Information Retrieval Evaluation",
+  "year": 2017,
+  "id": "05080718-9ddd-48cb-b3e4-29a5f927053a"
+},{
+  "authors": [
+    "Gianmaria Silvello",
+    "Georgeta Bordea",
+    "Nicola Ferro",
+    "Paul Buitelaar",
+    "Toine Bogers"
+  ],
+  "references": [],
+  "title": "Semantic representation and enrichment of information retrieval experimental data",
+  "year": 2017,
+  "id": "0fdac495-759b-4084-83f3-3a024e8d5a34"
+},{
+  "authors": [
+    "Joel Coffman",
+    "Alfred C. Weaver"
+  ],
+  "references": [],
+  "title": "An Empirical Performance Evaluation of Relational Keyword Search Techniques",
+  "year": 2014,
+  "id": "11920c9b-b230-4050-80e0-16abb11a2cf7"
+},{
+  "authors": [
+    "Nicola Ferro",
+    "Gianmaria Silvello"
+  ],
+  "references": [],
+  "title": "NESTOR: A formal model for digital archives",
+  "year": 2013,
+  "id": "14fe3911-8026-4f99-9e87-703c87d2b3a7"
+},{
+  "authors": [
+    "Nicola Ferro",
+    "Gianmaria Silvello"
+  ],
+  "title": "The NESTOR Model: Properties and Applications in the Context of Digital Archives.",
+  "year": 2011,
+  "id": "2eef9178-ce78-4eaa-80b7-2b45696ab022"
+},{
+  "authors": [
+    "Maristella Agosti",
+    "Nicola Ferro",
+    "Gianmaria Silvello"
+  ],
+  "references": [
+    "Reproducibility Challenges in Information Retrieval Evaluation",
+    "Semantic representation and enrichment of information retrieval experimental data",
+    "An Empirical Performance Evaluation of Relational Keyword Search Techniques",
+    "NESTOR: A formal model for digital archives",
+    "The NESTOR Model: Properties and Applications in the Context of Digital Archives.",
+    "Evaluating a digital humanities research environment: the CULTURA approach",
+    "Scalable data citation in dynamic, large databases: Model and reference implementation",
+    "Keyword-Based Search Over Databases: A Roadmap for a Reference Architecture Paired with an Evaluation Framework",
+    "Report on the SIGIR 2015 Workshop on Reproducibility, Inexplicability, and Generalizability of Results (RIGOR)",
+    "Enriching Digital Cultural Heritage Collections via Annotations: The CULTURA approach."
+  ],
+  "title": "Digital Libraries: From Digital Resources to Challenges in Scientific Data Sharing and Re-Use",
+  "year": 2018,
+  "id": "80ade84b-6311-4b30-bcc2-5804fa8bfa99"
+},{
+  "authors": [
+    "Christina M. Steiner",
+    "Maristella Agosti",
+    "Mark S. Sweetnam",
+    "Eva-Catherine Hillemann",
+    "Nicola Orio",
+    "Chiara Ponchia",
+    "Cormac Hampson",
+    "Gary Munnelly",
+    "Alexander Nussbaumer",
+    "Dietrich Albert",
+    "Owen Conlan"
+  ],
+  "references": [],
+  "title": "Evaluating a digital humanities research environment: the CULTURA approach",
+  "year": 2014,
+  "id": "846f042d-3dec-4add-9842-20df59a62b98"
+},{
+  "authors": [
+    "Stefan Pröll",
+    "Andreas Rauber"
+  ],
+  "references": [],
+  "title": "Scalable data citation in dynamic, large databases: Model and reference implementation",
+  "year": 2013,
+  "id": "866acfdb-f6d6-4f41-87ec-f56ef00b3855"
+},{
+  "authors": [
+    "Sonia Bergamaschi",
+    "Nicola Ferro",
+    "Francesco Guerra",
+    "Gianmaria Silvello"
+  ],
+  "references": [],
+  "title": "Keyword-Based Search Over Databases: A Roadmap for a Reference Architecture Paired with an Evaluation Framework",
+  "year": 2016,
+  "id": "e175e83d-3e21-4b00-8c67-8fb616986f75"
+},{
+  "authors": [
+    "Jaime Arguello",
+    "Matt Crane",
+    "Fernando Diaz",
+    "Jimmy J. Lin",
+    "Andrew Trotman"
+  ],
+  "references": [],
+  "title": "Report on the SIGIR 2015 Workshop on Reproducibility, Inexplicability, and Generalizability of Results (RIGOR)",
+  "year": 2016,
+  "id": "ed94f052-67e0-480d-b818-6a63ebce599b"
+},{
+  "authors": [
+    "Maristella Agosti",
+    "Owen Conlan",
+    "Nicola Ferro",
+    "Cormac Hampson",
+    "Gary Munnelly",
+    "Chiara Ponchia",
+    "Gianmaria Silvello"
+  ],
+  "title": "Enriching Digital Cultural Heritage Collections via Annotations: The CULTURA approach.",
+  "year": 2014,
+  "id": "f3a14f6d-e15a-4823-8fe5-f94ecedb6502"
+},{
+  "authors": [
+    "Sabrina De Capitani di Vimercati",
+    "Sara Foresti",
+    "Giovanni Livraga",
+    "Stefano Paraboschi",
+    "Pierangela Samarati"
+  ],
+  "references": [
+    "Selective and Fine-Grained Access to Data in the Cloud",
+    "Efficient Fully Homomorphic Encryption from (Standard)",
+    "Fully homomorphic encryption over the integers with shorter public keys",
+    "Managing and accessing data in the cloud: Privacy risks and approaches",
+    "Secure database-as-a-service with Cipherbase",
+    "Supporting Security Requirements for Resource Management in Cloud Computing",
+    "An OBDD approach to enforce confidentiality and visibility constraints in data publishing",
+    "CryptDB: protecting confidentiality with encrypted query processing",
+    "Combining fragmentation and encryption to protect privacy in data storage"
+  ],
+  "title": "Confidentiality Protection in Large Databases",
+  "year": 2018,
+  "id": "83c1641d-9bff-4359-a611-e8bbe410dfec"
+},{
+  "authors": [
+    "Ravi Jhawar",
+    "Vincenzo Piuri",
+    "Pierangela Samarati"
+  ],
+  "references": [],
+  "title": "Supporting Security Requirements for Resource Management in Cloud Computing",
+  "year": 2012,
+  "id": "cbbbb917-156a-4712-a468-ef4dd28a8a4d"
+},{
+  "authors": [
+    "Valentina Ciriani",
+    "Sabrina De Capitani di Vimercati",
+    "Sara Foresti",
+    "Giovanni Livraga",
+    "Pierangela Samarati"
+  ],
+  "references": [],
+  "title": "An OBDD approach to enforce confidentiality and visibility constraints in data publishing",
+  "year": 2012,
+  "id": "d1ef2252-95d1-4206-a41d-51e6046544ad"
+},{
+  "authors": [
+    "Raluca Ada Popa",
+    "Catherine M. S. Redfield",
+    "Nickolai Zeldovich",
+    "Hari Balakrishnan"
+  ],
+  "references": [],
+  "title": "CryptDB: protecting confidentiality with encrypted query processing",
+  "year": 2011,
+  "id": "d6a8c38b-1fab-448a-95f7-a7c4be558aeb"
+},{
+  "authors": [
+    "Valentina Ciriani",
+    "Sabrina De Capitani di Vimercati",
+    "Sara Foresti",
+    "Sushil Jajodia",
+    "Stefano Paraboschi",
+    "Pierangela Samarati"
+  ],
+  "references": [],
+  "title": "Combining fragmentation and encryption to protect privacy in data storage",
+  "year": 2010,
+  "id": "da0d37d9-8f00-4342-b36b-64a0de001b22"
+},{
+  "authors": [
+    "Arvind Arasu",
+    "Spyros Blanas",
+    "Ken Eguro",
+    "Manas Joglekar",
+    "Raghav Kaushik",
+    "Donald Kossmann",
+    "Ravishankar Ramamurthy",
+    "Prasang Upadhyaya",
+    "Ramarathnam Venkatesan"
+  ],
+  "references": [],
+  "title": "Secure database-as-a-service with Cipherbase",
+  "year": 2013,
+  "id": "469cf7b1-74f3-4fbf-a3b0-a5e8fcba749e"
+},{
+  "authors": [
+    "Sabrina De Capitani di Vimercati",
+    "Sara Foresti",
+    "Pierangela Samarati"
+  ],
+  "references": [],
+  "title": "Managing and accessing data in the cloud: Privacy risks and approaches",
+  "year": 2012,
+  "id": "446ee990-4f1b-442e-b01e-6eae11ca6f2a"
+},{
+  "authors": [
+    "Jean-Sébastien Coron",
+    "Avradip Mandal",
+    "David Naccache",
+    "Mehdi Tibouchi"
+  ],
+  "references": [],
+  "title": "Fully homomorphic encryption over the integers with shorter public keys",
+  "year": 2011,
+  "id": "2446c280-cb69-4413-9358-930b5be9c243"
+},{
+  "authors": [
+    "Zvika Brakerski",
+    "Vinod Vaikuntanathan"
+  ],
+  "title": "Efficient Fully Homomorphic Encryption from (Standard)",
+  "year": 2014,
+  "id": "1e4f5e91-381b-4a5f-a7b2-00215c44b171"
+},{
+  "authors": [
+    "Sabrina De Capitani di Vimercati",
+    "Sara Foresti",
+    "Pierangela Samarati"
+  ],
+  "references": [],
+  "title": "Selective and Fine-Grained Access to Data in the Cloud",
+  "year": 2014,
+  "id": "11215b7b-2559-4d9f-9717-bea61389f398"
+},{
+  "authors": [
+    "Marco Angelini",
+    "Tiziana Catarci",
+    "Massimo Mecella",
+    "Giuseppe Santucci"
+  ],
+  "references": [
+    "Solving Problems with Visual Analytics",
+    "Analytical review of data visualization methods in application to big data",
+    "Customizing Computational Methods for Visual Analytics with Big Data",
+    "DIVE: A Graph-Based Visual-Analytics Framework for Big Data",
+    "Comparative Analysis of Multidimensional, Quantitative Data"
+  ],
+  "title": "The Visual Side of the Data",
+  "year": 2018,
+  "id": "8a6dcb4f-8653-431b-959e-6768d33c7762"
+},{
+  "authors": [
+    "Jörn Kohlhammer",
+    "Daniel A. Keim",
+    "Margit Pohl",
+    "Giuseppe Santucci",
+    "Gennady L. Andrienko"
+  ],
+  "references": [],
+  "title": "Solving Problems with Visual Analytics",
+  "year": 2011,
+  "id": "c5501282-be33-4823-95f5-d9078bca8493"
+},{
+  "authors": [
+    "Evgeniy Yur’evich Gorodov",
+    "Vasiliy Vasil’evich Gubarev"
+  ],
+  "references": [],
+  "title": "Analytical review of data visualization methods in application to big data",
+  "year": 2013,
+  "id": "f16f1a1d-ddbb-4019-be4c-c51a7d04bdc0"
+},{
+  "authors": [
+    "Jaegul Choo",
+    "Haesun Park"
+  ],
+  "references": [],
+  "title": "Customizing Computational Methods for Visual Analytics with Big Data",
+  "year": 2013,
+  "id": "f9c10ed1-7be7-439a-bb53-c968fee87509"
+},{
+  "authors": [
+    "Steven Rysavy",
+    "Dennis Bromley",
+    "Valerie Daggett"
+  ],
+  "references": [],
+  "title": "DIVE: A Graph-Based Visual-Analytics Framework for Big Data",
+  "year": 2014,
+  "id": "fcee939f-7c04-4ef4-9025-4dbfec8bb8db"
+},{
+  "authors": [
+    "Alexander Lex",
+    "Marc Streit",
+    "Christian Partl",
+    "Karl Kashofer",
+    "Dieter Schmalstieg"
+  ],
+  "references": [],
+  "title": "Comparative Analysis of Multidimensional, Quantitative Data",
+  "year": 2010,
+  "id": "fd95041c-8ecd-4b31-9567-84cf0de8d6b3"
+}{
+  "authors": [
+    "Fabrizio Angiulli",
+    "Stefano Basta",
+    "Stefano Lodi",
+    "Claudio Sartori"
+  ],
+  "references": [],
+  "title": "GPU Strategies for Distance-Based Outlier Detection",
+  "year": 2016,
+  "id": "0c7ab998-5881-4d7b-8105-2a9773ab919f"
+},{
+  "authors": [
+    "Fabrizio Angiulli",
+    "Fabio Fassetti",
+    "Luigi Palopoli",
+    "Domenico Ursino"
+  ],
+  "references": [
+    "GPU Strategies for Distance-Based Outlier Detection",
+    "Anomaly Detection in Networks with Temporal Information"
+  ],
+  "title": "A Tour from Regularities to Exceptions",
+  "year": 2018,
+  "id": "a1a49064-e629-42e6-886f-f401db9000a9"
+},{
+  "authors": [
+    "Fabrizio Angiulli",
+    "Fabio Fassetti",
+    "Estela Narvaez"
+  ],
+  "references": [],
+  "title": "Anomaly Detection in Networks with Temporal Information",
+  "year": 2016,
+  "id": "4b298023-9c50-4d63-8195-6a3ae3802f0a"
+},{
+  "authors": [
+    "Nicola Barbieri",
+    "Massimo Guarascio",
+    "Giuseppe Manco"
+  ],
+  "references": [],
+  "title": "A Block Mixture Model for Pattern Discovery in Preference Data",
+  "year": 2010,
+  "id": "206f4d72-240a-4c35-94b8-a39c6dfebd6d"
+},{
+  "authors": [
+    "Fabrizio Angiulli",
+    "Stefano Basta",
+    "Stefano Lodi",
+    "Claudio Sartori"
+  ],
+  "references": [],
+  "title": "Fast outlier detection using a GPU",
+  "year": 2013,
+  "id": "272f6a90-96b5-4286-8980-668fb89fee05"
+},{
+  "authors": [
+    "Stefano Basta",
+    "Giuseppe Manco",
+    "Elio Masciari",
+    "Luigi Pontieri"
+  ],
+  "references": [
+    "GPU Strategies for Distance-Based Outlier Detection",
+    "A Block Mixture Model for Pattern Discovery in Preference Data",
+    "Fast outlier detection using a GPU",
+    "From global to local and viceversa: uses of associative rule learning for classification in imprecise environments",
+    "A distributed approach to detect outliers in very large data sets",
+    "Bridging abstraction layers in process mining",
+    "Accelerating outlier detection with intra- and inter-node parallelism",
+    "Mining Predictive Process Models out of Low-level Multidimensional Logs",
+    "Analysing microarray expression data through effective clustering",
+    "Frequent Pattern Mining Algorithms: A Survey"
+  ],
+  "title": "20+ Years of Analytics on Complex Data: Impact, Issues, Challenges and Contributions",
+  "year": 2018,
+  "id": "ab513841-e377-4fa8-9249-faf466962930"
+},{
+  "authors": [
+    "Gianni Costa",
+    "Giuseppe Manco",
+    "Riccardo Ortale",
+    "Ettore Ritacco"
+  ],
+  "references": [],
+  "title": "From global to local and viceversa: uses of associative rule learning for classification in imprecise environments",
+  "year": 2012,
+  "id": "d6834036-0752-493a-b5e0-a99661fd4b98"
+},{
+  "authors": [
+    "Fabrizio Angiulli",
+    "Stefano Basta",
+    "Stefano Lodi",
+    "Claudio Sartori"
+  ],
+  "references": [],
+  "title": "A distributed approach to detect outliers in very large data sets",
+  "year": 2010,
+  "id": "dd84df59-79d0-4a56-a1c1-67b60b3d8193"
+},{
+  "authors": [
+    "Thomas Baier",
+    "Jan Mendling",
+    "Mathias Weske"
+  ],
+  "references": [],
+  "title": "Bridging abstraction layers in process mining",
+  "year": 2014,
+  "id": "e5c9e91b-4aaa-4337-ae03-77b2ff9ddb1a"
+},{
+  "authors": [
+    "Fabrizio Angiulli",
+    "Stefano Basta",
+    "Stefano Lodi",
+    "Claudio Sartori"
+  ],
+  "references": [],
+  "title": "Accelerating outlier detection with intra- and inter-node parallelism",
+  "year": 2014,
+  "id": "e74971ca-1a05-49ef-9ef3-a76900ec2e9a"
+},{
+  "authors": [
+    "Francesco Folino",
+    "Massimo Guarascio",
+    "Luigi Pontieri"
+  ],
+  "references": [],
+  "title": "Mining Predictive Process Models out of Low-level Multidimensional Logs",
+  "year": 2014,
+  "id": "eb1c5a4c-8d77-41ed-a25c-e0f36c5e8344"
+},{
+  "authors": [
+    "Elio Masciari",
+    "Giuseppe M. Mazzeo",
+    "Carlo Zaniolo"
+  ],
+  "references": [],
+  "title": "Analysing microarray expression data through effective clustering",
+  "year": 2014,
+  "id": "eb2f08e3-0aa7-4544-9030-4f85350cbc77"
+},{
+  "authors": [
+    "Charu C. Aggarwal",
+    "Mansurul Bhuiyan",
+    "Mohammad Al Hasan"
+  ],
+  "references": [],
+  "title": "Frequent Pattern Mining Algorithms: A Survey",
+  "year": 2014,
+  "id": "fd6db5d2-4d43-4137-a0c8-fc7b7c2595ea"
+},{
+  "authors": [
+    "Floris Geerts",
+    "Giansalvatore Mecca",
+    "Paolo Papotti",
+    "Donatello Santoro"
+  ],
+  "references": [],
+  "title": "Mapping and cleaning",
+  "year": 2014,
+  "id": "02cfa9e9-c259-4992-939f-9ab439fa0e42"
+},{
+  "authors": [
+    "Shun'ichi Amano",
+    "Claire David",
+    "Leonid Libkin",
+    "Filip Murlak"
+  ],
+  "references": [],
+  "title": "XML Schema Mappings: Data Exchange and Metadata Management",
+  "year": 2014,
+  "id": "0683788d-033b-4f98-ae56-a60bf0bd761e"
+},{
+  "authors": [
+    "Marcelo Arenas",
+    "Jorge Pérez",
+    "Juan L. Reutter",
+    "Cristian Riveros"
+  ],
+  "references": [],
+  "title": "Query language-based inverses of schema mappings: semantics, computation, and closure properties",
+  "year": 2012,
+  "id": "64398f88-e68a-4726-b954-48de115eb254"
+},{
+  "authors": [
+    "Giansalvatore Mecca",
+    "Paolo Papotti",
+    "Donatello Santoro"
+  ],
+  "references": [
+    "Mapping and cleaning",
+    "XML Schema Mappings: Data Exchange and Metadata Management",
+    "++Spicy: an OpenSource Tool for Second-Generation Schema Mapping and Data Exchange",
+    "Query language-based inverses of schema mappings: semantics, computation, and closure properties",
+    "What is the IQ of your data transformation system"
+  ],
+  "title": "Schema Mappings: From Data Translation to Data Cleaning",
+  "year": 2018,
+  "id": "c0113ec6-97e4-4dd7-99d0-0cf493ae89fe"
+},{
+  "authors": [
+    "Giansalvatore Mecca",
+    "Paolo Papotti",
+    "Salvatore Raunich",
+    "Donatello Santoro"
+  ],
+  "references": [],
+  "title": "What is the IQ of your data transformation system",
+  "year": 2012,
+  "id": "9fb4fb1d-0dc4-4a78-891a-16dcd376a2cb"
+},{
+  "authors": [
+    "Marco Brambilla",
+    "Stefano Ceri"
+  ],
+  "references": [
+    "Answering search queries with CrowdSearcher",
+    "Model-Driven Development Based on OMG's IFML with WebRatio Web and Mobile Platform",
+    "Model-Driven Software Engineering in Practice",
+    "Reactive crowdsourcing",
+    "Liquid query: multi-domain exploratory search on the web",
+    "On the quest for changing knowledge",
+    "Studying Multicultural Diversity of Cities and Neighborhoods through Social Media Language Detection.",
+    "Extracting Emerging Knowledge from Social Media"
+  ],
+  "title": "Modeling, Modeling, Modeling: From Web to Enterprise to Crowd to Social",
+  "year": 2018,
+  "id": "c5a9ad19-d6db-4c1c-ac60-9ae7167ea5cf"
+},{
+  "authors": [
+    "Marco Brambilla",
+    "Stefano Ceri",
+    "Emanuele Della Valle",
+    "Riccardo Volonterio",
+    "Felix Xavier Acero Salazar"
+  ],
+  "references": [],
+  "title": "Extracting Emerging Knowledge from Social Media",
+  "year": 2017,
+  "id": "e8db1b24-1a67-41af-b37a-5acb4168b652"
+},{
+  "authors": [
+    "Michela Arnaboldi",
+    "Marco Brambilla",
+    "Beatrice Cassottana",
+    "Paolo Ciuccarelli",
+    "Davide Ripamonti",
+    "Simone Vantini",
+    "Riccardo Volonterio"
+  ],
+  "title": "Studying Multicultural Diversity of Cities and Neighborhoods through Social Media Language Detection.",
+  "year": 2016,
+  "id": "e593ced2-9b96-46f2-ad74-cc93dfe89dce"
+},{
+  "authors": [
+    "Marco Brambilla",
+    "Stefano Ceri",
+    "Florian Daniel",
+    "Emanuele Della Valle"
+  ],
+  "references": [],
+  "title": "On the quest for changing knowledge",
+  "year": 2016,
+  "id": "db83df5c-152e-48c2-937e-0e7ffc4a53cb"
+},{
+  "authors": [
+    "Alessandro Bozzon",
+    "Marco Brambilla",
+    "Stefano Ceri",
+    "Piero Fraternali"
+  ],
+  "references": [],
+  "title": "Liquid query: multi-domain exploratory search on the web",
+  "year": 2010,
+  "id": "96a7d902-e4c3-4ba8-9e9b-acc802008cdc"
+},{
+  "authors": [
+    "Alessandro Bozzon",
+    "Marco Brambilla",
+    "Stefano Ceri",
+    "Andrea Mauri"
+  ],
+  "references": [],
+  "title": "Reactive crowdsourcing",
+  "year": 2013,
+  "id": "8f8dc0fe-a0f0-4946-befa-511ba297a5e0"
+},{
+  "authors": [
+    "Marco Brambilla",
+    "Jordi Cabot",
+    "Manuel Wimmer"
+  ],
+  "references": [],
+  "title": "Model-Driven Software Engineering in Practice",
+  "year": 2012,
+  "id": "27a2ae0f-1f0a-49ec-8a5a-4b321de6c824"
+},{
+  "authors": [
+    "Roberto Acerbis",
+    "Aldo Bongio",
+    "Marco Brambilla",
+    "Stefano Butti"
+  ],
+  "references": [],
+  "title": "Model-Driven Development Based on OMG's IFML with WebRatio Web and Mobile Platform",
+  "year": 2015,
+  "id": "05004b4f-757d-4f78-8e61-4cdef5b6f65e"
+},{
+  "authors": [
+    "Alessandro Bozzon",
+    "Marco Brambilla",
+    "Stefano Ceri"
+  ],
+  "references": [],
+  "title": "Answering search queries with CrowdSearcher",
+  "year": 2012,
+  "id": "03199a21-42c6-4849-8032-f8b412d41dc0"
+},{
+  "authors": [
+    "Elena Maria Baralis",
+    "Tania Cerquitelli",
+    "Silvia Anna Chiusano",
+    "Rosa Meo"
+  ],
+  "references": [
+    "Scalable out-of-core itemset mining"
+  ],
+  "title": "Data Mining in Databases: Languages and Indices",
+  "year": 2018,
+  "id": "c86d718a-23e1-429e-87dd-1cc2dcbc5708"
+},{
+  "authors": [
+    "Elena Maria Baralis",
+    "Tania Cerquitelli",
+    "Silvia Anna Chiusano",
+    "Alberto Grand"
+  ],
+  "references": [],
+  "title": "Scalable out-of-core itemset mining",
+  "year": 2015,
+  "id": "aaba6486-6817-4841-ad8c-cb82e4bd76a6"
+},{
+  "authors": [
+    "Silvana Castano",
+    "Alfio Ferrara",
+    "Stefano Montanelli"
+  ],
+  "references": [
+    "Structured data clouding across multiple webs",
+    "Exploratory analysis of textual data streams",
+    "On clustering massive text and categorical data streams",
+    "Human-in-the-Loop Web Resource Classification",
+    "Data Linking for the Semantic Web"
+  ],
+  "title": "Matching Techniques for Data Integration and Exploration: From Databases to Big Data",
+  "year": 2018,
+  "id": "cdb42782-4e6b-47f8-b473-f44edb09537e"
+},{
+  "authors": [
+    "Andriy Nikolov",
+    "Alfio Ferrara",
+    "François Scharffe"
+  ],
+  "references": [],
+  "title": "Data Linking for the Semantic Web",
+  "year": 2011,
+  "id": "b37b8fe2-0b55-43dc-89f1-8c5c80bac6ad"
+},{
+  "authors": [
+    "Silvana Castano",
+    "Alfio Ferrara",
+    "Stefano Montanelli"
+  ],
+  "references": [],
+  "title": "Human-in-the-Loop Web Resource Classification",
+  "year": 2016,
+  "id": "9f6b7755-0557-4730-beac-d48afb2a2e0b"
+},{
+  "authors": [
+    "Charu C. Aggarwal",
+    "Philip S. Yu"
+  ],
+  "references": [],
+  "title": "On clustering massive text and categorical data streams",
+  "year": 2010,
+  "id": "54d76942-7e8d-4a0e-8e31-a908b82a3d9f"
+},{
+  "authors": [
+    "Silvana Castano",
+    "Alfio Ferrara",
+    "Stefano Montanelli"
+  ],
+  "references": [],
+  "title": "Exploratory analysis of textual data streams",
+  "year": 2017,
+  "id": "1d6046f7-19b9-493c-b32c-4a1216fccbd7"
+},{
+  "authors": [
+    "Silvana Castano",
+    "Alfio Ferrara",
+    "Stefano Montanelli"
+  ],
+  "references": [],
+  "title": "Structured data clouding across multiple webs",
+  "year": 2012,
+  "id": "0439912c-0df5-45b6-a380-b83855cc5e16"
+},{
+  "authors": [
+    "Domenico Beneventano"
+  ],
+  "references": [],
+  "title": "Provenance based conflict handling strategies",
+  "year": 2012,
+  "id": "11e3616a-5a63-4ca2-9a79-adffdcd6554d"
+},{
+  "authors": [
+    "Federica Mandreoli",
+    "Riccardo Martoglia"
+  ],
+  "references": [],
+  "title": "Knowledge-based sense disambiguation (almost) for all structures",
+  "year": 2011,
+  "id": "260452cd-6f44-4b10-933b-f2106e63c6b1"
+},{
+  "authors": [
+    "Matteo Golfarelli",
+    "Federica Mandreoli",
+    "Wilma Penzo",
+    "Stefano Rizzi",
+    "Elisa Turricchia"
+  ],
+  "references": [],
+  "title": "OLAP query reformulation in peer-to-peer data warehousing",
+  "year": 2012,
+  "id": "27ac951d-0167-4732-9504-80d1ffb16407"
+},{
+  "authors": [
+    "Serena Sorrentino",
+    "Sonia Bergamaschi",
+    "Maciej Gawinecki",
+    "Laura Po"
+  ],
+  "references": [],
+  "title": "Schema label normalization for improving schema matching",
+  "year": 2010,
+  "id": "29a5aac5-115f-4c87-80d4-79c9b02d7e0e"
+},{
+  "authors": [
+    "Domenico Beneventano",
+    "Sonia Bergamaschi",
+    "Luca Gagliardelli",
+    "Laura Po"
+  ],
+  "references": [],
+  "title": "Driving Innovation in Youth Policies with Open Data",
+  "year": 2015,
+  "id": "2ac6fcf9-c917-4ed9-b624-2312bb7f4523"
+},{
+  "authors": [
+    "Claudio Gennaro",
+    "Rita Lenzi",
+    "Federica Mandreoli",
+    "Riccardo Martoglia",
+    "Matteo Mordacchini",
+    "Wilma Penzo",
+    "Simona Sassatelli"
+  ],
+  "references": [],
+  "title": "A unified multimedia and semantic perspective for data retrieval in the semantic web",
+  "year": 2011,
+  "id": "5182127e-1e64-40ad-a0c5-b2c7930a2ef5"
+},{
+  "authors": [
+    "Serena Sorrentino",
+    "Sonia Bergamaschi",
+    "Elisa Fusari",
+    "Domenico Beneventano"
+  ],
+  "references": [],
+  "title": "Semantic Annotation and Publication of Linked Open Data",
+  "year": 2013,
+  "id": "597eb6e7-2cb9-4e5b-ba1a-b4dad4a58398"
+},{
+  "authors": [
+    "Serena Sorrentino",
+    "Sonia Bergamaschi",
+    "Maciej Gawinecki"
+  ],
+  "references": [],
+  "title": "NORMS: An automatic tool to perform schema label normalization",
+  "year": 2011,
+  "id": "59bde173-05e7-4eef-95b2-a102a926903e"
+},{
+  "authors": [
+    "Sonia Bergamaschi",
+    "Domenico Beneventano",
+    "Federica Mandreoli",
+    "Riccardo Martoglia",
+    "Francesco Guerra",
+    "Mirko Orsini",
+    "Laura Po",
+    "Maurizio Vincini",
+    "Giovanni simonini",
+    "Song Zhu",
+    "Luca Gagliardelli",
+    "Luca Magnotta"
+  ],
+  "references": [
+    "Provenance based conflict handling strategies",
+    "Knowledge-based sense disambiguation (almost) for all structures",
+    "OLAP query reformulation in peer-to-peer data warehousing",
+    "Schema label normalization for improving schema matching",
+    "Driving Innovation in Youth Policies with Open Data",
+    "A unified multimedia and semantic perspective for data retrieval in the semantic web",
+    "Semantic Annotation and Publication of Linked Open Data",
+    "NORMS: An automatic tool to perform schema label normalization"
+  ],
+  "title": "From Data Integration to Big Data Integration",
+  "year": 2018,
+  "id": "dab65c34-9dfc-4b91-8d2d-2a492a5e3589"
+},{
+  "authors": [
+    "Sergio Greco",
+    "Cristian Molinaro",
+    "Irina Trubitsyna",
+    "Ester Zumpano"
+  ],
+  "references": [],
+  "title": "NP Datalog: a Logic Language for Expressing NP Search and Optimization Problems",
+  "year": 2010,
+  "id": "06494882-14ed-4ca5-98c4-3c5b38bc5fe3"
+},{
+  "authors": [
+    "Maria Vanina Martinez",
+    "Francesco Parisi",
+    "Andrea Pugliese",
+    "Gerardo I. Simari",
+    "V. S. Subrahmanian"
+  ],
+  "references": [],
+  "title": "Policy-based inconsistency management in relational databases",
+  "year": 2014,
+  "id": "0ac69b3d-a3fa-4eea-9ca2-f1cda4f73a24"
+},{
+  "authors": [
+    "Sergio Flesca",
+    "Filippo Furfaro",
+    "Francesco Parisi"
+  ],
+  "references": [],
+  "title": "Querying and repairing inconsistent numerical databases",
+  "year": 2010,
+  "id": "1b77c521-b209-4eb9-bc41-75d0956492e3"
+},{
+  "authors": [
+    "Marco Calautti",
+    "Sergio Greco",
+    "Cristian Molinaro",
+    "Irina Trubitsyna"
+  ],
+  "references": [],
+  "title": "Checking Termination of Logic Programs with Function Symbols through Linear Constraints",
+  "year": 2014,
+  "id": "29a7caa9-086a-4615-8d93-9992859a2c04"
+},{
+  "authors": [
+    "Sergio Flesca",
+    "Filippo Furfaro",
+    "Francesco Parisi"
+  ],
+  "references": [],
+  "title": "Consistent answers to boolean aggregate queries under aggregate constraints",
+  "year": 2010,
+  "id": "3275c07f-ac35-4df8-8113-ea8faa15940b"
+},{
+  "authors": [
+    "Marco Calautti",
+    "Luciano Caroprese",
+    "Bettina Fazzinga",
+    "Sergio Flesca",
+    "Filippo Furfaro",
+    "Sergio Greco",
+    "Cristian Molinaro",
+    "Francesco Parisi",
+    "Andrea Pugliese",
+    "Domenico Saccà",
+    "Irina Trubitsyna",
+    "Ester Zumpano"
+  ],
+  "references": [
+    "NP Datalog: a Logic Language for Expressing NP Search and Optimization Problems",
+    "Policy-based inconsistency management in relational databases",
+    "Querying and repairing inconsistent numerical databases",
+    "Checking Termination of Logic Programs with Function Symbols through Linear Constraints",
+    "Consistent answers to boolean aggregate queries under aggregate constraints",
+    "Detecting decidable classes of finitely ground logic programs with function symbols",
+    "Probabilistic query answering over inconsistent databases",
+    "All–Instances Termination of Chase is Undecidable",
+    "Knowledge representation in probabilistic spatio-temporal knowledge bases",
+    "On repairing and querying inconsistent probabilistic spatio-temporal databases"
+  ],
+  "title": "Dealing with Inconsistency in Databases: An Overview",
+  "year": 2018,
+  "id": "e5e6a7ac-5c18-4de5-93c8-7fc8714ff754"
+},{
+  "authors": [
+    "Francesco Parisi",
+    "John Grant"
+  ],
+  "references": [],
+  "title": "On repairing and querying inconsistent probabilistic spatio-temporal databases",
+  "year": 2017,
+  "id": "e6293cf6-06cb-4b81-bb92-17ceb6069d31"
+},{
+  "authors": [
+    "Francesco Parisi",
+    "John Grant"
+  ],
+  "references": [],
+  "title": "Knowledge representation in probabilistic spatio-temporal knowledge bases",
+  "year": 2016,
+  "id": "ae2a3327-97a0-41bd-bcf2-82c673561370"
+},{
+  "authors": [
+    "Tomasz Gogacz",
+    "Jerzy Marcinkowski"
+  ],
+  "references": [],
+  "title": "All–Instances Termination of Chase is Undecidable",
+  "year": 2014,
+  "id": "a51894da-3b02-416e-9d7e-ec75637b474a"
+},{
+  "authors": [
+    "Sergio Greco",
+    "Cristian Molinaro"
+  ],
+  "references": [],
+  "title": "Probabilistic query answering over inconsistent databases",
+  "year": 2012,
+  "id": "9a239cbf-04bc-4737-b9e5-b5373259cb72"
+},{
+  "authors": [
+    "Marco Calautti",
+    "Sergio Greco",
+    "Irina Trubitsyna"
+  ],
+  "references": [],
+  "title": "Detecting decidable classes of finitely ground logic programs with function symbols",
+  "year": 2013,
+  "id": "8c58f42e-83e8-4262-936d-9a0d1e4c93bc"
+},{
+  "authors": [
+    "Davide Martinenghi",
+    "Marco Tagliasacchi"
+  ],
+  "references": [],
+  "title": "Cost-Aware Rank Join with Random and Sorted Access",
+  "year": 2012,
+  "id": "0651f70a-1376-4182-a8d1-f2c4ad8f831f"
+},{
+  "authors": [
+    "Piero Fraternali",
+    "Davide Martinenghi",
+    "Marco Tagliasacchi"
+  ],
+  "references": [],
+  "title": "Top-k bounded diversification",
+  "year": 2012,
+  "id": "0793b1f6-6e00-4370-8759-003d7dce907e"
+},{
+  "authors": [
+    "Kostas Stefanidis",
+    "Evaggelia Pitoura",
+    "Panos Vassiliadis"
+  ],
+  "references": [],
+  "title": "Managing Contextual Preferences",
+  "year": 2011,
+  "id": "27dc033b-5929-42d4-a135-5c92b5d1948f"
+},{
+  "authors": [
+    "Davide Martinenghi",
+    "Marco Tagliasacchi"
+  ],
+  "references": [],
+  "title": "Proximity measures for rank join",
+  "year": 2012,
+  "id": "30f3664f-efdf-4968-9a9f-530b42efe703"
+},{
+  "authors": [
+    "Davide Martinenghi",
+    "Marco Tagliasacchi"
+  ],
+  "references": [],
+  "title": "Proximity rank join",
+  "year": 2010,
+  "id": "31774a35-fd3d-4477-8f25-06b22ecfec2e"
+},{
+  "authors": [
+    "Elisa Quintarelli",
+    "Emanuele Rabosio",
+    "Letizia Tanca"
+  ],
+  "references": [],
+  "title": "A principled approach to context schema evolution in a data management perspective",
+  "year": 2015,
+  "id": "3278d423-aa15-4957-afda-d99c73da9d2a"
+},{
+  "authors": [
+    "Eleonora Ciceri",
+    "Piero Fraternali",
+    "Davide Martinenghi",
+    "Marco Tagliasacchi"
+  ],
+  "references": [],
+  "title": "Crowdsourcing for Top-K Query Processing over Uncertain Data",
+  "year": 2016,
+  "id": "36b6c200-e50e-4789-9aea-b59da89d332c"
+},{
+  "authors": [
+    "Ilio Catallo",
+    "Eleonora Ciceri",
+    "Piero Fraternali",
+    "Davide Martinenghi",
+    "Marco Tagliasacchi"
+  ],
+  "references": [],
+  "title": "Top-k diversity queries over bounded regions",
+  "year": 2013,
+  "id": "3d473f1e-d02c-4912-afef-82c0eef4c500"
+},{
+  "authors": [
+    "Mirjana Mazuran",
+    "Elisa Quintarelli",
+    "Letizia Tanca"
+  ],
+  "references": [],
+  "title": "IQ4EC: Intensional answers as a support to exploratory computing",
+  "year": 2015,
+  "id": "52423ae4-96a4-4752-b9f0-4d0354783a17"
+},{
+  "authors": [
+    "Cristiana Bolchini",
+    "Elisa Quintarelli",
+    "Letizia Tanca"
+  ],
+  "references": [],
+  "title": "CARVE: Context-aware automatic view definition over relational databases",
+  "year": 2013,
+  "id": "58ce37d4-acaf-418d-b394-2fbd93cf34c2"
+},{
+  "authors": [
+    "Davide Martinenghi",
+    "Elisa Quintarelli",
+    "Fabio A. Schreiber",
+    "Letizia Tanca"
+  ],
+  "references": [
+    "Cost-Aware Rank Join with Random and Sorted Access",
+    "Top-k bounded diversification",
+    "Managing Contextual Preferences",
+    "Proximity measures for rank join",
+    "Proximity rank join",
+    "A principled approach to context schema evolution in a data management perspective",
+    "Crowdsourcing for Top-K Query Processing over Uncertain Data",
+    "Top-k diversity queries over bounded regions",
+    "IQ4EC: Intensional answers as a support to exploratory computing",
+    "CARVE: Context-aware automatic view definition over relational databases",
+    "Taxonomy-based relaxation of query answering in relational databases"
+  ],
+  "title": "A Short Account of Techniques for Assisting Users in Mastering Big Data",
+  "year": 2018,
+  "id": "e76d3923-d160-4110-92f0-4ef584ddeea9"
+},{
+  "authors": [
+    "Enrico Franconi",
+    "Volha Kerhet",
+    "Nhung Ngo"
+  ],
+  "references": [],
+  "title": "Exact query reformulation with first-order ontologies and databases",
+  "year": 2012,
+  "id": "2da0835d-43cf-4216-834a-45355805dafe"
+},{
+  "authors": [
+    "Ingo Feinerer",
+    "Enrico Franconi",
+    "Paolo Guagliardo"
+  ],
+  "references": [],
+  "title": "Lossless Selection Views under Conditional Domain Constraints",
+  "year": 2015,
+  "id": "4d253319-fccc-4137-8e13-b2873a456765"
+},{
+  "authors": [
+    "David Toman",
+    "Grant E. Weddell"
+  ],
+  "references": [],
+  "title": "Fundamentals of Physical Design and Query Compilation",
+  "year": 2011,
+  "id": "6d62a745-08bc-4398-9d04-c57836e8f49e"
+},{
+  "authors": [
+    "Hector Perez-Urbina",
+    "Boris Motik",
+    "Ian Horrocks"
+  ],
+  "references": [],
+  "title": "Tractable query answering and rewriting under description logic constraints",
+  "year": 2010,
+  "id": "91943cd2-de74-4acb-b1e0-ed8cd75d35de"
+},{
+  "authors": [
+    "Diego Calvanese",
+    "Enrico Franconi"
+  ],
+  "references": [
+    "The Price of Query Rewriting in Ontology-Based Data Access",
+    "Exact query reformulation with first-order ontologies and databases",
+    "Lossless Selection Views under Conditional Domain Constraints",
+    "Fundamentals of Physical Design and Query Compilation",
+    "Generating Plans from Proofs: The Interpolation-based Approach to Query Reformulation",
+    "Unique Solutions in Data Exchange under STS Mappings.",
+    "Ontop: Answering SPARQL queries over relational databases",
+    "View determinacy for preserving selected information in data transformations",
+    "Tractable query answering and rewriting under description logic constraints",
+    "The combined approach to query answering in DL-Lite",
+    "Query rewriting for horn-SHIQ plus rules",
+    "Exact query reformulation over databases with first-order and description logics ontologies",
+    "Views and queries: Determinacy and rewriting",
+    "High Performance Query Answering over DL-Lite Ontologies",
+    "Generating low-cost plans from proofs",
+    "Beth definability in expressive description logics",
+    "Prexto: query rewriting under extensional constraints in DL-lite",
+    "Query Answering with DBoxes is Hard",
+    "Improving Query Answering over DL-Lite Ontologies"
+  ],
+  "title": "First-Order Ontology Mediated Database Querying via Query Reformulation",
+  "year": 2018,
+  "id": "f0c2814a-e98f-4221-bd05-a89cf51373be"
+},{
+  "authors": [
+    "Enrico Franconi",
+    "Yazmin Angélica Ibáñez-García",
+    "İnanç Seylan"
+  ],
+  "references": [],
+  "title": "Query Answering with DBoxes is Hard",
+  "year": 2011,
+  "id": "ec6da4c4-5106-4a7b-bff1-c9d718b87364"
+},{
+  "authors": [
+    "Riccardo Rosati"
+  ],
+  "references": [],
+  "title": "Prexto: query rewriting under extensional constraints in DL-lite",
+  "year": 2012,
+  "id": "e2221fd1-d892-497e-89fa-84e5f9dea134"
+},{
+  "authors": [
+    "Balder ten Cate",
+    "Enrico Franconi",
+    "İnanç Seylan"
+  ],
+  "references": [],
+  "title": "Beth definability in expressive description logics",
+  "year": 2013,
+  "id": "db22d110-cb5c-4dc3-9d66-cd82b9675355"
+},{
+  "authors": [
+    "Michael Benedikt",
+    "Balder ten Cate",
+    "Efthymia Tsamoura"
+  ],
+  "references": [],
+  "title": "Generating low-cost plans from proofs",
+  "year": 2014,
+  "id": "d9669429-3b48-4f62-a83c-82a804f196b2"
+},{
+  "authors": [
+    "Mariano Rodriguez-Muro",
+    "Diego Calvanese"
+  ],
+  "references": [],
+  "title": "High Performance Query Answering over DL-Lite Ontologies",
+  "year": 2012,
+  "id": "cc864ca8-abb9-408f-880d-6de77871a749"
+},{
+  "authors": [
+    "Alan Nash",
+    "Luc Segoufin",
+    "Victor Vianu"
+  ],
+  "references": [],
+  "title": "Views and queries: Determinacy and rewriting",
+  "year": 2010,
+  "id": "c7fcba47-c94a-4026-813c-3486858e93b8"
+},{
+  "authors": [
+    "Thomas Eiter",
+    "Magdalena Ortiz",
+    "Mantas Šimkus",
+    "Trung-Kien Tran",
+    "Guohui Xiao"
+  ],
+  "references": [],
+  "title": "Query rewriting for horn-SHIQ plus rules",
+  "year": 2012,
+  "id": "9630a925-583d-40ea-8cd7-18da90863354"
+},{
+  "authors": [
+    "Roman Kontchakov",
+    "Carsten Lutz",
+    "David Toman",
+    "Frank Wolter",
+    "Michael Zakharyaschev"
+  ],
+  "references": [],
+  "title": "The combined approach to query answering in DL-Lite",
+  "year": 2010,
+  "id": "9539f794-0ee0-4c34-84aa-c7e702521f0e"
+},{
+  "authors": [
+    "Wenfei Fan",
+    "Floris Geerts",
+    "Lixiao Zheng"
+  ],
+  "references": [],
+  "title": "View determinacy for preserving selected information in data transformations",
+  "year": 2012,
+  "id": "878f99fc-8ad1-478a-8f81-fc95d3114603"
+},{
+  "authors": [
+    "Nhung Ngo",
+    "Enrico Franconi"
+  ],
+  "title": "Unique Solutions in Data Exchange under STS Mappings.",
+  "year": 2016,
+  "id": "80b7e941-998e-4517-a4cf-7a43f4578098"
+},{
+  "authors": [
+    "Michael Benedikt",
+    "Julien Leblay",
+    "Balder ten Cate",
+    "Efthymia Tsamoura"
+  ],
+  "title": "Generating Plans from Proofs: The Interpolation-based Approach to Query Reformulation",
+  "year": 2016,
+  "id": "777b2127-1d27-494a-aa95-78d753c8d343"
+},{
+  "authors": [
+    "Georg Gottlob",
+    "Stanislav Kikot",
+    "Roman Kontchakov",
+    "Vladimir V. Podolskii",
+    "Thomas Schwentick",
+    "Michael Zakharyaschev"
+  ],
+  "references": [],
+  "title": "The Price of Query Rewriting in Ontology-Based Data Access",
+  "year": 2014,
+  "id": "23015e8c-bc38-439f-9a78-83d1bd4f9bac"
+},{
+  "authors": [
+    "Diego Calvanese",
+    "Benjamin Cogrel",
+    "Sarah Komla-Ebri",
+    "Roman Kontchakov",
+    "Davide Lanti",
+    "Martin Rezk",
+    "Mariano Rodriguez-Muro",
+    "Guohui Xiao"
+  ],
+  "references": [],
+  "title": "Ontop: Answering SPARQL queries over relational databases",
+  "year": 2016,
+  "id": "85207a5e-5d6e-4cfd-aaae-3b32ab02e415"
+}]
