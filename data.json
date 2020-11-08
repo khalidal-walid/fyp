@@ -1,7 +1,7 @@
 {
     "nodes": [
       {
-        "id": "Myriel",
+        "id": "Generating Plans from Proofs: The Interpolation-based Approach to Query Reformulation",
         "group": 1,
         "target": ["OldMan",
           "Khalid"],
@@ -71,7 +71,7 @@
         "group": 2
       },
       {
-        "id": "Tholomyes",
+        "id": "TholoGenerating Plans from Proofs: The Interpolation-based Approach to Query Reformulationes",
         "group": 3
       },
       {
@@ -318,17 +318,17 @@
     "links": [
       {
         "source": "Napoleon",
-        "target": "Myriel",
+        "target": "Generating Plans from Proofs: The Interpolation-based Approach to Query Reformulation",
         "value": 1
       },
       {
         "source": "Mlle.Baptistine",
-        "target": "Myriel",
+        "target": "Generating Plans from Proofs: The Interpolation-based Approach to Query Reformulation",
         "value": 8
       },
       {
         "source": "Mme.Magloire",
-        "target": "Myriel",
+        "target": "Generating Plans from Proofs: The Interpolation-based Approach to Query Reformulation",
         "value": 10
       },
       {
@@ -338,32 +338,32 @@
       },
       {
         "source": "CountessdeLo",
-        "target": "Myriel",
+        "target": "Generating Plans from Proofs: The Interpolation-based Approach to Query Reformulation",
         "value": 1
       },
       {
         "source": "Geborand",
-        "target": "Myriel",
+        "target": "Generating Plans from Proofs: The Interpolation-based Approach to Query Reformulation",
         "value": 1
       },
       {
         "source": "Champtercier",
-        "target": "Myriel",
+        "target": "Generating Plans from Proofs: The Interpolation-based Approach to Query Reformulation",
         "value": 1
       },
       {
         "source": "Cravatte",
-        "target": "Myriel",
+        "target": "Generating Plans from Proofs: The Interpolation-based Approach to Query Reformulation",
         "value": 1
       },
       {
         "source": "Count",
-        "target": "Myriel",
+        "target": "Generating Plans from Proofs: The Interpolation-based Approach to Query Reformulation",
         "value": 2
       },
       {
         "source": "OldMan",
-        "target": "Myriel",
+        "target": "Generating Plans from Proofs: The Interpolation-based Approach to Query Reformulation",
         "value": 1
       },
       {
@@ -383,7 +383,7 @@
       },
       {
         "source": "Valjean",
-        "target": "Myriel",
+        "target": "Generating Plans from Proofs: The Interpolation-based Approach to Query Reformulation",
         "value": 5
       },
       {
@@ -408,12 +408,12 @@
       },
       {
         "source": "Listolier",
-        "target": "Tholomyes",
+        "target": "TholoGenerating Plans from Proofs: The Interpolation-based Approach to Query Reformulationes",
         "value": 4
       },
       {
         "source": "Fameuil",
-        "target": "Tholomyes",
+        "target": "TholoGenerating Plans from Proofs: The Interpolation-based Approach to Query Reformulationes",
         "value": 4
       },
       {
@@ -423,7 +423,7 @@
       },
       {
         "source": "Blacheville",
-        "target": "Tholomyes",
+        "target": "TholoGenerating Plans from Proofs: The Interpolation-based Approach to Query Reformulationes",
         "value": 4
       },
       {
@@ -438,7 +438,7 @@
       },
       {
         "source": "Favourite",
-        "target": "Tholomyes",
+        "target": "TholoGenerating Plans from Proofs: The Interpolation-based Approach to Query Reformulationes",
         "value": 3
       },
       {
@@ -458,7 +458,7 @@
       },
       {
         "source": "Dahlia",
-        "target": "Tholomyes",
+        "target": "TholoGenerating Plans from Proofs: The Interpolation-based Approach to Query Reformulationes",
         "value": 3
       },
       {
@@ -483,7 +483,7 @@
       },
       {
         "source": "Zephine",
-        "target": "Tholomyes",
+        "target": "TholoGenerating Plans from Proofs: The Interpolation-based Approach to Query Reformulationes",
         "value": 3
       },
       {
@@ -513,7 +513,7 @@
       },
       {
         "source": "Fantine",
-        "target": "Tholomyes",
+        "target": "TholoGenerating Plans from Proofs: The Interpolation-based Approach to Query Reformulationes",
         "value": 3
       },
       {
@@ -593,7 +593,7 @@
       },
       {
         "source": "Cosette",
-        "target": "Tholomyes",
+        "target": "TholoGenerating Plans from Proofs: The Interpolation-based Approach to Query Reformulationes",
         "value": 1
       },
       {
@@ -978,7 +978,7 @@
       },
       {
         "source": "Marius",
-        "target": "Tholomyes",
+        "target": "TholoGenerating Plans from Proofs: The Interpolation-based Approach to Query Reformulationes",
         "value": 1
       },
       {

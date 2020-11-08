@@ -7,7 +7,7 @@ var ttpJustDisplayed = false;
 var ttp_searchbox = false;
 
 //read JSON
-d3.json("data.json").then(function (graph) {
+d3.json("2018.json").then(function (graph) {
     document.addEventListener('click', hideTooltip)
 
     //array that gets the json data
@@ -38,7 +38,7 @@ d3.json("data.json").then(function (graph) {
         .force("center", d3.forceCenter(width / 2, height / 2))
         // .force("x", d3.forceX(width).strength(1))
          .force("y", d3.forceY(height / 2).strength(1))
-        .force("link", d3.forceLink(graph.links).id(function (d) { return d.id; }).distance(40).strength(1))
+        .force("link", d3.forceLink(graph.links).id(function (d) { return d.id; }).distance(100).strength(1))
         .on("tick", ticked);
 
     var adjlist = [];
@@ -416,8 +416,6 @@ d3.json("data.json").then(function (graph) {
         //     return o.source.index == index || o.target.index == index ? 1 : 0.1;
         // });   
     }
-
-    createLegend(hoverColors, colorScale, interestingRoyalColor);
 });
 
 function positionLink(d) {
