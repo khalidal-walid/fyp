@@ -7,7 +7,7 @@ var ttpJustDisplayed = false;
 var ttp_searchbox = false;
 
 //read JSON
-d3.json("2018.json").then(function (graph) {
+d3.json("fyp.json").then(function (graph) {
     document.addEventListener('click', hideTooltip)
 
     //array that gets the json data
@@ -34,11 +34,12 @@ d3.json("2018.json").then(function (graph) {
 
     //graph layout
     var graphLayout = d3.forceSimulation(graph.nodes)
-        .force("charge", d3.forceManyBody().strength(-500))
-        .force("center", d3.forceCenter(width / 2, height / 2))
-        // .force("x", d3.forceX(width).strength(1))
-         .force("y", d3.forceY(height / 2).strength(1))
+        .force("charge", d3.forceManyBody().strength(-410))
+        .force("center", d3.forceCenter(width, height))
+        .force("x", d3.forceX(width/2).strength(1))
+         .force("y", d3.forceY(height/2).strength(1))
         .force("link", d3.forceLink(graph.links).id(function (d) { return d.id; }).distance(100).strength(1))
+        // .force("link", d3.forceLink(graph.links).id(function (d) { return d.id; }))
         .on("tick", ticked);
 
     var adjlist = [];
@@ -123,7 +124,7 @@ d3.json("2018.json").then(function (graph) {
 
     node.on("mouseover", function (d) {
         var mousePos = d3.mouse(svg.node());
-        var tooltip = d3.select("#tooltip");
+        // var tooltip = d3.select("#tooltip");
 
         // tooltip.style("left", mousePos[0] + 20 + "px")
              // .style("top", mousePos[1] - 20 + "px")
@@ -161,17 +162,17 @@ d3.json("2018.json").then(function (graph) {
             .on("end", dragended)
     );
 
-    var dataNode = container.append("g").attr("class", "dataNodes")
-        .selectAll("text")
-        .data(data.nodes)
-        .enter()
-        .append("text")
-        .text(function (d, i) { return i % 2 == 0 ? "" : d.node.id; })
-        .style("fill", "#fff")
-        .style("font-family", "Arial")
-        .style("font-size", 12)
-        .style("pointer-events", "none") // to prevent mouseover/drag capture
-        .style("opacity", "0"); 
+    // var dataNode = container.append("g").attr("class", "dataNodes")
+    //     .selectAll("text")
+    //     .data(data.nodes)
+    //     .enter()
+    //     .append("text")
+    //     .text(function (d, i) { return i % 2 == 0 ? "" : d.node.id; })
+    //     .style("fill", "#fff")
+    //     .style("font-family", "Arial")
+    //     .style("font-size", 12)
+    //     .style("pointer-events", "none") // to prevent mouseover/drag capture
+    //     .style("opacity", "0"); 
 
     function ticked() {
 

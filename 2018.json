@@ -37,25 +37,33 @@
   ],
 
   "links": [
-        {
-          "source": "Bias Estimation for Asynchronous Multi-rate Multi-sensor Fusion With Unknown Inputs",
-          "target": "Unknown input and state estimation for linear discrete-time systems with missing measurements and correlated noises",
-          "value": 1
-        },
-        {
-          "source": "Bias Estimation for Asynchronous Multi-rate Multi-sensor Fusion With Unknown Inputs",
-          "target": "Model-reduced fault detection for multi-rate sensor fusion with unknown inputs",
-          "value": 1
-        },
-        {
-          "source": "Bias Estimation for Asynchronous Multi-rate Multi-sensor Fusion With Unknown Inputs",
-          "target": "Event-triggered H ∞ state estimation for discrete-time stochastic genetic regulatory networks with Markovian jumping parameters and time-varying delays",
-          "value": 1
-        },
-        {
-          "source": "A",
-          "target": "Event-triggered H ∞ state estimation for discrete-time stochastic genetic regulatory networks with Markovian jumping parameters and time-varying delays",
-          "value": 1
-        }
+    {
+      "source": "Design of an accurate end-of-arm force display system based on wearable arm gesture sensors and EMG sensors",
+      "target": "A hybrid annual power load forecasting model based on generalized regression neural network with fruit fly optimization algorithm",
+      "value": 1
+    },
+    {
+      "source": "Design of an accurate end-of-arm force display system based on wearable arm gesture sensors and EMG sensors",
+      "target": "Multi-sensor fusion in body sensor networks: State-of-the-art and research challenges",
+      "value": 1
+    },
+    {
+      "source": "Design of an accurate end-of-arm force display system based on wearable arm gesture sensors and EMG sensors",
+      "target": "Enabling Effective Programming and Flexible Management of Efficient Body Sensor Network Applications",
+      "value": 1
+    },
+    {
+      "source": "Design of an accurate end-of-arm force display system based on wearable arm gesture sensors and EMG sensors",
+      "target": "Blind Image Quality Assessment Using a General Regression Neural Network",
+      "value": 1
+    },
+    {
+      "source": "Design of an accurate end-of-arm force display system based on wearable arm gesture sensors and EMG sensors",
+      "target": "Control System Design for an Upper-Limb Rehabilitation Robot",
+      "value": 1
+    }
+    
+
+
   ]
 }
