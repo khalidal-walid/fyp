@@ -37,32 +37,13 @@
   ],
 
   "links": [
+
+
     {
-      "source": "Design of an accurate end-of-arm force display system based on wearable arm gesture sensors and EMG sensors",
-      "target": "A hybrid annual power load forecasting model based on generalized regression neural network with fruit fly optimization algorithm",
-      "value": 1
-    },
-    {
-      "source": "Design of an accurate end-of-arm force display system based on wearable arm gesture sensors and EMG sensors",
-      "target": "Multi-sensor fusion in body sensor networks: State-of-the-art and research challenges",
-      "value": 1
-    },
-    {
-      "source": "Design of an accurate end-of-arm force display system based on wearable arm gesture sensors and EMG sensors",
-      "target": "Enabling Effective Programming and Flexible Management of Efficient Body Sensor Network Applications",
-      "value": 1
-    },
-    {
-      "source": "Design of an accurate end-of-arm force display system based on wearable arm gesture sensors and EMG sensors",
-      "target": "Blind Image Quality Assessment Using a General Regression Neural Network",
-      "value": 1
-    },
-    {
-      "source": "Design of an accurate end-of-arm force display system based on wearable arm gesture sensors and EMG sensors",
-      "target": "Control System Design for an Upper-Limb Rehabilitation Robot",
+      "source": "First-Order Ontology Mediated Database Querying via Query Reformulation",
+      "target": "Exact query reformulation over databases with first-order and description logics ontologies",
       "value": 1
     }
-    
 
 
   ]
