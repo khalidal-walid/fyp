@@ -34,9 +34,9 @@ d3.json("fyp.json").then(function (graph) {
     var graphLayout = d3.forceSimulation(graph.nodes)
         .force("charge", d3.forceManyBody().strength(-1000))
         .force("center", d3.forceCenter(width / 2, height / 2))
-        // .force("x", d3.forceX(width / 2).strength(1))
+         .force("x", d3.forceX(width /2 ).strength(1))
          .force("y", d3.forceY(height / 2).strength(1))
-        .force("link", d3.forceLink(graph.links).id(function (d) { return d.id; }).distance(500).strength(1))
+        .force("link", d3.forceLink(graph.links).id(function (d) { return d.id; }).distance(100).strength(1))
         .on("tick", ticked);
 
     var adjlist = [];
@@ -101,7 +101,7 @@ d3.json("fyp.json").then(function (graph) {
         .attr("r", function (d, i) {
             return node_scale(i);
         })
-        .attr("fill", function (d) { return color(d.group); });
+        .attr("fill", function (d) { return color(d.year); });
 
 
 
@@ -152,12 +152,17 @@ d3.json("fyp.json").then(function (graph) {
         .style("pointer-events", "none") // to prevent mouseover/drag capture
         .style("opacity", "0"); 
 
+    var clickedCircle = svg.append("circle")
+        .attr("class", "node-clicked")
+        .attr("r", 16)
+        .style("opacity", 0);
+
     function ticked() {
 
         node.call(updateNode);
         link.call(updateLink);
 
-        dataLayout.alphaTarget(0.3).restart();
+        dataLayout.alphaTarget(0.1).restart();
         dataNode.each(function (d, i) {
             if (i % 2 == 0) {
                 d.x = d.node.x;
@@ -196,9 +201,19 @@ d3.json("fyp.json").then(function (graph) {
         dataNode.attr("display", function (o) {
             return neigh(index, o.node.index) ? "block" : "none";
         });
-        link.style("opacity", function (o) {
+        link.attr("stroke", "#aaa")
+        .attr("stroke-width", function (o) {
             return o.source.index == index || o.target.index == index ? 1 : 0.1;
-        });
+         });
+        // link.style("opacity", function (o) {
+        //     return o.source.index == index || o.target.index == index ? 1 : 0.1;
+        // });
+
+        clickedCircle
+            .attr("cx", d.x)
+            .attr("cy", d.y)
+            .transition().duration(300)
+            .style("opacity", 1);
     }
 
     function hideTooltip(e) {
@@ -257,11 +272,12 @@ d3.json("fyp.json").then(function (graph) {
         node.attr("transform", function (d) {
             return "translate(" + fixna(d.x) + "," + fixna(d.y) + ")";
         });
+        
     }
 
     function dragstarted(d) {
         d3.event.sourceEvent.stopPropagation();
-        if (!d3.event.active) graphLayout.alphaTarget(0.3).restart();
+        if (!d3.event.active) graphLayout.alphaTarget(0).restart();
         d.fx = d.x;
         d.fy = d.y;
     }
@@ -330,9 +346,8 @@ d3.json("fyp.json").then(function (graph) {
                 console.log(current_node);
 
                 focus_searcher(current_node, selection.id);
-
-
             }
+            
         });
 
     }
@@ -379,13 +394,19 @@ d3.json("fyp.json").then(function (graph) {
         // link.style("opacity", function (o) {
         //     return o.source.index == index || o.target.index == index ? 1 : 0.1;
         // });
-         dataNode.style("opacity", function (o) {
-                return neigh(index, o.node.index) ? 1 : 0.1;
-        });
+        //  dataNode.style("opacity", function (o) {
+        //         return neigh(index, o.node.index) ? 1 : 0.1;
+        // });
         link.attr("stroke", "#aaa")
             .attr("stroke-width", function (o) {
                 return o.source.index == index || o.target.index == index ? 1 : 0.1;
          });
+
+         clickedCircle
+         .attr("cx", d.x)
+         .attr("cy", d.y)
+         .transition().duration(300)
+         .style("opacity", 1);
     }
 
 });

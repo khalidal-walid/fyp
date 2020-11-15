@@ -109,3 +109,19 @@ html, body {
   outline: 1px #000000 solid;
   color: 000;
 }
+
+.node-clicked {
+    stroke: #fff;
+    fill: none;
+    stroke-width: 3px;
+    stroke-linecap: round;
+    stroke-opacity: 0.75;
+    stroke-dasharray: 0,5;
+    pointer-events: none;
+
+    animation-duration: 1s;
+    animation-name: changedash;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-timing-function: linear;
+}
