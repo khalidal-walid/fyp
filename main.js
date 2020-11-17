@@ -1,5 +1,5 @@
 //Dimensions and colors
-var width = 1000;
+var width = 1200;
 var height = 600;
 var color = d3.scaleOrdinal(d3.schemeCategory10);
 var profs = [];
@@ -123,32 +123,32 @@ d3.json("fyp.json").then(function (graph) {
     // node.on("mouseover", focus).on("mouseout", unfocus);
 
     node.on("mouseover", function (d) {
-        var mousePos = d3.mouse(svg.node());
+      //  var mousePos = d3.mouse(svg.node());
         // var tooltip = d3.select("#tooltip");
 
         // tooltip.style("left", mousePos[0] + 20 + "px")
              // .style("top", mousePos[1] - 20 + "px")
-        tooltip.style("left", mousePos[0] + 20 + "px")
-            .style("top", mousePos[1] + "px")
-            .classed("hidden", false)
-            .classed("show", true);
+        // tooltip.style("left", mousePos[0] + 20 + "px")
+        //     .style("top", mousePos[1] + "px")
+        //     .classed("hidden", false)
+        //     .classed("show", true);
 
-        tooltip.select("#tooltip-header")
-            .classed("tooltip-header", true)
-            .text(d.id);
+        // tooltip.select("#tooltip-header")
+        //     .classed("tooltip-header", true)
+        //     .text(d.id);
 
-        tooltip.select("#tooltip-body")
-            .html(
-                '<div>' +
-                     d.group + ' investigadores</a >' +
-                '</div > ' 
+        // tooltip.select("#tooltip-body")
+        //     .html(
+        //         '<div>' +
+        //              d.group + ' investigadores</a >' +
+        //         '</div > ' 
                 // +
 
                 // '<div> ' +
                 // '<i class="fas fa-sticky-note-o"></i> ' + d.group + ' publicaciones' +
                 // '</div>'
-            );
-        ttpJustDisplayed = true;
+       //     );
+     //   ttpJustDisplayed = true;
     })
 
     node.on("mouseout", function (d) {
@@ -360,24 +360,24 @@ d3.json("fyp.json").then(function (graph) {
 
     function focus_searcher(d, index) {
         console.log(d)
-        console.log("focus: " + index)
-        ttp_searchbox = true;
-        var tooltip = d3.select("#tooltip");
+     //   console.log("focus: " + index)
+     //   ttp_searchbox = true;
+     //   var tooltip = d3.select("#tooltip");
 
-        tooltip.style("left", 20 + "%")
-            .style("top", 15 + "px")
-            .classed("hidden", false)
-            .classed("show", true);
+        // tooltip.style("left", 20 + "%")
+        //     .style("top", 15 + "px")
+        //     .classed("hidden", false)
+        //     .classed("show", true);
 
-        tooltip.select("#tooltip-header")
-            .classed("tooltip-header", true)
-            .text(d.id);
+        // tooltip.select("#tooltip-header")
+        //     .classed("tooltip-header", true)
+        //     .text(d.id);
 
-        tooltip.select("#tooltip-body")
-            .html(
-                '<div>' +
-                '<a href="https://www.twitter.com" target="_blank"> <i class="fas fa-user-o"></i> ' + d.target + '</a>' +
-                '</div> ' 
+        // tooltip.select("#tooltip-body")
+        //     .html(
+        //         '<div>' +
+        //         '<a href="https://www.twitter.com" target="_blank"> <i class="fas fa-user-o"></i> ' + d.target + '</a>' +
+        //         '</div> ' 
 
                 // '<div>' +
                 // '<a href="https://www.google.com" target="_blank"> <i class="fas fa-user-o"></i> ' + d.group + ' investigadores</a >' +
@@ -386,9 +386,9 @@ d3.json("fyp.json").then(function (graph) {
                 // '<div> ' +
                 // '<i class="fas fa-sticky-note-o"></i> ' + d.group + ' publicaciones' +
                 // '</div>'
-            );
+         //   );
 
-        ttpJustDisplayed = true;
+     //   ttpJustDisplayed = true;
         
         node.style("opacity", function (o) {
             return neigh(index, o.index) ? 1 : 0.1;

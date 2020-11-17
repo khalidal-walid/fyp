@@ -1,5 +1,5 @@
 var width = 1200;
-var height = 300;
+var height = 600;
 var color = d3.scaleOrdinal(d3.schemeCategory10);
 var profs = [];
 var ttpJustDisplayed = false;
@@ -307,7 +307,7 @@ d3.json("fyp.json").then(function (graph) {
                 cache: true
             },
 
-            placeHolder: " Name",
+            placeHolder: " Title",
             selector: "#autoComplete",
             threshold: 0,
             debounce: 0,
