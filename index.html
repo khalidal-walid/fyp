@@ -36,24 +36,40 @@
     <body>
         <div class="container">
             <div class="first">
-                <div class="search-box col-md-12 col-lg-8">
-                    <input
-                        type="text"
-                        id="autoComplete"
-                    />
-                    <button>Search</button>
-                </div>  
+                <div class="wrapper">
+                    <div class="search-box col-md-12 col-lg-8">
+                        <input
+                            type="text"
+                            id="autoComplete"
+                        />
+                        <button>Search</button>
+                    </div>
+                    <div id="legends" class="leg">
+                        <ul class="legend">
+                            <li><span class="superawesome"></span> 2010</li> 
+                            <li><span class="awesome"></span> 2011</li>
+                            <li><span class="kindaawesome"></span> 2012</li>
+                            <li><span class="notawesome"></span> 2013</li>
+                            <li><span class="superawesome"></span> 2014</li>
+                            <li><span class="awesome"></span> 2015</li>
+                            <li><span class="kindaawesome"></span> 2016</li>
+                            <li><span class="notawesome"></span> 2017</li>
+                            <li><span class="notawesome"></span> 2018</li>
+                        </ul>
+                    </div>
+
+                    <div id="tooltip" class="ttp">
+                        <div id="tooltip-header"></div>
+                        <hr />
+                        <div id="tooltip-body"></div>
+                    </div>
+                </div>
+                  
             </div>
             
             <div class="second">
                 <svg id="viz"></svg>
             </div>  
-
-            <!-- <div id="tooltip" class="ttp">
-                <div id="tooltip-header"></div>
-                <hr />
-                <div id="tooltip-body"></div>
-            </div> -->
         </div>
  
 

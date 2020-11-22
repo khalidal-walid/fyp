@@ -4,10 +4,13 @@ var color = d3.scaleOrdinal(d3.schemeCategory10);
 var profs = [];
 var ttpJustDisplayed = false;
 var ttp_searchbox = false;
+var legJustDisplayed = false;
+var leg_searchbox = false;
 
 //read JSON
 d3.json("fyp.json").then(function (graph) {
     document.addEventListener('click', hideTooltip)
+    document.addEventListener('click', hideLegends)
 
     //array that gets the json data
     var data = {
@@ -98,9 +101,10 @@ d3.json("fyp.json").then(function (graph) {
         .enter()
         .append("g").attr("class", "node")
         .append("circle")
-        .attr("r", function (d, i) {
-            return node_scale(i);
-        })
+        // .attr("r", function (d, i) {
+        //     return node_scale(i);
+        // })
+        .attr("r", "5")
         .attr("fill", function (d) { return color(d.year); });
 
 
@@ -110,27 +114,45 @@ d3.json("fyp.json").then(function (graph) {
     node.on("mouseover", function (d) {
         var mousePos = d3.mouse(svg.node());
         var tooltip = d3.select("#tooltip");
+        var legends = d3.select("#legends");
 
-        tooltip.style("left", mousePos[0] + 20 + "px")
-            .style("top", mousePos[1] - 20 + "px")
+        legends.classed("hidden", false)
+            .classed("show", true);
+
+        tooltip
+            // .style("left", mousePos[0] + 20 + "px")
+            // .style("top", mousePos[1] - 20 + "px")
             .classed("hidden", false)
             .classed("show", true);
 
         tooltip.select("#tooltip-header")
-            .classed("tooltip-header", true)
-            .text(d.id);
-
-        tooltip.select("#tooltip-body")
+            // .classed("tooltip-header", true)
+            // .text(d.id);
             .html(
-                // '<div>' +
-                // '<a href="https://www.google.com" target="_blank"> <i class="fas fa-user-o"></i> ' + d.group + ' investigadores</a >' +
-                // '</div > ' +
 
-                // '<div> ' +
-                // '<i class="fas fa-sticky-note-o"></i> ' + d.group + ' publicaciones' +
-                // '</div>'
+                '<div>' +
+                '<h2>' + 'Title:' + '</h2>' +
+                '</div > ' +
+
+                '<div>' +
+                '<h1>' +'<ul>'+ d.id +'</ul>'+ '</h1>' +
+                '</div > ' 
+
             );
+
+        
+    tooltip.select("#tooltip-body")
+            .html(
+                '<div>' +
+                '<h2>' + 'Reference:' + '</h2>' +
+                '</div > ' +
+
+                '<div>' +
+                '<h1>' +'<ul><li>'+ d.target.join("</li><li>") +'</li></ul>'+ '</h1>' +
+                '</div > ' 
+                );
         ttpJustDisplayed = true;
+        legJustDisplayed = true;
     })
 
     node.call(
@@ -241,8 +263,36 @@ d3.json("fyp.json").then(function (graph) {
         resetFocus();
     }
 
+    function hideLegends(e) {
+        if (legJustDisplayed) {
+            e.preventDefault()
+            legJustDisplayed = false;
+
+            if (leg_searchbox) {
+                console.log("lo escondere!")
+                console.log(legJustDisplayed)
+                leg_searchbox = false;
+                resetFocus();
+            }
+
+            return;
+        }
+        let leg = document.querySelector('.leg.show')
+        console.log(leg);
+        if (!leg) return
+        if (leg.contains(e.target)) return
+
+        console.log("pass");
+
+
+        resetFocus();
+    }
+
     function resetFocus() {
         d3.select("#tooltip")
+            .classed("hidden", true)
+            .classed("show", false);
+        d3.select("#legends")
             .classed("hidden", true)
             .classed("show", false);
         dataNode.attr("display", "block");
@@ -252,6 +302,7 @@ d3.json("fyp.json").then(function (graph) {
 
     function unfocus() {
         document.addEventListener('click', hideTooltip)
+        document.addEventListener('click', hideLegends)
         // dataNode.attr("display", "block");
         // node.style("opacity", 1);
         // link.style("opacity", 1);
@@ -358,31 +409,56 @@ d3.json("fyp.json").then(function (graph) {
         console.log("focus: " + index)
         ttp_searchbox = true;
         var tooltip = d3.select("#tooltip");
+        var legends = d3.select("#legends");
 
         tooltip.style("left", 70 + "%")
             .style("top", 20 + "px")
             .classed("hidden", false)
             .classed("show", true);
 
+        legends.classed("hidden", false)
+            .classed("show", true);
+
         tooltip.select("#tooltip-header")
-            .classed("tooltip-header", true)
-            .text(d.id);
+            // .classed("tooltip-header", true)
+            // .text(d.id);
+                .html(
 
+                    '<div>' +
+                    '<h2>' + 'Title:' + '</h2>' +
+                    '</div > ' +
+
+                    '<div>' +
+                    '<h1>' +'<ul>'+ d.id +'</ul>'+ '</h1>' +
+                    '</div > ' 
+
+                );
+
+            
         tooltip.select("#tooltip-body")
-            .html(
-                '<div>' +
-                '<a href="https://www.google.com" target="_blank"> <i class="fas fa-user-o"></i> ' + d.target + '</a >' +
-                '</div > ' 
+                .html(
+                    '<div>' +
+                    '<h2>' + 'Reference:' + '</h2>' +
+                    '</div > ' +
 
-                // '<div>' +
-                // '<a href="https://www.google.com" target="_blank"> <i class="fas fa-user-o"></i> ' + d.group + ' investigadores</a >' +
-                // '</div > ' +
+                    '<div>' +
+                    '<h1>' +'<ul><li>'+ d.target.join("</li><li>") +'</li></ul>'+ '</h1>' +
+                    '</div > ' 
 
-                // '<div> ' +
-                // '<i class="fas fa-sticky-note-o"></i> ' + d.group + ' publicaciones' +
-                // '</div>'
-            );
+                    // '<div>' +
+                    // '<h1>' + d.target[0] + '<br>' + d.target[1] + '</h1>' +
+                    // '</div > ' 
+
+                    // '<div>' +
+                    // '<a href="https://www.google.com" target="_blank"> <i class="fas fa-user-o"></i> ' + d.target + ' investigadores</a >' +
+                    // '</div > ' 
+
+                    // '<div> ' +
+                    // '<i class="fas fa-sticky-note-o"></i> ' +d.target + ' publicaciones' +
+                    // '</div>'
+                );
         ttpJustDisplayed = true;
+        legJustDisplayed = true;
 
 
         node.style("opacity", function (o) {
