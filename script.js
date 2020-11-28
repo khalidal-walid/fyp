@@ -30,15 +30,18 @@ d3.json("fyp.json").then(function (graph) {
 
     //data layout
     var dataLayout = d3.forceSimulation(data.nodes)
-        .force("charge", d3.forceManyBody().strength(-50))
-        .force("link", d3.forceLink(data.links).distance(0).strength(2));
+    //     .force("charge", d3.forceManyBody().strength(-50))
+    //     .force("link", d3.forceLink(data.links).distance(0).strength(2));
+    .force("x", d3.forceX(function(e,t){return 5*t-300}).strength(0.5))
+    .force("y", d3.forceY(function(e,t){return t%5*150-300}).strength(0.1))
+    .force("collide", d3.forceCollide(49).strength(1));
 
     //graph layout
     var graphLayout = d3.forceSimulation(graph.nodes)
         .force("charge", d3.forceManyBody().strength(-1000))
         .force("center", d3.forceCenter(width / 2, height / 2))
-         .force("x", d3.forceX(width /2 ).strength(1))
-         .force("y", d3.forceY(height / 2).strength(1))
+        .force("x", d3.forceX(width /2 ).strength(1))
+        .force("y", d3.forceY(height / 2).strength(1))
         .force("link", d3.forceLink(graph.links).id(function (d) { return d.id; }).distance(100).strength(1))
         .on("tick", ticked);
 
