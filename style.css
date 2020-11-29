@@ -69,10 +69,15 @@ html, body {
   margin-right: 10px; 
 }
 
-.legend .superawesome { background-color: #ff00ff; }
-.legend .awesome { background-color: #00ffff; }
-.legend .kindaawesome { background-color: #0000ff; }
-.legend .notawesome { background-color: #fff; }
+.legend .y2018 { background-color: #D57FBE; }
+.legend .y2017 { background-color: #F08536; }
+.legend .y2016 { background-color: #3877AF; }
+.legend .y2015 { background-color: #7F7F7F; }
+.legend .y2014 { background-color: #84584E; }
+.legend .y2013 { background-color: #8C6BB8; }
+.legend .y2012 { background-color: #C63A32; }
+.legend .y2011 { background-color: #519D3E; }
+.legend .y2010 { background-color: #BDBB45; }
 
 #tooltip {
   /* position: fixed;
