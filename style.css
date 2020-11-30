@@ -1,5 +1,6 @@
 :root {
   --primary-color: #101420;
+  /* --primary-color: #243441 */
 }
 
 html, body {
@@ -19,12 +20,10 @@ html, body {
 }
 
 .first {
-  /* background-color: lightblue; */
   grid-column: 1 / 2;
 }
 
 .second {
-  /* background-color: lightcoral; */
   grid-column: 2 / -1;
 }
 
@@ -80,48 +79,14 @@ html, body {
 .legend .y2010 { background-color: #BDBB45; }
 
 #tooltip {
-  /* position: fixed;
-  top: 0;
-  right: 0;  */
-  /* position: absolute; */
-  /* grid-row: 3 / -1; */
   margin: 1em;
   width: 72%;
   height: 100%;
   padding: 10px;
-  /* background-color: white; */
   border-radius: 5px;
-  /* border: 1px solid #000; */
   display: none;
   font-family: sans-serif;
 }
-
-/* #tooltip {
-  position: absolute;
-  width: 75px;
-  padding: 10px;
-  background-color: white;
-  border-radius: 5px;
-  border: 1px solid #000;
-  display: none;
-  font-family: sans-serif;
-  font-size: 16px;
-  font-weight: bold;
-} */
-
-/* #tooltip {
-  position: absolute;
-  width: 200px;
-  height: auto;
-  padding: 10px;
-  background-color: white;
-  -webkit-border-radius: 10px;
-  -moz-border-radius: 10px;
-  border-radius: 10px;
-  -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
-  -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
-  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
-} */
 
 #tooltip.hidden {
   display: none;
