@@ -114,18 +114,33 @@ html, body {
   margin-left: 1em;
 }
 
-input {
+input[type=text] {
   width: 80%;
+  border: 1px solid #ccc;
+  border-radius: 4px;
   font-family: sans-serif;
   font-size: 15px;
-  font-weight: bold;
 }
 
-button {
+.button {
   font-family: sans-serif;
   font-size: 15px;
-  font-weight: bold;
+  /* font-weight: bold; */
+  border: none;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  border-radius: 4px;
 }
+
+/* .button {
+  background-color: #4CAF50; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+} */
 
 #autocomplete_list {
   position: absolute;
