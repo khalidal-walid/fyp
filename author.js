@@ -8,30 +8,23 @@ var legJustDisplayed = false;
 var leg_searchbox = false;
 
 //read JSON
-d3.json("fyp.json").then(function (graph) {
+d3.json("author.json").then(function (graph) {
     document.addEventListener('click', hideTooltip)
     document.addEventListener('click', hideLegends)
 
     //array that gets the json data
     var data = {
-        'nodes': [],
-        'links': []
+        'nodes': []
     };
 
     //push nodes and link into the graph
     graph.nodes.forEach(function (d, i) {
         data.nodes.push({ node: d });
         data.nodes.push({ node: d });
-        data.links.push({
-            source: i * 2,
-            target: i * 2 + 1
-        });
     });
 
     //data layout
     var dataLayout = d3.forceSimulation(data.nodes)
-    //     .force("charge", d3.forceManyBody().strength(-50))
-    //     .force("link", d3.forceLink(data.links).distance(0).strength(2));
     .force("x", d3.forceX(function(e,t){return 5*t-300}).strength(0.5))
     .force("y", d3.forceY(function(e,t){return t%5*150-300}).strength(0.1))
     .force("collide", d3.forceCollide(49).strength(1));
@@ -42,17 +35,9 @@ d3.json("fyp.json").then(function (graph) {
         .force("center", d3.forceCenter(width / 2, height / 2))
         .force("x", d3.forceX(width /2 ).strength(1))
         .force("y", d3.forceY(height / 2).strength(1))
-        .force("link", d3.forceLink(graph.links).id(function (d) { return d.id; }).distance(100).strength(1))
         .on("tick", ticked);
 
     var adjlist = [];
-
-    //links
-    graph.links.forEach(function (d) {
-        adjlist[d.source.index + "-" + d.target.index] = true;
-        adjlist[d.target.index + "-" + d.source.index] = true;
-    });
-
 
     //vecinos
     function neigh(a, b) {
@@ -68,15 +53,6 @@ d3.json("fyp.json").then(function (graph) {
 
     //escala para el grosor de las lineas
     var path_scale = d3.scaleLinear()
-        .domain([0, d3.max(graph.links, function (d) {
-            return d.value;
-        })])
-        .range([1, 1]);
-
-    var node_scale = d3.scaleLinear()
-        .domain([0, d3.max(graph.links, function (d) {
-            return d.value;
-        })])
         .range([4, 4]);
 
     svg.call(
@@ -85,28 +61,12 @@ d3.json("fyp.json").then(function (graph) {
             .on("zoom", function () { container.attr("transform", d3.event.transform); })
     );
 
-    var link = container.append("g").attr("class", "links")
-        .selectAll("path")
-        .data(graph.links)
-        .enter()
-        .append("path")
-        // .attr("stroke", "#aaa")
-        // .attr("stroke-width", function (d, i) {
-        //     return path_scale(d.value);
-        // })
-        .attr("fill", "none");
-        // .style("opacity", "0");
-
-
     var node = container.append("g").attr("class", "nodes")
         .selectAll("g")
         .data(graph.nodes)
         .enter()
         .append("g").attr("class", "node")
         .append("circle")
-        // .attr("r", function (d, i) {
-        //     return node_scale(i);
-        // })
         .attr("r", "5")
         .attr("fill", function (d) { return color(d.year); });
 
@@ -123,14 +83,10 @@ d3.json("fyp.json").then(function (graph) {
             .classed("show", true);
 
         tooltip
-            // .style("left", mousePos[0] + 20 + "px")
-            // .style("top", mousePos[1] - 20 + "px")
             .classed("hidden", false)
             .classed("show", true);
 
         tooltip.select("#tooltip-header")
-            // .classed("tooltip-header", true)
-            // .text(d.id);
             .html(
 
                 '<div>' +
@@ -194,8 +150,6 @@ d3.json("fyp.json").then(function (graph) {
                 d.y = d.node.y;
             } else {
                 var b = this.getBBox();
-                // var b = d3.select("#viz").node().getBoundingClientRect();
-                // console.log(b)
                 var diffX = d.x - d.node.x;
                 var diffY = d.y - d.node.y;
 
@@ -226,13 +180,6 @@ d3.json("fyp.json").then(function (graph) {
         dataNode.attr("display", function (o) {
             return neigh(index, o.node.index) ? "block" : "none";
         });
-        link.attr("stroke", "#aaa")
-        .attr("stroke-width", function (o) {
-            return o.source.index == index || o.target.index == index ? 1 : 0.1;
-         });
-        // link.style("opacity", function (o) {
-        //     return o.source.index == index || o.target.index == index ? 1 : 0.1;
-        // });
 
         clickedCircle
             .attr("cx", d.x)
@@ -306,20 +253,6 @@ d3.json("fyp.json").then(function (graph) {
     function unfocus() {
         document.addEventListener('click', hideTooltip)
         document.addEventListener('click', hideLegends)
-        // dataNode.attr("display", "block");
-        // node.style("opacity", 1);
-        // link.style("opacity", 1);
-    }
-
-
-    function updateLink(link) {
-        link.attr("d", function (d) {
-            var dx = d.target.x - d.source.x,
-                dy = d.target.y - d.source.y,
-                dr = Math.sqrt(dx * dx + dy * dy);
-            return "M" + d.source.x + "," + d.source.y + "A" + dr + "," + dr + " 0 0,1 " + d.target.x + "," + d.target.y;
-        });
-        link.style("opacity", "1")
     }
 
     function updateNode(node) {
@@ -365,7 +298,6 @@ d3.json("fyp.json").then(function (graph) {
             selector: "#autoComplete",
             threshold: 0,
             debounce: 0,
-            // searchEngine: "strict",
             highlight: true,
             maxResults: 5,
             resultsList: {
@@ -423,8 +355,6 @@ d3.json("fyp.json").then(function (graph) {
             .classed("show", true);
 
         tooltip.select("#tooltip-header")
-            // .classed("tooltip-header", true)
-            // .text(d.id);
                 .html(
 
                     '<div>' +
@@ -447,18 +377,6 @@ d3.json("fyp.json").then(function (graph) {
                     '<div>' +
                     '<h1>' +'<ul><li>'+ d.target.join("</li><li>") +'</li></ul>'+ '</h1>' +
                     '</div > ' 
-
-                    // '<div>' +
-                    // '<h1>' + d.target[0] + '<br>' + d.target[1] + '</h1>' +
-                    // '</div > ' 
-
-                    // '<div>' +
-                    // '<a href="https://www.google.com" target="_blank"> <i class="fas fa-user-o"></i> ' + d.target + ' investigadores</a >' +
-                    // '</div > ' 
-
-                    // '<div> ' +
-                    // '<i class="fas fa-sticky-note-o"></i> ' +d.target + ' publicaciones' +
-                    // '</div>'
                 );
         ttpJustDisplayed = true;
         legJustDisplayed = true;
@@ -467,19 +385,6 @@ d3.json("fyp.json").then(function (graph) {
         node.style("opacity", function (o) {
             return neigh(index, o.index) ? 1 : 0.1;
         });
-        // dataNode.attr("display", function (o) {
-        //     return neigh(index, o.node.index) ? "block" : "none";
-        // });
-        // link.style("opacity", function (o) {
-        //     return o.source.index == index || o.target.index == index ? 1 : 0.1;
-        // });
-        //  dataNode.style("opacity", function (o) {
-        //         return neigh(index, o.node.index) ? 1 : 0.1;
-        // });
-        link.attr("stroke", "#aaa")
-            .attr("stroke-width", function (o) {
-                return o.source.index == index || o.target.index == index ? 1 : 0.1;
-         });
 
          clickedCircle
          .attr("cx", d.x)
@@ -489,12 +394,6 @@ d3.json("fyp.json").then(function (graph) {
     }
 
 });
-
-function positionLink(d) {
-    return "M" + d[0].x + "," + d[0].y
-        + "S" + d[1].x + "," + d[1].y
-        + " " + d[2].x + "," + d[2].y;
-}
 
 
 function makeProfList(rData) {
