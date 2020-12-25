@@ -14,13 +14,18 @@ d3.json("author.json").then(function (graph) {
 
     //array that gets the json data
     var data = {
-        'nodes': []
+        'nodes': [],
+        'links': []
     };
 
     //push nodes and link into the graph
     graph.nodes.forEach(function (d, i) {
         data.nodes.push({ node: d });
         data.nodes.push({ node: d });
+        data.links.push({
+            source: i * 2,
+            target: i * 2 + 1
+        });
     });
 
     //data layout
@@ -35,9 +40,17 @@ d3.json("author.json").then(function (graph) {
         .force("center", d3.forceCenter(width / 2, height / 2))
         .force("x", d3.forceX(width /2 ).strength(1))
         .force("y", d3.forceY(height / 2).strength(1))
+        .force("link", d3.forceLink(graph.links).id(function (d) { return d.id; }).distance(100).strength(1))
         .on("tick", ticked);
 
     var adjlist = [];
+
+    //links
+    graph.links.forEach(function (d) {
+        adjlist[d.source.index + "-" + d.target.index] = true;
+        adjlist[d.target.index + "-" + d.source.index] = true;
+    });
+
 
     //vecinos
     function neigh(a, b) {
@@ -53,6 +66,15 @@ d3.json("author.json").then(function (graph) {
 
     //escala para el grosor de las lineas
     var path_scale = d3.scaleLinear()
+        .domain([0, d3.max(graph.links, function (d) {
+            return d.value;
+        })])
+        .range([1, 1]);
+
+    var node_scale = d3.scaleLinear()
+        .domain([0, d3.max(graph.links, function (d) {
+            return d.value;
+        })])
         .range([4, 4]);
 
     svg.call(
@@ -60,6 +82,14 @@ d3.json("author.json").then(function (graph) {
             .scaleExtent([.1, 4])
             .on("zoom", function () { container.attr("transform", d3.event.transform); })
     );
+
+    var link = container.append("g").attr("class", "links")
+        .selectAll("path")
+        .data(graph.links)
+        .enter()
+        .append("path")
+        .attr("fill", "none");
+
 
     var node = container.append("g").attr("class", "nodes")
         .selectAll("g")
@@ -91,25 +121,17 @@ d3.json("author.json").then(function (graph) {
 
                 '<div>' +
                 '<h2>' + 'Title:' + '</h2>' +
-                '</div > ' +
+                '<h1>' + d.title + '</h1>' +
 
-                '<div>' +
-                '<h1>' +'<ul>'+ d.id +'</ul>'+ '</h1>' +
-                '</div > ' 
+                 '<h2>' + 'Year Published:' + '</h2>' +
+                 '<h1>' + d.years + '</h1>' +
+
+                 '<h2>' + 'Venue:' + '</h2>' +
+                 '<h1>' + d.venue + '</h1>' +
+                 '</div > ' 
 
             );
 
-        
-    tooltip.select("#tooltip-body")
-            .html(
-                '<div>' +
-                '<h2>' + 'Reference:' + '</h2>' +
-                '</div > ' +
-
-                '<div>' +
-                '<h1>' +'<ul><li>'+ d.target.join("</li><li>") +'</li></ul>'+ '</h1>' +
-                '</div > ' 
-                );
         ttpJustDisplayed = true;
         legJustDisplayed = true;
     })
@@ -180,6 +202,10 @@ d3.json("author.json").then(function (graph) {
         dataNode.attr("display", function (o) {
             return neigh(index, o.node.index) ? "block" : "none";
         });
+        link.attr("stroke", "#aaa")
+            .attr("stroke-width", function (o) {
+                return o.source.index == index || o.target.index == index ? 1 : 0.1;
+         });
 
         clickedCircle
             .attr("cx", d.x)
@@ -255,6 +281,17 @@ d3.json("author.json").then(function (graph) {
         document.addEventListener('click', hideLegends)
     }
 
+
+    function updateLink(link) {
+        link.attr("d", function (d) {
+            var dx = d.target.x - d.source.x,
+                dy = d.target.y - d.source.y,
+                dr = Math.sqrt(dx * dx + dy * dy);
+            return "M" + d.source.x + "," + d.source.y + "A" + dr + "," + dr + " 0 0,1 " + d.target.x + "," + d.target.y;
+        });
+        link.style("opacity", "1")
+    }
+
     function updateNode(node) {
         node.attr("transform", function (d) {
             return "translate(" + fixna(d.x) + "," + fixna(d.y) + ")";
@@ -294,7 +331,7 @@ d3.json("author.json").then(function (graph) {
                 cache: true
             },
 
-            placeHolder: " Title",
+            placeHolder: " Author",
             selector: "#autoComplete",
             threshold: 0,
             debounce: 0,
@@ -303,7 +340,7 @@ d3.json("author.json").then(function (graph) {
             resultsList: {
                 render: true,
                 container: source => {
-                    source.setAttribute("id", "autoComplete_list");
+                    source.setAttribute("author", "autoComplete_list");
                 },
                 destination: document.querySelector("#autoComplete"),
                 position: "afterend",
@@ -323,10 +360,10 @@ d3.json("author.json").then(function (graph) {
 
                 let select = document.querySelector("#autoComplete")
                 select.value = ''
-                console.log("autocomplete: " + selection.id)
+                console.log("autocomplete: " + selection.author)
                 let nodes = d3.selectAll('g.node')
 
-                let node = nodes.filter((d, i, g) => d.id === selection.name)
+                let node = nodes.filter((d, i, g) => d.author === selection.name)
                 console.log(node);
                 let current_node = node.node().__data__;
                 console.log(current_node);
@@ -342,49 +379,21 @@ d3.json("author.json").then(function (graph) {
     function focus_searcher(d, index) {
         console.log(d)
         console.log("focus: " + index)
-        ttp_searchbox = true;
-        var tooltip = d3.select("#tooltip");
         var legends = d3.select("#legends");
 
-        tooltip.style("left", 70 + "%")
-            .style("top", 20 + "px")
-            .classed("hidden", false)
-            .classed("show", true);
-
         legends.classed("hidden", false)
-            .classed("show", true);
+        .classed("show", true);
 
-        tooltip.select("#tooltip-header")
-                .html(
-
-                    '<div>' +
-                    '<h2>' + 'Title:' + '</h2>' +
-                    '</div > ' +
-
-                    '<div>' +
-                    '<h1>' +'<ul>'+ d.id +'</ul>'+ '</h1>' +
-                    '</div > ' 
-
-                );
-
-            
-        tooltip.select("#tooltip-body")
-                .html(
-                    '<div>' +
-                    '<h2>' + 'Reference:' + '</h2>' +
-                    '</div > ' +
-
-                    '<div>' +
-                    '<h1>' +'<ul><li>'+ d.target.join("</li><li>") +'</li></ul>'+ '</h1>' +
-                    '</div > ' 
-                );
-        ttpJustDisplayed = true;
         legJustDisplayed = true;
 
 
         node.style("opacity", function (o) {
             return neigh(index, o.index) ? 1 : 0.1;
         });
+        link.attr("stroke", "#aaa")
+            .attr("stroke-width", function (o) {
+                return o.source.index == index || o.target.index == index ? 1 : 0.1;
+         });
 
          clickedCircle
          .attr("cx", d.x)
@@ -395,10 +404,16 @@ d3.json("author.json").then(function (graph) {
 
 });
 
+function positionLink(d) {
+    return "M" + d[0].x + "," + d[0].y
+        + "S" + d[1].x + "," + d[1].y
+        + " " + d[2].x + "," + d[2].y;
+}
+
 
 function makeProfList(rData) {
     rData.nodes.forEach((node, index) => {
-        profs.push({ name: node.id, id: index })
+        profs.push({ name: node.author, id: index })
     })
     return rData
   }

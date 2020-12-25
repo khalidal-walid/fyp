@@ -4,7 +4,8 @@
       "id": "Unknown input and state estimation for linear discrete-time systems with missing measurements and correlated noises",
       "target": ["Bias Estimation for Asynchronous Multi-rate Multi-sensor Fusion With Unknown Inputs",
         "Event-based distributed recursive filtering for state-saturated systems with redundant channels"],
-      "year": 2016
+      "year": 2016,
+      "info": "2016"
     },
     {
       "id": "Model-reduced fault detection for multi-rate sensor fusion with unknown inputs",
