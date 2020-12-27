@@ -11,12 +11,1697 @@
       "year": 2017,
       "venue": "Communications of The ACM",
       "years": "2017"
+    },
+    {
+      "id": "We need a research data census",
+      "title": "We need a research data census",
+      "year": 2010,
+      "venue": "Communications of The ACM",
+      "years": "2010"
+    },
+    {
+      "author": "Vinton G. Cerf",
+      "id": "Vinton G. Cerf",
+      "year": 2009
+    },
+    {
+      "id": "Social and ethical behavior in the internet of things",
+      "title": "Social and ethical behavior in the internet of things",
+      "year": 2017,
+      "venue": "Communications of The ACM",
+      "years": "2017"
+    },
+    {
+      "id": "Unreliable Machine Learning",
+      "title": "Unreliable Machine Learning",
+      "year": 2017,
+      "venue": "IEEE Internet Computing",
+      "years": "2017"
+    },
+    {
+      "id": "Grumpy old cells",
+      "title": "Grumpy old cells",
+      "year": 2017,
+      "venue": "Communications of The ACM",
+      "years": "2017"
+    },
+    {
+      "id": "Deep Retraining and Innovation",
+      "title": "Deep Retraining and Innovation",
+      "year": 2017,
+      "venue": "IEEE Internet Computing",
+      "years": "2017"
+    },
+    {
+      "id": "A genetic theory of the Silicon Valley phenomenon",
+      "title": "A genetic theory of the Silicon Valley phenomenon",
+      "year": 2017,
+      "venue": "Communications of The ACM",
+      "years": "2017"
+    },
+    {
+      "id": "Can liberty survive the digital age",
+      "title": "Can liberty survive the digital age",
+      "year": 2017,
+      "venue": "Communications of The ACM",
+      "years": "2017"
+    },
+    {
+      "id": "On the Simulation of Everything",
+      "title": "On the Simulation of Everything",
+      "year": 2017,
+      "venue": "IEEE Internet Computing",
+      "years": "2017"
+    },
+    {
+      "id": "Open access to academic research",
+      "title": "Open access to academic research",
+      "year": 2017,
+      "venue": "Communications of The ACM",
+      "years": "2017"
+    },
+    {
+      "id": "What if it's us?",
+      "title": "What if it's us?",
+      "year": 2014,
+      "venue": "Communications of The ACM",
+      "years": "2014"
+    },
+    {
+      "id": "A long way to have come and still to go",
+      "title": "A long way to have come and still to go",
+      "year": 2015,
+      "venue": "Communications of The ACM",
+      "years": "2015"
+    },
+    {
+      "id": "Revisiting the tragedy of the commons",
+      "title": "Revisiting the tragedy of the commons",
+      "year": 2013,
+      "venue": "Communications of The ACM",
+      "years": "2013"
+    },
+    {
+      "id": "ACM president's salary increased by 300%!",
+      "title": "ACM president's salary increased by 300%!",
+      "year": 2013,
+      "venue": "Communications of The ACM",
+      "years": "2013"
+    },
+    {
+      "id": "On the road in Latin America",
+      "title": "On the road in Latin America",
+      "year": 2015,
+      "venue": "Communications of The ACM",
+      "years": "2015"
+    },
+    {
+      "id": "Prospects for the internet of things",
+      "title": "Prospects for the internet of things",
+      "year": 2015,
+      "venue": "the internet of things",
+      "years": "2015"
+    },
+    {
+      "id": "ACM's 2016 general election",
+      "title": "ACM's 2016 general election",
+      "year": 2015,
+      "venue": "Communications of The ACM",
+      "years": "2015"
+    },
+    {
+      "id": "An interview with U.S. chief technology officer Megan Smith",
+      "title": "An interview with U.S. chief technology officer Megan Smith",
+      "year": 2015,
+      "venue": "Communications of The ACM",
+      "years": "2015"
+    },
+    {
+      "id": "A celebration of accomplishments",
+      "title": "A celebration of accomplishments",
+      "year": 2015,
+      "venue": "Communications of The ACM",
+      "years": "2015"
+    },
+    {
+      "id": "The Fragmentation of the Internet",
+      "title": "The Fragmentation of the Internet",
+      "year": 2016,
+      "venue": "IEEE Internet Computing",
+      "years": "2016"
+    },
+    {
+      "id": "Advancing the ACM agenda",
+      "title": "Advancing the ACM agenda",
+      "year": 2015,
+      "venue": "Communications of The ACM",
+      "years": "2015"
+    },
+    {
+      "id": "Computer science in the curriculum",
+      "title": "Computer science in the curriculum",
+      "year": 2016,
+      "venue": "Communications of The ACM",
+      "years": "2016"
+    },
+    {
+      "id": "Our Fragile Power Grid",
+      "title": "Our Fragile Power Grid",
+      "year": 2016,
+      "venue": "IEEE Internet Computing",
+      "years": "2016"
+    },
+    {
+      "id": "A half-century makes a difference",
+      "title": "A half-century makes a difference",
+      "year": 2010,
+      "venue": "Journal of Internet Services and Applications",
+      "years": "2010"
+    },
+    {
+      "id": "2012 Isn't the End of the World",
+      "title": "2012 Isn't the End of the World",
+      "year": 2010,
+      "venue": "IEEE Internet Computing",
+      "years": "2010"
+    },
+    {
+      "id": "Trust and the Internet",
+      "title": "Trust and the Internet",
+      "year": 2010,
+      "venue": "IEEE Internet Computing",
+      "years": "2010"
+    },
+    {
+      "id": "Open Source, Smart Grid, and Mobile Apps",
+      "title": "Open Source, Smart Grid, and Mobile Apps",
+      "year": 2011,
+      "venue": "IEEE Internet Computing",
+      "years": "2011"
+    },
+    {
+      "id": "Sherry Turkle: Alone Together",
+      "title": "Sherry Turkle: Alone Together",
+      "year": 2011,
+      "venue": "IEEE Internet Computing",
+      "years": "2011"
+    },
+    {
+      "id": "Successful strategies for IPv6 rollouts.: Really.",
+      "title": "Successful strategies for IPv6 rollouts.: Really.",
+      "year": 2011,
+      "venue": "ACM Queue",
+      "years": "2011"
+    },
+    {
+      "id": "Things and the Net",
+      "title": "Things and the Net",
+      "year": 2012,
+      "venue": "IEEE Internet Computing",
+      "years": "2012"
+    },
+    {
+      "id": "Ubiquity symposium: The science in computer science: computer science revisited",
+      "title": "Ubiquity symposium: The science in computer science: computer science revisited",
+      "year": 2012,
+      "venue": "Ubiquity",
+      "years": "2012"
+    },
+    {
+      "id": "Why is accessibility so hard",
+      "title": "Why is accessibility so hard",
+      "year": 2012,
+      "venue": "Communications of The ACM",
+      "years": "2012"
+    },
+    {
+      "id": "Where is the science in computer science",
+      "title": "Where is the science in computer science",
+      "year": 2012,
+      "venue": "Communications of The ACM",
+      "years": "2012"
+    },
+    {
+      "id": "Computer science education---revisited",
+      "title": "Computer science education---revisited",
+      "year": 2013,
+      "venue": "Communications of The ACM",
+      "years": "2013"
+    },
+    {
+      "id": "Gateways for the Internet of Things: An old problem revisited",
+      "title": "Gateways for the Internet of Things: An old problem revisited",
+      "year": 2013,
+      "venue": "global communications conference",
+      "years": "2013"
+    },
+    {
+      "id": "Software at scale",
+      "title": "Software at scale",
+      "year": 2013,
+      "venue": "Communications of The ACM",
+      "years": "2013"
+    },
+    {
+      "id": "Internet and the Other IP",
+      "title": "Internet and the Other IP",
+      "year": 2013,
+      "venue": "IEEE Internet Computing",
+      "years": "2013"
+    },
+    {
+      "id": "Loose Couplings",
+      "title": "Loose Couplings",
+      "year": 2013,
+      "venue": "IEEE Internet Computing",
+      "years": "2013"
+    },
+    {
+      "id": "Instrument Thyself",
+      "title": "Instrument Thyself",
+      "year": 2014,
+      "venue": "IEEE Internet Computing",
+      "years": "2014"
+    },
+    {
+      "id": "Unconventional computing",
+      "title": "Unconventional computing",
+      "year": 2014,
+      "venue": "Communications of The ACM",
+      "years": "2014"
+    },
+    {
+      "id": "Augmented reality",
+      "title": "Augmented reality",
+      "year": 2014,
+      "venue": "Communications of The ACM",
+      "years": "2014"
+    },
+    {
+      "id": "Cognitive implants",
+      "title": "Cognitive implants",
+      "year": 2014,
+      "venue": "Communications of The ACM",
+      "years": "2014"
+    },
+    {
+      "id": "Virtual reality redux",
+      "title": "Virtual reality redux",
+      "year": 2014,
+      "venue": "Communications of The ACM",
+      "years": "2014"
+    },
+    {
+      "id": "Space for Internet and Internet for space",
+      "title": "Space for Internet and Internet for space",
+      "year": 2014,
+      "venue": "ad hoc networks",
+      "years": "2014"
+    },
+    {
+      "id": "Enrollments explode! but diversity students are leaving…",
+      "title": "Enrollments explode! but diversity students are leaving…",
+      "year": 2016,
+      "venue": "Communications of The ACM",
+      "years": "2016"
+    },
+    {
+      "id": "The IANA transition",
+      "title": "The IANA transition",
+      "year": 2016,
+      "venue": "Communications of The ACM",
+      "years": "2016"
+    },
+    {
+      "id": "Practical Solutions: Basic and Applied Research, Science, Engineering, and Design",
+      "title": "Practical Solutions: Basic and Applied Research, Science, Engineering, and Design",
+      "year": 2016,
+      "venue": "IEEE Internet Computing",
+      "years": "2016"
+    },
+    {
+      "id": "The power of big ideas",
+      "title": "The power of big ideas",
+      "year": 2016,
+      "venue": "Communications of The ACM",
+      "years": "2016"
+    },
+    {
+      "id": "Internet Collisions",
+      "title": "Internet Collisions",
+      "year": 2016,
+      "venue": "Communications of The ACM",
+      "years": "2016"
+    },
+    {
+      "id": "When email isn't private",
+      "title": "When email isn't private",
+      "year": 2016,
+      "venue": "Communications of The ACM",
+      "years": "2016"
+    },
+    {
+      "id": "Heidelberg anew",
+      "title": "Heidelberg anew",
+      "year": 2016,
+      "venue": "Communications of The ACM",
+      "years": "2016"
+    },
+    {
+      "id": "Information and misinformation on the internet",
+      "title": "Information and misinformation on the internet",
+      "year": 2016,
+      "venue": "Communications of The ACM",
+      "years": "2016"
+    },
+    {
+      "author": "Nii Narku Quaynor",
+      "id": "Nii Narku Quaynor",
+      "year": 2009
+    },
+    {
+      "id": "An Integrated Geographic Information System and Marketing Information System Model",
+      "title": "An Integrated Geographic Information System and Marketing Information System Model",
+      "year": 2012,
+      "venue": "arXiv: Other Computer Science",
+      "years": "2012"
+    },
+    {
+      "id": "Feature Based Encryption Technique for Securing Digital Image Data Based on FCA-Image Attributes and Visual Cryptography",
+      "title": "Feature Based Encryption Technique for Securing Digital Image Data Based on FCA-Image Attributes and Visual Cryptography",
+      "year": 2015,
+      "venue": "international conference on computational science and its applications",
+      "years": "2015"
+    },
+    {
+      "id": "The Internet of Everyone",
+      "title": "The Internet of Everyone",
+      "year": 2014,
+      "venue": "IEEE Internet Computing",
+      "years": "2014"
+    },
+    {
+      "id": "A Security Technique for Authentication and Security of Medical Images in Health Information Systems",
+      "title": "A Security Technique for Authentication and Security of Medical Images in Health Information Systems",
+      "year": 2015,
+      "venue": "international conference on computational science and its applications",
+      "years": "2015"
+    },
+    {
+      "author": "Quist-Aphetsi Kester",
+      "id": "Quist-Aphetsi Kester",
+      "year": 2009
+    },
+    {
+      "id": "An Integrated Geographic Information System and Marketing Information System Model",
+      "title": "An Integrated Geographic Information System and Marketing Information System Model",
+      "year": 2012,
+      "venue": "arXiv: Other Computer Science",
+      "years": "2012"
+    },
+    {
+      "id": "Feature Based Encryption Technique for Securing Digital Image Data Based on FCA-Image Attributes and Visual Cryptography",
+      "title": "Feature Based Encryption Technique for Securing Digital Image Data Based on FCA-Image Attributes and Visual Cryptography",
+      "year": 2015,
+      "venue": "international conference on computational science and its applications",
+      "years": "2015"
+    },
+    {
+      "id": "Using Formal Concepts Analysis Techniques in Mining Data from Criminal Databases and Profiling Events Based on Factors to Understand Criminal Environments",
+      "title": "Using Formal Concepts Analysis Techniques in Mining Data from Criminal Databases and Profiling Events Based on Factors to Understand Criminal Environments",
+      "year": 2016,
+      "venue": "international conference on computational science and its applications",
+      "years": "2016"
+    },
+    {
+      "id": "A Security Technique for Authentication and Security of Medical Images in Health Information Systems",
+      "title": "A Security Technique for Authentication and Security of Medical Images in Health Information Systems",
+      "year": 2015,
+      "venue": "international conference on computational science and its applications",
+      "years": "2015"
+    },
+    {
+      "id": "A Visual Cryptographic Encryption Technique for Securing Medical Images",
+      "title": "A Visual Cryptographic Encryption Technique for Securing Medical Images",
+      "year": 2014,
+      "venue": "international conference on computational science and its applications",
+      "years": "2014"
+    },
+    {
+      "author": "Zheng Xu",
+      "id": "Zheng Xu",
+      "year": 2009
+    },
+    {
+      "id": "Analysis and modeling of the semantically associated network on the Web",
+      "title": "Analysis and modeling of the semantically associated network on the Web",
+      "year": 2010,
+      "venue": "Concurrency and Computation: Practice and Experience",
+      "years": "2010"
+    },
+    {
+      "id": "Building Web Knowledge Flows based on Interactive Computing with Semantics",
+      "title": "Building Web Knowledge Flows based on Interactive Computing with Semantics",
+      "year": 2010,
+      "venue": "New Generation Computing",
+      "years": "2010"
+    },
+    {
+      "id": "Simulation analysis on stimulation modes of three-dimension electrical impedance tomography",
+      "title": "Simulation analysis on stimulation modes of three-dimension electrical impedance tomography",
+      "year": 2010,
+      "venue": "international conference on intelligent computing",
+      "years": "2010"
+    },
+    {
+      "id": "Association link network: an incremental web resources link model for learning resources management",
+      "title": "Association link network: an incremental web resources link model for learning resources management",
+      "year": 2011,
+      "venue": "international conference on intelligent computing",
+      "years": "2011"
+    },
+    {
+      "id": "Teaching and Learning Guide for: Optimality Theory and Morphology",
+      "title": "Teaching and Learning Guide for: Optimality Theory and Morphology",
+      "year": 2011,
+      "venue": "Language and Linguistics Compass",
+      "years": "2011"
+    },
+    {
+      "id": "Measuring semantic similarity between words by removing noise and redundancy in web snippets",
+      "title": "Measuring semantic similarity between words by removing noise and redundancy in web snippets",
+      "year": 2011,
+      "venue": "Concurrency and Computation: Practice and Experience",
+      "years": "2011"
+    },
+    {
+      "id": "Study on the influences of quantum well structure on the performance of organic light emitting devices",
+      "title": "Study on the influences of quantum well structure on the performance of organic light emitting devices",
+      "year": 2011,
+      "venue": "Displays",
+      "years": "2011"
+    },
+    {
+      "id": "Error analysis of SLM based micro stereo vision model",
+      "title": "Error analysis of SLM based micro stereo vision model",
+      "year": 2012,
+      "venue": "biomedical engineering and informatics",
+      "years": "2012"
+    },
+    {
+      "id": "Towards indexing representative images on the web",
+      "title": "Towards indexing representative images on the web",
+      "year": 2012,
+      "venue": "acm multimedia",
+      "years": "2012"
+    },
+    {
+      "id": "Client-centric OLAP on mobile devices",
+      "title": "Client-centric OLAP on mobile devices",
+      "year": 2013,
+      "venue": "international conference on data engineering",
+      "years": "2013"
+    },
+    {
+      "id": "Investigating the Impact Factors for Event Detection Using Web Search Engines",
+      "title": "Investigating the Impact Factors for Event Detection Using Web Search Engines",
+      "year": 2013,
+      "venue": "computational science and engineering",
+      "years": "2013"
+    },
+    {
+      "id": "Using Association Link Network Model for Organizing Video Resources from Web",
+      "title": "Using Association Link Network Model for Organizing Video Resources from Web",
+      "year": 2013,
+      "venue": "semantics, knowledge and grid",
+      "years": "2013"
+    },
+    {
+      "id": "Measuring the Semantic Relatedness Between Images Using Social Tags",
+      "title": "Measuring the Semantic Relatedness Between Images Using Social Tags",
+      "year": 2013,
+      "venue": "International Journal of Cognitive Informatics and Natural Intelligence",
+      "years": "2013"
+    },
+    {
+      "id": "Spectral Efficiency of Carbon Nanotube Antenna Based MIMO Systems in the Terahertz Band",
+      "title": "Spectral Efficiency of Carbon Nanotube Antenna Based MIMO Systems in the Terahertz Band",
+      "year": 2013,
+      "venue": "IEEE Wireless Communications Letters",
+      "years": "2013"
+    },
+    {
+      "id": "Mining temporal explicit and implicit semantic relations between entities using web search engines",
+      "title": "Mining temporal explicit and implicit semantic relations between entities using web search engines",
+      "year": 2014,
+      "venue": "Future Generation Computer Systems",
+      "years": "2014"
+    },
+    {
+      "id": "Measuring the Web Event Evolution Based on Semantic Outbreak Degree",
+      "title": "Measuring the Web Event Evolution Based on Semantic Outbreak Degree",
+      "year": 2014,
+      "venue": "semantics knowledge and grid",
+      "years": "2014"
+    },
+    {
+      "id": "Generating Semantic Annotation of Video for Organizing and Searching Traffic Resources",
+      "title": "Generating Semantic Annotation of Video for Organizing and Searching Traffic Resources",
+      "year": 2014,
+      "venue": "International Journal of Cognitive Informatics and Natural Intelligence",
+      "years": "2014"
+    },
+    {
+      "id": "Semantic Link Network-Based Model for Organizing Multimedia Big Data",
+      "title": "Semantic Link Network-Based Model for Organizing Multimedia Big Data",
+      "year": 2014,
+      "venue": "IEEE Transactions on Emerging Topics in Computing",
+      "years": "2014"
+    },
+    {
+      "id": "Arc FMCW SAR and Applications in Ground Monitoring",
+      "title": "Arc FMCW SAR and Applications in Ground Monitoring",
+      "year": 2014,
+      "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+      "years": "2014"
+    },
+    {
+      "id": "Exploiting Low-Rank Structure from Latent Domains for Domain Generalization",
+      "title": "Exploiting Low-Rank Structure from Latent Domains for Domain Generalization",
+      "year": 2014,
+      "venue": "european conference on computer vision",
+      "years": "2014"
+    },
+    {
+      "id": "Video structural description technology for the new generation video surveillance systems",
+      "title": "Video structural description technology for the new generation video surveillance systems",
+      "year": 2015,
+      "venue": "Frontiers of Computer Science in China",
+      "years": "2015"
+    },
+    {
+      "id": "Semantic Based Annotation for Surveillance Big Data Using Domain Knowledge",
+      "title": "Semantic Based Annotation for Surveillance Big Data Using Domain Knowledge",
+      "year": 2015,
+      "venue": "International Journal of Cognitive Informatics and Natural Intelligence",
+      "years": "2015"
+    },
+    {
+      "id": "Building the Multidimensional Semantic Index of Webpages for Facet Extraction",
+      "title": "Building the Multidimensional Semantic Index of Webpages for Facet Extraction",
+      "year": 2015,
+      "venue": "International Journal of Cognitive Informatics and Natural Intelligence",
+      "years": "2015"
+    },
+    {
+      "id": "Crowd sensing based semantic annotation of surveillance videos",
+      "title": "Crowd sensing based semantic annotation of surveillance videos",
+      "year": 2015,
+      "venue": "International Journal of Distributed Sensor Networks",
+      "years": "2015"
+    },
+    {
+      "id": "Semantic outbreak power based evolution of Web event in large-scale ubiquitous contexts",
+      "title": "Semantic outbreak power based evolution of Web event in large-scale ubiquitous contexts",
+      "year": 2015,
+      "venue": "the internet of things",
+      "years": "2015"
+    },
+    {
+      "id": "Crowd sensing based burst computing of events using social media",
+      "title": "Crowd sensing based burst computing of events using social media",
+      "year": 2015,
+      "venue": "International Journal of Distributed Sensor Networks",
+      "years": "2015"
+    },
+    {
+      "id": "A Locality Aware Convolutional Neural Networks Accelerator",
+      "title": "A Locality Aware Convolutional Neural Networks Accelerator",
+      "year": 2015,
+      "venue": "digital systems design",
+      "years": "2015"
+    },
+    {
+      "id": "A Heterogeneous System for Real-Time Detection with AdaBoost",
+      "title": "A Heterogeneous System for Real-Time Detection with AdaBoost",
+      "year": 2016,
+      "venue": "high performance computing and communications",
+      "years": "2016"
+    },
+    {
+      "id": "Public Sentiments Analysis Based on Fuzzy Logic for Text",
+      "title": "Public Sentiments Analysis Based on Fuzzy Logic for Text",
+      "year": 2016,
+      "venue": "International Journal of Software Engineering and Knowledge Engineering",
+      "years": "2016"
+    },
+    {
+      "id": "A Multi-Source Approach for Bug Triage",
+      "title": "A Multi-Source Approach for Bug Triage",
+      "year": 2016,
+      "venue": "International Journal of Software Engineering and Knowledge Engineering",
+      "years": "2016"
+    },
+    {
+      "id": "Combining the big data analysis and the threat intelligence technologies for the classified protection model",
+      "title": "Combining the big data analysis and the threat intelligence technologies for the classified protection model",
+      "year": 2017,
+      "venue": "Cluster Computing",
+      "years": "2017"
+    },
+    {
+      "id": "The Novel Design of a Single-Sided MRI Probe for Assessing Burn Depth",
+      "title": "The Novel Design of a Single-Sided MRI Probe for Assessing Burn Depth",
+      "year": 2017,
+      "venue": "Sensors",
+      "years": "2017"
+    },
+    {
+      "id": "An optimized approach for massive web page classification using entity similarity based on semantic network",
+      "title": "An optimized approach for massive web page classification using entity similarity based on semantic network",
+      "year": 2017,
+      "venue": "Future Generation Computer Systems",
+      "years": "2017"
+    },
+    {
+      "id": "A General Efficient Hyperparameter-Free Algorithm for Convolutional Sparse Learning",
+      "title": "A General Efficient Hyperparameter-Free Algorithm for Convolutional Sparse Learning",
+      "year": 2017,
+      "venue": "national conference on artificial intelligence",
+      "years": "2017"
+    },
+    {
+      "id": "Adaptive Relaxed ADMM: Convergence Theory and Practical Implementation",
+      "title": "Adaptive Relaxed ADMM: Convergence Theory and Practical Implementation",
+      "year": 2017,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "years": "2017"
+    },
+    {
+      "id": "Special Issue on Big Data Analytics and Network Applications for Cyber-Physical Systems Wireless Personal Communications",
+      "title": "Special Issue on Big Data Analytics and Network Applications for Cyber-Physical Systems Wireless Personal Communications",
+      "year": 2017,
+      "venue": "Wireless Personal Communications",
+      "years": "2017"
+    },
+    {
+      "id": "Guest Editorial: Visual Multimedia Learning from Big Surveillance Data",
+      "title": "Guest Editorial: Visual Multimedia Learning from Big Surveillance Data",
+      "year": 2017,
+      "venue": "Multimedia Tools and Applications",
+      "years": "2017"
+    },
+    {
+      "author": "Hang Geng",
+      "id": "Hang Geng",
+      "year": 2009
+    },
+    {
+      "id": "Bias Estimation for Asynchronous Multi-rate Multi-sensor Fusion With Unknown Inputs",
+      "title": "Bias Estimation for Asynchronous Multi-rate Multi-sensor Fusion With Unknown Inputs",
+      "year": 2018,
+      "venue": "Information Fusion",
+      "years": "2018"
+    },
+    {
+      "id": "Tobit Kalman Filter With Fading Measurements",
+      "title": "Tobit Kalman Filter With Fading Measurements",
+      "year": 2017,
+      "venue": "Signal Processing",
+      "years": "2017"
+    },
+    {
+      "id": "The joint optimal filtering and fault detection for multi-rate sensor fusion under unknown inputs",
+      "title": "The joint optimal filtering and fault detection for multi-rate sensor fusion under unknown inputs",
+      "year": 2016,
+      "venue": "Information Fusion",
+      "years": "2016"
+    },
+    {
+      "id": "Model-reduced fault detection for multi-rate sensor fusion with unknown inputs",
+      "title": "Model-reduced fault detection for multi-rate sensor fusion with unknown inputs",
+      "year": 2017,
+      "venue": "Information Fusion",
+      "years": "2017"
+    },
+    {
+      "id": "Joint estimation of fast-updating state and intermittent-updating state",
+      "title": "Joint estimation of fast-updating state and intermittent-updating state",
+      "year": 2016,
+      "venue": "international conference on autonomic computing",
+      "years": "2016"
+    },
+    {
+      "author": "Lifeng Ma",
+      "id": "Lifeng Ma",
+      "year": 2009
+    },
+    {
+      "id": "Event-based distributed information fusion over sensor networks",
+      "title": "Event-based distributed information fusion over sensor networks",
+      "year": 2018,
+      "venue": "Information Fusion",
+      "years": "2018"
+    },
+    {
+      "id": "Mean-Square H∞ Consensus Control for a Class of Nonlinear Time-Varying Stochastic Multiagent Systems: The Finite-Horizon Case",
+      "title": "Mean-Square H∞ Consensus Control for a Class of Nonlinear Time-Varying Stochastic Multiagent Systems: The Finite-Horizon Case",
+      "year": 2016,
+      "venue": "IEEE Transactions on Systems, Man, and Cybernetics",
+      "years": "2016"
+    },
+    {
+      "id": "Passivity analysis for discrete-time neural networks with mixed time-delays and randomly occurring quantization effects ☆",
+      "title": "Passivity analysis for discrete-time neural networks with mixed time-delays and randomly occurring quantization effects ☆",
+      "year": 2016,
+      "venue": "Neurocomputing",
+      "years": "2016"
+    },
+    {
+      "id": "Event-Triggered Mean-Square Consensus Control for Time-Varying Stochastic Multi-Agent System with Sensor Saturations",
+      "title": "Event-Triggered Mean-Square Consensus Control for Time-Varying Stochastic Multi-Agent System with Sensor Saturations",
+      "year": 2016,
+      "venue": "IEEE Transactions on Automatic Control",
+      "years": "2016"
+    },
+    {
+      "id": "Consensus control for nonlinear multi-agent systems subject to deception attacks",
+      "title": "Consensus control for nonlinear multi-agent systems subject to deception attacks",
+      "year": 2016,
+      "venue": "international conference on autonomic computing",
+      "years": "2016"
+    },
+    {
+      "id": "Robust variance-constrained filtering for a class of nonlinear stochastic systems with missing measurements",
+      "title": "Robust variance-constrained filtering for a class of nonlinear stochastic systems with missing measurements",
+      "year": 2010,
+      "venue": "Signal Processing",
+      "years": "2010"
+    },
+    {
+      "id": "Finite-horizon ℋ 2/ℋ ∞ control for a class of nonlinear Markovian jump systems with probabilistic sensor failures",
+      "title": "Finite-horizon ℋ 2/ℋ ∞ control for a class of nonlinear Markovian jump systems with probabilistic sensor failures",
+      "year": 2011,
+      "venue": "International Journal of Control",
+      "years": "2011"
+    },
+    {
+      "id": "Sliding mode control for a class of nonlinear discrete-time networked systems with multiple stochastic communication delays",
+      "title": "Sliding mode control for a class of nonlinear discrete-time networked systems with multiple stochastic communication delays",
+      "year": 2011,
+      "venue": "International Journal of Systems Science",
+      "years": "2011"
+    },
+    {
+      "id": "A game theory approach to mixed H2/H∞ control for a class of stochastic time-varying systems with randomly occurring nonlinearities",
+      "title": "A game theory approach to mixed H2/H∞ control for a class of stochastic time-varying systems with randomly occurring nonlinearities",
+      "year": 2011,
+      "venue": "Systems & Control Letters",
+      "years": "2011"
+    },
+    {
+      "author": "Carmen Campomanes-Alvarez",
+      "id": "Carmen Campomanes-Alvarez",
+      "year": 2009
+    },
+    {
+      "id": "Hierarchical information fusion for decision making in craniofacial superimposition",
+      "title": "Hierarchical information fusion for decision making in craniofacial superimposition",
+      "year": 2018,
+      "venue": "Information Fusion",
+      "years": "2018"
+    },
+    {
+      "id": "Design of criteria to assess craniofacial correspondence in forensic identification based on computer vision and fuzzy integrals",
+      "title": "Design of criteria to assess craniofacial correspondence in forensic identification based on computer vision and fuzzy integrals",
+      "year": 2016,
+      "venue": "soft computing",
+      "years": "2016"
+    },
+    {
+      "id": "An experimental study on fuzzy distances for skull–face overlay in craniofacial superimposition",
+      "title": "An experimental study on fuzzy distances for skull–face overlay in craniofacial superimposition",
+      "year": 2017,
+      "venue": "Fuzzy Sets and Systems",
+      "years": "2017"
+    },
+    {
+      "id": "Experimental study of different aggregation functions for modeling craniofacial correspondence in craniofacial superimposition",
+      "title": "Experimental study of different aggregation functions for modeling craniofacial correspondence in craniofacial superimposition",
+      "year": 2016,
+      "venue": "ieee international conference on fuzzy systems",
+      "years": "2016"
+    },
+    {
+      "id": "Modeling Facial Soft Tissue Thickness for Automatic Skull-Face Overlay",
+      "title": "Modeling Facial Soft Tissue Thickness for Automatic Skull-Face Overlay",
+      "year": 2015,
+      "venue": "IEEE Transactions on Information Forensics and Security",
+      "years": "2015"
+    },
+    {
+      "author": "Ricardo F. Alvear-Sandoval",
+      "id": "Ricardo F. Alvear-Sandoval",
+      "year": 2009
+    },
+    {
+      "id": "On building ensembles of stacked denoising auto-encoding classifiers and their further improvement",
+      "title": "On building ensembles of stacked denoising auto-encoding classifiers and their further improvement",
+      "year": 2018,
+      "venue": "Information Fusion",
+      "years": "2018"
+    },
+    {
+      "author": "Chuanbo Wen",
+      "id": "Chuanbo Wen",
+      "year": 2009
+    },
+    {
+      "id": "Event-based distributed recursive filtering for state-saturated systems with redundant channels",
+      "title": "Event-based distributed recursive filtering for state-saturated systems with redundant channels",
+      "year": 2018,
+      "venue": "Information Fusion",
+      "years": "2018"
+    },
+    {
+      "id": "Filter design based on characteristic functions for one class of multi-dimensional nonlinear non-Gaussian systems",
+      "title": "Filter design based on characteristic functions for one class of multi-dimensional nonlinear non-Gaussian systems",
+      "year": 2017,
+      "venue": "Automatica",
+      "years": "2017"
+    },
+    {
+      "id": "A reduced-order approach to filtering for systems with linear equality constraints",
+      "title": "A reduced-order approach to filtering for systems with linear equality constraints",
+      "year": 2016,
+      "venue": "Neurocomputing",
+      "years": "2016"
+    },
+    {
+      "id": "Joint estimation of fast-updating state and intermittent-updating state",
+      "title": "Joint estimation of fast-updating state and intermittent-updating state",
+      "year": 2016,
+      "venue": "international conference on autonomic computing",
+      "years": "2016"
+    },
+    {
+      "id": "A new fault detection method of induction motor",
+      "title": "A new fault detection method of induction motor",
+      "year": 2010,
+      "venue": "artificial intelligence and computational intelligence",
+      "years": "2010"
+    },
+    {
+      "author": "Sen Qiu",
+      "id": "Sen Qiu",
+      "year": 2009
+    },
+    {
+      "id": "Inertial/magnetic sensors based pedestrian dead reckoning by means of multi-sensor fusion",
+      "title": "Inertial/magnetic sensors based pedestrian dead reckoning by means of multi-sensor fusion",
+      "year": 2018,
+      "venue": "Information Fusion",
+      "years": "2018"
+    },
+    {
+      "id": "Heterogeneous data fusion for three-dimensional gait analysis using wearable MARG sensors",
+      "title": "Heterogeneous data fusion for three-dimensional gait analysis using wearable MARG sensors",
+      "year": 2017,
+      "venue": "International Journal of Computational Science and Engineering",
+      "years": "2017"
+    },
+    {
+      "id": "Using Distributed Wearable Sensors to Measure and Evaluate Human Lower Limb Motions",
+      "title": "Using Distributed Wearable Sensors to Measure and Evaluate Human Lower Limb Motions",
+      "year": 2016,
+      "venue": "IEEE Transactions on Instrumentation and Measurement",
+      "years": "2016"
+    },
+    {
+      "id": "Human motion phase segmentation based on three new features",
+      "title": "Human motion phase segmentation based on three new features",
+      "year": 2016,
+      "venue": "computer supported cooperative work in design",
+      "years": "2016"
+    },
+    {
+      "id": "Relearning probability neural network for monitoring human behaviors by using wireless sensor networks",
+      "title": "Relearning probability neural network for monitoring human behaviors by using wireless sensor networks",
+      "year": 2013,
+      "venue": "international symposium on neural networks",
+      "years": "2013"
+    },
+    {
+      "author": "Pengwen Xiong",
+      "id": "Pengwen Xiong",
+      "year": 2009
+    },
+    {
+      "id": "Design of an accurate end-of-arm force display system based on wearable arm gesture sensors and EMG sensors",
+      "title": "Design of an accurate end-of-arm force display system based on wearable arm gesture sensors and EMG sensors",
+      "year": 2018,
+      "venue": "Information Fusion",
+      "years": "2018"
+    },
+    {
+      "id": "Visual-Haptic Aid Teleoperation Based on 3-D Environment Modeling and Updating",
+      "title": "Visual-Haptic Aid Teleoperation Based on 3-D Environment Modeling and Updating",
+      "year": 2016,
+      "venue": "IEEE Transactions on Industrial Electronics",
+      "years": "2016"
+    },
+    {
+      "id": "Egocentric-Vision based Hand Posture Control System for Reconnaissance Robots",
+      "title": "Egocentric-Vision based Hand Posture Control System for Reconnaissance Robots",
+      "year": 2016,
+      "venue": "Journal of Intelligent and Robotic Systems",
+      "years": "2016"
+    },
+    {
+      "id": "Hierarchical safety supervisory control strategy for robot-assisted rehabilitation exercise",
+      "title": "Hierarchical safety supervisory control strategy for robot-assisted rehabilitation exercise",
+      "year": 2013,
+      "venue": "Robotica",
+      "years": "2013"
+    },
+    {
+      "author":  "Yi-Tung Chan",
+      "id":  "Yi-Tung Chan",
+      "year": 2009
+    },
+    {
+      "id": "Real-time foreground detection approach based on adaptive ensemble learning with arbitrary algorithms for changing environments",
+      "title": "Real-time foreground detection approach based on adaptive ensemble learning with arbitrary algorithms for changing environments",
+      "year": 2018,
+      "venue": "Information Fusion",
+      "years": "2018"
+    },
+    {
+      "author":  "Mahdi Abavisani",
+      "id":  "Mahdi Abavisani",
+      "year": 2009
+    },
+    {
+      "id": "Multimodal Sparse and Low-Rank Subspace Clustering",
+      "title": "Multimodal Sparse and Low-Rank Subspace Clustering",
+      "year": 2018,
+      "venue": "Information Fusion",
+      "years": "2018"
+    },
+    {
+      "id": "Domain Adaptive Subspace Clustering.",
+      "title": "Domain Adaptive Subspace Clustering.",
+      "year": 2016,
+      "venue": "british machine vision conference",
+      "years": "2016"
+    },
+    {
+      "id": "LFM signal detection and estimation based on sparse representation",
+      "title": "LFM signal detection and estimation based on sparse representation",
+      "year": 2015,
+      "venue": "conference on information sciences and systems",
+      "years": "2015"
     }
    ],
-   "links": [
+   "links": [ 
+    {
+      "source":  "Mahdi Abavisani",
+      "target": "LFM signal detection and estimation based on sparse representation",
+      "value": 1
+    },
+    {
+      "source":  "Mahdi Abavisani",
+      "target": "Domain Adaptive Subspace Clustering.",
+      "value": 1
+    },
+    {
+      "source":  "Mahdi Abavisani",
+      "target": "Real-time foreground detection approach based on adaptive ensemble learning with arbitrary algorithms for changing environments",
+      "value": 1
+    },
+    {
+      "source":  "Yi-Tung Chan",
+      "target": "Real-time foreground detection approach based on adaptive ensemble learning with arbitrary algorithms for changing environments",
+      "value": 1
+    },
+    {
+      "source": "Pengwen Xiong",
+      "target": "Hierarchical safety supervisory control strategy for robot-assisted rehabilitation exercise",
+      "value": 1
+    },
+    {
+      "source": "Pengwen Xiong",
+      "target": "Egocentric-Vision based Hand Posture Control System for Reconnaissance Robots",
+      "value": 1
+    },
+    {
+      "source": "Pengwen Xiong",
+      "target": "Visual-Haptic Aid Teleoperation Based on 3-D Environment Modeling and Updating",
+      "value": 1
+    },
+    {
+      "source": "Pengwen Xiong",
+      "target": "Design of an accurate end-of-arm force display system based on wearable arm gesture sensors and EMG sensors",
+      "value": 1
+    },
+    {
+      "source": "Sen Qiu",
+      "target": "Relearning probability neural network for monitoring human behaviors by using wireless sensor networks",
+      "value": 1
+    },
+    {
+      "source": "Sen Qiu",
+      "target": "Human motion phase segmentation based on three new features",
+      "value": 1
+    },
+    {
+      "source": "Sen Qiu",
+      "target": "Using Distributed Wearable Sensors to Measure and Evaluate Human Lower Limb Motions",
+      "value": 1
+    },
+    {
+      "source": "Sen Qiu",
+      "target": "Heterogeneous data fusion for three-dimensional gait analysis using wearable MARG sensors",
+      "value": 1
+    },
+    {
+      "source": "Sen Qiu",
+      "target": "Inertial/magnetic sensors based pedestrian dead reckoning by means of multi-sensor fusion",
+      "value": 1
+    },
+    {
+      "source": "Chuanbo Wen",
+      "target": "A new fault detection method of induction motor",
+      "value": 1
+    },
+    {
+      "source": "Chuanbo Wen",
+      "target": "Joint estimation of fast-updating state and intermittent-updating state",
+      "value": 1
+    },
+    {
+      "source": "Chuanbo Wen",
+      "target": "A reduced-order approach to filtering for systems with linear equality constraints",
+      "value": 1
+    },
+    {
+      "source": "Chuanbo Wen",
+      "target": "Filter design based on characteristic functions for one class of multi-dimensional nonlinear non-Gaussian systems",
+      "value": 1
+    },
+    {
+      "source": "Chuanbo Wen",
+      "target": "Event-based distributed recursive filtering for state-saturated systems with redundant channels",
+      "value": 1
+    },
+    {
+      "source": "Ricardo F. Alvear-Sandoval",
+      "target": "On building ensembles of stacked denoising auto-encoding classifiers and their further improvement",
+      "value": 1
+    },
+    {
+      "source": "Carmen Campomanes-Alvarez",
+      "target": "Modeling Facial Soft Tissue Thickness for Automatic Skull-Face Overlay",
+      "value": 1
+    },
+    {
+      "source": "Carmen Campomanes-Alvarez",
+      "target": "Experimental study of different aggregation functions for modeling craniofacial correspondence in craniofacial superimposition",
+      "value": 1
+    },
+    {
+      "source": "Carmen Campomanes-Alvarez",
+      "target": "An experimental study on fuzzy distances for skull–face overlay in craniofacial superimposition",
+      "value": 1
+    },
+    {
+      "source": "Carmen Campomanes-Alvarez",
+      "target": "Design of criteria to assess craniofacial correspondence in forensic identification based on computer vision and fuzzy integrals",
+      "value": 1
+    },
+    {
+      "source": "Carmen Campomanes-Alvarez",
+      "target": "Hierarchical information fusion for decision making in craniofacial superimposition",
+      "value": 1
+    },
+    {
+      "source": "Lifeng Ma",
+      "target": "A game theory approach to mixed H2/H∞ control for a class of stochastic time-varying systems with randomly occurring nonlinearities",
+      "value": 1
+    },
+    {
+      "source": "Lifeng Ma",
+      "target": "Sliding mode control for a class of nonlinear discrete-time networked systems with multiple stochastic communication delays",
+      "value": 1
+    },
+    {
+      "source": "Lifeng Ma",
+      "target": "Finite-horizon ℋ 2/ℋ ∞ control for a class of nonlinear Markovian jump systems with probabilistic sensor failures",
+      "value": 1
+    },
+    {
+      "source": "Lifeng Ma",
+      "target": "Robust variance-constrained filtering for a class of nonlinear stochastic systems with missing measurements",
+      "value": 1
+    },
+    {
+      "source": "Lifeng Ma",
+      "target": "Consensus control for nonlinear multi-agent systems subject to deception attacks",
+      "value": 1
+    },
+    {
+      "source": "Lifeng Ma",
+      "target": "Event-Triggered Mean-Square Consensus Control for Time-Varying Stochastic Multi-Agent System with Sensor Saturations",
+      "value": 1
+    },
+    {
+      "source": "Lifeng Ma",
+      "target": "Passivity analysis for discrete-time neural networks with mixed time-delays and randomly occurring quantization effects ☆",
+      "value": 1
+    },
+    {
+      "source": "Lifeng Ma",
+      "target": "Mean-Square H∞ Consensus Control for a Class of Nonlinear Time-Varying Stochastic Multiagent Systems: The Finite-Horizon Case",
+      "value": 1
+    },
+    {
+      "source": "Lifeng Ma",
+      "target": "Event-based distributed information fusion over sensor networks",
+      "value": 1
+    },
+    {
+      "source": "Hang Geng",
+      "target": "Joint estimation of fast-updating state and intermittent-updating state",
+      "value": 1
+    },
+    {
+      "source": "Hang Geng",
+      "target": "Model-reduced fault detection for multi-rate sensor fusion with unknown inputs",
+      "value": 1
+    },
+    {
+      "source": "Hang Geng",
+      "target": "The joint optimal filtering and fault detection for multi-rate sensor fusion under unknown inputs",
+      "value": 1
+    },
+    {
+      "source": "Hang Geng",
+      "target": "Tobit Kalman Filter With Fading Measurements",
+      "value": 1
+    },
+    {
+      "source": "Hang Geng",
+      "target": "Bias Estimation for Asynchronous Multi-rate Multi-sensor Fusion With Unknown Inputs",
+      "value": 1
+    },
+    {
+      "source": "Zheng Xu",
+      "target": "Guest Editorial: Visual Multimedia Learning from Big Surveillance Data",
+      "value": 1
+    },
+    {
+      "source": "Zheng Xu",
+      "target": "Special Issue on Big Data Analytics and Network Applications for Cyber-Physical Systems Wireless Personal Communications",
+      "value": 1
+    },
+    {
+      "source": "Zheng Xu",
+      "target": "Adaptive Relaxed ADMM: Convergence Theory and Practical Implementation",
+      "value": 1
+    },
+    {
+      "source": "Zheng Xu",
+      "target": "A General Efficient Hyperparameter-Free Algorithm for Convolutional Sparse Learning",
+      "value": 1
+    },
+    {
+      "source": "Zheng Xu",
+      "target": "An optimized approach for massive web page classification using entity similarity based on semantic network",
+      "value": 1
+    },
+    {
+      "source": "Zheng Xu",
+      "target": "The Novel Design of a Single-Sided MRI Probe for Assessing Burn Depth",
+      "value": 1
+    },
+    {
+      "source": "Zheng Xu",
+      "target": "Combining the big data analysis and the threat intelligence technologies for the classified protection model",
+      "value": 1
+    },
+    {
+      "source": "Zheng Xu",
+      "target": "A Multi-Source Approach for Bug Triage",
+      "value": 1
+    },
+    {
+      "source": "Zheng Xu",
+      "target": "Public Sentiments Analysis Based on Fuzzy Logic for Text",
+      "value": 1
+    },
+    {
+      "source": "Zheng Xu",
+      "target": "A Heterogeneous System for Real-Time Detection with AdaBoost",
+      "value": 1
+    },
+    {
+      "source": "Zheng Xu",
+      "target": "A Locality Aware Convolutional Neural Networks Accelerator",
+      "value": 1
+    },
+    {
+      "source": "Zheng Xu",
+      "target": "Crowd sensing based burst computing of events using social media",
+      "value": 1
+    },
+    {
+      "source": "Zheng Xu",
+      "target": "Semantic outbreak power based evolution of Web event in large-scale ubiquitous contexts",
+      "value": 1
+    },
+    {
+      "source": "Zheng Xu",
+      "target": "Crowd sensing based semantic annotation of surveillance videos",
+      "value": 1
+    },
+    {
+      "source": "Zheng Xu",
+      "target": "Building the Multidimensional Semantic Index of Webpages for Facet Extraction",
+      "value": 1
+    },
+    {
+      "source": "Zheng Xu",
+      "target": "Semantic Based Annotation for Surveillance Big Data Using Domain Knowledge",
+      "value": 1
+    },
+    {
+      "source": "Zheng Xu",
+      "target": "Video structural description technology for the new generation video surveillance systems",
+      "value": 1
+    },
+    {
+      "source": "Zheng Xu",
+      "target": "Exploiting Low-Rank Structure from Latent Domains for Domain Generalization",
+      "value": 1
+    },
+    {
+      "source": "Zheng Xu",
+      "target": "Arc FMCW SAR and Applications in Ground Monitoring",
+      "value": 1
+    },
+    {
+      "source": "Zheng Xu",
+      "target": "Semantic Link Network-Based Model for Organizing Multimedia Big Data",
+      "value": 1
+    },
+    {
+      "source": "Zheng Xu",
+      "target": "Generating Semantic Annotation of Video for Organizing and Searching Traffic Resources",
+      "value": 1
+    },
+    {
+      "source": "Zheng Xu",
+      "target": "Measuring the Web Event Evolution Based on Semantic Outbreak Degree",
+      "value": 1
+    },
+    {
+      "source": "Zheng Xu",
+      "target": "Mining temporal explicit and implicit semantic relations between entities using web search engines",
+      "value": 1
+    },
+    {
+      "source": "Zheng Xu",
+      "target": "Spectral Efficiency of Carbon Nanotube Antenna Based MIMO Systems in the Terahertz Band",
+      "value": 1
+    },
+    {
+      "source": "Zheng Xu",
+      "target": "Measuring the Semantic Relatedness Between Images Using Social Tags",
+      "value": 1
+    },
+    {
+      "source": "Zheng Xu",
+      "target": "Using Association Link Network Model for Organizing Video Resources from Web",
+      "value": 1
+    },
+    {
+      "source": "Zheng Xu",
+      "target": "Investigating the Impact Factors for Event Detection Using Web Search Engines",
+      "value": 1
+    },
+    {
+      "source": "Zheng Xu",
+      "target": "Client-centric OLAP on mobile devices",
+      "value": 1
+    },
+    {
+      "source": "Zheng Xu",
+      "target": "Towards indexing representative images on the web",
+      "value": 1
+    },
+    {
+      "source": "Zheng Xu",
+      "target": "Error analysis of SLM based micro stereo vision model",
+      "value": 1
+    },
+    {
+      "source": "Zheng Xu",
+      "target": "Study on the influences of quantum well structure on the performance of organic light emitting devices",
+      "value": 1
+    },
+    {
+      "source": "Zheng Xu",
+      "target": "Measuring semantic similarity between words by removing noise and redundancy in web snippets",
+      "value": 1
+    },
+    {
+      "source": "Zheng Xu",
+      "target": "Teaching and Learning Guide for: Optimality Theory and Morphology",
+      "value": 1
+    },
+    {
+      "source": "Zheng Xu",
+      "target": "Association link network: an incremental web resources link model for learning resources management",
+      "value": 1
+    },
+    {
+      "source": "Zheng Xu",
+      "target": "Simulation analysis on stimulation modes of three-dimension electrical impedance tomography",
+      "value": 1
+    },
+    {
+      "source": "Zheng Xu",
+      "target": "Building Web Knowledge Flows based on Interactive Computing with Semantics",
+      "value": 1
+    },
+    {
+      "source": "Zheng Xu",
+      "target": "Analysis and modeling of the semantically associated network on the Web",
+      "value": 1
+    },
+    {
+      "source": "Quist-Aphetsi Kester",
+      "target": "A Visual Cryptographic Encryption Technique for Securing Medical Images",
+      "value": 1
+    },
+    {
+      "source": "Quist-Aphetsi Kester",
+      "target": "A Security Technique for Authentication and Security of Medical Images in Health Information Systems",
+      "value": 1
+    },
+    {
+      "source": "Quist-Aphetsi Kester",
+      "target": "Using Formal Concepts Analysis Techniques in Mining Data from Criminal Databases and Profiling Events Based on Factors to Understand Criminal Environments",
+      "value": 1
+    },
+    {
+      "source": "Quist-Aphetsi Kester",
+      "target": "Feature Based Encryption Technique for Securing Digital Image Data Based on FCA-Image Attributes and Visual Cryptography",
+      "value": 1
+    },
+    {
+      "source": "Quist-Aphetsi Kester",
+      "target": "An Integrated Geographic Information System and Marketing Information System Model",
+      "value": 1
+    },
+    {
+      "source": "Nii Narku Quaynor",
+      "target": "A Security Technique for Authentication and Security of Medical Images in Health Information Systems",
+      "value": 1
+    },
+    {
+      "source": "Nii Narku Quaynor",
+      "target": "The Internet of Everyone",
+      "value": 1
+    },
+    {
+      "source": "Nii Narku Quaynor",
+      "target": "Feature Based Encryption Technique for Securing Digital Image Data Based on FCA-Image Attributes and Visual Cryptography",
+      "value": 1
+    },
+    {
+      "source": "Nii Narku Quaynor",
+      "target": "An Integrated Geographic Information System and Marketing Information System Model",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "Information and misinformation on the internet",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "Heidelberg anew",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "When email isn't private",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "Internet Collisions",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "The power of big ideas",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "Practical Solutions: Basic and Applied Research, Science, Engineering, and Design",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "The IANA transition",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "Enrollments explode! but diversity students are leaving…",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "Space for Internet and Internet for space",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "Virtual reality redux",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "Cognitive implants",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "Augmented reality",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "Unconventional computing",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "Instrument Thyself",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "Loose Couplings",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "Internet and the Other IP",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "Software at scale",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "Gateways for the Internet of Things: An old problem revisited",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "Computer science education---revisited",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "Where is the science in computer science",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "Why is accessibility so hard",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "Ubiquity symposium: The science in computer science: computer science revisited",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "Things and the Net",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "Successful strategies for IPv6 rollouts.: Really.",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "Sherry Turkle: Alone Together",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "Open Source, Smart Grid, and Mobile Apps",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "Trust and the Internet",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "2012 Isn't the End of the World",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "A half-century makes a difference",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "Our Fragile Power Grid",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "Computer science in the curriculum",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "Advancing the ACM agenda",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "The Fragmentation of the Internet",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "A celebration of accomplishments",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "An interview with U.S. chief technology officer Megan Smith",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "ACM's 2016 general election",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "Prospects for the internet of things",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "On the road in Latin America",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "ACM president's salary increased by 300%!",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "Revisiting the tragedy of the commons",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "A long way to have come and still to go",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "What if it's us?",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "Open access to academic research",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "On the Simulation of Everything",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "Can liberty survive the digital age",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "A genetic theory of the Silicon Valley phenomenon",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "Deep Retraining and Innovation",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "Grumpy old cells",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "Unreliable Machine Learning",
+      "value": 1
+    },
+    {
+      "source": "Vinton G. Cerf",
+      "target": "Social and ethical behavior in the internet of things",
+      "value": 1
+    },
     {
       "source": "Francine Berman",
       "target": "Social and ethical behavior in the internet of things",
+      "value": 1
+    },
+    {
+      "source": "Francine Berman",
+      "target": "We need a research data census",
       "value": 1
     }
     ]
