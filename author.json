@@ -1021,9 +1021,482 @@
       "year": 2015,
       "venue": "conference on information sciences and systems",
       "years": "2015"
+    },
+    {
+      "author":  "Shiji Song",
+      "id":  "Shiji Song",
+      "year": 2009
+    },
+    {
+      "id": "An inventory model with stochastic lead-time and stochastic demand",
+      "title": "An inventory model with stochastic lead-time and stochastic demand",
+      "year": 2010,
+      "venue": "international conference on control and automation",
+      "years": "2010"
+    },
+    {
+      "id": "Modeling and optimization of ocean-going unloading problem with stochastic arrival time",
+      "title": "Modeling and optimization of ocean-going unloading problem with stochastic arrival time",
+      "year": 2010,
+      "venue": "international conference on control and automation",
+      "years": "2010"
+    },
+    {
+      "id": "Multi-echelon multi-item dynamic inventory management via decomposition and coordination algorithm",
+      "title": "Multi-echelon multi-item dynamic inventory management via decomposition and coordination algorithm",
+      "year": 2010,
+      "venue": "international conference on networking sensing and control",
+      "years": "2010"
+    },
+    {
+      "id": "Truncation error calculation based on Richardson extrapolation for variable-step collaborative simulation",
+      "title": "Truncation error calculation based on Richardson extrapolation for variable-step collaborative simulation",
+      "year": 2011,
+      "venue": "Science in China Series F: Information Sciences",
+      "years": "2011"
+    },
+    {
+      "id": "Two techniques to improve the NEH algorithm for flow-shop scheduling problems",
+      "title": "Two techniques to improve the NEH algorithm for flow-shop scheduling problems",
+      "year": 2011,
+      "venue": "international conference on intelligent computing",
+      "years": "2011"
+    },
+    {
+      "id": "A hybrid genetic algorithm for two-stage multi-item inventory system with stochastic demand",
+      "title": "A hybrid genetic algorithm for two-stage multi-item inventory system with stochastic demand",
+      "year": 2012,
+      "venue": "Neural Computing and Applications",
+      "years": "2012"
+    },
+    {
+      "id": "Improved conjugate gradient implementation for least squares support vector machines",
+      "title": "Improved conjugate gradient implementation for least squares support vector machines",
+      "year": 2012,
+      "venue": "Pattern Recognition Letters",
+      "years": "2012"
+    },
+    {
+      "id": "A two-stage hybrid particle swarm optimization algorithm for the stochastic job shop scheduling problem",
+      "title": "A two-stage hybrid particle swarm optimization algorithm for the stochastic job shop scheduling problem",
+      "year": 2012,
+      "venue": "Knowledge Based Systems",
+      "years": "2012"
+    },
+    {
+      "id": "Robust Support Vector Regression for Uncertain Input and Output Data",
+      "title": "Robust Support Vector Regression for Uncertain Input and Output Data",
+      "year": 2012,
+      "venue": "IEEE Transactions on Neural Networks",
+      "years": "2012"
+    },
+    {
+      "id": "Impulsive Control for Existence, Uniqueness, and Global Stability of Periodic Solutions of Recurrent Neural Networks With Discrete and Continuously Distributed Delays",
+      "title": "Impulsive Control for Existence, Uniqueness, and Global Stability of Periodic Solutions of Recurrent Neural Networks With Discrete and Continuously Distributed Delays",
+      "year": 2013,
+      "venue": "IEEE Transactions on Neural Networks",
+      "years": "2013"
+    },
+    {
+      "id": "Some heuristics for no-wait flowshops with total tardiness criterion",
+      "title": "Some heuristics for no-wait flowshops with total tardiness criterion",
+      "year": 2013,
+      "venue": "Computers & Operations Research",
+      "years": "2013"
+    },
+    {
+      "id": "Asymptotically Optimal Parameter Estimation With Scheduled Measurements",
+      "title": "Asymptotically Optimal Parameter Estimation With Scheduled Measurements",
+      "year": 2013,
+      "venue": "IEEE Transactions on Signal Processing",
+      "years": "2013"
+    },
+    {
+      "id": "Kernelized LARS–LASSO for constructing radial basis function neural networks",
+      "title": "Kernelized LARS–LASSO for constructing radial basis function neural networks",
+      "year": 2013,
+      "venue": "Neural Computing and Applications",
+      "years": "2013"
+    },
+    {
+      "id": "A hybrid differential evolution algorithm for job shop scheduling problems with expected total tardiness criterion",
+      "title": "A hybrid differential evolution algorithm for job shop scheduling problems with expected total tardiness criterion",
+      "year": 2013,
+      "venue": "soft computing",
+      "years": "2013"
+    },
+    {
+      "id": "Minimizing makespan for a no-wait flowshop using tabu mechanism improved iterated greedy algorithm",
+      "title": "Minimizing makespan for a no-wait flowshop using tabu mechanism improved iterated greedy algorithm",
+      "year": 2014,
+      "venue": "congress on evolutionary computation",
+      "years": "2014"
+    },
+    {
+      "id": "Transductive Minimax Probability Machine",
+      "title": "Transductive Minimax Probability Machine",
+      "year": 2014,
+      "venue": "european conference on principles of data mining and knowledge discovery",
+      "years": "2014"
+    },
+    {
+      "id": "Non-linear neighborhood component analysis based on constructive neural networks",
+      "title": "Non-linear neighborhood component analysis based on constructive neural networks",
+      "year": 2014,
+      "venue": "systems, man and cybernetics",
+      "years": "2014"
+    },
+    {
+      "id": "Semi-Supervised and Unsupervised Extreme Learning Machines",
+      "title": "Semi-Supervised and Unsupervised Extreme Learning Machines",
+      "year": 2014,
+      "venue": "IEEE Transactions on Systems, Man, and Cybernetics",
+      "years": "2014"
+    },
+    {
+      "id": "Likelihood ratio based communication for distributed detection",
+      "title": "Likelihood ratio based communication for distributed detection",
+      "year": 2014,
+      "venue": "international conference on control and automation",
+      "years": "2014"
+    },
+    {
+      "id": "Dual active set method for support vector machines under multi-constraint activation",
+      "title": "Dual active set method for support vector machines under multi-constraint activation",
+      "year": 2015,
+      "venue": "Neurocomputing",
+      "years": "2015"
+    },
+    {
+      "id": "An improved iterated greedy algorithm with a Tabu-based reconstruction strategy for the no-wait flowshop scheduling problem",
+      "title": "An improved iterated greedy algorithm with a Tabu-based reconstruction strategy for the no-wait flowshop scheduling problem",
+      "year": 2015,
+      "venue": "soft computing",
+      "years": "2015"
+    },
+    {
+      "id": "Unsupervised neighborhood component analysis for clustering",
+      "title": "Unsupervised neighborhood component analysis for clustering",
+      "year": 2015,
+      "venue": "Neurocomputing",
+      "years": "2015"
+    },
+    {
+      "id": "Efficient Lasso training from a geometrical perspective",
+      "title": "Efficient Lasso training from a geometrical perspective",
+      "year": 2015,
+      "venue": "Neurocomputing",
+      "years": "2015"
+    },
+    {
+      "id": "Discriminative clustering via extreme learning machine",
+      "title": "Discriminative clustering via extreme learning machine",
+      "year": 2015,
+      "venue": "Neural Networks",
+      "years": "2015"
+    },
+    {
+      "id": "Solving a Multi-Level Capacitated Lot Sizing Problem with Random Demand via a Fix-and-Optimize heuristic",
+      "title": "Solving a Multi-Level Capacitated Lot Sizing Problem with Random Demand via a Fix-and-Optimize heuristic",
+      "year": 2015,
+      "venue": "congress on evolutionary computation",
+      "years": "2015"
+    },
+    {
+      "id": "A source-seeking strategy for an autonomous underwater vehicle via on-line field estimation",
+      "title": "A source-seeking strategy for an autonomous underwater vehicle via on-line field estimation",
+      "year": 2016,
+      "venue": "international conference on control, automation, robotics and vision",
+      "years": "2016"
+    },
+    {
+      "id": "Unsupervised learning of Dirichlet process mixture models with missing data",
+      "title": "Unsupervised learning of Dirichlet process mixture models with missing data",
+      "year": 2016,
+      "venue": "Science in China Series F: Information Sciences",
+      "years": "2016"
+    },
+    {
+      "id": "Second-order consensus of multi-agent systems under limited interaction ranges",
+      "title": "Second-order consensus of multi-agent systems under limited interaction ranges",
+      "year": 2016,
+      "venue": "Automatica",
+      "years": "2016"
+    },
+    {
+      "id": "Parallel Machine Scheduling Under Time-of-Use Electricity Prices: New Models and Optimization Approaches",
+      "title": "Parallel Machine Scheduling Under Time-of-Use Electricity Prices: New Models and Optimization Approaches",
+      "year": 2016,
+      "venue": "IEEE Transactions on Automation Science and Engineering",
+      "years": "2016"
+    },
+    {
+      "id": "Prediction Reweighting for Domain Adaptation",
+      "title": "Prediction Reweighting for Domain Adaptation",
+      "year": 2016,
+      "venue": "IEEE Transactions on Neural Networks",
+      "years": "2016"
+    },
+    {
+      "id": "Stochastic Source Seeking with Forward and Angular Velocity Regulation",
+      "title": "Stochastic Source Seeking with Forward and Angular Velocity Regulation",
+      "year": 2016,
+      "venue": "arXiv: Optimization and Control",
+      "years": "2016"
+    },
+    {
+      "id": "Effect of delayed impulses on input-to-state stability of nonlinear systems ☆",
+      "title": "Effect of delayed impulses on input-to-state stability of nonlinear systems ☆",
+      "year": 2017,
+      "venue": "Automatica",
+      "years": "2017"
+    },
+    {
+      "id": "Distributed Random-Fixed Projected Algorithm for Constrained Optimization Over Digraphs",
+      "title": "Distributed Random-Fixed Projected Algorithm for Constrained Optimization Over Digraphs",
+      "year": 2017,
+      "venue": "arXiv: Distributed, Parallel, and Cluster Computing",
+      "years": "2017"
+    },
+    {
+      "id": "Twin Extreme Learning Machines for Pattern Classification",
+      "title": "Twin Extreme Learning Machines for Pattern Classification",
+      "year": 2017,
+      "venue": "Neurocomputing",
+      "years": "2017"
+    },
+    {
+      "id": "Likelihood Ratio Based Scheduler for Secure Detection in Cyber Physical Systems",
+      "title": "Likelihood Ratio Based Scheduler for Secure Detection in Cyber Physical Systems",
+      "year": 2017,
+      "venue": "IEEE Transactions on Control of Network Systems",
+      "years": "2017"
+    },
+    {
+      "id": "Stabilization of Delay Systems: Delay-Dependent Impulsive Control",
+      "title": "Stabilization of Delay Systems: Delay-Dependent Impulsive Control",
+      "year": 2017,
+      "venue": "IEEE Transactions on Automatic Control",
+      "years": "2017"
+    },
+    {
+      "id": "Dimension Reduction by Minimum Error Minimax Probability Machine",
+      "title": "Dimension Reduction by Minimum Error Minimax Probability Machine",
+      "year": 2017,
+      "venue": "systems man and cybernetics",
+      "years": "2017"
+    },
+    {
+      "id": "Distributionally robust single machine scheduling with risk aversion",
+      "title": "Distributionally robust single machine scheduling with risk aversion",
+      "year": 2017,
+      "venue": "European Journal of Operational Research",
+      "years": "2017"
+    },
+    {
+      "id": "A multi-objective artificial bee colony algorithm for parallel batch-processing machine scheduling in fabric dyeing processes",
+      "title": "A multi-objective artificial bee colony algorithm for parallel batch-processing machine scheduling in fabric dyeing processes",
+      "year": 2017,
+      "venue": "Knowledge Based Systems",
+      "years": "2017"
     }
    ],
    "links": [ 
+    {
+      "source":  "Shiji Song",
+      "target": "A multi-objective artificial bee colony algorithm for parallel batch-processing machine scheduling in fabric dyeing processes",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "Distributionally robust single machine scheduling with risk aversion",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "Dimension Reduction by Minimum Error Minimax Probability Machine",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "Stabilization of Delay Systems: Delay-Dependent Impulsive Control",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "Likelihood Ratio Based Scheduler for Secure Detection in Cyber Physical Systems",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "Twin Extreme Learning Machines for Pattern Classification",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "Distributed Random-Fixed Projected Algorithm for Constrained Optimization Over Digraphs",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "Effect of delayed impulses on input-to-state stability of nonlinear systems ☆",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "Stochastic Source Seeking with Forward and Angular Velocity Regulation",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "Prediction Reweighting for Domain Adaptation",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "Parallel Machine Scheduling Under Time-of-Use Electricity Prices: New Models and Optimization Approaches",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "Second-order consensus of multi-agent systems under limited interaction ranges",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "Unsupervised learning of Dirichlet process mixture models with missing data",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "A source-seeking strategy for an autonomous underwater vehicle via on-line field estimation",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "Solving a Multi-Level Capacitated Lot Sizing Problem with Random Demand via a Fix-and-Optimize heuristic",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "Discriminative clustering via extreme learning machine",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "Efficient Lasso training from a geometrical perspective",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "Unsupervised neighborhood component analysis for clustering",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "An improved iterated greedy algorithm with a Tabu-based reconstruction strategy for the no-wait flowshop scheduling problem",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "Dual active set method for support vector machines under multi-constraint activation",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "Likelihood ratio based communication for distributed detection",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "Semi-Supervised and Unsupervised Extreme Learning Machines",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "Non-linear neighborhood component analysis based on constructive neural networks",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "Transductive Minimax Probability Machine",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "Minimizing makespan for a no-wait flowshop using tabu mechanism improved iterated greedy algorithm",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "A hybrid differential evolution algorithm for job shop scheduling problems with expected total tardiness criterion",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "Kernelized LARS–LASSO for constructing radial basis function neural networks",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "Asymptotically Optimal Parameter Estimation With Scheduled Measurements",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "Some heuristics for no-wait flowshops with total tardiness criterion",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "Impulsive Control for Existence, Uniqueness, and Global Stability of Periodic Solutions of Recurrent Neural Networks With Discrete and Continuously Distributed Delays",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "Robust Support Vector Regression for Uncertain Input and Output Data",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "A two-stage hybrid particle swarm optimization algorithm for the stochastic job shop scheduling problem",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "Improved conjugate gradient implementation for least squares support vector machines",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "A hybrid genetic algorithm for two-stage multi-item inventory system with stochastic demand",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "Two techniques to improve the NEH algorithm for flow-shop scheduling problems",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "Truncation error calculation based on Richardson extrapolation for variable-step collaborative simulation",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "Multi-echelon multi-item dynamic inventory management via decomposition and coordination algorithm",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "Modeling and optimization of ocean-going unloading problem with stochastic arrival time",
+      "value": 1
+    },
+    {
+      "source":  "Shiji Song",
+      "target": "An inventory model with stochastic lead-time and stochastic demand",
+      "value": 1
+    },
     {
       "source":  "Mahdi Abavisani",
       "target": "LFM signal detection and estimation based on sparse representation",

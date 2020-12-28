@@ -379,11 +379,13 @@ d3.json("author.json").then(function (graph) {
     function focus_searcher(d, index) {
         console.log(d)
         console.log("focus: " + index)
+        ttp_searchbox = true;
         var legends = d3.select("#legends");
 
         legends.classed("hidden", false)
-        .classed("show", true);
+            .classed("show", true);
 
+        ttpJustDisplayed = true;
         legJustDisplayed = true;
 
 
