@@ -1299,12 +1299,1440 @@
       "year": 2017,
       "venue": "Knowledge Based Systems",
       "years": "2017"
+    },
+    {
+      "author": "Cyril Bornet",
+      "id": "Cyril Bornet",
+      "year": 2009
+    },
+    {
+      "id": "A Simple Set of Rules for Characters and Place Recognition in French Novels",
+      "title": "A Simple Set of Rules for Characters and Place Recognition in French Novels",
+      "year": 2017,
+      "venue": "Frontiers in Digital Humanities",
+      "years": "2017"
+    },
+    {
+      "author": "Vincent Buntinx",
+      "id": "Vincent Buntinx",
+      "year": 2009
+    },
+    {
+      "id": "Studying Linguistic Changes over 200 Years of Newspapers through Resilient Words Analysis",
+      "title": "Studying Linguistic Changes over 200 Years of Newspapers through Resilient Words Analysis",
+      "year": 2017,
+      "venue": "Frontiers in Digital Humanities",
+      "years": "2017"
+    },
+    {
+      "author": "Frédéric Kaplan",
+      "id": "Frédéric Kaplan",
+      "year": 2009
+    },
+    {
+      "id": "Anthropomorphic language in online forums about Roomba, AIBO and the iPad",
+      "title": "Anthropomorphic language in online forums about Roomba, AIBO and the iPad",
+      "year": 2012,
+      "venue": "advanced robotics and its social impacts",
+      "years": "2012"
+    },
+    {
+      "id": "Mapping the Early Modern News Flow: An Enquiry by Robust Text Reuse Detection",
+      "title": "Mapping the Early Modern News Flow: An Enquiry by Robust Text Reuse Detection",
+      "year": 2015,
+      "venue": "advanced robotics and its social impacts",
+      "years": "2015"
+    },
+    {
+      "id": "The References of References: Enriching Library Catalogs via Domain-Specific Reference Mining",
+      "title": "The References of References: Enriching Library Catalogs via Domain-Specific Reference Mining",
+      "year": 2016,
+      "venue": "european conference on information retrieval",
+      "years": "2016"
+    },
+    {
+      "id": "Visual Link Retrieval in a Database of Paintings",
+      "title": "Visual Link Retrieval in a Database of Paintings",
+      "year": 2016,
+      "venue": "european conference on computer vision",
+      "years": "2016"
+    },
+    {
+      "id": "The Venice Time Machine",
+      "title": "The Venice Time Machine",
+      "year": 2015,
+      "venue": "document engineering",
+      "years": "2015"
+    },
+    {
+      "id": "Supporting opportunistic search in meetings with tangible tabletop",
+      "title": "Supporting opportunistic search in meetings with tangible tabletop",
+      "year": 2012,
+      "venue": "human factors in computing systems",
+      "years": "2012"
+    },
+    {
+      "id": "PaperComp 2010: first international workshop on paper computing",
+      "title": "PaperComp 2010: first international workshop on paper computing",
+      "year": 2010,
+      "venue": "ubiquitous computing",
+      "years": "2010"
+    },
+    {
+      "id": "Paper interface design for classroom orchestration",
+      "title": "Paper interface design for classroom orchestration",
+      "year": 2011,
+      "venue": "human factors in computing systems",
+      "years": "2011"
+    },
+    {
+      "id": "Can a table regulate participation in top level managers' meetings?",
+      "title": "Can a table regulate participation in top level managers' meetings?",
+      "year": 2012,
+      "venue": "international conference on supporting group work",
+      "years": "2012"
+    },
+    {
+      "id": "An Interactive Table for Supporting Participation Balance in Face-to-Face Collaborative Learning",
+      "title": "An Interactive Table for Supporting Participation Balance in Face-to-Face Collaborative Learning",
+      "year": 2010,
+      "venue": "IEEE Transactions on Learning Technologies",
+      "years": "2010"
+    },
+    {
+      "id": "Living With a Vacuum Cleaning Robot - A 6-month Ethnographic Study",
+      "title": "Living With a Vacuum Cleaning Robot - A 6-month Ethnographic Study",
+      "year": 2013,
+      "venue": "International Journal of Social Robotics",
+      "years": "2013"
+    },
+    {
+      "id": "A Map for Big Data Research in Digital Humanities",
+      "title": "A Map for Big Data Research in Digital Humanities",
+      "year": 2015,
+      "venue": "Frontiers in Digital Humanities",
+      "years": "2015"
+    },
+    {
+      "id": "Paper interfaces for learning geometry",
+      "title": "Paper interfaces for learning geometry",
+      "year": 2012,
+      "venue": "european conference on technology enhanced learning",
+      "years": "2012"
+    },
+    {
+      "author": "Andrea Mazzei",
+      "id": "Andrea Mazzei",
+      "year": 2009
+    },
+    {
+      "id": "Shared Annotations: The Social Side of Exam Preparation",
+      "title": "Shared Annotations: The Social Side of Exam Preparation",
+      "year": 2013,
+      "venue": "european conference on technology enhanced learning",
+      "years": "2013"
+    },
+    {
+      "author": "Pierre Dillenbourg",
+      "id": "Pierre Dillenbourg",
+      "year": 2009
+    },
+    {
+      "id": "Flag: an ambient awareness tool to support informal collaborative learning",
+      "title": "Flag: an ambient awareness tool to support informal collaborative learning",
+      "year": 2010,
+      "venue": "international conference on supporting group work",
+      "years": "2010"
+    },
+    {
+      "id": "Roombots: Reconfigurable Robots for Adaptive Furniture",
+      "title": "Roombots: Reconfigurable Robots for Adaptive Furniture",
+      "year": 2010,
+      "venue": "IEEE Computational Intelligence Magazine",
+      "years": "2010"
+    },
+    {
+      "id": "The effects of mutual location-awareness on group coordination",
+      "title": "The effects of mutual location-awareness on group coordination",
+      "year": 2010,
+      "venue": "International Journal of Human-computer Studies \\/ International Journal of Man-machine Studies",
+      "years": "2010"
+    },
+    {
+      "id": "Paper interface design for classroom orchestration",
+      "title": "Paper interface design for classroom orchestration",
+      "year": 2011,
+      "venue": "human factors in computing systems",
+      "years": "2011"
+    },
+    {
+      "id": "Interactive tabletops in education",
+      "title": "Interactive tabletops in education",
+      "year": 2011,
+      "venue": "computer supported collaborative learning",
+      "years": "2011"
+    },
+    {
+      "id": "Benefits of a Tangible Interface for Collaborative Learning and Interaction",
+      "title": "Benefits of a Tangible Interface for Collaborative Learning and Interaction",
+      "year": 2011,
+      "venue": "IEEE Transactions on Learning Technologies",
+      "years": "2011"
+    },
+    {
+      "id": "Facilitating peer knowledge modeling: Effects of a knowledge awareness tool on collaborative learning outcomes and processes",
+      "title": "Facilitating peer knowledge modeling: Effects of a knowledge awareness tool on collaborative learning outcomes and processes",
+      "year": 2011,
+      "venue": "Computers in Human Behavior",
+      "years": "2011"
+    },
+    {
+      "id": "Tangible vs. virtual representations: when tangibles benefit the training of spatial skills",
+      "title": "Tangible vs. virtual representations: when tangibles benefit the training of spatial skills",
+      "year": 2012,
+      "venue": "nordic conference on human-computer interaction",
+      "years": "2012"
+    },
+    {
+      "id": "Can a table regulate participation in top level managers' meetings?",
+      "title": "Can a table regulate participation in top level managers' meetings?",
+      "year": 2012,
+      "venue": "international conference on supporting group work",
+      "years": "2012"
+    },
+    {
+      "id": "TinkerLamp 2.0: designing and evaluating orchestration technologies for the classroom",
+      "title": "TinkerLamp 2.0: designing and evaluating orchestration technologies for the classroom",
+      "year": 2012,
+      "venue": "european conference on technology enhanced learning",
+      "years": "2012"
+    },
+    {
+      "id": "Paper interfaces for learning geometry",
+      "title": "Paper interfaces for learning geometry",
+      "year": 2012,
+      "venue": "european conference on technology enhanced learning",
+      "years": "2012"
+    },
+    {
+      "id": "Designing conversation-context recommendation display to support opportunistic search in meetings",
+      "title": "Designing conversation-context recommendation display to support opportunistic search in meetings",
+      "year": 2012,
+      "venue": "mobile and ubiquitous multimedia",
+      "years": "2012"
+    },
+    {
+      "id": "Mobile technology for awareness of time progression and its impact on meetings",
+      "title": "Mobile technology for awareness of time progression and its impact on meetings",
+      "year": 2013,
+      "venue": "collaboration technologies and systems",
+      "years": "2013"
+    },
+    {
+      "id": "Complementarity of input devices to achieve knowledge sharing in meetings",
+      "title": "Complementarity of input devices to achieve knowledge sharing in meetings",
+      "year": 2013,
+      "venue": "conference on computer supported cooperative work",
+      "years": "2013"
+    },
+    {
+      "id": "Design for classroom orchestration",
+      "title": "Design for classroom orchestration",
+      "year": 2013,
+      "venue": "Computers in Education",
+      "years": "2013"
+    },
+    {
+      "id": "Designing augmented reality for the classroom",
+      "title": "Designing augmented reality for the classroom",
+      "year": 2013,
+      "venue": "Computers in Education",
+      "years": "2013"
+    },
+    {
+      "id": "Living With a Vacuum Cleaning Robot - A 6-month Ethnographic Study",
+      "title": "Living With a Vacuum Cleaning Robot - A 6-month Ethnographic Study",
+      "year": 2013,
+      "venue": "International Journal of Social Robotics",
+      "years": "2013"
+    },
+    {
+      "id":  "Shared Annotations: The Social Side of Exam Preparation",
+      "title":  "Shared Annotations: The Social Side of Exam Preparation",
+      "year": 2013,
+      "venue": "european conference on technology enhanced learning",
+      "years": "2013"
+    },
+    {
+      "id":  "Capturing \"attrition intensifying\" structural traits from didactic interaction sequences of MOOC learners",
+      "title":  "Capturing \"attrition intensifying\" structural traits from didactic interaction sequences of MOOC learners",
+      "year": 2014,
+      "venue": "empirical methods in natural language processing",
+      "years": "2014"
+    },
+    {
+      "id":  "The dynamics of anthropomorphism in robotics",
+      "title":  "The dynamics of anthropomorphism in robotics",
+      "year": 2014,
+      "venue": "human-robot interaction",
+      "years": "2014"
+    },
+    {
+      "id": "Lessons learned from robotic vacuum cleaners entering the home ecosystem",
+      "title": "Lessons learned from robotic vacuum cleaners entering the home ecosystem",
+      "year": 2014,
+      "venue": "Robotics and Autonomous Systems",
+      "years": "2014"
+    },
+    {
+      "id": "Review of Augmented Paper Systems in Education: An Orchestration Perspective",
+      "title": "Review of Augmented Paper Systems in Education: An Orchestration Perspective",
+      "year": 2014,
+      "venue": "Educational Technology & Society",
+      "years": "2014"
+    },
+    {
+      "id": "Which robot behavior can motivate children to tidy up their toys?: design and evaluation of \"ranger\"",
+      "title": "Which robot behavior can motivate children to tidy up their toys?: design and evaluation of \"ranger\"",
+      "year": 2014,
+      "venue": "human-robot interaction",
+      "years": "2014"
+    },
+    {
+      "id": "Mutual Modelling in Robotics: Inspirations for the Next Steps",
+      "title": "Mutual Modelling in Robotics: Inspirations for the Next Steps",
+      "year": 2015,
+      "venue": "human-robot interaction",
+      "years": "2015"
+    },
+    {
+      "id": "Screen or Tabletop: An Eye-Tracking Study of the Effect of Representation Location in a Tangible User Interface System",
+      "title": "Screen or Tabletop: An Eye-Tracking Study of the Effect of Representation Location in a Tangible User Interface System",
+      "year": 2015,
+      "venue": "european conference on technology enhanced learning",
+      "years": "2015"
+    },
+    {
+      "id": "An integrated way of using a tangible user interface in a classroom",
+      "title": "An integrated way of using a tangible user interface in a classroom",
+      "year": 2015,
+      "venue": "computer supported collaborative learning",
+      "years": "2015"
+    },
+    {
+      "id": "MOOC Video Interaction Patterns: What Do They Tell Us?",
+      "title": "MOOC Video Interaction Patterns: What Do They Tell Us?",
+      "year": 2015,
+      "venue": "european conference on technology enhanced learning",
+      "years": "2015"
+    },
+    {
+      "id": "Studying Teacher Orchestration Load in Technology-Enhanced Classrooms A Mixed-Method Approach and Case Study",
+      "title": "Studying Teacher Orchestration Load in Technology-Enhanced Classrooms A Mixed-Method Approach and Case Study",
+      "year": 2015,
+      "venue": "european conference on technology enhanced learning",
+      "years": "2015"
+    },
+    {
+      "id": "When Children Teach a Robot to Write: An Autonomous Teachable Humanoid Which Uses Simulated Handwriting",
+      "title": "When Children Teach a Robot to Write: An Autonomous Teachable Humanoid Which Uses Simulated Handwriting",
+      "year": 2015,
+      "venue": "human-robot interaction",
+      "years": "2015"
+    },
+    {
+      "id": "Can a child feel responsible for another in the presence of a robot in a collaborative learning activity",
+      "title": "Can a child feel responsible for another in the presence of a robot in a collaborative learning activity",
+      "year": 2015,
+      "venue": "robot and human interactive communication",
+      "years": "2015"
+    },
+    {
+      "id": "From Real-time Attention Assessment to \"With-me-ness\" in Human-Robot Interaction",
+      "title": "From Real-time Attention Assessment to \"With-me-ness\" in Human-Robot Interaction",
+      "year": 2016,
+      "venue": "human robot interaction",
+      "years": "2016"
+    },
+    {
+      "id": "Cognitive Architecture for Mutual Modelling",
+      "title": "Cognitive Architecture for Mutual Modelling",
+      "year": 2016,
+      "venue": "arXiv: Robotics",
+      "years": "2016"
+    },
+    {
+      "id": "Building Successful Long Child-Robot Interactions in a Learning Context",
+      "title": "Building Successful Long Child-Robot Interactions in a Learning Context",
+      "year": 2016,
+      "venue": "human robot interaction",
+      "years": "2016"
+    },
+    {
+      "id": "The Evolution of Research on Digital Education",
+      "title": "The Evolution of Research on Digital Education",
+      "year": 2016,
+      "venue": "artificial intelligence in education",
+      "years": "2016"
+    },
+    {
+      "id": "Permanent magnet-assisted omnidirectional ball drive",
+      "title": "Permanent magnet-assisted omnidirectional ball drive",
+      "year": 2016,
+      "venue": "intelligent robots and systems",
+      "years": "2016"
+    },
+    {
+      "id": "Learning by Teaching a Robot: The Case of Handwriting",
+      "title": "Learning by Teaching a Robot: The Case of Handwriting",
+      "year": 2016,
+      "venue": "international conference on robotics and automation",
+      "years": "2016"
+    },
+    {
+      "id": "The Symmetry of Partner Modelling.",
+      "title": "The Symmetry of Partner Modelling.",
+      "year": 2016,
+      "venue": "computer supported collaborative learning",
+      "years": "2016"
+    },
+    {
+      "id": "How employment constrains participation in MOOCs",
+      "title": "How employment constrains participation in MOOCs",
+      "year": 2016,
+      "venue": "educational data mining",
+      "years": "2016"
+    },
+    {
+      "id": "Perceiving Learning at a Glance: A Systematic Literature Review of Learning Dashboard Research",
+      "title": "Perceiving Learning at a Glance: A Systematic Literature Review of Learning Dashboard Research",
+      "year": 2017,
+      "venue": "IEEE Transactions on Learning Technologies",
+      "years": "2017"
+    },
+    {
+      "id": "Haptic-Enabled Handheld Mobile Robots: Design and Analysis",
+      "title": "Haptic-Enabled Handheld Mobile Robots: Design and Analysis",
+      "year": 2017,
+      "venue": "human factors in computing systems",
+      "years": "2017"
+    },
+    {
+      "id": "Cellulo: Versatile Handheld Robots for Education",
+      "title": "Cellulo: Versatile Handheld Robots for Education",
+      "year": 2017,
+      "venue": "human-robot interaction",
+      "years": "2017"
+    },
+    {
+      "id": "Windfield: Learning Wind Meteorology with Handheld Haptic Robots",
+      "title": "Windfield: Learning Wind Meteorology with Handheld Haptic Robots",
+      "year": 2017,
+      "venue": "human-robot interaction",
+      "years": "2017"
+    },
+    {
+      "id": "Windfield: Demonstrating Wind Meteorology with Handheld Haptic Robots",
+      "title": "Windfield: Demonstrating Wind Meteorology with Handheld Haptic Robots",
+      "year": 2017,
+      "venue": "human-robot interaction",
+      "years": "2017"
+    },
+    {
+      "id": "Learning styles: Literature versus machine learning",
+      "title": "Learning styles: Literature versus machine learning",
+      "year": 2017,
+      "venue": "arXiv: Human-Computer Interaction",
+      "years": "2017"
+    },
+    {
+      "id": "Workshop on Robots for Learning: R4L",
+      "title": "Workshop on Robots for Learning: R4L",
+      "year": 2017,
+      "venue": "human robot interaction",
+      "years": "2017"
+    },
+    {
+      "id": "Developing Learning Scenarios to Foster Children's Handwriting Skills with the Help of Social Robots",
+      "title": "Developing Learning Scenarios to Foster Children's Handwriting Skills with the Help of Social Robots",
+      "year": 2017,
+      "venue": "human robot interaction",
+      "years": "2017"
+    },
+    {
+      "id": "Orchestration Graphs: Enabling Rich Social Pedagogical Scenarios in MOOCs",
+      "title": "Orchestration Graphs: Enabling Rich Social Pedagogical Scenarios in MOOCs",
+      "year": 2017,
+      "venue": "Legal Studies",
+      "years": "2017"
+    },
+    {
+      "id": "Demo of Orchestration Graph Engine: Enabling Rich Social Pedagogical Scenarios in MOOCs.",
+      "title": "Demo of Orchestration Graph Engine: Enabling Rich Social Pedagogical Scenarios in MOOCs.",
+      "year": 2017,
+      "venue": "Legal Studies",
+      "years": "2017"
+    },
+    {
+      "id": "Affect of Robot's Competencies on Children's Perception.",
+      "title": "Affect of Robot's Competencies on Children's Perception.",
+      "year": 2017,
+      "venue": "Autonomous Agents and Multi-Agent Systems",
+      "years": "2017"
+    },
+    {
+      "author": "Hamed S. Alavi",
+      "id": "Hamed S. Alavi",
+      "year": 2009
+    },
+    {
+      "id": "Studying Space Use: Bringing HCI Tools to Architectural Projects",
+      "title": "Studying Space Use: Bringing HCI Tools to Architectural Projects",
+      "year": 2017,
+      "venue": "human factors in computing systems",
+      "years": "2017"
+    },
+    {
+      "id": "An Ambient Awareness Tool for Supporting Supervised Collaborative Problem Solving",
+      "title": "An Ambient Awareness Tool for Supporting Supervised Collaborative Problem Solving",
+      "year": 2012,
+      "venue": "IEEE Transactions on Learning Technologies",
+      "years": "2012"
+    },
+    {
+      "id": "Future of Human-Building Interaction",
+      "title": "Future of Human-Building Interaction",
+      "year": 2016,
+      "venue": "human factors in computing systems",
+      "years": "2016"
+    },
+    {
+      "id": "Deconstructing human-building interaction",
+      "title": "Deconstructing human-building interaction",
+      "year": 2016,
+      "venue": "Interactions",
+      "years": "2016"
+    },
+    {
+      "id": "Flag: an ambient awareness tool to support informal collaborative learning",
+      "title": "Flag: an ambient awareness tool to support informal collaborative learning",
+      "year": 2010,
+      "venue": "international conference on supporting group work",
+      "years": "2010"
+    },
+    {
+      "author": "Kshitij Sharma",
+      "id": "Kshitij Sharma",
+      "year": 2009
+    },
+    {
+      "id": "Displaying Teacher\"s Gaze in a MOOC: Effects on Students\" Video Navigation Patterns",
+      "title": "Displaying Teacher\"s Gaze in a MOOC: Effects on Students\" Video Navigation Patterns",
+      "year": 2015,
+      "venue": "european conference on technology enhanced learning",
+      "years": "2015"
+    },
+    {
+      "id": "How to Quantify Student’s Regularity?",
+      "title": "How to Quantify Student’s Regularity?",
+      "year": 2016,
+      "venue": "european conference on technology enhanced learning",
+      "years": "2016"
+    },
+    {
+      "id": "A Scalable Approach for Outlier Detection in Edge Streams Using Sketch-based Approximations.",
+      "title": "A Scalable Approach for Outlier Detection in Edge Streams Using Sketch-based Approximations.",
+      "year": 2016,
+      "venue": "siam international conference on data mining",
+      "years": "2016"
+    },
+    {
+      "id": "Using Mobile Eye-Trackers to Unpack the Perceptual Benefits of a Tangible User Interface for Collaborative Learning",
+      "title": "Using Mobile Eye-Trackers to Unpack the Perceptual Benefits of a Tangible User Interface for Collaborative Learning",
+      "year": 2016,
+      "venue": "ACM Transactions on Computer-Human Interaction",
+      "years": "2016"
+    },
+    {
+      "id": "On generalizability of MOOC models",
+      "title": "On generalizability of MOOC models",
+      "year": 2016,
+      "venue": "educational data mining",
+      "years": "2016"
+    },
+    {
+      "id": "Studying Teacher Orchestration Load in Technology-Enhanced Classrooms A Mixed-Method Approach and Case Study",
+      "title": "Studying Teacher Orchestration Load in Technology-Enhanced Classrooms A Mixed-Method Approach and Case Study",
+      "year": 2016,
+      "venue": "european conference on technology enhanced learning",
+      "years": "2016"
+    },
+    {
+      "author": "Luis Pablo Prieto",
+      "id": "Luis Pablo Prieto",
+      "year": 2009
+    },
+    {
+      "id": "Recurrent routines: Analyzing and supporting orchestration in technology-enhanced primary classrooms",
+      "title": "Recurrent routines: Analyzing and supporting orchestration in technology-enhanced primary classrooms",
+      "year": 2011,
+      "venue": "Computers in Education",
+      "years": "2011"
+    },
+    {
+      "id": "GLUE!-PS: a multi-language architecture and data model to deploy TEL designs to multiple learning environments",
+      "title": "GLUE!-PS: a multi-language architecture and data model to deploy TEL designs to multiple learning environments",
+      "year": 2011,
+      "venue": "european conference on technology enhanced learning",
+      "years": "2011"
+    },
+    {
+      "id": "Opportunities and Challenges for Adaptive Collaborative Support in Distributed Learning Environments: Evaluating the GLUE! Suite of Tools",
+      "title": "Opportunities and Challenges for Adaptive Collaborative Support in Distributed Learning Environments: Evaluating the GLUE! Suite of Tools",
+      "year": 2012,
+      "venue": "international conference on advanced learning technologies",
+      "years": "2012"
+    },
+    {
+      "id": "Lost in translation from abstract learning design to ICT implementation: a study using moodle for CSCL",
+      "title": "Lost in translation from abstract learning design to ICT implementation: a study using moodle for CSCL",
+      "year": 2012,
+      "venue": "european conference on technology enhanced learning",
+      "years": "2012"
+    },
+    {
+      "id": "Making learning designs happen in distributed learning environments with GLUE!-PS",
+      "title": "Making learning designs happen in distributed learning environments with GLUE!-PS",
+      "year": 2012,
+      "venue": "european conference on technology enhanced learning",
+      "years": "2012"
+    },
+    {
+      "id": "Towards an Integrated Learning Design Environment",
+      "title": "Towards an Integrated Learning Design Environment",
+      "year": 2013,
+      "venue": "european conference on technology enhanced learning",
+      "years": "2013"
+    },
+    {
+      "id": "Sharing the Burden: Introducing Student-Centered Orchestration in Across-Spaces Learning Situations",
+      "title": "Sharing the Burden: Introducing Student-Centered Orchestration in Across-Spaces Learning Situations",
+      "year": 2013,
+      "venue": "european conference on technology enhanced learning",
+      "years": "2013"
+    },
+    {
+      "id": "Enabling Teachers to Deploy CSCL Designs across Distributed Learning Environments",
+      "title": "Enabling Teachers to Deploy CSCL Designs across Distributed Learning Environments",
+      "year": 2013,
+      "venue": "IEEE Transactions on Learning Technologies",
+      "years": "2013"
+    },
+    {
+      "id": "Integrating orchestration of ubiquitous and pervasive learning environments",
+      "title": "Integrating orchestration of ubiquitous and pervasive learning environments",
+      "year": 2013,
+      "venue": "australasian computer-human interaction conference",
+      "years": "2013"
+    },
+    {
+      "id": "Supporting orchestration of CSCL scenarios in web-based Distributed Learning Environments",
+      "title": "Supporting orchestration of CSCL scenarios in web-based Distributed Learning Environments",
+      "year": 2014,
+      "venue": "Computers in Education",
+      "years": "2014"
+    },
+    {
+      "id": "ILDE: Community Environment for Conceptualizing, Authoring and Deploying Learning Activities",
+      "title": "ILDE: Community Environment for Conceptualizing, Authoring and Deploying Learning Activities",
+      "year": 2014,
+      "venue": "european conference on technology enhanced learning",
+      "years": "2014"
+    },
+    {
+      "id": "Exploring teachers' perceptions on different CSCL script editing tools",
+      "title": "Exploring teachers' perceptions on different CSCL script editing tools",
+      "year": 2014,
+      "venue": "Computers in Education",
+      "years": "2014"
+    },
+    {
+      "id": "Coming Down to Earth: Helping Teachers Use 3D Virtual Worlds in Across-Spaces Learning Situations",
+      "title": "Coming Down to Earth: Helping Teachers Use 3D Virtual Worlds in Across-Spaces Learning Situations",
+      "year": 2015,
+      "venue": "Educational Technology & Society",
+      "years": "2015"
+    },
+    {
+      "id": "Supporting Teacher Orchestration in Ubiquitous Learning Environments: A Study in Primary Education",
+      "title": "Supporting Teacher Orchestration in Ubiquitous Learning Environments: A Study in Primary Education",
+      "year": 2015,
+      "venue": "IEEE Transactions on Learning Technologies",
+      "years": "2015"
+    },
+    {
+      "id": "Studying Teacher Orchestration Load in Technology-Enhanced Classrooms A Mixed-Method Approach and Case Study",
+      "title": "Studying Teacher Orchestration Load in Technology-Enhanced Classrooms A Mixed-Method Approach and Case Study",
+      "year": 2015,
+      "venue": "european conference on technology enhanced learning",
+      "years": "2015"
+    },
+    {
+      "id": "Bucket-Server: A System for Including Teacher-Controlled Flexibility in the Management of Learning Artifacts in Across-Spaces Learning Situations",
+      "title": "Bucket-Server: A System for Including Teacher-Controlled Flexibility in the Management of Learning Artifacts in Across-Spaces Learning Situations",
+      "year": 2015,
+      "venue": "european conference on technology enhanced learning",
+      "years": "2015"
+    },
+    {
+      "id": "Examining the Effects of Social Media in Co-located Classrooms: A Case Study Based on SpeakUp",
+      "title": "Examining the Effects of Social Media in Co-located Classrooms: A Case Study Based on SpeakUp",
+      "year": 2016,
+      "venue": "european conference on technology enhanced learning",
+      "years": "2016"
+    },
+    {
+      "id": "Perceiving Learning at a Glance: A Systematic Literature Review of Learning Dashboard Research",
+      "title": "Perceiving Learning at a Glance: A Systematic Literature Review of Learning Dashboard Research",
+      "year": 2017,
+      "venue": "IEEE Transactions on Learning Technologies",
+      "years": "2017"
+    },
+    {
+      "id": "Supporting collaborative design activity in a multi-user digital design ecology",
+      "title": "Supporting collaborative design activity in a multi-user digital design ecology",
+      "year": 2017,
+      "venue": "Computers in Human Behavior",
+      "years": "2017"
+    },
+    {
+      "author": "Paula de Barba",
+      "id": "Paula de Barba",
+      "year": 2009
+    },
+    {
+      "id": "The Role of Students' Motivation and Participation in Predicting Performance in a MOOC.",
+      "title": "The Role of Students' Motivation and Participation in Predicting Performance in a MOOC.",
+      "year": 2016,
+      "venue": "Journal of Computer Assisted Learning",
+      "years": "2016"
+    },
+    {
+      "author": "Gregor Kennedy",
+      "id": "Gregor Kennedy",
+      "year": 2009
+    },
+    {
+      "id": "Adaptation of marching cubes for the simulation of material removal from segmented volume data",
+      "title": "Adaptation of marching cubes for the simulation of material removal from segmented volume data",
+      "year": 2013,
+      "venue": "computer based medical systems",
+      "years": "2013"
+    },
+    {
+      "id": "Constructive Real Time Feedback for a Temporal Bone Simulator",
+      "title": "Constructive Real Time Feedback for a Temporal Bone Simulator",
+      "year": 2013,
+      "venue": "medical image computing and computer assisted intervention",
+      "years": "2013"
+    },
+    {
+      "id": "Transfer Learning of a Temporal Bone Performance Model via Anatomical Feature Registration",
+      "title": "Transfer Learning of a Temporal Bone Performance Model via Anatomical Feature Registration",
+      "year": 2014,
+      "venue": "international conference on pattern recognition",
+      "years": "2014"
+    },
+    {
+      "id": "The Role of Students' Motivation and Participation in Predicting Performance in a MOOC.",
+      "title": "The Role of Students' Motivation and Participation in Predicting Performance in a MOOC.",
+      "year": 2016,
+      "venue": "Journal of Computer Assisted Learning",
+      "years": "2016"
+    },
+    {
+      "id": "Automated Segmentation of Surgical Motion for Performance Analysis and Feedback",
+      "title": "Automated Segmentation of Surgical Motion for Performance Analysis and Feedback",
+      "year": 2015,
+      "venue": "medical image computing and computer assisted intervention",
+      "years": "2015"
+    },
+    {
+      "id": "Provision of automated step-by-step procedural guidance in virtual reality surgery simulation",
+      "title": "Provision of automated step-by-step procedural guidance in virtual reality surgery simulation",
+      "year": 2016,
+      "venue":  "virtual reality software and technology",
+      "years": "2016"
+    },
+    {
+      "id": "Digital divides? Student and staff perceptions of information and communication technologies",
+      "title": "Digital divides? Student and staff perceptions of information and communication technologies",
+      "year": 2010,
+      "venue":  "Computers in Education",
+      "years": "2010"
+    },
+    {
+      "id": "Design and implementation factors in blended synchronous learning environments: Outcomes from a cross-case analysis",
+      "title": "Design and implementation factors in blended synchronous learning environments: Outcomes from a cross-case analysis",
+      "year": 2015,
+      "venue":  "Computers in Education",
+      "years": "2015"
+    },
+    {
+      "id": "Search and explore: more than one way to find what you want",
+      "title": "Search and explore: more than one way to find what you want",
+      "year": 2012,
+      "venue":  "australasian computer-human interaction conference",
+      "years": "2012"
+    },
+    {
+      "id": "Measurement and evidence of computer-based task switching and multitasking by 'Net Generation' students",
+      "title": "Measurement and evidence of computer-based task switching and multitasking by 'Net Generation' students",
+      "year": 2011,
+      "venue":  "Computers in Education",
+      "years": "2011"
+    },
+    {
+      "id": "A five-year study of on-campus Internet use by undergraduate biomedical students",
+      "title": "A five-year study of on-campus Internet use by undergraduate biomedical students",
+      "year": 2010,
+      "venue":  "Computers in Education",
+      "years": "2010"
+    },
+    {
+      "id": "Beyond natives and immigrants: exploring types of net generation students",
+      "title": "Beyond natives and immigrants: exploring types of net generation students",
+      "year": 2010,
+      "venue":  "Journal of Computer Assisted Learning",
+      "years": "2010"
+    },
+    {
+      "id": "Region-Specific Automated Feedback in Temporal Bone Surgery Simulation",
+      "title": "Region-Specific Automated Feedback in Temporal Bone Surgery Simulation",
+      "year": 2015,
+      "venue": "computer-based medical systems",
+      "years": "2015"
+    },
+    {
+      "id": "Expediency‐based practice? Medical students' reliance on Google and Wikipedia for biomedical inquiries",
+      "title": "Expediency‐based practice? Medical students' reliance on Google and Wikipedia for biomedical inquiries",
+      "year": 2011,
+      "venue": "British Journal of Educational Technology",
+      "years": "2011"
+    },
+    {
+      "id": "Being there with others: copresence and technologies for informal interaction",
+      "title": "Being there with others: copresence and technologies for informal interaction",
+      "year": 2010,
+      "venue": "australasian computer-human interaction conference",
+      "years": "2010"
+    },
+    {
+      "id": "Pattern-based real-time feedback for a temporal bone simulator",
+      "title": "Pattern-based real-time feedback for a temporal bone simulator",
+      "year": 2013,
+      "venue": "virtual reality software and technology",
+      "years": "2013"
+    },
+    {
+      "id": "Implementing Web 2.0 technologies in higher education: A collective case study",
+      "title": "Implementing Web 2.0 technologies in higher education: A collective case study",
+      "year": 2012,
+      "venue": "Computers in Education",
+      "years": "2012"
+    },
+    {
+      "id": "Search or explore: do you know what you're looking for?",
+      "title": "Search or explore: do you know what you're looking for?",
+      "year": 2011,
+      "venue": "australasian computer-human interaction conference",
+      "years": "2011"
     }
    ],
    "links": [ 
     {
-      "source":  "Shiji Song",
-      "target": "A multi-objective artificial bee colony algorithm for parallel batch-processing machine scheduling in fabric dyeing processes",
+      "source": "Gregor Kennedy",
+      "target": "Search or explore: do you know what you're looking for?",
+      "value": 1
+    },
+    {
+      "source": "Gregor Kennedy",
+      "target": "Implementing Web 2.0 technologies in higher education: A collective case study",
+      "value": 1
+    },
+    {
+      "source": "Gregor Kennedy",
+      "target": "Pattern-based real-time feedback for a temporal bone simulator",
+      "value": 1
+    },
+    {
+      "source": "Gregor Kennedy",
+      "target": "Being there with others: copresence and technologies for informal interaction",
+      "value": 1
+    },
+    {
+      "source": "Gregor Kennedy",
+      "target": "Expediency‐based practice? Medical students' reliance on Google and Wikipedia for biomedical inquiries",
+      "value": 1
+    },
+    {
+      "source": "Gregor Kennedy",
+      "target": "Region-Specific Automated Feedback in Temporal Bone Surgery Simulation",
+      "value": 1
+    },
+    {
+      "source": "Gregor Kennedy",
+      "target": "Beyond natives and immigrants: exploring types of net generation students",
+      "value": 1
+    },
+    {
+      "source": "Gregor Kennedy",
+      "target": "A five-year study of on-campus Internet use by undergraduate biomedical students",
+      "value": 1
+    },
+    {
+      "source": "Gregor Kennedy",
+      "target": "Measurement and evidence of computer-based task switching and multitasking by 'Net Generation' students",
+      "value": 1
+    },
+    {
+      "source": "Gregor Kennedy",
+      "target": "Search and explore: more than one way to find what you want",
+      "value": 1
+    },
+    {
+      "source": "Gregor Kennedy",
+      "target": "Design and implementation factors in blended synchronous learning environments: Outcomes from a cross-case analysis",
+      "value": 1
+    },
+    {
+      "source": "Gregor Kennedy",
+      "target": "Digital divides? Student and staff perceptions of information and communication technologies",
+      "value": 1
+    },
+    {
+      "source": "Gregor Kennedy",
+      "target": "Provision of automated step-by-step procedural guidance in virtual reality surgery simulation",
+      "value": 1
+    },
+    {
+      "source": "Gregor Kennedy",
+      "target": "Automated Segmentation of Surgical Motion for Performance Analysis and Feedback",
+      "value": 1
+    },
+    {
+      "source": "Gregor Kennedy",
+      "target": "The Role of Students' Motivation and Participation in Predicting Performance in a MOOC.",
+      "value": 1
+    },
+    {
+      "source": "Gregor Kennedy",
+      "target": "Transfer Learning of a Temporal Bone Performance Model via Anatomical Feature Registration",
+      "value": 1
+    },
+    {
+      "source": "Gregor Kennedy",
+      "target": "Constructive Real Time Feedback for a Temporal Bone Simulator",
+      "value": 1
+    },
+    {
+      "source": "Gregor Kennedy",
+      "target": "Adaptation of marching cubes for the simulation of material removal from segmented volume data",
+      "value": 1
+    },
+    {
+      "source": "Paula de Barba",
+      "target": "The Role of Students' Motivation and Participation in Predicting Performance in a MOOC.",
+      "value": 1
+    },
+    {
+      "source": "Luis Pablo Prieto",
+      "target": "Supporting collaborative design activity in a multi-user digital design ecology",
+      "value": 1
+    },
+    {
+      "source": "Luis Pablo Prieto",
+      "target": "Perceiving Learning at a Glance: A Systematic Literature Review of Learning Dashboard Research",
+      "value": 1
+    },
+    {
+      "source": "Luis Pablo Prieto",
+      "target": "Examining the Effects of Social Media in Co-located Classrooms: A Case Study Based on SpeakUp",
+      "value": 1
+    },
+    {
+      "source": "Luis Pablo Prieto",
+      "target": "Bucket-Server: A System for Including Teacher-Controlled Flexibility in the Management of Learning Artifacts in Across-Spaces Learning Situations",
+      "value": 1
+    },
+    {
+      "source": "Luis Pablo Prieto",
+      "target": "Studying Teacher Orchestration Load in Technology-Enhanced Classrooms A Mixed-Method Approach and Case Study",
+      "value": 1
+    },
+    {
+      "source": "Luis Pablo Prieto",
+      "target": "Supporting Teacher Orchestration in Ubiquitous Learning Environments: A Study in Primary Education",
+      "value": 1
+    },
+    {
+      "source": "Luis Pablo Prieto",
+      "target": "Coming Down to Earth: Helping Teachers Use 3D Virtual Worlds in Across-Spaces Learning Situations",
+      "value": 1
+    },
+    {
+      "source": "Luis Pablo Prieto",
+      "target": "Exploring teachers' perceptions on different CSCL script editing tools",
+      "value": 1
+    },
+    {
+      "source": "Luis Pablo Prieto",
+      "target": "ILDE: Community Environment for Conceptualizing, Authoring and Deploying Learning Activities",
+      "value": 1
+    },
+    {
+      "source": "Luis Pablo Prieto",
+      "target": "Supporting orchestration of CSCL scenarios in web-based Distributed Learning Environments",
+      "value": 1
+    },
+    {
+      "source": "Luis Pablo Prieto",
+      "target": "Integrating orchestration of ubiquitous and pervasive learning environments",
+      "value": 1
+    },
+    {
+      "source": "Luis Pablo Prieto",
+      "target": "Enabling Teachers to Deploy CSCL Designs across Distributed Learning Environments",
+      "value": 1
+    },
+    {
+      "source": "Luis Pablo Prieto",
+      "target": "Sharing the Burden: Introducing Student-Centered Orchestration in Across-Spaces Learning Situations",
+      "value": 1
+    },
+    {
+      "source": "Luis Pablo Prieto",
+      "target": "Towards an Integrated Learning Design Environment",
+      "value": 1
+    },
+    {
+      "source": "Luis Pablo Prieto",
+      "target": "Making learning designs happen in distributed learning environments with GLUE!-PS",
+      "value": 1
+    },
+    {
+      "source": "Luis Pablo Prieto",
+      "target": "Lost in translation from abstract learning design to ICT implementation: a study using moodle for CSCL",
+      "value": 1
+    },
+    {
+      "source": "Luis Pablo Prieto",
+      "target": "Opportunities and Challenges for Adaptive Collaborative Support in Distributed Learning Environments: Evaluating the GLUE! Suite of Tools",
+      "value": 1
+    },
+    {
+      "source": "Luis Pablo Prieto",
+      "target": "GLUE!-PS: a multi-language architecture and data model to deploy TEL designs to multiple learning environments",
+      "value": 1
+    },
+    {
+      "source": "Luis Pablo Prieto",
+      "target": "Recurrent routines: Analyzing and supporting orchestration in technology-enhanced primary classrooms",
+      "value": 1
+    },
+    {
+      "source":  "Kshitij Sharma",
+      "target": "Studying Teacher Orchestration Load in Technology-Enhanced Classrooms A Mixed-Method Approach and Case Study",
+      "value": 1
+    },
+    {
+      "source":  "Kshitij Sharma",
+      "target": "On generalizability of MOOC models",
+      "value": 1
+    },
+    {
+      "source":  "Kshitij Sharma",
+      "target": "Using Mobile Eye-Trackers to Unpack the Perceptual Benefits of a Tangible User Interface for Collaborative Learning",
+      "value": 1
+    },
+    {
+      "source":  "Kshitij Sharma",
+      "target": "A Scalable Approach for Outlier Detection in Edge Streams Using Sketch-based Approximations.",
+      "value": 1
+    },
+    {
+      "source":  "Kshitij Sharma",
+      "target": "How to Quantify Student’s Regularity?",
+      "value": 1
+    },
+    {
+      "source":  "Kshitij Sharma",
+      "target": "Displaying Teacher\"s Gaze in a MOOC: Effects on Students\" Video Navigation Patterns",
+      "value": 1
+    },
+    {
+      "source":  "Hamed S. Alavi",
+      "target": "Flag: an ambient awareness tool to support informal collaborative learning",
+      "value": 1
+    },
+    {
+      "source":  "Hamed S. Alavi",
+      "target": "Deconstructing human-building interaction",
+      "value": 1
+    },
+    {
+      "source":  "Hamed S. Alavi",
+      "target": "Future of Human-Building Interaction",
+      "value": 1
+    },
+    {
+      "source":  "Hamed S. Alavi",
+      "target": "An Ambient Awareness Tool for Supporting Supervised Collaborative Problem Solving",
+      "value": 1
+    },
+    {
+      "source":  "Hamed S. Alavi",
+      "target": "Studying Space Use: Bringing HCI Tools to Architectural Projects",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "Affect of Robot's Competencies on Children's Perception.",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "Demo of Orchestration Graph Engine: Enabling Rich Social Pedagogical Scenarios in MOOCs.",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "Orchestration Graphs: Enabling Rich Social Pedagogical Scenarios in MOOCs",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "Developing Learning Scenarios to Foster Children's Handwriting Skills with the Help of Social Robots",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "Workshop on Robots for Learning: R4L",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "Learning styles: Literature versus machine learning",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "Windfield: Demonstrating Wind Meteorology with Handheld Haptic Robots",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "Windfield: Learning Wind Meteorology with Handheld Haptic Robots",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "Cellulo: Versatile Handheld Robots for Education",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "Haptic-Enabled Handheld Mobile Robots: Design and Analysis",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "Perceiving Learning at a Glance: A Systematic Literature Review of Learning Dashboard Research",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "How employment constrains participation in MOOCs",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "The Symmetry of Partner Modelling.",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "Learning by Teaching a Robot: The Case of Handwriting",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "Permanent magnet-assisted omnidirectional ball drive",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "The Evolution of Research on Digital Education",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "Building Successful Long Child-Robot Interactions in a Learning Context",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "Cognitive Architecture for Mutual Modelling",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "From Real-time Attention Assessment to \"With-me-ness\" in Human-Robot Interaction",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "Can a child feel responsible for another in the presence of a robot in a collaborative learning activity",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "When Children Teach a Robot to Write: An Autonomous Teachable Humanoid Which Uses Simulated Handwriting",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "Studying Teacher Orchestration Load in Technology-Enhanced Classrooms A Mixed-Method Approach and Case Study",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "MOOC Video Interaction Patterns: What Do They Tell Us?",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "An integrated way of using a tangible user interface in a classroom",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "Screen or Tabletop: An Eye-Tracking Study of the Effect of Representation Location in a Tangible User Interface System",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "Mutual Modelling in Robotics: Inspirations for the Next Steps",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "Which robot behavior can motivate children to tidy up their toys?: design and evaluation of \"ranger\"",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "Review of Augmented Paper Systems in Education: An Orchestration Perspective",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "Lessons learned from robotic vacuum cleaners entering the home ecosystem",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target":  "The dynamics of anthropomorphism in robotics",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target":  "Capturing \"attrition intensifying\" structural traits from didactic interaction sequences of MOOC learners",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target":  "Shared Annotations: The Social Side of Exam Preparation",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "Living With a Vacuum Cleaning Robot - A 6-month Ethnographic Study",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "Designing augmented reality for the classroom",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "Design for classroom orchestration",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "Complementarity of input devices to achieve knowledge sharing in meetings",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "Mobile technology for awareness of time progression and its impact on meetings",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "Designing conversation-context recommendation display to support opportunistic search in meetings",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "Paper interfaces for learning geometry",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "TinkerLamp 2.0: designing and evaluating orchestration technologies for the classroom",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "Can a table regulate participation in top level managers' meetings?",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "Tangible vs. virtual representations: when tangibles benefit the training of spatial skills",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "Facilitating peer knowledge modeling: Effects of a knowledge awareness tool on collaborative learning outcomes and processes",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "Benefits of a Tangible Interface for Collaborative Learning and Interaction",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "Interactive tabletops in education",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "Paper interface design for classroom orchestration",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "The effects of mutual location-awareness on group coordination",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "Roombots: Reconfigurable Robots for Adaptive Furniture",
+      "value": 1
+    },
+    {
+      "source":  "Pierre Dillenbourg",
+      "target": "Flag: an ambient awareness tool to support informal collaborative learning",
+      "value": 1
+    },
+    {
+      "source":  "Andrea Mazzei",
+      "target": "Shared Annotations: The Social Side of Exam Preparation",
+      "value": 1
+    },
+    {
+      "source":  "Frédéric Kaplan",
+      "target": "Paper interfaces for learning geometry",
+      "value": 1
+    },
+    {
+      "source":  "Frédéric Kaplan",
+      "target": "A Map for Big Data Research in Digital Humanities",
+      "value": 1
+    },
+    {
+      "source":  "Frédéric Kaplan",
+      "target": "Living With a Vacuum Cleaning Robot - A 6-month Ethnographic Study",
+      "value": 1
+    },
+    {
+      "source":  "Frédéric Kaplan",
+      "target": "An Interactive Table for Supporting Participation Balance in Face-to-Face Collaborative Learning",
+      "value": 1
+    },
+    {
+      "source":  "Frédéric Kaplan",
+      "target": "Can a table regulate participation in top level managers' meetings?",
+      "value": 1
+    },
+    {
+      "source":  "Frédéric Kaplan",
+      "target": "Paper interface design for classroom orchestration",
+      "value": 1
+    },
+    {
+      "source":  "Frédéric Kaplan",
+      "target": "PaperComp 2010: first international workshop on paper computing",
+      "value": 1
+    },
+    {
+      "source":  "Frédéric Kaplan",
+      "target": "Supporting opportunistic search in meetings with tangible tabletop",
+      "value": 1
+    },
+    {
+      "source":  "Frédéric Kaplan",
+      "target": "The Venice Time Machine",
+      "value": 1
+    },
+    {
+      "source":  "Frédéric Kaplan",
+      "target": "Visual Link Retrieval in a Database of Paintings",
+      "value": 1
+    },
+    {
+      "source":  "Frédéric Kaplan",
+      "target": "The References of References: Enriching Library Catalogs via Domain-Specific Reference Mining",
+      "value": 1
+    },
+    {
+      "source":  "Frédéric Kaplan",
+      "target": "Mapping the Early Modern News Flow: An Enquiry by Robust Text Reuse Detection",
+      "value": 1
+    },
+    {
+      "source":  "Frédéric Kaplan",
+      "target": "Anthropomorphic language in online forums about Roomba, AIBO and the iPad",
+      "value": 1
+    },
+    {
+      "source":  "Frédéric Kaplan",
+      "target": "A Simple Set of Rules for Characters and Place Recognition in French Novels",
+      "value": 1
+    },
+    {
+      "source":  "Frédéric Kaplan",
+      "target": "Studying Linguistic Changes over 200 Years of Newspapers through Resilient Words Analysis",
+      "value": 1
+    },
+    {
+      "source":  "Cyril Bornet",
+      "target": "A Simple Set of Rules for Characters and Place Recognition in French Novels",
+      "value": 1
+    },
+    {
+      "source":  "Cyril Bornet",
+      "target": "Studying Linguistic Changes over 200 Years of Newspapers through Resilient Words Analysis",
+      "value": 1
+    },
+    {
+      "source":  "Vincent Buntinx",
+      "target": "Studying Linguistic Changes over 200 Years of Newspapers through Resilient Words Analysis",
       "value": 1
     },
     {

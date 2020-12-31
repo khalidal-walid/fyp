@@ -1,3 +1,6 @@
+//------------------------1. PREPARATION------------------------//
+//-----------------------------SVG------------------------------// 
+
 var width = 1200;
 var height = 600;
 var color = d3.scaleOrdinal(d3.schemeCategory10);
@@ -6,6 +9,8 @@ var ttpJustDisplayed = false;
 var ttp_searchbox = false;
 var legJustDisplayed = false;
 var leg_searchbox = false;
+
+//-----------------------------DATA-----------------------------//
 
 //read JSON
 d3.json("author.json").then(function (graph) {
@@ -52,7 +57,7 @@ d3.json("author.json").then(function (graph) {
     });
 
 
-    //vecinos
+    //neighbour
     function neigh(a, b) {
         return a == b || adjlist[a + "-" + b];
     }
@@ -64,7 +69,8 @@ d3.json("author.json").then(function (graph) {
 
     var container = svg.append("g");
 
-    //escala para el grosor de las lineas
+//----------------------------SCALES----------------------------//
+
     var path_scale = d3.scaleLinear()
         .domain([0, d3.max(graph.links, function (d) {
             return d.value;
@@ -82,6 +88,9 @@ d3.json("author.json").then(function (graph) {
             .scaleExtent([.1, 4])
             .on("zoom", function () { container.attr("transform", d3.event.transform); })
     );
+
+//-------------------------2. DRAWING---------------------------//
+//-----------------------------
 
     var link = container.append("g").attr("class", "links")
         .selectAll("path")
