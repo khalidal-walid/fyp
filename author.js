@@ -3,7 +3,13 @@
 
 var width = 1200;
 var height = 600;
-var color = d3.scaleOrdinal(d3.schemeCategory10);
+var color = d3.scaleOrdinal(d3.schemeSet1);
+// var color = d3.scale.linear()
+//   .domain([2009, 2018])  
+//   .range(["blue", "green"]); 
+// var color = d3.scale.ordinal()
+    // .domain(["2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018"])
+    // .range(["#fff","#000","#333", "#fff","#000","#333", "#fff","#000","#333", "#333"]);
 var profs = [];
 var ttpJustDisplayed = false;
 var ttp_searchbox = false;
@@ -108,6 +114,7 @@ d3.json("author.json").then(function (graph) {
         .append("circle")
         .attr("r", "5")
         .attr("fill", function (d) { return color(d.year); });
+        // .attr("r", function (d) { return d.n_citation; });
 
 
 
@@ -129,6 +136,10 @@ d3.json("author.json").then(function (graph) {
             .html(
 
                 '<div>' +
+
+                '<h2>' + 'Author:' + '</h2>' +
+                '<h1>' + d.author + '</h1>' +
+
                 '<h2>' + 'Title:' + '</h2>' +
                 '<h1>' + d.title + '</h1>' +
 
@@ -137,6 +148,9 @@ d3.json("author.json").then(function (graph) {
 
                  '<h2>' + 'Venue:' + '</h2>' +
                  '<h1>' + d.venue + '</h1>' +
+
+                 '<h2>' + 'No of citation:' + '</h2>' +
+                 '<h1>' + d.n_citation + '</h1>' +
                  '</div > ' 
 
             );
