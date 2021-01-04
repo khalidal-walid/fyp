@@ -113,8 +113,8 @@ d3.json("author.json").then(function (graph) {
         .append("g").attr("class", "node")
         .append("circle")
         .attr("r", "5")
-        .attr("fill", function (d) { return color(d.year); });
-        // .attr("r", function (d) { return d.n_citation; });
+        .attr("fill", function (d) { return color(d.year) });
+        // .attr("r", function (d) { return d.n_citation });
 
 
 
@@ -144,7 +144,7 @@ d3.json("author.json").then(function (graph) {
                 '<h1>' + d.title + '</h1>' +
 
                  '<h2>' + 'Year Published:' + '</h2>' +
-                 '<h1>' + d.years + '</h1>' +
+                 '<h1>' + d.year + '</h1>' +
 
                  '<h2>' + 'Venue:' + '</h2>' +
                  '<h1>' + d.venue + '</h1>' +

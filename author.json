@@ -3,6 +3,7 @@
     {
       "author": "Francine Berman",
       "id": "Francine Berman",
+      "n_citation": 5,
       "year": 2009
     },
     {
@@ -27,17 +28,11 @@
       "year": 2009
     },
     {
-      "id": "Social and ethical behavior in the internet of things",
-      "title": "Social and ethical behavior in the internet of things",
-      "year": 2017,
-      "venue": "Communications of The ACM",
-      "years": "2017"
-    },
-    {
       "id": "Unreliable Machine Learning",
       "title": "Unreliable Machine Learning",
       "year": 2017,
       "venue": "IEEE Internet Computing",
+      "n_citation": 20,
       "years": "2017"
     },
     {
