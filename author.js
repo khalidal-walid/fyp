@@ -3,13 +3,7 @@
 
 var width = 1200;
 var height = 600;
-var color = d3.scaleOrdinal(d3.schemeSet1);
-// var color = d3.scale.linear()
-//   .domain([2009, 2018])  
-//   .range(["blue", "green"]); 
-// var color = d3.scale.ordinal()
-    // .domain(["2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018"])
-    // .range(["#fff","#000","#333", "#fff","#000","#333", "#fff","#000","#333", "#333"]);
+// var color = d3.scaleOrdinal(d3.schemeSet1);
 var profs = [];
 var ttpJustDisplayed = false;
 var ttp_searchbox = false;
@@ -77,17 +71,9 @@ d3.json("author.json").then(function (graph) {
 
 //----------------------------SCALES----------------------------//
 
-    var path_scale = d3.scaleLinear()
-        .domain([0, d3.max(graph.links, function (d) {
-            return d.value;
-        })])
-        .range([1, 1]);
-
-    var node_scale = d3.scaleLinear()
-        .domain([0, d3.max(graph.links, function (d) {
-            return d.value;
-        })])
-        .range([4, 4]);
+    var nodescale = d3.scaleSqrt()
+        .domain( [0, 50, 100, 150, 200, 250, 300] )
+        .range( [5, 10, 15, 20, 25, 30, 35] );
 
     svg.call(
         d3.zoom()
@@ -112,8 +98,15 @@ d3.json("author.json").then(function (graph) {
         .enter()
         .append("g").attr("class", "node")
         .append("circle")
-        .attr("r", "5")
-        .attr("fill", function (d) { return color(d.year) });
+        // .attr("r", "5")
+        .attr("r", function(d) {
+            return nodescale(d.n_citation);
+          })
+        .attr("class", function(d){
+            return "node year" + d.year;
+           });
+        //   .attr("fill", function (d) { return color(d.year) });
+        // .attr("fill", function (d) { return color(d.year) });
         // .attr("r", function (d) { return d.n_citation });
 
 
@@ -363,7 +356,7 @@ d3.json("author.json").then(function (graph) {
             resultsList: {
                 render: true,
                 container: source => {
-                    source.setAttribute("author", "autoComplete_list");
+                    source.setAttribute("authors", "autoComplete_list");
                 },
                 destination: document.querySelector("#autoComplete"),
                 position: "afterend",
@@ -383,10 +376,10 @@ d3.json("author.json").then(function (graph) {
 
                 let select = document.querySelector("#autoComplete")
                 select.value = ''
-                console.log("autocomplete: " + selection.author)
+                console.log("autocomplete: " + selection.authors)
                 let nodes = d3.selectAll('g.node')
 
-                let node = nodes.filter((d, i, g) => d.author === selection.name)
+                let node = nodes.filter((d, i, g) => d.authors === selection.name)
                 console.log(node);
                 let current_node = node.node().__data__;
                 console.log(current_node);
@@ -438,7 +431,7 @@ function positionLink(d) {
 
 function makeProfList(rData) {
     rData.nodes.forEach((node, index) => {
-        profs.push({ name: node.author, id: index })
+        profs.push({ name: node.authors, id: index })
     })
     return rData
   }

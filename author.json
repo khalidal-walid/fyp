@@ -1,2149 +1,2458 @@
 {
   "nodes": [
     {
-      "author": "Francine Berman",
+      "authors": "Francine Berman",
       "id": "Francine Berman",
-      "n_citation": 5,
+      "n_citation": 0,
       "year": 2009
     },
     {
+      "author": "Francine Berman",
       "id": "Social and ethical behavior in the internet of things",
       "title": "Social and ethical behavior in the internet of things",
       "year": 2017,
       "venue": "Communications of The ACM",
-      "n_citation": 20,
-      "years": "2017"
+      "n_citation": 0
     },
     {
+      "author": "Francine Berman",
       "id": "We need a research data census",
       "title": "We need a research data census",
       "year": 2010,
       "venue": "Communications of The ACM",
-      "n_citation": 20,
-      "years": "2010"
+      "n_citation": 2
     },
     {
-      "author": "Vinton G. Cerf",
+      "authors": "Vinton G. Cerf",
       "id": "Vinton G. Cerf",
+      "n_citation": 0,
       "year": 2009
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "Unreliable Machine Learning",
       "title": "Unreliable Machine Learning",
       "year": 2017,
       "venue": "IEEE Internet Computing",
-      "n_citation": 20,
-      "years": "2017"
+      "n_citation": 0
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "Grumpy old cells",
       "title": "Grumpy old cells",
       "year": 2017,
       "venue": "Communications of The ACM",
-      "years": "2017"
+      "n_citation": 0
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "Deep Retraining and Innovation",
       "title": "Deep Retraining and Innovation",
       "year": 2017,
       "venue": "IEEE Internet Computing",
-      "years": "2017"
+      "n_citation": 0
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "A genetic theory of the Silicon Valley phenomenon",
       "title": "A genetic theory of the Silicon Valley phenomenon",
       "year": 2017,
       "venue": "Communications of The ACM",
-      "years": "2017"
+      "n_citation": 0
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "Can liberty survive the digital age",
       "title": "Can liberty survive the digital age",
       "year": 2017,
       "venue": "Communications of The ACM",
-      "years": "2017"
+      "n_citation": 0
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "On the Simulation of Everything",
       "title": "On the Simulation of Everything",
       "year": 2017,
       "venue": "IEEE Internet Computing",
-      "years": "2017"
+      "n_citation": 0
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "Open access to academic research",
       "title": "Open access to academic research",
       "year": 2017,
       "venue": "Communications of The ACM",
-      "years": "2017"
+      "n_citation": 0
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "What if it's us?",
       "title": "What if it's us?",
       "year": 2014,
       "venue": "Communications of The ACM",
-      "years": "2014"
+      "n_citation": 3
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "A long way to have come and still to go",
       "title": "A long way to have come and still to go",
       "year": 2015,
       "venue": "Communications of The ACM",
-      "years": "2015"
+      "n_citation": 50
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "Revisiting the tragedy of the commons",
       "title": "Revisiting the tragedy of the commons",
       "year": 2013,
       "venue": "Communications of The ACM",
-      "years": "2013"
+      "n_citation": 0
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "ACM president's salary increased by 300%!",
       "title": "ACM president's salary increased by 300%!",
       "year": 2013,
       "venue": "Communications of The ACM",
-      "years": "2013"
+      "n_citation": 0
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "On the road in Latin America",
       "title": "On the road in Latin America",
       "year": 2015,
       "venue": "Communications of The ACM",
-      "years": "2015"
+      "n_citation": 0
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "Prospects for the internet of things",
       "title": "Prospects for the internet of things",
       "year": 2015,
       "venue": "the internet of things",
-      "years": "2015"
+      "n_citation": 50
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "ACM's 2016 general election",
       "title": "ACM's 2016 general election",
       "year": 2015,
       "venue": "Communications of The ACM",
-      "years": "2015"
+      "n_citation": 0
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "An interview with U.S. chief technology officer Megan Smith",
       "title": "An interview with U.S. chief technology officer Megan Smith",
       "year": 2015,
       "venue": "Communications of The ACM",
-      "years": "2015"
+      "n_citation": 0
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "A celebration of accomplishments",
       "title": "A celebration of accomplishments",
       "year": 2015,
       "venue": "Communications of The ACM",
-      "years": "2015"
+      "n_citation": 0
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "The Fragmentation of the Internet",
       "title": "The Fragmentation of the Internet",
       "year": 2016,
       "venue": "IEEE Internet Computing",
-      "years": "2016"
+      "n_citation": 0
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "Advancing the ACM agenda",
       "title": "Advancing the ACM agenda",
       "year": 2015,
       "venue": "Communications of The ACM",
-      "years": "2015"
+      "n_citation": 0
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "Computer science in the curriculum",
       "title": "Computer science in the curriculum",
       "year": 2016,
       "venue": "Communications of The ACM",
-      "years": "2016"
+      "n_citation": 0
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "Our Fragile Power Grid",
       "title": "Our Fragile Power Grid",
       "year": 2016,
       "venue": "IEEE Internet Computing",
-      "years": "2016"
+      "n_citation": 0
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "A half-century makes a difference",
       "title": "A half-century makes a difference",
       "year": 2010,
       "venue": "Journal of Internet Services and Applications",
-      "years": "2010"
+      "n_citation": 50
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "2012 Isn't the End of the World",
       "title": "2012 Isn't the End of the World",
       "year": 2010,
       "venue": "IEEE Internet Computing",
-      "years": "2010"
+      "n_citation": 1
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "Trust and the Internet",
       "title": "Trust and the Internet",
       "year": 2010,
       "venue": "IEEE Internet Computing",
-      "years": "2010"
+      "n_citation": 50
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "Open Source, Smart Grid, and Mobile Apps",
       "title": "Open Source, Smart Grid, and Mobile Apps",
       "year": 2011,
       "venue": "IEEE Internet Computing",
-      "years": "2011"
+      "n_citation": 50
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "Sherry Turkle: Alone Together",
       "title": "Sherry Turkle: Alone Together",
       "year": 2011,
       "venue": "IEEE Internet Computing",
-      "years": "2011"
+      "n_citation": 50
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "Successful strategies for IPv6 rollouts.: Really.",
       "title": "Successful strategies for IPv6 rollouts.: Really.",
       "year": 2011,
       "venue": "ACM Queue",
-      "years": "2011"
+      "n_citation": 50
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "Things and the Net",
       "title": "Things and the Net",
       "year": 2012,
       "venue": "IEEE Internet Computing",
-      "years": "2012"
+      "n_citation": 0
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "Ubiquity symposium: The science in computer science: computer science revisited",
       "title": "Ubiquity symposium: The science in computer science: computer science revisited",
       "year": 2012,
       "venue": "Ubiquity",
-      "years": "2012"
+      "n_citation": 1
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "Why is accessibility so hard",
       "title": "Why is accessibility so hard",
       "year": 2012,
       "venue": "Communications of The ACM",
-      "years": "2012"
+      "n_citation": 50
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "Where is the science in computer science",
       "title": "Where is the science in computer science",
       "year": 2012,
       "venue": "Communications of The ACM",
-      "years": "2012"
+      "n_citation": 4
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "Computer science education---revisited",
       "title": "Computer science education---revisited",
       "year": 2013,
       "venue": "Communications of The ACM",
-      "years": "2013"
+      "n_citation": 0
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "Gateways for the Internet of Things: An old problem revisited",
       "title": "Gateways for the Internet of Things: An old problem revisited",
       "year": 2013,
       "venue": "global communications conference",
-      "years": "2013"
+      "n_citation": 50
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "Software at scale",
       "title": "Software at scale",
       "year": 2013,
       "venue": "Communications of The ACM",
-      "years": "2013"
+      "n_citation": 0
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "Internet and the Other IP",
       "title": "Internet and the Other IP",
       "year": 2013,
       "venue": "IEEE Internet Computing",
-      "years": "2013"
+      "n_citation": 0
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "Loose Couplings",
       "title": "Loose Couplings",
       "year": 2013,
       "venue": "IEEE Internet Computing",
-      "years": "2013"
+      "n_citation": 50
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "Instrument Thyself",
       "title": "Instrument Thyself",
       "year": 2014,
       "venue": "IEEE Internet Computing",
-      "years": "2014"
+      "n_citation": 0
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "Unconventional computing",
       "title": "Unconventional computing",
       "year": 2014,
       "venue": "Communications of The ACM",
-      "years": "2014"
+      "n_citation": 50
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "Augmented reality",
       "title": "Augmented reality",
       "year": 2014,
       "venue": "Communications of The ACM",
-      "years": "2014"
+      "n_citation": 50
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "Cognitive implants",
       "title": "Cognitive implants",
       "year": 2014,
       "venue": "Communications of The ACM",
-      "years": "2014"
+      "n_citation": 50
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "Virtual reality redux",
       "title": "Virtual reality redux",
       "year": 2014,
       "venue": "Communications of The ACM",
-      "years": "2014"
+      "n_citation": 0
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "Space for Internet and Internet for space",
       "title": "Space for Internet and Internet for space",
       "year": 2014,
       "venue": "ad hoc networks",
-      "years": "2014"
+      "n_citation": 50
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "Enrollments explode! but diversity students are leaving…",
       "title": "Enrollments explode! but diversity students are leaving…",
       "year": 2016,
       "venue": "Communications of The ACM",
-      "years": "2016"
+      "n_citation": 1
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "The IANA transition",
       "title": "The IANA transition",
       "year": 2016,
       "venue": "Communications of The ACM",
-      "years": "2016"
+      "n_citation": 0
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "Practical Solutions: Basic and Applied Research, Science, Engineering, and Design",
       "title": "Practical Solutions: Basic and Applied Research, Science, Engineering, and Design",
       "year": 2016,
       "venue": "IEEE Internet Computing",
-      "years": "2016"
+      "n_citation": 0
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "The power of big ideas",
       "title": "The power of big ideas",
       "year": 2016,
       "venue": "Communications of The ACM",
-      "years": "2016"
+      "n_citation": 0
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "Internet Collisions",
       "title": "Internet Collisions",
       "year": 2016,
       "venue": "Communications of The ACM",
-      "years": "2016"
+      "n_citation": 0
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "When email isn't private",
       "title": "When email isn't private",
       "year": 2016,
       "venue": "Communications of The ACM",
-      "years": "2016"
+      "n_citation": 0
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "Heidelberg anew",
       "title": "Heidelberg anew",
       "year": 2016,
       "venue": "Communications of The ACM",
-      "years": "2016"
+      "n_citation": 0
     },
     {
+      "author": "Vinton G. Cerf",
       "id": "Information and misinformation on the internet",
       "title": "Information and misinformation on the internet",
       "year": 2016,
       "venue": "Communications of The ACM",
-      "years": "2016"
+      "n_citation": 0
     },
     {
-      "author": "Nii Narku Quaynor",
+      "authors": "Nii Narku Quaynor",
       "id": "Nii Narku Quaynor",
+      "n_citation": 0,
       "year": 2009
     },
     {
+      "author": "Nii Narku Quaynor",
       "id": "An Integrated Geographic Information System and Marketing Information System Model",
       "title": "An Integrated Geographic Information System and Marketing Information System Model",
       "year": 2012,
       "venue": "arXiv: Other Computer Science",
-      "years": "2012"
+      "n_citation": 1
     },
     {
+      "author": "Nii Narku Quaynor",
       "id": "Feature Based Encryption Technique for Securing Digital Image Data Based on FCA-Image Attributes and Visual Cryptography",
       "title": "Feature Based Encryption Technique for Securing Digital Image Data Based on FCA-Image Attributes and Visual Cryptography",
       "year": 2015,
       "venue": "international conference on computational science and its applications",
-      "years": "2015"
+      "n_citation": 0
     },
     {
+      "author": "Nii Narku Quaynor",
       "id": "The Internet of Everyone",
       "title": "The Internet of Everyone",
       "year": 2014,
       "venue": "IEEE Internet Computing",
-      "years": "2014"
+      "n_citation": 0
     },
     {
+      "author": "Nii Narku Quaynor",
       "id": "A Security Technique for Authentication and Security of Medical Images in Health Information Systems",
       "title": "A Security Technique for Authentication and Security of Medical Images in Health Information Systems",
       "year": 2015,
       "venue": "international conference on computational science and its applications",
-      "years": "2015"
+      "n_citation": 0
     },
     {
-      "author": "Quist-Aphetsi Kester",
+      "authors": "Quist-Aphetsi Kester",
       "id": "Quist-Aphetsi Kester",
+      "n_citation": 0,
       "year": 2009
     },
     {
+      "author": "Quist-Aphetsi Kester",
       "id": "An Integrated Geographic Information System and Marketing Information System Model",
       "title": "An Integrated Geographic Information System and Marketing Information System Model",
       "year": 2012,
       "venue": "arXiv: Other Computer Science",
-      "years": "2012"
+      "n_citation": 1
     },
     {
+      "author": "Quist-Aphetsi Kester",
       "id": "Feature Based Encryption Technique for Securing Digital Image Data Based on FCA-Image Attributes and Visual Cryptography",
       "title": "Feature Based Encryption Technique for Securing Digital Image Data Based on FCA-Image Attributes and Visual Cryptography",
       "year": 2015,
       "venue": "international conference on computational science and its applications",
-      "years": "2015"
+      "n_citation": 0
     },
     {
+      "author": "Quist-Aphetsi Kester",
       "id": "Using Formal Concepts Analysis Techniques in Mining Data from Criminal Databases and Profiling Events Based on Factors to Understand Criminal Environments",
       "title": "Using Formal Concepts Analysis Techniques in Mining Data from Criminal Databases and Profiling Events Based on Factors to Understand Criminal Environments",
       "year": 2016,
       "venue": "international conference on computational science and its applications",
-      "years": "2016"
+      "n_citation": 0
     },
     {
+      "author": "Quist-Aphetsi Kester",
       "id": "A Security Technique for Authentication and Security of Medical Images in Health Information Systems",
       "title": "A Security Technique for Authentication and Security of Medical Images in Health Information Systems",
       "year": 2015,
       "venue": "international conference on computational science and its applications",
-      "years": "2015"
+      "n_citation": 0
     },
     {
+      "author": "Quist-Aphetsi Kester",
       "id": "A Visual Cryptographic Encryption Technique for Securing Medical Images",
       "title": "A Visual Cryptographic Encryption Technique for Securing Medical Images",
       "year": 2014,
       "venue": "international conference on computational science and its applications",
-      "years": "2014"
+      "n_citation": 50
     },
     {
-      "author": "Zheng Xu",
+      "authors": "Zheng Xu",
       "id": "Zheng Xu",
+      "n_citation": 0,
       "year": 2009
     },
     {
+      "author": "Zheng Xu",
       "id": "Analysis and modeling of the semantically associated network on the Web",
       "title": "Analysis and modeling of the semantically associated network on the Web",
       "year": 2010,
       "venue": "Concurrency and Computation: Practice and Experience",
-      "years": "2010"
+      "n_citation": 3
     },
     {
+      "author": "Zheng Xu",
       "id": "Building Web Knowledge Flows based on Interactive Computing with Semantics",
       "title": "Building Web Knowledge Flows based on Interactive Computing with Semantics",
       "year": 2010,
       "venue": "New Generation Computing",
-      "years": "2010"
+      "n_citation": 50
     },
     {
+      "author": "Zheng Xu",
       "id": "Simulation analysis on stimulation modes of three-dimension electrical impedance tomography",
       "title": "Simulation analysis on stimulation modes of three-dimension electrical impedance tomography",
       "year": 2010,
       "venue": "international conference on intelligent computing",
-      "years": "2010"
+      "n_citation": 0
     },
     {
+      "author": "Zheng Xu",
       "id": "Association link network: an incremental web resources link model for learning resources management",
       "title": "Association link network: an incremental web resources link model for learning resources management",
       "year": 2011,
       "venue": "international conference on intelligent computing",
-      "years": "2011"
+      "n_citation": 50
     },
     {
+      "author": "Zheng Xu",
       "id": "Teaching and Learning Guide for: Optimality Theory and Morphology",
       "title": "Teaching and Learning Guide for: Optimality Theory and Morphology",
       "year": 2011,
       "venue": "Language and Linguistics Compass",
-      "years": "2011"
+      "n_citation": 0
     },
     {
+      "author": "Zheng Xu",
       "id": "Measuring semantic similarity between words by removing noise and redundancy in web snippets",
       "title": "Measuring semantic similarity between words by removing noise and redundancy in web snippets",
       "year": 2011,
       "venue": "Concurrency and Computation: Practice and Experience",
-      "years": "2011"
+      "n_citation": 17
     },
     {
+      "author": "Zheng Xu",
       "id": "Study on the influences of quantum well structure on the performance of organic light emitting devices",
       "title": "Study on the influences of quantum well structure on the performance of organic light emitting devices",
       "year": 2011,
       "venue": "Displays",
-      "years": "2011"
+      "n_citation": 2
     },
     {
+      "author": "Zheng Xu",
       "id": "Error analysis of SLM based micro stereo vision model",
       "title": "Error analysis of SLM based micro stereo vision model",
       "year": 2012,
       "venue": "biomedical engineering and informatics",
-      "years": "2012"
+      "n_citation": 0
     },
     {
+      "author": "Zheng Xu",
       "id": "Towards indexing representative images on the web",
       "title": "Towards indexing representative images on the web",
       "year": 2012,
       "venue": "acm multimedia",
-      "years": "2012"
+      "n_citation": 23
     },
     {
+      "author": "Zheng Xu",
       "id": "Client-centric OLAP on mobile devices",
       "title": "Client-centric OLAP on mobile devices",
       "year": 2013,
       "venue": "international conference on data engineering",
-      "years": "2013"
+      "n_citation": 0
     },
     {
+      "author": "Zheng Xu",
       "id": "Investigating the Impact Factors for Event Detection Using Web Search Engines",
       "title": "Investigating the Impact Factors for Event Detection Using Web Search Engines",
       "year": 2013,
       "venue": "computational science and engineering",
-      "years": "2013"
+      "n_citation": 0
     },
     {
+      "author": "Zheng Xu",
       "id": "Using Association Link Network Model for Organizing Video Resources from Web",
       "title": "Using Association Link Network Model for Organizing Video Resources from Web",
       "year": 2013,
       "venue": "semantics, knowledge and grid",
-      "years": "2013"
+      "n_citation": 0
     },
     {
+      "author": "Zheng Xu",
       "id": "Measuring the Semantic Relatedness Between Images Using Social Tags",
       "title": "Measuring the Semantic Relatedness Between Images Using Social Tags",
       "year": 2013,
       "venue": "International Journal of Cognitive Informatics and Natural Intelligence",
-      "years": "2013"
+      "n_citation": 4
     },
     {
+      "author": "Zheng Xu",
       "id": "Spectral Efficiency of Carbon Nanotube Antenna Based MIMO Systems in the Terahertz Band",
       "title": "Spectral Efficiency of Carbon Nanotube Antenna Based MIMO Systems in the Terahertz Band",
       "year": 2013,
       "venue": "IEEE Wireless Communications Letters",
-      "years": "2013"
+      "n_citation": 50
     },
     {
+      "author": "Zheng Xu",
       "id": "Mining temporal explicit and implicit semantic relations between entities using web search engines",
       "title": "Mining temporal explicit and implicit semantic relations between entities using web search engines",
       "year": 2014,
       "venue": "Future Generation Computer Systems",
-      "years": "2014"
+      "n_citation": 40
     },
     {
+      "author": "Zheng Xu",
       "id": "Measuring the Web Event Evolution Based on Semantic Outbreak Degree",
       "title": "Measuring the Web Event Evolution Based on Semantic Outbreak Degree",
       "year": 2014,
       "venue": "semantics knowledge and grid",
-      "years": "2014"
+      "n_citation": 0
     },
     {
+      "author": "Zheng Xu",
       "id": "Generating Semantic Annotation of Video for Organizing and Searching Traffic Resources",
       "title": "Generating Semantic Annotation of Video for Organizing and Searching Traffic Resources",
       "year": 2014,
       "venue": "International Journal of Cognitive Informatics and Natural Intelligence",
-      "years": "2014"
+      "n_citation": 50
     },
     {
+      "author": "Zheng Xu",
       "id": "Semantic Link Network-Based Model for Organizing Multimedia Big Data",
       "title": "Semantic Link Network-Based Model for Organizing Multimedia Big Data",
       "year": 2014,
       "venue": "IEEE Transactions on Emerging Topics in Computing",
-      "years": "2014"
+      "n_citation": 122
     },
     {
+      "author": "Zheng Xu",
       "id": "Arc FMCW SAR and Applications in Ground Monitoring",
       "title": "Arc FMCW SAR and Applications in Ground Monitoring",
       "year": 2014,
       "venue": "IEEE Transactions on Geoscience and Remote Sensing",
-      "years": "2014"
+      "n_citation": 16
     },
     {
+      "author": "Zheng Xu",
       "id": "Exploiting Low-Rank Structure from Latent Domains for Domain Generalization",
       "title": "Exploiting Low-Rank Structure from Latent Domains for Domain Generalization",
       "year": 2014,
       "venue": "european conference on computer vision",
-      "years": "2014"
+      "n_citation": 50
     },
     {
+      "author": "Zheng Xu",
       "id": "Video structural description technology for the new generation video surveillance systems",
       "title": "Video structural description technology for the new generation video surveillance systems",
       "year": 2015,
       "venue": "Frontiers of Computer Science in China",
-      "years": "2015"
+      "n_citation": 28
     },
     {
+      "author": "Zheng Xu",
       "id": "Semantic Based Annotation for Surveillance Big Data Using Domain Knowledge",
       "title": "Semantic Based Annotation for Surveillance Big Data Using Domain Knowledge",
       "year": 2015,
       "venue": "International Journal of Cognitive Informatics and Natural Intelligence",
-      "years": "2015"
+      "n_citation": 0
     },
     {
+      "author": "Zheng Xu",
       "id": "Building the Multidimensional Semantic Index of Webpages for Facet Extraction",
       "title": "Building the Multidimensional Semantic Index of Webpages for Facet Extraction",
       "year": 2015,
       "venue": "International Journal of Cognitive Informatics and Natural Intelligence",
-      "years": "2015"
+      "n_citation": 2
     },
     {
+      "author": "Zheng Xu",
       "id": "Crowd sensing based semantic annotation of surveillance videos",
       "title": "Crowd sensing based semantic annotation of surveillance videos",
       "year": 2015,
       "venue": "International Journal of Distributed Sensor Networks",
-      "years": "2015"
+      "n_citation": 0
     },
     {
+      "author": "Zheng Xu",
       "id": "Semantic outbreak power based evolution of Web event in large-scale ubiquitous contexts",
       "title": "Semantic outbreak power based evolution of Web event in large-scale ubiquitous contexts",
       "year": 2015,
       "venue": "the internet of things",
-      "years": "2015"
+      "n_citation": 1
     },
     {
+      "author": "Zheng Xu",
       "id": "Crowd sensing based burst computing of events using social media",
       "title": "Crowd sensing based burst computing of events using social media",
       "year": 2015,
       "venue": "International Journal of Distributed Sensor Networks",
-      "years": "2015"
+      "n_citation": 0
     },
     {
+      "author": "Zheng Xu",
       "id": "A Locality Aware Convolutional Neural Networks Accelerator",
       "title": "A Locality Aware Convolutional Neural Networks Accelerator",
       "year": 2015,
       "venue": "digital systems design",
-      "years": "2015"
+      "n_citation": 3
     },
     {
+      "author": "Zheng Xu",
       "id": "A Heterogeneous System for Real-Time Detection with AdaBoost",
       "title": "A Heterogeneous System for Real-Time Detection with AdaBoost",
       "year": 2016,
       "venue": "high performance computing and communications",
-      "years": "2016"
+      "n_citation": 0
     },
     {
+      "author": "Zheng Xu",
       "id": "Public Sentiments Analysis Based on Fuzzy Logic for Text",
       "title": "Public Sentiments Analysis Based on Fuzzy Logic for Text",
       "year": 2016,
       "venue": "International Journal of Software Engineering and Knowledge Engineering",
-      "years": "2016"
+      "n_citation": 50
     },
     {
+      "author": "Zheng Xu",
       "id": "A Multi-Source Approach for Bug Triage",
       "title": "A Multi-Source Approach for Bug Triage",
       "year": 2016,
       "venue": "International Journal of Software Engineering and Knowledge Engineering",
-      "years": "2016"
+      "n_citation": 50
     },
     {
+      "author": "Zheng Xu",
       "id": "Combining the big data analysis and the threat intelligence technologies for the classified protection model",
       "title": "Combining the big data analysis and the threat intelligence technologies for the classified protection model",
       "year": 2017,
       "venue": "Cluster Computing",
-      "years": "2017"
+      "n_citation": 0
     },
     {
+      "author": "Zheng Xu",
       "id": "The Novel Design of a Single-Sided MRI Probe for Assessing Burn Depth",
       "title": "The Novel Design of a Single-Sided MRI Probe for Assessing Burn Depth",
       "year": 2017,
       "venue": "Sensors",
-      "years": "2017"
+      "n_citation": 0
     },
     {
+      "author": "Zheng Xu",
       "id": "An optimized approach for massive web page classification using entity similarity based on semantic network",
       "title": "An optimized approach for massive web page classification using entity similarity based on semantic network",
       "year": 2017,
       "venue": "Future Generation Computer Systems",
-      "years": "2017"
+      "n_citation": 0
     },
     {
+      "author": "Zheng Xu",
       "id": "A General Efficient Hyperparameter-Free Algorithm for Convolutional Sparse Learning",
       "title": "A General Efficient Hyperparameter-Free Algorithm for Convolutional Sparse Learning",
       "year": 2017,
       "venue": "national conference on artificial intelligence",
-      "years": "2017"
+      "n_citation": 0
     },
     {
+      "author": "Zheng Xu",
       "id": "Adaptive Relaxed ADMM: Convergence Theory and Practical Implementation",
       "title": "Adaptive Relaxed ADMM: Convergence Theory and Practical Implementation",
       "year": 2017,
       "venue": "arXiv: Computer Vision and Pattern Recognition",
-      "years": "2017"
+      "n_citation": 0
     },
     {
+      "author": "Zheng Xu",
       "id": "Special Issue on Big Data Analytics and Network Applications for Cyber-Physical Systems Wireless Personal Communications",
       "title": "Special Issue on Big Data Analytics and Network Applications for Cyber-Physical Systems Wireless Personal Communications",
       "year": 2017,
       "venue": "Wireless Personal Communications",
-      "years": "2017"
+      "n_citation": 0
     },
     {
+      "author": "Zheng Xu",
       "id": "Guest Editorial: Visual Multimedia Learning from Big Surveillance Data",
       "title": "Guest Editorial: Visual Multimedia Learning from Big Surveillance Data",
       "year": 2017,
       "venue": "Multimedia Tools and Applications",
-      "years": "2017"
+      "n_citation": 0
     },
     {
-      "author": "Hang Geng",
+      "authors": "Hang Geng",
       "id": "Hang Geng",
+      "n_citation": 0,
       "year": 2009
     },
     {
+      "author": "Hang Geng",
       "id": "Bias Estimation for Asynchronous Multi-rate Multi-sensor Fusion With Unknown Inputs",
       "title": "Bias Estimation for Asynchronous Multi-rate Multi-sensor Fusion With Unknown Inputs",
       "year": 2018,
       "venue": "Information Fusion",
-      "years": "2018"
+      "n_citation": 0
     },
     {
+      "author": "Hang Geng",
       "id": "Tobit Kalman Filter With Fading Measurements",
       "title": "Tobit Kalman Filter With Fading Measurements",
       "year": 2017,
       "venue": "Signal Processing",
-      "years": "2017"
+      "n_citation": 0
     },
     {
+      "author": "Hang Geng",
       "id": "The joint optimal filtering and fault detection for multi-rate sensor fusion under unknown inputs",
       "title": "The joint optimal filtering and fault detection for multi-rate sensor fusion under unknown inputs",
       "year": 2016,
       "venue": "Information Fusion",
-      "years": "2016"
+      "n_citation": 15
     },
     {
+      "author": "Hang Geng",
       "id": "Model-reduced fault detection for multi-rate sensor fusion with unknown inputs",
       "title": "Model-reduced fault detection for multi-rate sensor fusion with unknown inputs",
       "year": 2017,
       "venue": "Information Fusion",
-      "years": "2017"
+      "n_citation": 12
     },
     {
+      "author": "Hang Geng",
       "id": "Joint estimation of fast-updating state and intermittent-updating state",
       "title": "Joint estimation of fast-updating state and intermittent-updating state",
       "year": 2016,
       "venue": "international conference on autonomic computing",
-      "years": "2016"
+      "n_citation": 0
     },
     {
-      "author": "Lifeng Ma",
+      "authors": "Lifeng Ma",
       "id": "Lifeng Ma",
+      "n_citation": 0,
       "year": 2009
     },
     {
+      "author": "Lifeng Ma",
       "id": "Event-based distributed information fusion over sensor networks",
       "title": "Event-based distributed information fusion over sensor networks",
       "year": 2018,
       "venue": "Information Fusion",
-      "years": "2018"
+      "n_citation": 0
     },
     {
+      "author": "Lifeng Ma",
       "id": "Mean-Square H∞ Consensus Control for a Class of Nonlinear Time-Varying Stochastic Multiagent Systems: The Finite-Horizon Case",
       "title": "Mean-Square H∞ Consensus Control for a Class of Nonlinear Time-Varying Stochastic Multiagent Systems: The Finite-Horizon Case",
       "year": 2016,
       "venue": "IEEE Transactions on Systems, Man, and Cybernetics",
-      "years": "2016"
+      "n_citation": 50
     },
     {
+      "author": "Lifeng Ma",
       "id": "Passivity analysis for discrete-time neural networks with mixed time-delays and randomly occurring quantization effects ☆",
       "title": "Passivity analysis for discrete-time neural networks with mixed time-delays and randomly occurring quantization effects ☆",
       "year": 2016,
       "venue": "Neurocomputing",
-      "years": "2016"
+      "n_citation": 15
     },
     {
+      "author": "Lifeng Ma",
       "id": "Event-Triggered Mean-Square Consensus Control for Time-Varying Stochastic Multi-Agent System with Sensor Saturations",
       "title": "Event-Triggered Mean-Square Consensus Control for Time-Varying Stochastic Multi-Agent System with Sensor Saturations",
       "year": 2016,
       "venue": "IEEE Transactions on Automatic Control",
-      "years": "2016"
+      "n_citation": 50
     },
     {
+      "author": "Lifeng Ma",
       "id": "Consensus control for nonlinear multi-agent systems subject to deception attacks",
       "title": "Consensus control for nonlinear multi-agent systems subject to deception attacks",
       "year": 2016,
       "venue": "international conference on autonomic computing",
-      "years": "2016"
+      "n_citation": 0
     },
     {
+      "author": "Lifeng Ma",
       "id": "Robust variance-constrained filtering for a class of nonlinear stochastic systems with missing measurements",
       "title": "Robust variance-constrained filtering for a class of nonlinear stochastic systems with missing measurements",
       "year": 2010,
       "venue": "Signal Processing",
-      "years": "2010"
+      "n_citation": 50
     },
     {
+      "author": "Lifeng Ma",
       "id": "Finite-horizon ℋ 2/ℋ ∞ control for a class of nonlinear Markovian jump systems with probabilistic sensor failures",
       "title": "Finite-horizon ℋ 2/ℋ ∞ control for a class of nonlinear Markovian jump systems with probabilistic sensor failures",
       "year": 2011,
       "venue": "International Journal of Control",
-      "years": "2011"
+      "n_citation": 50
     },
     {
+      "author": "Lifeng Ma",
       "id": "Sliding mode control for a class of nonlinear discrete-time networked systems with multiple stochastic communication delays",
       "title": "Sliding mode control for a class of nonlinear discrete-time networked systems with multiple stochastic communication delays",
       "year": 2011,
       "venue": "International Journal of Systems Science",
-      "years": "2011"
+      "n_citation": 24
     },
     {
+      "author": "Lifeng Ma",
       "id": "A game theory approach to mixed H2/H∞ control for a class of stochastic time-varying systems with randomly occurring nonlinearities",
       "title": "A game theory approach to mixed H2/H∞ control for a class of stochastic time-varying systems with randomly occurring nonlinearities",
       "year": 2011,
       "venue": "Systems & Control Letters",
-      "years": "2011"
+      "n_citation": 3
     },
     {
-      "author": "Carmen Campomanes-Alvarez",
+      "authors": "Carmen Campomanes-Alvarez",
       "id": "Carmen Campomanes-Alvarez",
+      "n_citation": 0,
       "year": 2009
     },
     {
+      "author": "Carmen Campomanes-Alvarez",
       "id": "Hierarchical information fusion for decision making in craniofacial superimposition",
       "title": "Hierarchical information fusion for decision making in craniofacial superimposition",
       "year": 2018,
       "venue": "Information Fusion",
-      "years": "2018"
+      "n_citation": 0
     },
     {
+      "author": "Carmen Campomanes-Alvarez",
       "id": "Design of criteria to assess craniofacial correspondence in forensic identification based on computer vision and fuzzy integrals",
       "title": "Design of criteria to assess craniofacial correspondence in forensic identification based on computer vision and fuzzy integrals",
       "year": 2016,
       "venue": "soft computing",
-      "years": "2016"
+      "n_citation": 6
     },
     {
+      "author": "Carmen Campomanes-Alvarez",
       "id": "An experimental study on fuzzy distances for skull–face overlay in craniofacial superimposition",
       "title": "An experimental study on fuzzy distances for skull–face overlay in craniofacial superimposition",
       "year": 2017,
       "venue": "Fuzzy Sets and Systems",
-      "years": "2017"
+      "n_citation": 50
     },
     {
+      "author": "Carmen Campomanes-Alvarez",
       "id": "Experimental study of different aggregation functions for modeling craniofacial correspondence in craniofacial superimposition",
       "title": "Experimental study of different aggregation functions for modeling craniofacial correspondence in craniofacial superimposition",
       "year": 2016,
       "venue": "ieee international conference on fuzzy systems",
-      "years": "2016"
+      "n_citation": 2
     },
     {
+      "author": "Carmen Campomanes-Alvarez",
       "id": "Modeling Facial Soft Tissue Thickness for Automatic Skull-Face Overlay",
       "title": "Modeling Facial Soft Tissue Thickness for Automatic Skull-Face Overlay",
       "year": 2015,
       "venue": "IEEE Transactions on Information Forensics and Security",
-      "years": "2015"
+      "n_citation": 11
     },
     {
-      "author": "Ricardo F. Alvear-Sandoval",
+      "authors": "Ricardo F. Alvear-Sandoval",
       "id": "Ricardo F. Alvear-Sandoval",
+      "n_citation": 0,
       "year": 2009
     },
     {
+      "author": "Ricardo F. Alvear-Sandoval",
       "id": "On building ensembles of stacked denoising auto-encoding classifiers and their further improvement",
       "title": "On building ensembles of stacked denoising auto-encoding classifiers and their further improvement",
       "year": 2018,
       "venue": "Information Fusion",
-      "years": "2018"
+      "n_citation": 0
     },
     {
-      "author": "Chuanbo Wen",
+      "authors": "Chuanbo Wen",
       "id": "Chuanbo Wen",
+      "n_citation": 0,
       "year": 2009
     },
     {
+      "author": "Chuanbo Wen",
       "id": "Event-based distributed recursive filtering for state-saturated systems with redundant channels",
       "title": "Event-based distributed recursive filtering for state-saturated systems with redundant channels",
       "year": 2018,
       "venue": "Information Fusion",
-      "years": "2018"
+      "n_citation": 0
     },
     {
+      "author": "Chuanbo Wen",
       "id": "Filter design based on characteristic functions for one class of multi-dimensional nonlinear non-Gaussian systems",
       "title": "Filter design based on characteristic functions for one class of multi-dimensional nonlinear non-Gaussian systems",
       "year": 2017,
       "venue": "Automatica",
-      "years": "2017"
+      "n_citation": 0
     },
     {
+      "author": "Chuanbo Wen",
       "id": "A reduced-order approach to filtering for systems with linear equality constraints",
       "title": "A reduced-order approach to filtering for systems with linear equality constraints",
       "year": 2016,
       "venue": "Neurocomputing",
-      "years": "2016"
+      "n_citation": 13
     },
     {
+      "author": "Chuanbo Wen",
       "id": "Joint estimation of fast-updating state and intermittent-updating state",
       "title": "Joint estimation of fast-updating state and intermittent-updating state",
       "year": 2016,
       "venue": "international conference on autonomic computing",
-      "years": "2016"
+      "n_citation": 0
     },
     {
+      "author": "Chuanbo Wen",
       "id": "A new fault detection method of induction motor",
       "title": "A new fault detection method of induction motor",
       "year": 2010,
       "venue": "artificial intelligence and computational intelligence",
-      "years": "2010"
+      "n_citation": 1
     },
     {
-      "author": "Sen Qiu",
+      "authors": "Sen Qiu",
       "id": "Sen Qiu",
+      "n_citation": 0,
       "year": 2009
     },
     {
+      "author": "Sen Qiu",
       "id": "Inertial/magnetic sensors based pedestrian dead reckoning by means of multi-sensor fusion",
       "title": "Inertial/magnetic sensors based pedestrian dead reckoning by means of multi-sensor fusion",
       "year": 2018,
       "venue": "Information Fusion",
-      "years": "2018"
+      "n_citation": 0
     },
     {
+      "author": "Sen Qiu",
       "id": "Heterogeneous data fusion for three-dimensional gait analysis using wearable MARG sensors",
       "title": "Heterogeneous data fusion for three-dimensional gait analysis using wearable MARG sensors",
       "year": 2017,
       "venue": "International Journal of Computational Science and Engineering",
-      "years": "2017"
+      "n_citation": 0
     },
     {
+      "author": "Sen Qiu",
       "id": "Using Distributed Wearable Sensors to Measure and Evaluate Human Lower Limb Motions",
       "title": "Using Distributed Wearable Sensors to Measure and Evaluate Human Lower Limb Motions",
       "year": 2016,
       "venue": "IEEE Transactions on Instrumentation and Measurement",
-      "years": "2016"
+      "n_citation": 15
     },
     {
+      "author": "Sen Qiu",
       "id": "Human motion phase segmentation based on three new features",
       "title": "Human motion phase segmentation based on three new features",
       "year": 2016,
       "venue": "computer supported cooperative work in design",
-      "years": "2016"
+      "n_citation": 0
     },
     {
+      "author": "Sen Qiu",
       "id": "Relearning probability neural network for monitoring human behaviors by using wireless sensor networks",
       "title": "Relearning probability neural network for monitoring human behaviors by using wireless sensor networks",
       "year": 2013,
       "venue": "international symposium on neural networks",
-      "years": "2013"
+      "n_citation": 0
     },
     {
-      "author": "Pengwen Xiong",
+      "authors": "Pengwen Xiong",
       "id": "Pengwen Xiong",
+      "n_citation": 0,
       "year": 2009
     },
     {
+      "author": "Pengwen Xiong",
       "id": "Design of an accurate end-of-arm force display system based on wearable arm gesture sensors and EMG sensors",
       "title": "Design of an accurate end-of-arm force display system based on wearable arm gesture sensors and EMG sensors",
       "year": 2018,
       "venue": "Information Fusion",
-      "years": "2018"
+      "n_citation": 0
     },
     {
+      "author": "Pengwen Xiong",
       "id": "Visual-Haptic Aid Teleoperation Based on 3-D Environment Modeling and Updating",
       "title": "Visual-Haptic Aid Teleoperation Based on 3-D Environment Modeling and Updating",
       "year": 2016,
       "venue": "IEEE Transactions on Industrial Electronics",
-      "years": "2016"
+      "n_citation": 7
     },
     {
+      "author": "Pengwen Xiong",
       "id": "Egocentric-Vision based Hand Posture Control System for Reconnaissance Robots",
       "title": "Egocentric-Vision based Hand Posture Control System for Reconnaissance Robots",
       "year": 2016,
       "venue": "Journal of Intelligent and Robotic Systems",
-      "years": "2016"
+      "n_citation": 0
     },
     {
+      "author": "Pengwen Xiong",
       "id": "Hierarchical safety supervisory control strategy for robot-assisted rehabilitation exercise",
       "title": "Hierarchical safety supervisory control strategy for robot-assisted rehabilitation exercise",
       "year": 2013,
       "venue": "Robotica",
-      "years": "2013"
+      "n_citation": 50
     },
     {
-      "author":  "Yi-Tung Chan",
+      "authors":  "Yi-Tung Chan",
       "id":  "Yi-Tung Chan",
+      "n_citation": 0,
       "year": 2009
     },
     {
+      "author":  "Yi-Tung Chan",
       "id": "Real-time foreground detection approach based on adaptive ensemble learning with arbitrary algorithms for changing environments",
       "title": "Real-time foreground detection approach based on adaptive ensemble learning with arbitrary algorithms for changing environments",
       "year": 2018,
       "venue": "Information Fusion",
-      "years": "2018"
+      "n_citation": 0
     },
     {
-      "author":  "Mahdi Abavisani",
+      "authors":  "Mahdi Abavisani",
       "id":  "Mahdi Abavisani",
+      "n_citation": 0,
       "year": 2009
     },
     {
+      "author":  "Mahdi Abavisani",
       "id": "Multimodal Sparse and Low-Rank Subspace Clustering",
       "title": "Multimodal Sparse and Low-Rank Subspace Clustering",
       "year": 2018,
       "venue": "Information Fusion",
-      "years": "2018"
+      "n_citation": 0
     },
     {
+      "author":  "Mahdi Abavisani",
       "id": "Domain Adaptive Subspace Clustering.",
       "title": "Domain Adaptive Subspace Clustering.",
       "year": 2016,
       "venue": "british machine vision conference",
-      "years": "2016"
+      "n_citation": 0
     },
     {
+      "author":  "Mahdi Abavisani",
       "id": "LFM signal detection and estimation based on sparse representation",
       "title": "LFM signal detection and estimation based on sparse representation",
       "year": 2015,
       "venue": "conference on information sciences and systems",
-      "years": "2015"
+      "n_citation": 2
     },
     {
-      "author":  "Shiji Song",
+      "authors":  "Shiji Song",
       "id":  "Shiji Song",
+      "n_citation": 0,
       "year": 2009
     },
     {
+      "author":  "Shiji Song",
       "id": "An inventory model with stochastic lead-time and stochastic demand",
       "title": "An inventory model with stochastic lead-time and stochastic demand",
       "year": 2010,
       "venue": "international conference on control and automation",
-      "years": "2010"
+      "n_citation": 0
     },
     {
+      "author":  "Shiji Song",
       "id": "Modeling and optimization of ocean-going unloading problem with stochastic arrival time",
       "title": "Modeling and optimization of ocean-going unloading problem with stochastic arrival time",
       "year": 2010,
       "venue": "international conference on control and automation",
-      "years": "2010"
+      "n_citation": 0
     },
     {
+      "author":  "Shiji Song",
       "id": "Multi-echelon multi-item dynamic inventory management via decomposition and coordination algorithm",
       "title": "Multi-echelon multi-item dynamic inventory management via decomposition and coordination algorithm",
       "year": 2010,
       "venue": "international conference on networking sensing and control",
-      "years": "2010"
+      "n_citation": 0
     },
     {
+      "author":  "Shiji Song",
       "id": "Truncation error calculation based on Richardson extrapolation for variable-step collaborative simulation",
       "title": "Truncation error calculation based on Richardson extrapolation for variable-step collaborative simulation",
       "year": 2011,
       "venue": "Science in China Series F: Information Sciences",
-      "years": "2011"
+      "n_citation": 5
     },
     {
+      "author":  "Shiji Song",
       "id": "Two techniques to improve the NEH algorithm for flow-shop scheduling problems",
       "title": "Two techniques to improve the NEH algorithm for flow-shop scheduling problems",
       "year": 2011,
       "venue": "international conference on intelligent computing",
-      "years": "2011"
+      "n_citation": 7
     },
     {
+      "author":  "Shiji Song",
       "id": "A hybrid genetic algorithm for two-stage multi-item inventory system with stochastic demand",
       "title": "A hybrid genetic algorithm for two-stage multi-item inventory system with stochastic demand",
       "year": 2012,
       "venue": "Neural Computing and Applications",
-      "years": "2012"
+      "n_citation": 50
     },
     {
+      "author":  "Shiji Song",
       "id": "Improved conjugate gradient implementation for least squares support vector machines",
       "title": "Improved conjugate gradient implementation for least squares support vector machines",
       "year": 2012,
       "venue": "Pattern Recognition Letters",
-      "years": "2012"
+      "n_citation": 50
     },
     {
+      "author":  "Shiji Song",
       "id": "A two-stage hybrid particle swarm optimization algorithm for the stochastic job shop scheduling problem",
       "title": "A two-stage hybrid particle swarm optimization algorithm for the stochastic job shop scheduling problem",
       "year": 2012,
       "venue": "Knowledge Based Systems",
-      "years": "2012"
+      "n_citation": 50
     },
     {
+      "author":  "Shiji Song",
       "id": "Robust Support Vector Regression for Uncertain Input and Output Data",
       "title": "Robust Support Vector Regression for Uncertain Input and Output Data",
       "year": 2012,
       "venue": "IEEE Transactions on Neural Networks",
-      "years": "2012"
+      "n_citation": 50
     },
     {
+      "author":  "Shiji Song",
       "id": "Impulsive Control for Existence, Uniqueness, and Global Stability of Periodic Solutions of Recurrent Neural Networks With Discrete and Continuously Distributed Delays",
       "title": "Impulsive Control for Existence, Uniqueness, and Global Stability of Periodic Solutions of Recurrent Neural Networks With Discrete and Continuously Distributed Delays",
       "year": 2013,
       "venue": "IEEE Transactions on Neural Networks",
-      "years": "2013"
+      "n_citation": 56
     },
     {
+      "author":  "Shiji Song",
       "id": "Some heuristics for no-wait flowshops with total tardiness criterion",
       "title": "Some heuristics for no-wait flowshops with total tardiness criterion",
       "year": 2013,
       "venue": "Computers & Operations Research",
-      "years": "2013"
+      "n_citation": 15
     },
     {
+      "author":  "Shiji Song",
       "id": "Asymptotically Optimal Parameter Estimation With Scheduled Measurements",
       "title": "Asymptotically Optimal Parameter Estimation With Scheduled Measurements",
       "year": 2013,
       "venue": "IEEE Transactions on Signal Processing",
-      "years": "2013"
+      "n_citation": 23
     },
     {
+      "author":  "Shiji Song",
       "id": "Kernelized LARS–LASSO for constructing radial basis function neural networks",
       "title": "Kernelized LARS–LASSO for constructing radial basis function neural networks",
       "year": 2013,
       "venue": "Neural Computing and Applications",
-      "years": "2013"
+      "n_citation": 50
     },
     {
+      "author":  "Shiji Song",
       "id": "A hybrid differential evolution algorithm for job shop scheduling problems with expected total tardiness criterion",
       "title": "A hybrid differential evolution algorithm for job shop scheduling problems with expected total tardiness criterion",
       "year": 2013,
       "venue": "soft computing",
-      "years": "2013"
+      "n_citation": 50
     },
     {
+      "author":  "Shiji Song",
       "id": "Minimizing makespan for a no-wait flowshop using tabu mechanism improved iterated greedy algorithm",
       "title": "Minimizing makespan for a no-wait flowshop using tabu mechanism improved iterated greedy algorithm",
       "year": 2014,
       "venue": "congress on evolutionary computation",
-      "years": "2014"
+      "n_citation": 4
     },
     {
+      "author":  "Shiji Song",
       "id": "Transductive Minimax Probability Machine",
       "title": "Transductive Minimax Probability Machine",
       "year": 2014,
       "venue": "european conference on principles of data mining and knowledge discovery",
-      "years": "2014"
+      "n_citation": 50
     },
     {
+      "author":  "Shiji Song",
       "id": "Non-linear neighborhood component analysis based on constructive neural networks",
       "title": "Non-linear neighborhood component analysis based on constructive neural networks",
       "year": 2014,
       "venue": "systems, man and cybernetics",
-      "years": "2014"
+      "n_citation": 2
     },
     {
+      "author":  "Shiji Song",
       "id": "Semi-Supervised and Unsupervised Extreme Learning Machines",
       "title": "Semi-Supervised and Unsupervised Extreme Learning Machines",
       "year": 2014,
       "venue": "IEEE Transactions on Systems, Man, and Cybernetics",
-      "years": "2014"
+      "n_citation": 295
     },
     {
+      "author":  "Shiji Song",
       "id": "Likelihood ratio based communication for distributed detection",
       "title": "Likelihood ratio based communication for distributed detection",
       "year": 2014,
       "venue": "international conference on control and automation",
-      "years": "2014"
+      "n_citation": 50
     },
     {
+      "author":  "Shiji Song",
       "id": "Dual active set method for support vector machines under multi-constraint activation",
       "title": "Dual active set method for support vector machines under multi-constraint activation",
       "year": 2015,
       "venue": "Neurocomputing",
-      "years": "2015"
+      "n_citation": 1
     },
     {
+      "author":  "Shiji Song",
       "id": "An improved iterated greedy algorithm with a Tabu-based reconstruction strategy for the no-wait flowshop scheduling problem",
       "title": "An improved iterated greedy algorithm with a Tabu-based reconstruction strategy for the no-wait flowshop scheduling problem",
       "year": 2015,
       "venue": "soft computing",
-      "years": "2015"
+      "n_citation": 50
     },
     {
+      "author":  "Shiji Song",
       "id": "Unsupervised neighborhood component analysis for clustering",
       "title": "Unsupervised neighborhood component analysis for clustering",
       "year": 2015,
       "venue": "Neurocomputing",
-      "years": "2015"
+      "n_citation": 13
     },
     {
+      "author":  "Shiji Song",
       "id": "Efficient Lasso training from a geometrical perspective",
       "title": "Efficient Lasso training from a geometrical perspective",
       "year": 2015,
       "venue": "Neurocomputing",
-      "years": "2015"
+      "n_citation": 7
     },
     {
+      "author":  "Shiji Song",
       "id": "Discriminative clustering via extreme learning machine",
       "title": "Discriminative clustering via extreme learning machine",
       "year": 2015,
       "venue": "Neural Networks",
-      "years": "2015"
+      "n_citation": 12
     },
     {
+      "author":  "Shiji Song",
       "id": "Solving a Multi-Level Capacitated Lot Sizing Problem with Random Demand via a Fix-and-Optimize heuristic",
       "title": "Solving a Multi-Level Capacitated Lot Sizing Problem with Random Demand via a Fix-and-Optimize heuristic",
       "year": 2015,
       "venue": "congress on evolutionary computation",
-      "years": "2015"
+      "n_citation": 0
     },
     {
+      "author":  "Shiji Song",
       "id": "A source-seeking strategy for an autonomous underwater vehicle via on-line field estimation",
       "title": "A source-seeking strategy for an autonomous underwater vehicle via on-line field estimation",
       "year": 2016,
       "venue": "international conference on control, automation, robotics and vision",
-      "years": "2016"
+      "n_citation": 0
     },
     {
+      "author":  "Shiji Song",
       "id": "Unsupervised learning of Dirichlet process mixture models with missing data",
       "title": "Unsupervised learning of Dirichlet process mixture models with missing data",
       "year": 2016,
       "venue": "Science in China Series F: Information Sciences",
-      "years": "2016"
+      "n_citation": 1
     },
     {
+      "author":  "Shiji Song",
       "id": "Second-order consensus of multi-agent systems under limited interaction ranges",
       "title": "Second-order consensus of multi-agent systems under limited interaction ranges",
       "year": 2016,
       "venue": "Automatica",
-      "years": "2016"
+      "n_citation": 7
     },
     {
+      "author":  "Shiji Song",
       "id": "Parallel Machine Scheduling Under Time-of-Use Electricity Prices: New Models and Optimization Approaches",
       "title": "Parallel Machine Scheduling Under Time-of-Use Electricity Prices: New Models and Optimization Approaches",
       "year": 2016,
       "venue": "IEEE Transactions on Automation Science and Engineering",
-      "years": "2016"
+      "n_citation": 16
     },
     {
+      "author":  "Shiji Song",
       "id": "Prediction Reweighting for Domain Adaptation",
       "title": "Prediction Reweighting for Domain Adaptation",
       "year": 2016,
       "venue": "IEEE Transactions on Neural Networks",
-      "years": "2016"
+      "n_citation": 0
     },
     {
+      "author":  "Shiji Song",
       "id": "Stochastic Source Seeking with Forward and Angular Velocity Regulation",
       "title": "Stochastic Source Seeking with Forward and Angular Velocity Regulation",
       "year": 2016,
       "venue": "arXiv: Optimization and Control",
-      "years": "2016"
+      "n_citation": 0
     },
     {
+      "author":  "Shiji Song",
       "id": "Effect of delayed impulses on input-to-state stability of nonlinear systems ☆",
       "title": "Effect of delayed impulses on input-to-state stability of nonlinear systems ☆",
       "year": 2017,
       "venue": "Automatica",
-      "years": "2017"
+      "n_citation": 50
     },
     {
+      "author":  "Shiji Song",
       "id": "Distributed Random-Fixed Projected Algorithm for Constrained Optimization Over Digraphs",
       "title": "Distributed Random-Fixed Projected Algorithm for Constrained Optimization Over Digraphs",
       "year": 2017,
       "venue": "arXiv: Distributed, Parallel, and Cluster Computing",
-      "years": "2017"
+      "n_citation": 0
     },
     {
+      "author":  "Shiji Song",
       "id": "Twin Extreme Learning Machines for Pattern Classification",
       "title": "Twin Extreme Learning Machines for Pattern Classification",
       "year": 2017,
       "venue": "Neurocomputing",
-      "years": "2017"
+      "n_citation": 0
     },
     {
+      "author":  "Shiji Song",
       "id": "Likelihood Ratio Based Scheduler for Secure Detection in Cyber Physical Systems",
       "title": "Likelihood Ratio Based Scheduler for Secure Detection in Cyber Physical Systems",
       "year": 2017,
       "venue": "IEEE Transactions on Control of Network Systems",
-      "years": "2017"
+      "n_citation": 0
     },
     {
+      "author":  "Shiji Song",
       "id": "Stabilization of Delay Systems: Delay-Dependent Impulsive Control",
       "title": "Stabilization of Delay Systems: Delay-Dependent Impulsive Control",
       "year": 2017,
       "venue": "IEEE Transactions on Automatic Control",
-      "years": "2017"
+      "n_citation": 50
     },
     {
+      "author":  "Shiji Song",
       "id": "Dimension Reduction by Minimum Error Minimax Probability Machine",
       "title": "Dimension Reduction by Minimum Error Minimax Probability Machine",
       "year": 2017,
       "venue": "systems man and cybernetics",
-      "years": "2017"
+      "n_citation": 0
     },
     {
+      "author":  "Shiji Song",
       "id": "Distributionally robust single machine scheduling with risk aversion",
       "title": "Distributionally robust single machine scheduling with risk aversion",
       "year": 2017,
       "venue": "European Journal of Operational Research",
-      "years": "2017"
+      "n_citation": 3
     },
     {
+      "author":  "Shiji Song",
       "id": "A multi-objective artificial bee colony algorithm for parallel batch-processing machine scheduling in fabric dyeing processes",
       "title": "A multi-objective artificial bee colony algorithm for parallel batch-processing machine scheduling in fabric dyeing processes",
       "year": 2017,
       "venue": "Knowledge Based Systems",
-      "years": "2017"
+      "n_citation": 0
     },
     {
-      "author": "Cyril Bornet",
+      "authors": "Cyril Bornet",
       "id": "Cyril Bornet",
+      "n_citation": 0,
       "year": 2009
     },
     {
+      "author": "Cyril Bornet",
       "id": "A Simple Set of Rules for Characters and Place Recognition in French Novels",
       "title": "A Simple Set of Rules for Characters and Place Recognition in French Novels",
       "year": 2017,
       "venue": "Frontiers in Digital Humanities",
-      "years": "2017"
+      "n_citation": 0
     },
     {
-      "author": "Vincent Buntinx",
+      "authors": "Vincent Buntinx",
       "id": "Vincent Buntinx",
+      "n_citation": 0,
       "year": 2009
     },
     {
+      "author": "Vincent Buntinx",
       "id": "Studying Linguistic Changes over 200 Years of Newspapers through Resilient Words Analysis",
       "title": "Studying Linguistic Changes over 200 Years of Newspapers through Resilient Words Analysis",
       "year": 2017,
       "venue": "Frontiers in Digital Humanities",
-      "years": "2017"
+      "n_citation": 0
     },
     {
-      "author": "Frédéric Kaplan",
+      "authors": "Frédéric Kaplan",
       "id": "Frédéric Kaplan",
+      "n_citation": 0,
       "year": 2009
     },
     {
+      "author": "Frédéric Kaplan",
       "id": "Anthropomorphic language in online forums about Roomba, AIBO and the iPad",
       "title": "Anthropomorphic language in online forums about Roomba, AIBO and the iPad",
       "year": 2012,
       "venue": "advanced robotics and its social impacts",
-      "years": "2012"
+      "n_citation": 11
     },
     {
+      "author": "Frédéric Kaplan",
       "id": "Mapping the Early Modern News Flow: An Enquiry by Robust Text Reuse Detection",
       "title": "Mapping the Early Modern News Flow: An Enquiry by Robust Text Reuse Detection",
       "year": 2015,
       "venue": "advanced robotics and its social impacts",
-      "years": "2015"
+      "n_citation": 50
     },
     {
+      "author": "Frédéric Kaplan",
       "id": "The References of References: Enriching Library Catalogs via Domain-Specific Reference Mining",
       "title": "The References of References: Enriching Library Catalogs via Domain-Specific Reference Mining",
       "year": 2016,
       "venue": "european conference on information retrieval",
-      "years": "2016"
+      "n_citation": 2
     },
     {
+      "author": "Frédéric Kaplan",
       "id": "Visual Link Retrieval in a Database of Paintings",
       "title": "Visual Link Retrieval in a Database of Paintings",
       "year": 2016,
       "venue": "european conference on computer vision",
-      "years": "2016"
+      "n_citation": 4
     },
     {
+      "author": "Frédéric Kaplan",
       "id": "The Venice Time Machine",
       "title": "The Venice Time Machine",
       "year": 2015,
       "venue": "document engineering",
-      "years": "2015"
+      "n_citation": 50
     },
     {
+      "author": "Frédéric Kaplan",
       "id": "Supporting opportunistic search in meetings with tangible tabletop",
       "title": "Supporting opportunistic search in meetings with tangible tabletop",
       "year": 2012,
       "venue": "human factors in computing systems",
-      "years": "2012"
+      "n_citation": 1
     },
     {
+      "author": "Frédéric Kaplan",
       "id": "PaperComp 2010: first international workshop on paper computing",
       "title": "PaperComp 2010: first international workshop on paper computing",
       "year": 2010,
       "venue": "ubiquitous computing",
-      "years": "2010"
+      "n_citation": 50
     },
     {
+      "author": "Frédéric Kaplan",
       "id": "Paper interface design for classroom orchestration",
       "title": "Paper interface design for classroom orchestration",
       "year": 2011,
       "venue": "human factors in computing systems",
-      "years": "2011"
+      "n_citation": 50
     },
     {
+      "author": "Frédéric Kaplan",
       "id": "Can a table regulate participation in top level managers' meetings?",
       "title": "Can a table regulate participation in top level managers' meetings?",
       "year": 2012,
       "venue": "international conference on supporting group work",
-      "years": "2012"
+      "n_citation": 50
     },
     {
+      "author": "Frédéric Kaplan",
       "id": "An Interactive Table for Supporting Participation Balance in Face-to-Face Collaborative Learning",
       "title": "An Interactive Table for Supporting Participation Balance in Face-to-Face Collaborative Learning",
       "year": 2010,
       "venue": "IEEE Transactions on Learning Technologies",
-      "years": "2010"
+      "n_citation": 75
     },
     {
+      "author": "Frédéric Kaplan",
       "id": "Living With a Vacuum Cleaning Robot - A 6-month Ethnographic Study",
       "title": "Living With a Vacuum Cleaning Robot - A 6-month Ethnographic Study",
       "year": 2013,
       "venue": "International Journal of Social Robotics",
-      "years": "2013"
+      "n_citation": 10
     },
     {
+      "author": "Frédéric Kaplan",
       "id": "A Map for Big Data Research in Digital Humanities",
       "title": "A Map for Big Data Research in Digital Humanities",
       "year": 2015,
       "venue": "Frontiers in Digital Humanities",
-      "years": "2015"
+      "n_citation": 24
     },
     {
+      "author": "Frédéric Kaplan",
       "id": "Paper interfaces for learning geometry",
       "title": "Paper interfaces for learning geometry",
       "year": 2012,
       "venue": "european conference on technology enhanced learning",
-      "years": "2012"
+      "n_citation": 19
     },
     {
-      "author": "Andrea Mazzei",
+      "authors": "Andrea Mazzei",
       "id": "Andrea Mazzei",
+      "n_citation": 0,
       "year": 2009
     },
     {
+      "author": "Andrea Mazzei",
       "id": "Shared Annotations: The Social Side of Exam Preparation",
       "title": "Shared Annotations: The Social Side of Exam Preparation",
       "year": 2013,
       "venue": "european conference on technology enhanced learning",
-      "years": "2013"
+      "n_citation": 3
     },
     {
-      "author": "Pierre Dillenbourg",
+      "authors": "Pierre Dillenbourg",
       "id": "Pierre Dillenbourg",
+      "n_citation": 0,
       "year": 2009
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "Flag: an ambient awareness tool to support informal collaborative learning",
       "title": "Flag: an ambient awareness tool to support informal collaborative learning",
       "year": 2010,
       "venue": "international conference on supporting group work",
-      "years": "2010"
+      "n_citation": 0
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "Roombots: Reconfigurable Robots for Adaptive Furniture",
       "title": "Roombots: Reconfigurable Robots for Adaptive Furniture",
       "year": 2010,
       "venue": "IEEE Computational Intelligence Magazine",
-      "years": "2010"
+      "n_citation": 69
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "The effects of mutual location-awareness on group coordination",
       "title": "The effects of mutual location-awareness on group coordination",
       "year": 2010,
       "venue": "International Journal of Human-computer Studies \\/ International Journal of Man-machine Studies",
-      "years": "2010"
+      "n_citation": 8
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "Paper interface design for classroom orchestration",
       "title": "Paper interface design for classroom orchestration",
       "year": 2011,
       "venue": "human factors in computing systems",
-      "years": "2011"
+      "n_citation": 50
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "Interactive tabletops in education",
       "title": "Interactive tabletops in education",
       "year": 2011,
       "venue": "computer supported collaborative learning",
-      "years": "2011"
+      "n_citation": 189
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "Benefits of a Tangible Interface for Collaborative Learning and Interaction",
       "title": "Benefits of a Tangible Interface for Collaborative Learning and Interaction",
       "year": 2011,
       "venue": "IEEE Transactions on Learning Technologies",
-      "years": "2011"
+      "n_citation": 110
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "Facilitating peer knowledge modeling: Effects of a knowledge awareness tool on collaborative learning outcomes and processes",
       "title": "Facilitating peer knowledge modeling: Effects of a knowledge awareness tool on collaborative learning outcomes and processes",
       "year": 2011,
       "venue": "Computers in Human Behavior",
-      "years": "2011"
+      "n_citation": 56
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "Tangible vs. virtual representations: when tangibles benefit the training of spatial skills",
       "title": "Tangible vs. virtual representations: when tangibles benefit the training of spatial skills",
       "year": 2012,
       "venue": "nordic conference on human-computer interaction",
-      "years": "2012"
+      "n_citation": 50
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "Can a table regulate participation in top level managers' meetings?",
       "title": "Can a table regulate participation in top level managers' meetings?",
       "year": 2012,
       "venue": "international conference on supporting group work",
-      "years": "2012"
+      "n_citation": 50
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "TinkerLamp 2.0: designing and evaluating orchestration technologies for the classroom",
       "title": "TinkerLamp 2.0: designing and evaluating orchestration technologies for the classroom",
       "year": 2012,
       "venue": "european conference on technology enhanced learning",
-      "years": "2012"
+      "n_citation": 18
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "Paper interfaces for learning geometry",
       "title": "Paper interfaces for learning geometry",
       "year": 2012,
       "venue": "european conference on technology enhanced learning",
-      "years": "2012"
+      "n_citation": 19
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "Designing conversation-context recommendation display to support opportunistic search in meetings",
       "title": "Designing conversation-context recommendation display to support opportunistic search in meetings",
       "year": 2012,
       "venue": "mobile and ubiquitous multimedia",
-      "years": "2012"
+      "n_citation": 50
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "Mobile technology for awareness of time progression and its impact on meetings",
       "title": "Mobile technology for awareness of time progression and its impact on meetings",
       "year": 2013,
       "venue": "collaboration technologies and systems",
-      "years": "2013"
+      "n_citation": 0
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "Complementarity of input devices to achieve knowledge sharing in meetings",
       "title": "Complementarity of input devices to achieve knowledge sharing in meetings",
       "year": 2013,
       "venue": "conference on computer supported cooperative work",
-      "years": "2013"
+      "n_citation": 11
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "Design for classroom orchestration",
       "title": "Design for classroom orchestration",
       "year": 2013,
       "venue": "Computers in Education",
-      "years": "2013"
+      "n_citation": 111
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "Designing augmented reality for the classroom",
       "title": "Designing augmented reality for the classroom",
       "year": 2013,
       "venue": "Computers in Education",
-      "years": "2013"
+      "n_citation": 112
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "Living With a Vacuum Cleaning Robot - A 6-month Ethnographic Study",
       "title": "Living With a Vacuum Cleaning Robot - A 6-month Ethnographic Study",
       "year": 2013,
       "venue": "International Journal of Social Robotics",
-      "years": "2013"
+      "n_citation": 10
     },
     {
+      "author": "Pierre Dillenbourg",
       "id":  "Shared Annotations: The Social Side of Exam Preparation",
       "title":  "Shared Annotations: The Social Side of Exam Preparation",
       "year": 2013,
       "venue": "european conference on technology enhanced learning",
-      "years": "2013"
+      "n_citation": 3
     },
     {
+      "author": "Pierre Dillenbourg",
       "id":  "Capturing \"attrition intensifying\" structural traits from didactic interaction sequences of MOOC learners",
       "title":  "Capturing \"attrition intensifying\" structural traits from didactic interaction sequences of MOOC learners",
       "year": 2014,
       "venue": "empirical methods in natural language processing",
-      "years": "2014"
+      "n_citation": 27
     },
     {
+      "author": "Pierre Dillenbourg",
       "id":  "The dynamics of anthropomorphism in robotics",
       "title":  "The dynamics of anthropomorphism in robotics",
       "year": 2014,
       "venue": "human-robot interaction",
-      "years": "2014"
+      "n_citation": 50
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "Lessons learned from robotic vacuum cleaners entering the home ecosystem",
       "title": "Lessons learned from robotic vacuum cleaners entering the home ecosystem",
       "year": 2014,
       "venue": "Robotics and Autonomous Systems",
-      "years": "2014"
+      "n_citation": 50
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "Review of Augmented Paper Systems in Education: An Orchestration Perspective",
       "title": "Review of Augmented Paper Systems in Education: An Orchestration Perspective",
       "year": 2014,
       "venue": "Educational Technology & Society",
-      "years": "2014"
+      "n_citation": 19
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "Which robot behavior can motivate children to tidy up their toys?: design and evaluation of \"ranger\"",
       "title": "Which robot behavior can motivate children to tidy up their toys?: design and evaluation of \"ranger\"",
       "year": 2014,
       "venue": "human-robot interaction",
-      "years": "2014"
+      "n_citation": 38
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "Mutual Modelling in Robotics: Inspirations for the Next Steps",
       "title": "Mutual Modelling in Robotics: Inspirations for the Next Steps",
       "year": 2015,
       "venue": "human-robot interaction",
-      "years": "2015"
+      "n_citation": 50
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "Screen or Tabletop: An Eye-Tracking Study of the Effect of Representation Location in a Tangible User Interface System",
       "title": "Screen or Tabletop: An Eye-Tracking Study of the Effect of Representation Location in a Tangible User Interface System",
       "year": 2015,
       "venue": "european conference on technology enhanced learning",
-      "years": "2015"
+      "n_citation": 0
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "An integrated way of using a tangible user interface in a classroom",
       "title": "An integrated way of using a tangible user interface in a classroom",
       "year": 2015,
       "venue": "computer supported collaborative learning",
-      "years": "2015"
+      "n_citation": 19
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "MOOC Video Interaction Patterns: What Do They Tell Us?",
       "title": "MOOC Video Interaction Patterns: What Do They Tell Us?",
       "year": 2015,
       "venue": "european conference on technology enhanced learning",
-      "years": "2015"
+      "n_citation": 24
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "Studying Teacher Orchestration Load in Technology-Enhanced Classrooms A Mixed-Method Approach and Case Study",
       "title": "Studying Teacher Orchestration Load in Technology-Enhanced Classrooms A Mixed-Method Approach and Case Study",
       "year": 2015,
       "venue": "european conference on technology enhanced learning",
-      "years": "2015"
+      "n_citation": 0
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "When Children Teach a Robot to Write: An Autonomous Teachable Humanoid Which Uses Simulated Handwriting",
       "title": "When Children Teach a Robot to Write: An Autonomous Teachable Humanoid Which Uses Simulated Handwriting",
       "year": 2015,
       "venue": "human-robot interaction",
-      "years": "2015"
+      "n_citation": 50
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "Can a child feel responsible for another in the presence of a robot in a collaborative learning activity",
       "title": "Can a child feel responsible for another in the presence of a robot in a collaborative learning activity",
       "year": 2015,
       "venue": "robot and human interactive communication",
-      "years": "2015"
+      "n_citation": 7
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "From Real-time Attention Assessment to \"With-me-ness\" in Human-Robot Interaction",
       "title": "From Real-time Attention Assessment to \"With-me-ness\" in Human-Robot Interaction",
       "year": 2016,
       "venue": "human robot interaction",
-      "years": "2016"
+      "n_citation": 17
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "Cognitive Architecture for Mutual Modelling",
       "title": "Cognitive Architecture for Mutual Modelling",
       "year": 2016,
       "venue": "arXiv: Robotics",
-      "years": "2016"
+      "n_citation": 2
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "Building Successful Long Child-Robot Interactions in a Learning Context",
       "title": "Building Successful Long Child-Robot Interactions in a Learning Context",
       "year": 2016,
       "venue": "human robot interaction",
-      "years": "2016"
+      "n_citation": 11
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "The Evolution of Research on Digital Education",
       "title": "The Evolution of Research on Digital Education",
       "year": 2016,
       "venue": "artificial intelligence in education",
-      "years": "2016"
+      "n_citation": 50
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "Permanent magnet-assisted omnidirectional ball drive",
       "title": "Permanent magnet-assisted omnidirectional ball drive",
       "year": 2016,
       "venue": "intelligent robots and systems",
-      "years": "2016"
+      "n_citation": 50
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "Learning by Teaching a Robot: The Case of Handwriting",
       "title": "Learning by Teaching a Robot: The Case of Handwriting",
       "year": 2016,
       "venue": "international conference on robotics and automation",
-      "years": "2016"
+      "n_citation": 9
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "The Symmetry of Partner Modelling.",
       "title": "The Symmetry of Partner Modelling.",
       "year": 2016,
       "venue": "computer supported collaborative learning",
-      "years": "2016"
+      "n_citation": 6
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "How employment constrains participation in MOOCs",
       "title": "How employment constrains participation in MOOCs",
       "year": 2016,
       "venue": "educational data mining",
-      "years": "2016"
+      "n_citation": 4
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "Perceiving Learning at a Glance: A Systematic Literature Review of Learning Dashboard Research",
       "title": "Perceiving Learning at a Glance: A Systematic Literature Review of Learning Dashboard Research",
       "year": 2017,
       "venue": "IEEE Transactions on Learning Technologies",
-      "years": "2017"
+      "n_citation": 0
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "Haptic-Enabled Handheld Mobile Robots: Design and Analysis",
       "title": "Haptic-Enabled Handheld Mobile Robots: Design and Analysis",
       "year": 2017,
       "venue": "human factors in computing systems",
-      "years": "2017"
+      "n_citation": 0
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "Cellulo: Versatile Handheld Robots for Education",
       "title": "Cellulo: Versatile Handheld Robots for Education",
       "year": 2017,
       "venue": "human-robot interaction",
-      "years": "2017"
+      "n_citation": 50
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "Windfield: Learning Wind Meteorology with Handheld Haptic Robots",
       "title": "Windfield: Learning Wind Meteorology with Handheld Haptic Robots",
       "year": 2017,
       "venue": "human-robot interaction",
-      "years": "2017"
+      "n_citation": 50
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "Windfield: Demonstrating Wind Meteorology with Handheld Haptic Robots",
       "title": "Windfield: Demonstrating Wind Meteorology with Handheld Haptic Robots",
       "year": 2017,
       "venue": "human-robot interaction",
-      "years": "2017"
+      "n_citation": 0
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "Learning styles: Literature versus machine learning",
       "title": "Learning styles: Literature versus machine learning",
       "year": 2017,
       "venue": "arXiv: Human-Computer Interaction",
-      "years": "2017"
+      "n_citation": 0
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "Workshop on Robots for Learning: R4L",
       "title": "Workshop on Robots for Learning: R4L",
       "year": 2017,
       "venue": "human robot interaction",
-      "years": "2017"
+      "n_citation": 0
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "Developing Learning Scenarios to Foster Children's Handwriting Skills with the Help of Social Robots",
       "title": "Developing Learning Scenarios to Foster Children's Handwriting Skills with the Help of Social Robots",
       "year": 2017,
       "venue": "human robot interaction",
-      "years": "2017"
+      "n_citation": 0
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "Orchestration Graphs: Enabling Rich Social Pedagogical Scenarios in MOOCs",
       "title": "Orchestration Graphs: Enabling Rich Social Pedagogical Scenarios in MOOCs",
       "year": 2017,
       "venue": "Legal Studies",
-      "years": "2017"
+      "n_citation": 0
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "Demo of Orchestration Graph Engine: Enabling Rich Social Pedagogical Scenarios in MOOCs.",
       "title": "Demo of Orchestration Graph Engine: Enabling Rich Social Pedagogical Scenarios in MOOCs.",
       "year": 2017,
       "venue": "Legal Studies",
-      "years": "2017"
+      "n_citation": 50
     },
     {
+      "author": "Pierre Dillenbourg",
       "id": "Affect of Robot's Competencies on Children's Perception.",
       "title": "Affect of Robot's Competencies on Children's Perception.",
       "year": 2017,
       "venue": "Autonomous Agents and Multi-Agent Systems",
-      "years": "2017"
+      "n_citation": 0
     },
     {
-      "author": "Hamed S. Alavi",
+      "authors": "Hamed S. Alavi",
       "id": "Hamed S. Alavi",
+      "n_citation": 0,
       "year": 2009
     },
     {
+      "author": "Hamed S. Alavi",
       "id": "Studying Space Use: Bringing HCI Tools to Architectural Projects",
       "title": "Studying Space Use: Bringing HCI Tools to Architectural Projects",
       "year": 2017,
       "venue": "human factors in computing systems",
-      "years": "2017"
+      "n_citation": 0
     },
     {
+      "author": "Hamed S. Alavi",
       "id": "An Ambient Awareness Tool for Supporting Supervised Collaborative Problem Solving",
       "title": "An Ambient Awareness Tool for Supporting Supervised Collaborative Problem Solving",
       "year": 2012,
       "venue": "IEEE Transactions on Learning Technologies",
-      "years": "2012"
+      "n_citation": 27
     },
     {
+      "author": "Hamed S. Alavi",
       "id": "Future of Human-Building Interaction",
       "title": "Future of Human-Building Interaction",
       "year": 2016,
       "venue": "human factors in computing systems",
-      "years": "2016"
+      "n_citation": 14
     },
     {
+      "author": "Hamed S. Alavi",
       "id": "Deconstructing human-building interaction",
       "title": "Deconstructing human-building interaction",
       "year": 2016,
       "venue": "Interactions",
-      "years": "2016"
+      "n_citation": 50
     },
     {
+      "author": "Hamed S. Alavi",
       "id": "Flag: an ambient awareness tool to support informal collaborative learning",
       "title": "Flag: an ambient awareness tool to support informal collaborative learning",
       "year": 2010,
       "venue": "international conference on supporting group work",
-      "years": "2010"
+      "n_citation": 0
     },
     {
-      "author": "Kshitij Sharma",
+      "authors": "Kshitij Sharma",
       "id": "Kshitij Sharma",
+      "n_citation": 0,
       "year": 2009
     },
     {
+      "author": "Kshitij Sharma",
       "id": "Displaying Teacher\"s Gaze in a MOOC: Effects on Students\" Video Navigation Patterns",
       "title": "Displaying Teacher\"s Gaze in a MOOC: Effects on Students\" Video Navigation Patterns",
       "year": 2015,
       "venue": "european conference on technology enhanced learning",
-      "years": "2015"
+      "n_citation": 6
     },
     {
+      "author": "Kshitij Sharma",
       "id": "How to Quantify Student’s Regularity?",
       "title": "How to Quantify Student’s Regularity?",
       "year": 2016,
       "venue": "european conference on technology enhanced learning",
-      "years": "2016"
+      "n_citation": 4
     },
     {
+      "author": "Kshitij Sharma",
       "id": "A Scalable Approach for Outlier Detection in Edge Streams Using Sketch-based Approximations.",
       "title": "A Scalable Approach for Outlier Detection in Edge Streams Using Sketch-based Approximations.",
       "year": 2016,
       "venue": "siam international conference on data mining",
-      "years": "2016"
+      "n_citation": 3
     },
     {
+      "author": "Kshitij Sharma",
       "id": "Using Mobile Eye-Trackers to Unpack the Perceptual Benefits of a Tangible User Interface for Collaborative Learning",
       "title": "Using Mobile Eye-Trackers to Unpack the Perceptual Benefits of a Tangible User Interface for Collaborative Learning",
       "year": 2016,
       "venue": "ACM Transactions on Computer-Human Interaction",
-      "years": "2016"
+      "n_citation": 0
     },
     {
+      "author": "Kshitij Sharma",
       "id": "On generalizability of MOOC models",
       "title": "On generalizability of MOOC models",
       "year": 2016,
       "venue": "educational data mining",
-      "years": "2016"
+      "n_citation": 0
     },
     {
+      "author": "Kshitij Sharma",
       "id": "Studying Teacher Orchestration Load in Technology-Enhanced Classrooms A Mixed-Method Approach and Case Study",
       "title": "Studying Teacher Orchestration Load in Technology-Enhanced Classrooms A Mixed-Method Approach and Case Study",
       "year": 2016,
       "venue": "european conference on technology enhanced learning",
-      "years": "2016"
+      "n_citation": 0
     },
     {
-      "author": "Luis Pablo Prieto",
+      "authors": "Luis Pablo Prieto",
       "id": "Luis Pablo Prieto",
+      "n_citation": 0,
       "year": 2009
     },
     {
+      "author": "Luis Pablo Prieto",
       "id": "Recurrent routines: Analyzing and supporting orchestration in technology-enhanced primary classrooms",
       "title": "Recurrent routines: Analyzing and supporting orchestration in technology-enhanced primary classrooms",
       "year": 2011,
       "venue": "Computers in Education",
-      "years": "2011"
+      "n_citation": 50
     },
     {
+      "author": "Luis Pablo Prieto",
       "id": "GLUE!-PS: a multi-language architecture and data model to deploy TEL designs to multiple learning environments",
       "title": "GLUE!-PS: a multi-language architecture and data model to deploy TEL designs to multiple learning environments",
       "year": 2011,
       "venue": "european conference on technology enhanced learning",
-      "years": "2011"
+      "n_citation": 46
     },
     {
+      "author": "Luis Pablo Prieto",
       "id": "Opportunities and Challenges for Adaptive Collaborative Support in Distributed Learning Environments: Evaluating the GLUE! Suite of Tools",
       "title": "Opportunities and Challenges for Adaptive Collaborative Support in Distributed Learning Environments: Evaluating the GLUE! Suite of Tools",
       "year": 2012,
       "venue": "international conference on advanced learning technologies",
-      "years": "2012"
+      "n_citation": 6
     },
     {
+      "author": "Luis Pablo Prieto",
       "id": "Lost in translation from abstract learning design to ICT implementation: a study using moodle for CSCL",
       "title": "Lost in translation from abstract learning design to ICT implementation: a study using moodle for CSCL",
       "year": 2012,
       "venue": "european conference on technology enhanced learning",
-      "years": "2012"
+      "n_citation": 18
     },
     {
+      "author": "Luis Pablo Prieto",
       "id": "Making learning designs happen in distributed learning environments with GLUE!-PS",
       "title": "Making learning designs happen in distributed learning environments with GLUE!-PS",
       "year": 2012,
       "venue": "european conference on technology enhanced learning",
-      "years": "2012"
+      "n_citation": 50
     },
     {
+      "author": "Luis Pablo Prieto",
       "id": "Towards an Integrated Learning Design Environment",
       "title": "Towards an Integrated Learning Design Environment",
       "year": 2013,
       "venue": "european conference on technology enhanced learning",
-      "years": "2013"
+      "n_citation": 20
     },
     {
+      "author": "Luis Pablo Prieto",
       "id": "Sharing the Burden: Introducing Student-Centered Orchestration in Across-Spaces Learning Situations",
       "title": "Sharing the Burden: Introducing Student-Centered Orchestration in Across-Spaces Learning Situations",
       "year": 2013,
       "venue": "european conference on technology enhanced learning",
-      "years": "2013"
+      "n_citation": 13
     },
     {
+      "author": "Luis Pablo Prieto",
       "id": "Enabling Teachers to Deploy CSCL Designs across Distributed Learning Environments",
       "title": "Enabling Teachers to Deploy CSCL Designs across Distributed Learning Environments",
       "year": 2013,
       "venue": "IEEE Transactions on Learning Technologies",
-      "years": "2013"
+      "n_citation": 50
     },
     {
+      "author": "Luis Pablo Prieto",
       "id": "Integrating orchestration of ubiquitous and pervasive learning environments",
       "title": "Integrating orchestration of ubiquitous and pervasive learning environments",
       "year": 2013,
       "venue": "australasian computer-human interaction conference",
-      "years": "2013"
+      "n_citation": 16
     },
     {
+      "author": "Luis Pablo Prieto",
       "id": "Supporting orchestration of CSCL scenarios in web-based Distributed Learning Environments",
       "title": "Supporting orchestration of CSCL scenarios in web-based Distributed Learning Environments",
       "year": 2014,
       "venue": "Computers in Education",
-      "years": "2014"
+      "n_citation": 50
     },
     {
+      "author": "Luis Pablo Prieto",
       "id": "ILDE: Community Environment for Conceptualizing, Authoring and Deploying Learning Activities",
       "title": "ILDE: Community Environment for Conceptualizing, Authoring and Deploying Learning Activities",
       "year": 2014,
       "venue": "european conference on technology enhanced learning",
-      "years": "2014"
+      "n_citation": 37
     },
     {
+      "author": "Luis Pablo Prieto",
       "id": "Exploring teachers' perceptions on different CSCL script editing tools",
       "title": "Exploring teachers' perceptions on different CSCL script editing tools",
       "year": 2014,
       "venue": "Computers in Education",
-      "years": "2014"
+      "n_citation": 18
     },
     {
+      "author": "Luis Pablo Prieto",
       "id": "Coming Down to Earth: Helping Teachers Use 3D Virtual Worlds in Across-Spaces Learning Situations",
       "title": "Coming Down to Earth: Helping Teachers Use 3D Virtual Worlds in Across-Spaces Learning Situations",
       "year": 2015,
       "venue": "Educational Technology & Society",
-      "years": "2015"
+      "n_citation": 50
     },
     {
+      "author": "Luis Pablo Prieto",
       "id": "Supporting Teacher Orchestration in Ubiquitous Learning Environments: A Study in Primary Education",
       "title": "Supporting Teacher Orchestration in Ubiquitous Learning Environments: A Study in Primary Education",
       "year": 2015,
       "venue": "IEEE Transactions on Learning Technologies",
-      "years": "2015"
+      "n_citation": 50
     },
     {
+      "author": "Luis Pablo Prieto",
       "id": "Studying Teacher Orchestration Load in Technology-Enhanced Classrooms A Mixed-Method Approach and Case Study",
       "title": "Studying Teacher Orchestration Load in Technology-Enhanced Classrooms A Mixed-Method Approach and Case Study",
       "year": 2015,
       "venue": "european conference on technology enhanced learning",
-      "years": "2015"
+      "n_citation": 0
     },
     {
+      "author": "Luis Pablo Prieto",
       "id": "Bucket-Server: A System for Including Teacher-Controlled Flexibility in the Management of Learning Artifacts in Across-Spaces Learning Situations",
       "title": "Bucket-Server: A System for Including Teacher-Controlled Flexibility in the Management of Learning Artifacts in Across-Spaces Learning Situations",
       "year": 2015,
       "venue": "european conference on technology enhanced learning",
-      "years": "2015"
+      "n_citation": 2
     },
     {
+      "author": "Luis Pablo Prieto",
       "id": "Examining the Effects of Social Media in Co-located Classrooms: A Case Study Based on SpeakUp",
       "title": "Examining the Effects of Social Media in Co-located Classrooms: A Case Study Based on SpeakUp",
       "year": 2016,
       "venue": "european conference on technology enhanced learning",
-      "years": "2016"
+      "n_citation": 6
     },
     {
+      "author": "Luis Pablo Prieto",
       "id": "Perceiving Learning at a Glance: A Systematic Literature Review of Learning Dashboard Research",
       "title": "Perceiving Learning at a Glance: A Systematic Literature Review of Learning Dashboard Research",
       "year": 2017,
       "venue": "IEEE Transactions on Learning Technologies",
-      "years": "2017"
+      "n_citation": 0
     },
     {
+      "author": "Luis Pablo Prieto",
       "id": "Supporting collaborative design activity in a multi-user digital design ecology",
       "title": "Supporting collaborative design activity in a multi-user digital design ecology",
       "year": 2017,
       "venue": "Computers in Human Behavior",
-      "years": "2017"
+      "n_citation": 0
     },
     {
-      "author": "Paula de Barba",
+      "authors": "Paula de Barba",
       "id": "Paula de Barba",
+      "n_citation": 0,
       "year": 2009
     },
     {
+      "author": "Paula de Barba",
       "id": "The Role of Students' Motivation and Participation in Predicting Performance in a MOOC.",
       "title": "The Role of Students' Motivation and Participation in Predicting Performance in a MOOC.",
       "year": 2016,
       "venue": "Journal of Computer Assisted Learning",
-      "years": "2016"
+      "n_citation": 37
     },
     {
-      "author": "Gregor Kennedy",
+      "authors": "Gregor Kennedy",
       "id": "Gregor Kennedy",
+      "n_citation": 0,
       "year": 2009
     },
     {
+      "author": "Gregor Kennedy",
       "id": "Adaptation of marching cubes for the simulation of material removal from segmented volume data",
       "title": "Adaptation of marching cubes for the simulation of material removal from segmented volume data",
       "year": 2013,
       "venue": "computer based medical systems",
-      "years": "2013"
+      "n_citation": 50
     },
     {
+      "author": "Gregor Kennedy",
       "id": "Constructive Real Time Feedback for a Temporal Bone Simulator",
       "title": "Constructive Real Time Feedback for a Temporal Bone Simulator",
       "year": 2013,
       "venue": "medical image computing and computer assisted intervention",
-      "years": "2013"
+      "n_citation": 50
     },
     {
+      "author": "Gregor Kennedy",
       "id": "Transfer Learning of a Temporal Bone Performance Model via Anatomical Feature Registration",
       "title": "Transfer Learning of a Temporal Bone Performance Model via Anatomical Feature Registration",
       "year": 2014,
       "venue": "international conference on pattern recognition",
-      "years": "2014"
+      "n_citation": 0
     },
     {
+      "author": "Gregor Kennedy",
       "id": "The Role of Students' Motivation and Participation in Predicting Performance in a MOOC.",
       "title": "The Role of Students' Motivation and Participation in Predicting Performance in a MOOC.",
       "year": 2016,
       "venue": "Journal of Computer Assisted Learning",
-      "years": "2016"
+      "n_citation": 37
     },
     {
+      "author": "Gregor Kennedy",
       "id": "Automated Segmentation of Surgical Motion for Performance Analysis and Feedback",
       "title": "Automated Segmentation of Surgical Motion for Performance Analysis and Feedback",
       "year": 2015,
       "venue": "medical image computing and computer assisted intervention",
-      "years": "2015"
+      "n_citation": 5
     },
     {
+      "author": "Gregor Kennedy",
       "id": "Provision of automated step-by-step procedural guidance in virtual reality surgery simulation",
       "title": "Provision of automated step-by-step procedural guidance in virtual reality surgery simulation",
       "year": 2016,
       "venue":  "virtual reality software and technology",
-      "years": "2016"
+      "n_citation": 5
     },
     {
+      "author": "Gregor Kennedy",
       "id": "Digital divides? Student and staff perceptions of information and communication technologies",
       "title": "Digital divides? Student and staff perceptions of information and communication technologies",
       "year": 2010,
       "venue":  "Computers in Education",
-      "years": "2010"
+      "n_citation": 269
     },
     {
+      "author": "Gregor Kennedy",
       "id": "Design and implementation factors in blended synchronous learning environments: Outcomes from a cross-case analysis",
       "title": "Design and implementation factors in blended synchronous learning environments: Outcomes from a cross-case analysis",
       "year": 2015,
       "venue":  "Computers in Education",
-      "years": "2015"
+      "n_citation": 50
     },
     {
+      "author": "Gregor Kennedy",
       "id": "Search and explore: more than one way to find what you want",
       "title": "Search and explore: more than one way to find what you want",
       "year": 2012,
       "venue":  "australasian computer-human interaction conference",
-      "years": "2012"
+      "n_citation": 50
     },
     {
+      "author": "Gregor Kennedy",
       "id": "Measurement and evidence of computer-based task switching and multitasking by 'Net Generation' students",
       "title": "Measurement and evidence of computer-based task switching and multitasking by 'Net Generation' students",
       "year": 2011,
       "venue":  "Computers in Education",
-      "years": "2011"
+      "n_citation": 88
     },
     {
+      "author": "Gregor Kennedy",
       "id": "A five-year study of on-campus Internet use by undergraduate biomedical students",
       "title": "A five-year study of on-campus Internet use by undergraduate biomedical students",
       "year": 2010,
       "venue":  "Computers in Education",
-      "years": "2010"
+      "n_citation": 108
     },
     {
+      "author": "Gregor Kennedy",
       "id": "Beyond natives and immigrants: exploring types of net generation students",
       "title": "Beyond natives and immigrants: exploring types of net generation students",
       "year": 2010,
       "venue":  "Journal of Computer Assisted Learning",
-      "years": "2010"
+      "n_citation": 240
     },
     {
+      "author": "Gregor Kennedy",
       "id": "Region-Specific Automated Feedback in Temporal Bone Surgery Simulation",
       "title": "Region-Specific Automated Feedback in Temporal Bone Surgery Simulation",
       "year": 2015,
       "venue": "computer-based medical systems",
-      "years": "2015"
+      "n_citation": 3
     },
     {
+      "author": "Gregor Kennedy",
       "id": "Expediency‐based practice? Medical students' reliance on Google and Wikipedia for biomedical inquiries",
       "title": "Expediency‐based practice? Medical students' reliance on Google and Wikipedia for biomedical inquiries",
       "year": 2011,
       "venue": "British Journal of Educational Technology",
-      "years": "2011"
+      "n_citation": 11
     },
     {
+      "author": "Gregor Kennedy",
       "id": "Being there with others: copresence and technologies for informal interaction",
       "title": "Being there with others: copresence and technologies for informal interaction",
       "year": 2010,
       "venue": "australasian computer-human interaction conference",
-      "years": "2010"
+      "n_citation": 2
     },
     {
+      "author": "Gregor Kennedy",
       "id": "Pattern-based real-time feedback for a temporal bone simulator",
       "title": "Pattern-based real-time feedback for a temporal bone simulator",
       "year": 2013,
       "venue": "virtual reality software and technology",
-      "years": "2013"
+      "n_citation": 10
     },
     {
+      "author": "Gregor Kennedy",
       "id": "Implementing Web 2.0 technologies in higher education: A collective case study",
       "title": "Implementing Web 2.0 technologies in higher education: A collective case study",
       "year": 2012,
       "venue": "Computers in Education",
-      "years": "2012"
+      "n_citation": 308
     },
     {
+      "author": "Gregor Kennedy",
       "id": "Search or explore: do you know what you're looking for?",
       "title": "Search or explore: do you know what you're looking for?",
       "year": 2011,
       "venue": "australasian computer-human interaction conference",
-      "years": "2011"
+      "n_citation": 15
     }
    ],
    "links": [ 
