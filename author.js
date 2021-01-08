@@ -347,7 +347,7 @@ d3.json("author.json").then(function (graph) {
                 cache: true
             },
 
-            placeHolder: " Author",
+            // placeHolder: " Author",
             selector: "#autoComplete",
             threshold: 0,
             debounce: 0,
@@ -420,6 +420,72 @@ d3.json("author.json").then(function (graph) {
          .style("opacity", 1);
     }
 
+    d3.selectAll("input[name=checkb]").on("change", function() {
+        function getCheckedBoxes(chkboxName) {
+                var checkboxes = document.getElementsByName(chkboxName);
+                var checkboxesChecked = [];
+                for (var i=0; i<checkboxes.length; i++) {
+                   if (checkboxes[i].checked) {
+                      checkboxesChecked.push(checkboxes[i].defaultValue);
+                   }
+                }
+                return checkboxesChecked.length > 0 ? checkboxesChecked : " ";
+              }
+      
+              var checkedBoxes = getCheckedBoxes("checkb");
+          
+          node.style("opacity", 1);
+          link.style("opacity", 1);
+          
+            node.filter(function(d) {
+                return checkedBoxes.indexOf(d.year) === -1;
+              })
+              .style("opacity", "0.2");
+      
+        //     link.filter(function(d) {
+        //         return checkedBoxes.indexOf(d.type) === -1 || 
+        //         checkedBoxes.indexOf(d.type) === -1;
+        //       })
+        //       .style("opacity", "0.2");
+      
+        //     link.filter(function(d) {
+        //         return checkedBoxes.indexOf(d.type) > -1 || 
+        //         checkedBoxes.indexOf(d.type) > -1;
+        //       })
+        //       .style("opacity", "1");
+        
+        
+        });
+      
+      
+        d3.selectAll("input[name=filter]").on("change", function(d) {
+      
+      
+          var value = this.value;
+      
+          node.style("opacity", 1);
+          link.style("opacity", 1);
+      
+          if (value !== "all") {
+            node.filter(function(d) {
+                return d.year != value;
+              })
+              .style("opacity", "0.2");
+      
+            link.filter(function(d) {
+                return d.source != value ||
+                  d.target != value;
+              })
+              .style("opacity", "0.2");
+      
+            link.filter(function(d) {
+                return d.source == value ||
+                  d.target == value;
+              })
+              .style("opacity", "1");
+          }
+        });
+
 });
 
 function positionLink(d) {
@@ -434,4 +500,4 @@ function makeProfList(rData) {
         profs.push({ name: node.authors, id: index })
     })
     return rData
-  }
+}

@@ -10,13 +10,20 @@
         <div class="container">
             <div class="first">
                 <div class="wrapper">
-                    <div class="search-box">
+                    <!-- <div class="search-box">
                         <input
                             type="text"
                             id="autoComplete"
                         />
                         <button class="button">Search</button>
-                    </div>
+                    </div> -->
+                    <div class="search-box">
+                        <label class="field field_v1">
+                          <input type="text" id="autoComplete" class="field__input" placeholder="e.g. Stanislav">
+                          <span class="field__label-wrap">
+                            <span class="field__label">Author name</span>
+                          </span>
+                      </div>
                     <div id="legends" class="leg">
                         <ul class="legend">
                             <li><span class="y2010"></span> 2010</li> 
@@ -44,7 +51,26 @@
                 <svg id="viz"></svg>
             </div>  
         </div>
- 
+
+        <div id="legendddd">
+            <div class="input-group" id="filters">
+                <label>
+                    <input type="checkbox" name="checkb" value="all" > All</label>
+                <br />
+                <label>
+                    <input type="checkbox" name="checkb" value=2010> 2010</label>
+                <br />
+                <label>
+                    <input type="checkbox" name="checkb" value=2011> 2011</label>
+                <br />
+                <input type="checkbox" name="checkb" value=2012> 2012</label>
+                <br />
+                <input type="checkbox" name="checkb" value=2013> 2013</label>
+                <br />
+             
+            </div>
+        </div>
+          
 
 
        
