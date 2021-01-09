@@ -13,7 +13,7 @@ var leg_searchbox = false;
 //-----------------------------DATA-----------------------------//
 
 //read JSON
-d3.json("author.json").then(function (graph) {
+d3.json("data.json").then(function (graph) {
     document.addEventListener('click', hideTooltip)
     document.addEventListener('click', hideLegends)
 
@@ -180,6 +180,7 @@ d3.json("author.json").then(function (graph) {
 
         node.call(updateNode);
         link.call(updateLink);
+        // node.call(checkByYear);
 
         dataLayout.alphaTarget(0.1).restart();
         dataNode.each(function (d, i) {
@@ -228,6 +229,7 @@ d3.json("author.json").then(function (graph) {
             .attr("cy", d.y)
             .transition().duration(300)
             .style("opacity", 1);
+
     }
 
     function hideTooltip(e) {
@@ -337,7 +339,6 @@ d3.json("author.json").then(function (graph) {
     loadAutocomplete();
 
 
-
     function loadAutocomplete() {
 
         const autoCompletejs = new autoComplete({
@@ -386,6 +387,8 @@ d3.json("author.json").then(function (graph) {
 
                 focus_searcher(current_node, selection.id);
             }
+
+            
             
         });
 
@@ -420,19 +423,25 @@ d3.json("author.json").then(function (graph) {
          .style("opacity", 1);
     }
 
-    d3.selectAll("input[name=filter]").on("change", function(d) {
-        var value = this.value;
-    
-        node.style("opacity", 1);
-        link.style("opacity", 1);
-    
-        if (value !== "all") {
-          node.filter(function(d) {
-              return d.year != value;
-            })
-            .style("opacity", "0.2");
-        }
-      });
+    function checkByYear(d, index) {
+        console.log(d)
+        console.log("focuss: " + index)
+
+        d3.selectAll("input[name=filter]").on("change", function(d) {
+            var value = this.value;
+        
+            node.style("opacity", 1);
+            link.style("opacity", 1);
+        
+            if (value !== "all") {
+              node.filter(function(d) {
+                  return d.year != value;
+                })
+                .style("opacity", "0.2");
+            }
+          });
+    }
+
 
 });
 

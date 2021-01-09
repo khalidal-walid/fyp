@@ -1,0 +1,36 @@
+{
+  "nodes": [
+    {
+      "authors": "A",
+      "id": "A",
+      "n_citation": 0,
+      "year": 2009
+    },
+    {
+      "author": "A",
+      "id": "Social",
+      "title": "Social",
+      "n_citation": 0,
+      "year": 2017
+    },
+    {
+      "author": "A",
+      "id": "Behaviour",
+      "title": "Behaviour",
+      "n_citation": 0,
+      "year": 2014
+    }
+   ],
+   "links": [ 
+    {
+      "source": "A",
+      "target": "Social",
+      "value": 1
+    },
+    {
+      "source": "A",
+      "target": "Behaviour",
+      "value": 1
+    }
+  ]
+}  
