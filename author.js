@@ -13,7 +13,7 @@ var leg_searchbox = false;
 //-----------------------------DATA-----------------------------//
 
 //read JSON
-d3.json("data.json").then(function (graph) {
+d3.json("author.json").then(function (graph) {
     document.addEventListener('click', hideTooltip)
     document.addEventListener('click', hideLegends)
 
@@ -210,9 +210,9 @@ d3.json("data.json").then(function (graph) {
     }
 
     function focus(d) {
-        console.log(d)
+        // console.log(d)
         var index = d3.select(d3.event.target).datum().index;
-        console.log("focus: " + index)
+        // console.log("focus: " + index)
         node.style("opacity", function (o) {
             return neigh(index, o.index) ? 1 : 0.1;
         });
@@ -238,8 +238,8 @@ d3.json("data.json").then(function (graph) {
             ttpJustDisplayed = false;
 
             if (ttp_searchbox) {
-                console.log("lo escondere!")
-                console.log(ttpJustDisplayed)
+                // console.log("lo escondere!")
+                // console.log(ttpJustDisplayed)
                 ttp_searchbox = false;
                 resetFocus();
             }
@@ -247,11 +247,11 @@ d3.json("data.json").then(function (graph) {
             return;
         }
         let ttp = document.querySelector('.ttp.show')
-        console.log(ttp);
+        // console.log(ttp);
         if (!ttp) return
         if (ttp.contains(e.target)) return
 
-        console.log("pass");
+        // console.log("pass");
 
 
         resetFocus();
@@ -263,8 +263,8 @@ d3.json("data.json").then(function (graph) {
             legJustDisplayed = false;
 
             if (leg_searchbox) {
-                console.log("lo escondere!")
-                console.log(legJustDisplayed)
+                // console.log("lo escondere!")
+                // console.log(legJustDisplayed)
                 leg_searchbox = false;
                 resetFocus();
             }
@@ -272,11 +272,11 @@ d3.json("data.json").then(function (graph) {
             return;
         }
         let leg = document.querySelector('.leg.show')
-        console.log(leg);
+        // console.log(leg);
         if (!leg) return
         if (leg.contains(e.target)) return
 
-        console.log("pass");
+        // console.log("pass");
 
 
         resetFocus();
@@ -377,13 +377,13 @@ d3.json("data.json").then(function (graph) {
 
                 let select = document.querySelector("#autoComplete")
                 select.value = ''
-                console.log("autocomplete: " + selection.authors)
+                // console.log("autocomplete: " + selection.authors)
                 let nodes = d3.selectAll('g.node')
 
                 let node = nodes.filter((d, i, g) => d.authors === selection.name)
-                console.log(node);
+                // console.log(node);
                 let current_node = node.node().__data__;
-                console.log(current_node);
+                // console.log(current_node);
 
                 focus_searcher(current_node, selection.id);
             }
@@ -396,8 +396,8 @@ d3.json("data.json").then(function (graph) {
 
 
     function focus_searcher(d, index) {
-        console.log(d)
-        console.log("focus: " + index)
+        // console.log(d)
+        // console.log("focus: " + index)
         ttp_searchbox = true;
         var legends = d3.select("#legends");
 
@@ -424,8 +424,8 @@ d3.json("data.json").then(function (graph) {
     }
 
     function checkByYear(d, index) {
-        console.log(d)
-        console.log("focuss: " + index)
+        // console.log(d)
+        // console.log("focuss: " + index)
 
         d3.selectAll("input[name=filter]").on("change", function(d) {
             var value = this.value;

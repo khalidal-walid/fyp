@@ -2453,9 +2453,1217 @@
       "year": 2011,
       "venue": "australasian computer-human interaction conference",
       "n_citation": 15
+    },
+    {
+      "authors": "Sudanthi N. R. Wijewickrema",
+      "id": "Sudanthi N. R. Wijewickrema",
+      "n_citation": 0,
+      "year": 2009
+    },
+    {
+      "author": "Sudanthi N. R. Wijewickrema",
+      "id": "Finding Influentials in Twitter: A Temporal Influence Ranking Model",
+      "n_citation": 0,
+      "title": "Finding Influentials in Twitter: A Temporal Influence Ranking Model",
+      "venue": "arXiv: Social and Information Networks",
+      "year": 2017
+    },
+    {
+      "author": "Sudanthi N. R. Wijewickrema",
+      "id": "Adaptation of marching cubes for the simulation of material removal from segmented volume data",
+      "n_citation": 50,
+      "title": "Adaptation of marching cubes for the simulation of material removal from segmented volume data",
+      "venue": "computer based medical systems",
+      "year": 2013
+    },
+    {
+      "author": "Sudanthi N. R. Wijewickrema",
+      "id": "Algorithms for projecting points onto conics",
+      "n_citation": 50,
+      "title": "Algorithms for projecting points onto conics",
+      "venue": "Journal of Computational and Applied Mathematics",
+      "year": 2013
+    },
+    {
+      "author": "Sudanthi N. R. Wijewickrema",
+      "id": "Constructive Real Time Feedback for a Temporal Bone Simulator",
+      "n_citation": 50,
+      "title": "Constructive Real Time Feedback for a Temporal Bone Simulator",
+      "venue": "medical image computing and computer assisted intervention",
+      "year": 2013
+    },
+    {
+      "author": "Sudanthi N. R. Wijewickrema",
+      "id": "Transfer Learning of a Temporal Bone Performance Model via Anatomical Feature Registration",
+      "n_citation": 0,
+      "title": "Transfer Learning of a Temporal Bone Performance Model via Anatomical Feature Registration",
+      "venue": "international conference on pattern recognition",
+      "year": 2014
+    },
+    {
+      "author": "Sudanthi N. R. Wijewickrema",
+      "id": "Automated Segmentation of Surgical Motion for Performance Analysis and Feedback",
+      "n_citation": 5,
+      "title": "Automated Segmentation of Surgical Motion for Performance Analysis and Feedback",
+      "venue": "medical image computing and computer assisted intervention",
+      "year": 2015
+    },
+    {
+      "author": "Sudanthi N. R. Wijewickrema",
+      "id": "Provision of automated step-by-step procedural guidance in virtual reality surgery simulation",
+      "n_citation": 5,
+      "title": "Provision of automated step-by-step procedural guidance in virtual reality surgery simulation",
+      "venue": "virtual reality software and technology",
+      "year": 2016
+    },
+    {
+      "author": "Sudanthi N. R. Wijewickrema",
+      "id": "Hierarchical Mutual Nearest Neighbour Image Segmentation",
+      "n_citation": 0,
+      "title": "Hierarchical Mutual Nearest Neighbour Image Segmentation",
+      "venue": "digital image computing techniques and applications",
+      "year": 2016
+    },
+    {
+      "author": "Sudanthi N. R. Wijewickrema",
+      "id": "Region-Specific Automated Feedback in Temporal Bone Surgery Simulation",
+      "n_citation": 3,
+      "title": "Region-Specific Automated Feedback in Temporal Bone Surgery Simulation",
+    "venue": "computer-based medical systems",
+    "year": 2015
+    },
+    {
+      "author": "Sudanthi N. R. Wijewickrema",
+      "id": "Pattern-based real-time feedback for a temporal bone simulator",
+      "n_citation": 10,
+      "title": "Pattern-based real-time feedback for a temporal bone simulator",
+      "venue": "virtual reality software and technology",
+      "year": 2013
+    },
+    {
+      "authors": "James Bailey",
+      "id": "James Bailey",
+      "n_citation": 0,
+      "year": 2009
+    },
+    {
+      "author": "James Bailey",
+      "id": "Topology-regularized universal vector autoregression for traffic forecasting in large urban areas",
+      "n_citation": 0,
+      "title": "Topology-regularized universal vector autoregression for traffic forecasting in large urban areas",
+      "venue": "Expert Systems With Applications",
+      "year": 2017
+    },
+    {
+      "author": "James Bailey",
+      "id": "Measuring dependency via intrinsic dimensionality",
+      "n_citation": 0,
+      "title": "Measuring dependency via intrinsic dimensionality",
+     "venue": "international conference on pattern recognition",
+      "year": 2016
+    },
+    {
+      "author": "James Bailey",
+      "id":  "A fast indexing approach for protein structure comparison",
+      "n_citation": 50,
+      "title": "A fast indexing approach for protein structure comparison",
+     "venue": "BMC Bioinformatics",
+     "year": 2010
+    },
+    {
+      "author": "James Bailey",
+      "id": "Training robust models using Random Projection",
+      "n_citation": 0,
+      "title": "Training robust models using Random Projection",
+      "venue": "international conference on pattern recognition",
+      "year": 2016
+    },
+    {
+      "author": "James Bailey",
+      "id": "Classifying proteins using gapped Markov feature pairs",
+      "n_citation": 50,
+      "title": "Classifying proteins using gapped Markov feature pairs",
+      "venue": "Neurocomputing",
+      "year": 2010
+    },
+    {
+      "author": "James Bailey",
+      "id": "Overview of Contrast Data Mining as a Field and Preview of an Upcoming Book",
+      "n_citation": 7,
+      "title": "Overview of Contrast Data Mining as a Field and Preview of an Upcoming Book",
+      "venue": "international conference on data mining",
+      "year": 2011
+    },
+    {
+      "author": "James Bailey",
+      "id": "Using Gene Ontology annotations in exploratory microarray clustering to understand cancer etiology",
+      "n_citation": 50,
+      "title": "Using Gene Ontology annotations in exploratory microarray clustering to understand cancer etiology",
+      "venue": "Pattern Recognition Letters",
+      "year": 2010
+    },
+    {
+      "author": "James Bailey",
+      "id": "is-rSNP: a novel technique for in silico regulatory SNP detection",
+      "n_citation": 107,
+      "title": "is-rSNP: a novel technique for in silico regulatory SNP detection",
+      "venue": "BMC Bioinformatics",
+      "year": 2010
+    },
+    {
+      "author": "James Bailey",
+      "id": "Utilizing common substructures to speedup tensor factorization for mining dynamic graphs",
+      "n_citation": 8,
+      "title": "Utilizing common substructures to speedup tensor factorization for mining dynamic graphs",
+      "venue": "conference on information and knowledge management",
+      "year": 2012
+    },
+    {
+      "author": "James Bailey",
+      "id": "Effective global approaches for mutual information based feature selection",
+      "n_citation": 45,
+      "title": "Effective global approaches for mutual information based feature selection",
+      "venue": "knowledge discovery and data mining",
+      "year": 2014
+    },
+    {
+      "author": "James Bailey",
+      "id": "Discovery and analysis of consistent active sub-networks in cancers",
+      "n_citation": 50,
+      "title": "Discovery and analysis of consistent active sub-networks in cancers",
+      "venue": "BMC Bioinformatics",
+      "year": 2013
+    },
+    {
+      "author": "James Bailey",
+      "id": "Mining multidimensional contextual outliers from categorical relational data",
+      "n_citation": 17,
+      "title": "Mining multidimensional contextual outliers from categorical relational data",
+      "venue": "statistical and scientific database management",
+      "year": 2013
+    },
+    {
+      "author": "James Bailey",
+      "id": "On compressing weighted time-evolving graphs",
+      "n_citation": 26,
+      "title": "On compressing weighted time-evolving graphs",
+      "venue": "conference on information and knowledge management",
+      "year": 2012
+    },
+    {
+      "author": "James Bailey",
+      "id": "Standardized Mutual Information for Clustering Comparisons: One Step Further in Adjustment for Chance",
+      "n_citation": 35,
+      "title": "Standardized Mutual Information for Clustering Comparisons: One Step Further in Adjustment for Chance",
+      "venue": "international conference on machine learning",
+      "year": 2014
+    },
+    {
+      "author": "James Bailey",
+      "id": "Discovering latent blockmodels in sparse and noisy graphs using non-negative matrix factorisation",
+      "n_citation": 12,
+      "title": "Discovering latent blockmodels in sparse and noisy graphs using non-negative matrix factorisation",
+      "venue": "conference on information and knowledge management",
+      "year": 2013
+    },
+    {
+      "author": "James Bailey",
+      "id": "A clustering comparison measure using density profiles and its application to the discovery of alternate clusterings",
+      "n_citation": 38,
+      "title": "A clustering comparison measure using density profiles and its application to the discovery of alternate clusterings",
+      "venue": "Data Mining and Knowledge Discovery",
+      "year": 2010
+    },
+    {
+      "author": "James Bailey",
+      "id": "Constructive Real Time Feedback for a Temporal Bone Simulator",
+      "n_citation": 50,
+      "title": "Constructive Real Time Feedback for a Temporal Bone Simulator",
+      "venue": "medical image computing and computer assisted intervention",
+      "year": 2013
+    },
+    {
+      "author": "James Bailey",
+      "id": "Transfer Learning of a Temporal Bone Performance Model via Anatomical Feature Registration",
+      "n_citation": 0,
+      "title": "Transfer Learning of a Temporal Bone Performance Model via Anatomical Feature Registration",
+      "venue": "international conference on pattern recognition",
+      "year": 2014
+    },
+    {
+      "author": "James Bailey",
+      "id": "Classification of Melanoma Lesions Using Wavelet-Based Texture Analysis",
+      "n_citation": 20,
+      "title": "Classification of Melanoma Lesions Using Wavelet-Based Texture Analysis",
+      "venue": "digital image computing: techniques and applications",
+      "year": 2010
+    },
+    {
+      "author": "James Bailey",
+      "id": "MIRAGAA—a methodology for finding coordinated effects of microRNA expression changes and genome aberrations in cancer",
+      "n_citation": 50,
+      "title": "MIRAGAA—a methodology for finding coordinated effects of microRNA expression changes and genome aberrations in cancer",
+      "venue": "Bioinformatics",
+      "year": 2010
+    },
+    {
+      "author": "James Bailey",
+      "id": "MOOCs meet measurement theory: a topic-modelling approach",
+      "n_citation": 2,
+      "title": "MOOCs meet measurement theory: a topic-modelling approach",
+      "venue": "national conference on artificial intelligence",
+      "year": 2016
+    },
+    {
+      "author": "James Bailey",
+      "id": "Can high-order dependencies improve mutual information based feature selection?",
+      "n_citation": 6,
+      "title": "Can high-order dependencies improve mutual information based feature selection?",
+      "venue": "Pattern Recognition",
+      "year": 2016
+    },
+    {
+      "author": "James Bailey",
+      "id": "Detection of Deception in the Mafia Party Game",
+      "n_citation": 3,
+      "title": "Detection of Deception in the Mafia Party Game",
+      "venue": "international conference on multimodal interfaces",
+      "year": 2015
+    },
+    {
+      "author": "James Bailey",
+      "id": "Adjusting for chance clustering comparison measures",
+      "n_citation": 50,
+      "title": "Adjusting for chance clustering comparison measures",
+      "venue": "Journal of Machine Learning Research",
+      "year": 2016
+    },
+    {
+      "author": "James Bailey",
+      "id": "Trajectory inference for mobile devices using connected cell towers",
+      "n_citation": 9,
+      "title": "Trajectory inference for mobile devices using connected cell towers",
+      "venue": "advances in geographic information systems",
+      "year": 2015
+    },
+    {
+      "author": "James Bailey",
+      "id": "Scalable Outlying-Inlying Aspects Discovery via Feature Ranking",
+      "n_citation": 2,
+      "title": "Scalable Outlying-Inlying Aspects Discovery via Feature Ranking",
+      "venue": "pacific-asia conference on knowledge discovery and data mining",
+      "year": 2015
+    },
+    {
+      "author": "James Bailey",
+      "id": "Discovering outlying aspects in large datasets",
+      "n_citation": 9,
+      "title": "Discovering outlying aspects in large datasets",
+      "venue": "Data Mining and Knowledge Discovery",
+      "year": 2016
+    },
+    {
+      "author": "James Bailey",
+      "id": "Accelerating Online CP Decompositions for Higher Order Tensors",
+      "n_citation": 16,
+      "title": "Accelerating Online CP Decompositions for Higher Order Tensors",
+      "venue": "knowledge discovery and data mining",
+      "year": 2016
+    },
+    {
+      "author": "James Bailey",
+      "id": "Identifying at-risk students in massive open online courses",
+      "n_citation": 45,
+      "title": "Identifying at-risk students in massive open online courses",
+      "venue": "national conference on artificial intelligence",
+      "year": 2015
+    },
+    {
+      "author": "James Bailey",
+      "id": "Automated Segmentation of Surgical Motion for Performance Analysis and Feedback",
+      "n_citation": 5,
+      "title": "Automated Segmentation of Surgical Motion for Performance Analysis and Feedback",
+      "venue": "medical image computing and computer assisted intervention",
+      "year": 2015
+    },
+    {
+      "author": "James Bailey",
+      "id": "Ground Truth Bias in External Cluster Validity Indices",
+      "n_citation": 0,
+      "title": "Ground Truth Bias in External Cluster Validity Indices",
+      "venue": "Pattern Recognition",
+      "year": 2017
+    },
+    {
+      "author": "James Bailey",
+      "id": "Node Re-Ordering as a Means of Anomaly Detection in Time-Evolving Graphs",
+      "n_citation": 0,
+      "title": "Node Re-Ordering as a Means of Anomaly Detection in Time-Evolving Graphs",
+      "venue": "european conference on principles of data mining and knowledge discovery",
+      "year": 2016
+    },
+    {
+      "author": "James Bailey",
+      "id": "Visual Assessment of Clustering Tendency for Incomplete Data",
+      "n_citation": 2,
+      "title": "Visual Assessment of Clustering Tendency for Incomplete Data",
+      "venue": "IEEE Transactions on Knowledge and Data Engineering",
+      "year": 2016
+    },
+    {
+      "author": "James Bailey",
+      "id": "SleepExplorer: a visualization tool to make sense of correlations between personal sleep data and contextual factors",
+      "n_citation": 10,
+      "title": "SleepExplorer: a visualization tool to make sense of correlations between personal sleep data and contextual factors",
+      "venue": "ubiquitous computing",
+      "year": 2016
+    },
+    {
+      "author": "James Bailey",
+      "id": "Provision of automated step-by-step procedural guidance in virtual reality surgery simulation",
+      "n_citation": 5,
+      "title": "Provision of automated step-by-step procedural guidance in virtual reality surgery simulation",
+      "venue": "virtual reality software and technology",
+      "year": 2016
+    },
+    {
+      "author": "James Bailey",
+      "id": "Real Time Autonomous Point of Interest Mining through Ambient Smartphone Sensing",
+      "n_citation": 0,
+      "title": "Real Time Autonomous Point of Interest Mining through Ambient Smartphone Sensing",
+      "venue": "international conference on mobile and ubiquitous systems: networking and services",
+      "year": 2016
+    },
+    {
+      "author": "James Bailey",
+      "id": "rFILTA: relevant and nonredundant view discovery from collections of clusterings via filtering and ranking",
+      "n_citation": 0,
+      "title": "rFILTA: relevant and nonredundant view discovery from collections of clusterings via filtering and ranking",
+      "venue": "Knowledge and Information Systems",
+      "year": 2016
+    },
+    {
+      "author": "James Bailey",
+      "id": "Logical queries over views: Decidability and expressiveness",
+      "n_citation": 0,
+      "title": "Logical queries over views: Decidability and expressiveness",
+      "venue": "ACM Transactions on Computational Logic",
+      "year": 2010
+    },
+    {
+      "author": "James Bailey",
+      "id": "Automatically recognizing places of interest from unreliable GPS data using spatio-temporal density estimation and line intersections",
+      "n_citation": 21,
+      "title": "Automatically recognizing places of interest from unreliable GPS data using spatio-temporal density estimation and line intersections",
+      "venue": "Pervasive and Mobile Computing",
+      "year": 2015
+    },
+    {
+      "author": "James Bailey",
+      "id": "Discrimination aware classification for imbalanced datasets",
+      "n_citation": 15,
+      "title": "Discrimination aware classification for imbalanced datasets",
+      "venue": "conference on information and knowledge management",
+      "year": 2013
+    },
+    {
+      "author": "James Bailey",
+      "id": "Computer-Aided Diagnosis of Melanoma Using Border- and Wavelet-Based Texture Analysis",
+      "n_citation": 50,
+      "title": "Computer-Aided Diagnosis of Melanoma Using Border- and Wavelet-Based Texture Analysis",
+      "venue": "international conference of the ieee engineering in medicine and biology society",
+      "year": 2012
+    },
+    {
+      "author": "James Bailey",
+      "id": "Efficient discovery of contrast subspaces for object explanation and characterization",
+      "n_citation": 0,
+      "title": "Efficient discovery of contrast subspaces for object explanation and characterization",
+      "venue": "Knowledge and Information Systems",
+      "year": 2016
+    },
+    {
+      "author": "James Bailey",
+      "id": "A time-dependent enhanced support vector machine for time series regression",
+      "n_citation": 50,
+      "title": "A time-dependent enhanced support vector machine for time series regression",
+      "venue": "knowledge discovery and data mining",
+      "year": 2013
+    },
+    {
+      "author": "James Bailey",
+      "id": "Document clustering of scientific texts using citation contexts",
+      "n_citation": 60,
+      "title": "Document clustering of scientific texts using citation contexts",
+      "venue": "Information Retrieval",
+      "year": 2010
+    },
+    {
+      "author": "James Bailey",
+      "id": "Mining Probabilistic Frequent Spatio-Temporal Sequential Patterns with Gap Constraints from Uncertain Databases",
+      "n_citation": 31,
+      "title": "Mining Probabilistic Frequent Spatio-Temporal Sequential Patterns with Gap Constraints from Uncertain Databases",
+      "venue": "international conference on data mining",
+      "year": 2013
+    },
+    {
+      "author": "James Bailey",
+      "id": "Is this you?: identifying a mobile user using only diagnostic features",
+      "n_citation": 6,
+      "title": "Is this you?: identifying a mobile user using only diagnostic features",
+      "venue": "mobile and ubiquitous multimedia",
+      "year": 2014
+    },
+    {
+      "author": "James Bailey",
+      "id": "TRIBAC: Discovering Interpretable Clusters and Latent Structures in Graphs",
+      "n_citation": 1,
+      "title": "TRIBAC: Discovering Interpretable Clusters and Latent Structures in Graphs",
+      "venue": "international conference on data mining",
+      "year": 2014
+    },
+    {
+      "author": "James Bailey",
+      "id": "A time decoupling approach for studying forum dynamics",
+      "n_citation": 50,
+      "title": "A time decoupling approach for studying forum dynamics",
+      "venue": "World Wide Web",
+      "year": 2013
+    },
+    {
+      "author": "James Bailey",
+      "id": "ciForager: Incrementally discovering regions of correlated change in evolving graphs",
+      "n_citation": 3,
+      "title": "ciForager: Incrementally discovering regions of correlated change in evolving graphs",
+      "venue": "ACM Transactions on Knowledge Discovery From Data",
+      "year": 2012
+    },
+    {
+      "author": "James Bailey",
+      "id": "A binary decision diagram based approach for mining frequent subsequences",
+      "n_citation": 47,
+      "title": "A binary decision diagram based approach for mining frequent subsequences",
+      "venue": "Knowledge and Information Systems",
+      "year": 2010
+    },
+    {
+      "author": "James Bailey",
+      "id": "Comments on supervised feature selection by clustering using conditional mutual information-based distances",
+      "n_citation": 50,
+      "title": "Comments on supervised feature selection by clustering using conditional mutual information-based distances",
+      "venue": "Pattern Recognition",
+      "year": 2013
+    },
+    {
+      "author": "James Bailey",
+      "id": "Enhancing the B+-tree by dynamic node popularity caching",
+      "n_citation": 50,
+      "title": "Enhancing the B+-tree by dynamic node popularity caching",
+      "venue": "Information Processing Letters",
+      "year": 2010
+    },
+    {
+      "author": "James Bailey",
+      "id": "SeqiBloc: mining multi-time spanning blockmodels in dynamic graphs",
+      "n_citation": 50,
+      "title": "SeqiBloc: mining multi-time spanning blockmodels in dynamic graphs",
+      "venue": "knowledge discovery and data mining",
+      "year": 2012
+    },
+    {
+      "author": "James Bailey",
+      "id": "Ranking cell tracking systems without manual validation",
+      "n_citation": 50,
+      "title": "Ranking cell tracking systems without manual validation",
+      "venue": "Pattern Recognition Letters",
+      "year": 2015
+    },
+    {
+      "author": "James Bailey",
+      "id": "Efficient mining of platoon patterns in trajectory databases",
+      "n_citation": 15,
+      "title": "Efficient mining of platoon patterns in trajectory databases",
+      "venue": "data and knowledge engineering",
+      "year": 2015
+    },
+    {
+      "author": "James Bailey",
+      "id": "A context-aware do-not-disturb service for mobile devices",
+      "n_citation": 5,
+      "title": "A context-aware do-not-disturb service for mobile devices",
+      "venue": "mobile and ubiquitous multimedia",
+      "year": 2014
+    },
+    {
+      "author": "James Bailey",
+      "id": "Generating multiple alternative clusterings via globally optimal subspaces",
+      "n_citation": 50,
+      "title": "Generating multiple alternative clusterings via globally optimal subspaces",
+      "venue": "Data Mining and Knowledge Discovery",
+      "year": 2014
+    },
+    {
+      "author": "James Bailey",
+      "id": "A hierarchical information theoretic technique for the discovery of non linear alternative clusterings",
+      "n_citation": 50,
+      "title": "A hierarchical information theoretic technique for the discovery of non linear alternative clusterings",
+      "venue": "knowledge discovery and data mining",
+      "year": 2010
+    },
+    {
+      "author": "James Bailey",
+      "id": "Extracting significant places from mobile user GPS trajectories: a bearing change based approach",
+      "n_citation": 50,
+      "title": "Extracting significant places from mobile user GPS trajectories: a bearing change based approach",
+      "venue": "advances in geographic information systems",
+      "year": 2012
+    },
+    {
+      "author": "James Bailey",
+      "id": "A framework to uncover multiple alternative clusterings",
+      "n_citation": 14,
+      "title": "A framework to uncover multiple alternative clusterings",
+      "venue": "Machine Learning",
+      "year": 2015
+    },
+    {
+      "author": "James Bailey",
+      "id": "Improving MeSH classification of biomedical articles using citation contexts",
+      "n_citation": 21,
+      "title": "Improving MeSH classification of biomedical articles using citation contexts",
+      "venue": "Journal of Biomedical Informatics",
+      "year": 2011
+    },
+    {
+      "author": "James Bailey",
+      "id": "Exploiting Transitive Similarity and Temporal Dynamics for Similarity Search in Heterogeneous Information Networks",
+      "n_citation": 50,
+      "title": "Exploiting Transitive Similarity and Temporal Dynamics for Similarity Search in Heterogeneous Information Networks",
+      "venue": "database systems for advanced applications",
+      "year": 2014
+    },
+    {
+      "author": "James Bailey",
+      "id": "Time Series Forecasting Using Distribution Enhanced Linear Regression",
+      "n_citation": 50,
+      "title": "Time Series Forecasting Using Distribution Enhanced Linear Regression",
+      "venue": "pacific-asia conference on knowledge discovery and data mining",
+      "year": 2013
+    },
+    {
+      "author": "James Bailey",
+      "id": "FILTA: Better View Discovery from Collections of Clusterings via Filtering",
+      "n_citation": 50,
+      "title": "FILTA: Better View Discovery from Collections of Clusterings via Filtering",
+      "venue": "european conference on principles of data mining and knowledge discovery",
+      "year": 2014
+    },
+    {
+      "author": "James Bailey",
+      "id": "Improved Feature Transformations for Classification Using Density Estimation",
+      "n_citation": 0,
+      "title": "Improved Feature Transformations for Classification Using Density Estimation",
+      "venue": "pacific rim international conference on artificial intelligence",
+      "year": 2014
+    },
+    {
+      "author": "James Bailey",
+      "id": "Structure-Aware Distance Measures for Comparing Clusterings in Graphs",
+      "n_citation": 1,
+      "title": "Structure-Aware Distance Measures for Comparing Clusterings in Graphs",
+      "venue": "pacific-asia conference on knowledge discovery and data mining",
+      "year": 2014
+    },
+    {
+      "author": "James Bailey",
+      "id": "Mining Contrast Subspaces",
+      "n_citation": 50,
+      "title": "Mining Contrast Subspaces",
+      "venue": "pacific-asia conference on knowledge discovery and data mining",
+      "year": 2014
+    },
+    {
+      "author": "James Bailey",
+      "id": "Generalized Modularity for Community Detection",
+      "n_citation": 4,
+      "title": "Generalized Modularity for Community Detection",
+      "venue": "european conference on principles of data mining and knowledge discovery",
+      "year": 2015
+    },
+    {
+      "author": "James Bailey",
+      "id": "Region-Specific Automated Feedback in Temporal Bone Surgery Simulation",
+      "n_citation": 3,
+      "title": "Region-Specific Automated Feedback in Temporal Bone Surgery Simulation",
+      "venue": "computer-based medical systems",
+      "year": 2015
+    },
+    {
+      "author": "James Bailey",
+      "id": "A Bayesian Classifier for Learning from Tensorial Data",
+      "n_citation": 0,
+      "title": "A Bayesian Classifier for Learning from Tensorial Data",
+      "venue": "european conference on principles of data mining and knowledge discovery",
+      "year": 2013
+    },
+    {
+      "author": "James Bailey",
+      "id": "Sentiment analysis by augmenting expectation maximisation with lexical knowledge",
+      "n_citation": 50,
+      "title": "Sentiment analysis by augmenting expectation maximisation with lexical knowledge",
+      "venue": "web information systems engineering",
+      "year": 2012
+    },
+    {
+      "author": "James Bailey",
+      "id": "A novel scalable multi-class ROC for effective visualization and computation",
+      "n_citation": 50,
+      "title": "A novel scalable multi-class ROC for effective visualization and computation",
+      "venue": "knowledge discovery and data mining",
+      "year": 2010
+    },
+    {
+      "author": "James Bailey",
+      "id": "Reconsidering mutual information based feature selection: a statistical significance view",
+      "n_citation": 4,
+      "title": "Reconsidering mutual information based feature selection: a statistical significance view",
+      "venue": "national conference on artificial intelligence",
+      "year": 2014
+    },
+    {
+      "author": "James Bailey",
+      "id": "Generalized information theoretic cluster validity indices for soft clusterings",
+      "n_citation": 5,
+      "title": "Generalized information theoretic cluster validity indices for soft clusterings",
+      "venue": "computational intelligence and data mining",
+      "year": 2014
+    },
+    {
+      "author": "James Bailey",
+      "id": "Efficient incremental mining of contrast patterns in changing data",
+      "n_citation": 50,
+      "title": "Efficient incremental mining of contrast patterns in changing data",
+      "venue": "Information Processing Letters",
+      "year": 2010
+    },
+    {
+      "author": "James Bailey",
+      "id": "How private can i be among public users",
+      "n_citation": 2,
+      "title": "How private can i be among public users",
+      "venue": "ubiquitous computing",
+      "year": 2015
+    },
+    {
+      "author": "James Bailey",
+      "id": "Enriched spatial comparison of clusterings through discovery of deviating subspaces",
+      "n_citation": 0,
+      "title": "Enriched spatial comparison of clusterings through discovery of deviating subspaces",
+      "venue": "Machine Learning",
+      "year": 2015
+    },
+    {
+      "author": "James Bailey",
+      "id": "Measures for ranking cell trackers without manual validation",
+      "n_citation": 6,
+      "title": "Measures for ranking cell trackers without manual validation",
+      "venue": "Pattern Recognition",
+      "year": 2013
+    },
+    {
+      "author": "James Bailey",
+      "id": "Pattern-based real-time feedback for a temporal bone simulator",
+      "n_citation": 10,
+      "title": "Pattern-based real-time feedback for a temporal bone simulator",
+      "venue": "virtual reality software and technology",
+      "year": 2013
+    },
+    {
+      "author": "James Bailey",
+      "id": "Clustering and visualization of fuzzy communities in social networks",
+      "n_citation": 3,
+      "title": "Clustering and visualization of fuzzy communities in social networks",
+      "venue": "ieee international conference on fuzzy systems",
+      "year": 2013
+    },
+    {
+      "author": "James Bailey",
+      "id": "Mining outlying aspects on numeric data",
+      "n_citation": 15,
+      "title": "Mining outlying aspects on numeric data",
+      "venue": "Data Mining and Knowledge Discovery",
+      "year": 2015
+    },
+    {
+      "author": "James Bailey",
+      "id": "Mining distribution change in stock order streams",
+      "n_citation": 39,
+      "title": "Mining distribution change in stock order streams",
+      "venue": "international conference on data engineering",
+      "year": 2010
     }
    ],
    "links": [ 
+    {
+      "source": "James Bailey",
+      "target": "Mining distribution change in stock order streams",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Mining outlying aspects on numeric data",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Clustering and visualization of fuzzy communities in social networks",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Pattern-based real-time feedback for a temporal bone simulator",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Measures for ranking cell trackers without manual validation",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Enriched spatial comparison of clusterings through discovery of deviating subspaces",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "How private can i be among public users",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Efficient incremental mining of contrast patterns in changing data",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Generalized information theoretic cluster validity indices for soft clusterings",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Reconsidering mutual information based feature selection: a statistical significance view",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "A novel scalable multi-class ROC for effective visualization and computation",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Sentiment analysis by augmenting expectation maximisation with lexical knowledge",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "A Bayesian Classifier for Learning from Tensorial Data",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Region-Specific Automated Feedback in Temporal Bone Surgery Simulation",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Generalized Modularity for Community Detection",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Mining Contrast Subspaces",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Structure-Aware Distance Measures for Comparing Clusterings in Graphs",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Improved Feature Transformations for Classification Using Density Estimation",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "FILTA: Better View Discovery from Collections of Clusterings via Filtering",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Time Series Forecasting Using Distribution Enhanced Linear Regression",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Exploiting Transitive Similarity and Temporal Dynamics for Similarity Search in Heterogeneous Information Networks",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Improving MeSH classification of biomedical articles using citation contexts",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "A framework to uncover multiple alternative clusterings",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Extracting significant places from mobile user GPS trajectories: a bearing change based approach",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "A hierarchical information theoretic technique for the discovery of non linear alternative clusterings",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Generating multiple alternative clusterings via globally optimal subspaces",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "A context-aware do-not-disturb service for mobile devices",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Efficient mining of platoon patterns in trajectory databases",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Ranking cell tracking systems without manual validation",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "SeqiBloc: mining multi-time spanning blockmodels in dynamic graphs",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Enhancing the B+-tree by dynamic node popularity caching",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Comments on supervised feature selection by clustering using conditional mutual information-based distances",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "A binary decision diagram based approach for mining frequent subsequences",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "ciForager: Incrementally discovering regions of correlated change in evolving graphs",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "A time decoupling approach for studying forum dynamics",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "TRIBAC: Discovering Interpretable Clusters and Latent Structures in Graphs",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Is this you?: identifying a mobile user using only diagnostic features",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Mining Probabilistic Frequent Spatio-Temporal Sequential Patterns with Gap Constraints from Uncertain Databases",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Document clustering of scientific texts using citation contexts",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "A time-dependent enhanced support vector machine for time series regression",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Efficient discovery of contrast subspaces for object explanation and characterization",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Computer-Aided Diagnosis of Melanoma Using Border- and Wavelet-Based Texture Analysis",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Discrimination aware classification for imbalanced datasets",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Automatically recognizing places of interest from unreliable GPS data using spatio-temporal density estimation and line intersections",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Logical queries over views: Decidability and expressiveness",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "rFILTA: relevant and nonredundant view discovery from collections of clusterings via filtering and ranking",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Real Time Autonomous Point of Interest Mining through Ambient Smartphone Sensing",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Provision of automated step-by-step procedural guidance in virtual reality surgery simulation",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "SleepExplorer: a visualization tool to make sense of correlations between personal sleep data and contextual factors",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Visual Assessment of Clustering Tendency for Incomplete Data",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Node Re-Ordering as a Means of Anomaly Detection in Time-Evolving Graphs",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Ground Truth Bias in External Cluster Validity Indices",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Automated Segmentation of Surgical Motion for Performance Analysis and Feedback",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Identifying at-risk students in massive open online courses",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Accelerating Online CP Decompositions for Higher Order Tensors",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Discovering outlying aspects in large datasets",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Scalable Outlying-Inlying Aspects Discovery via Feature Ranking",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Trajectory inference for mobile devices using connected cell towers",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Adjusting for chance clustering comparison measures",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Detection of Deception in the Mafia Party Game",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Can high-order dependencies improve mutual information based feature selection?",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "MOOCs meet measurement theory: a topic-modelling approach",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "MIRAGAA—a methodology for finding coordinated effects of microRNA expression changes and genome aberrations in cancer",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Classification of Melanoma Lesions Using Wavelet-Based Texture Analysis",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Transfer Learning of a Temporal Bone Performance Model via Anatomical Feature Registration",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Constructive Real Time Feedback for a Temporal Bone Simulator",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "A clustering comparison measure using density profiles and its application to the discovery of alternate clusterings",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Discovering latent blockmodels in sparse and noisy graphs using non-negative matrix factorisation",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Standardized Mutual Information for Clustering Comparisons: One Step Further in Adjustment for Chance",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "On compressing weighted time-evolving graphs",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Mining multidimensional contextual outliers from categorical relational data",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Discovery and analysis of consistent active sub-networks in cancers",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Effective global approaches for mutual information based feature selection",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Utilizing common substructures to speedup tensor factorization for mining dynamic graphs",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "is-rSNP: a novel technique for in silico regulatory SNP detection",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Using Gene Ontology annotations in exploratory microarray clustering to understand cancer etiology",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Overview of Contrast Data Mining as a Field and Preview of an Upcoming Book",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Classifying proteins using gapped Markov feature pairs",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target":  "A fast indexing approach for protein structure comparison",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Training robust models using Random Projection",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Measuring dependency via intrinsic dimensionality",
+      "value": 1
+    },
+    {
+      "source": "James Bailey",
+      "target": "Topology-regularized universal vector autoregression for traffic forecasting in large urban areas",
+      "value": 1
+    },
+    {
+      "source": "Sudanthi N. R. Wijewickrema",
+      "target": "Pattern-based real-time feedback for a temporal bone simulator",
+      "value": 1
+    },
+    {
+      "source": "Sudanthi N. R. Wijewickrema",
+      "target": "Region-Specific Automated Feedback in Temporal Bone Surgery Simulation",
+      "value": 1
+    },
+    {
+      "source": "Sudanthi N. R. Wijewickrema",
+      "target": "Hierarchical Mutual Nearest Neighbour Image Segmentation",
+      "value": 1
+    },
+    {
+      "source": "Sudanthi N. R. Wijewickrema",
+      "target": "Provision of automated step-by-step procedural guidance in virtual reality surgery simulation",
+      "value": 1
+    },
+    {
+      "source": "Sudanthi N. R. Wijewickrema",
+      "target": "Automated Segmentation of Surgical Motion for Performance Analysis and Feedback",
+      "value": 1
+    },
+    {
+      "source": "Sudanthi N. R. Wijewickrema",
+      "target": "Transfer Learning of a Temporal Bone Performance Model via Anatomical Feature Registration",
+      "value": 1
+    },
+    {
+      "source": "Sudanthi N. R. Wijewickrema",
+      "target": "Constructive Real Time Feedback for a Temporal Bone Simulator",
+      "value": 1
+    },
+    {
+      "source": "Sudanthi N. R. Wijewickrema",
+      "target": "Algorithms for projecting points onto conics",
+      "value": 1
+    },
+    {
+      "source": "Sudanthi N. R. Wijewickrema",
+      "target": "Adaptation of marching cubes for the simulation of material removal from segmented volume data",
+      "value": 1
+    },
+    {
+      "source": "Sudanthi N. R. Wijewickrema",
+      "target": "Finding Influentials in Twitter: A Temporal Influence Ranking Model",
+      "value": 1
+    },
     {
       "source": "Gregor Kennedy",
       "target": "Search or explore: do you know what you're looking for?",
