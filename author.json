@@ -3201,9 +3201,2272 @@
       "title": "Mining distribution change in stock order streams",
       "venue": "international conference on data engineering",
       "year": 2010
+    },
+    {
+      "authors": "Tao Dong",
+      "id": "Tao Dong",
+      "n_citation": 0,
+      "year": 2009
+    },
+    {
+      "author": "Tao Dong",
+      "id": "A novel conformal jigsaw EBG structure design",
+      "n_citation": 0,
+      "title": "A novel conformal jigsaw EBG structure design",
+      "venue": "international conference on conceptual structures",
+      "year": 2016
+    },
+    {
+      "author": "Tao Dong",
+      "id": "Smartphone-Based Rapid Screening of Urinary Biomarkers",
+      "n_citation": 0,
+      "title": "Smartphone-Based Rapid Screening of Urinary Biomarkers",
+      "venue": "IEEE Transactions on Biomedical Circuits and Systems",
+      "year": 2017
+    },
+    {
+      "author": "Tao Dong",
+      "id": "Hopf bifurcation in a love-triangle model with time delays",
+      "n_citation": 0,
+      "title": "Hopf bifurcation in a love-triangle model with time delays",
+      "venue": "Neurocomputing",
+      "year": 2017
+    },
+    {
+      "author": "Tao Dong",
+      "id": "Fabrication of vanadium oxide for uncooled FPAs using dual magnetron AC sputtering",
+      "n_citation": 0,
+      "title": "Fabrication of vanadium oxide for uncooled FPAs using dual magnetron AC sputtering",
+      "venue": "electronic and mechanical engineering and information technology",
+      "year": 2011
+    },
+    {
+      "author": "Tao Dong",
+      "id": "Retraction note: Invulnerability mechanism based on mobility prediction and opportunistic cloud computing with topological evolution for wireless multimedia sensor networks",
+      "n_citation": 50,
+      "title": "Retraction note: Invulnerability mechanism based on mobility prediction and opportunistic cloud computing with topological evolution for wireless multimedia sensor networks",
+      "venue": "Eurasip Journal on Wireless Communications and Networking",
+      "year": 2015
+    },
+    {
+      "author": "Tao Dong",
+      "id": "Discovery-based games for learning software",
+      "n_citation": 64,
+      "title": "Discovery-based games for learning software",
+      "venue": "human factors in computing systems",
+      "year": 2012
+    },
+    {
+      "author": "Tao Dong",
+      "id": "Event-triggered synchronization strategy for complex dynamical networks with the Markovian switching topologies",
+      "n_citation": 7,
+      "title": "Event-triggered synchronization strategy for complex dynamical networks with the Markovian switching topologies",
+      "venue": "Neural Networks",
+      "year": 2016
+    },
+    {
+      "author": "Tao Dong",
+      "id": "Structure and Reciprocity in Technology-Centered Q&A Communities",
+      "n_citation": 0,
+      "title": "Structure and Reciprocity in Technology-Centered Q&A Communities",
+      "venue": "international conference on weblogs and social media",
+      "year": 2011
+    },
+    {
+      "author": "Tao Dong",
+      "id": "Modeling, Design, and Fabrication of Self-Doping Si1−xGex/Si Multiquantum Well Material for Infrared Sensing",
+      "n_citation": 0,
+      "title": "Modeling, Design, and Fabrication of Self-Doping Si1−xGex/Si Multiquantum Well Material for Infrared Sensing",
+      "venue": "Journal of Sensors",
+      "year": 2016
+    },
+    {
+      "author": "Tao Dong",
+      "id": "Text Categorization Based on Semantic Cluster-Hidden Markov Models",
+      "n_citation": 50,
+      "title": "Text Categorization Based on Semantic Cluster-Hidden Markov Models",
+      "venue": "international conference on swarm intelligence",
+      "year": 2013
+    },
+    {
+      "author": "Tao Dong",
+      "id": "Microfluidic paper-based analytical devices for colorimetric detection of urinary tract infection biomarkers on adult diapers.",
+      "n_citation": 0,
+      "title": "Microfluidic paper-based analytical devices for colorimetric detection of urinary tract infection biomarkers on adult diapers.",
+      "venue": "international conference of the ieee engineering in medicine and biology society",
+      "year": 2015
+    },
+    {
+      "author": "Tao Dong",
+      "id": "A smart phone-based robust correction algorithm for the colorimetric detection of Urinary Tract Infection.",
+      "n_citation": 1,
+      "title": "A smart phone-based robust correction algorithm for the colorimetric detection of Urinary Tract Infection.",
+      "venue": "international conference of the ieee engineering in medicine and biology society",
+      "year": 2015
+    },
+    {
+      "author": "Tao Dong",
+      "id": "Rapid detection of E. coli cells in urine samples using a self-capacitance touchscreen device",
+      "n_citation": 0,
+      "title": "Rapid detection of E. coli cells in urine samples using a self-capacitance touchscreen device",
+      "venue": "international conference of the ieee engineering in medicine and biology society",
+      "year": 2015
+    },
+    {
+      "author": "Tao Dong",
+      "id": "Rethink Scalable M:N Threading on Modern Operating Systems",
+      "n_citation": 0,
+      "title": "Rethink Scalable M:N Threading on Modern Operating Systems",
+      "venue": "Journal of Computers",
+      "year": 2016
+    },
+    {
+      "author": "Tao Dong",
+      "id": "The Making of Cross-Device Experiences: A Hands-on Workshop",
+      "n_citation": 0,
+      "title": "The Making of Cross-Device Experiences: A Hands-on Workshop",
+      "venue": "designing interactive systems",
+      "year": 2016
+    },
+    {
+      "author": "Tao Dong",
+      "id": "Understanding the Challenges of Designing and Developing Multi-Device Experiences",
+      "n_citation": 10,
+      "title": "Understanding the Challenges of Designing and Developing Multi-Device Experiences",
+      "venue": "designing interactive systems",
+      "year": 2016
+    },
+    {
+      "author": "Tao Dong",
+      "id": "Performance of heterogeneous multiuser MIMO system with cross-layer design and multiple outdated estimations in Rayleigh fading channel",
+      "n_citation": 0,
+      "title": "Performance of heterogeneous multiuser MIMO system with cross-layer design and multiple outdated estimations in Rayleigh fading channel",
+      "venue": "Telecommunication Systems",
+      "year": 2017
+    },
+    {
+      "author": "Tao Dong",
+      "id": "Highly sensitive detection of human cancer antigens by an immunogold-silver assay chip coupled with a polythiophene-based optical sensor",
+      "n_citation": 0,
+      "title": "Highly sensitive detection of human cancer antigens by an immunogold-silver assay chip coupled with a polythiophene-based optical sensor",
+      "venue": "international conference of the ieee engineering in medicine and biology society",
+      "year": 2016
+    },
+    {
+      "author": "Tao Dong",
+      "id": "Reduced-Order Observer-Based Consensus for Multi-Agent Systems With Time Delay and Event Trigger Strategy",
+      "n_citation": 0,
+      "title": "Reduced-Order Observer-Based Consensus for Multi-Agent Systems With Time Delay and Event Trigger Strategy",
+      "venue": "IEEE Access",
+      "year": 2017
+    },
+    {
+      "author": "Tao Dong",
+      "id": "A novel and efficient synthesis approach on antenna radiation pattern for conformal array",
+      "n_citation": 0,
+      "title": "A novel and efficient synthesis approach on antenna radiation pattern for conformal array",
+      "venue": "international conference on conceptual structures",
+      "year": 2016
+    },
+    {
+      "author": "Tao Dong",
+      "id": "A CMOS Readout With High-Precision and Low-Temperature-Coefficient Background Current Skimming for Infrared Focal Plane Array",
+      "n_citation": 1,
+      "title": "A CMOS Readout With High-Precision and Low-Temperature-Coefficient Background Current Skimming for Infrared Focal Plane Array",
+      "venue": "IEEE Transactions on Circuits and Systems for Video Technology",
+      "year": 2015
+    },
+    {
+      "author": "Tao Dong",
+      "id": "Bringing the field into the lab: supporting capture and replay of contextual data for the design of context-aware applications",
+      "n_citation": 16,
+      "title": "Bringing the field into the lab: supporting capture and replay of contextual data for the design of context-aware applications",
+      "venue": "user interface software and technology",
+      "year": 2010
+    },
+    {
+      "author": "Tao Dong",
+      "id": "Social overlays: augmenting existing UIs with social cues",
+      "n_citation": 0,
+      "title": "Social overlays: augmenting existing UIs with social cues",
+      "venue": "conference on computer supported cooperative work",
+      "year": 2012
+    },
+    {
+      "author": "Tao Dong",
+      "id": "Feasibility study on service-based data acquisition for human signal molecule profiling database",
+      "n_citation": 0,
+      "title": "Feasibility study on service-based data acquisition for human signal molecule profiling database",
+      "venue": "bioinformatics and bioengineering",
+      "year": 2013
+    },
+    {
+      "author": "Tao Dong",
+      "id": "Cell-based digital microfluidic chip for drug mixing and droplets generation: Design and simulation",
+      "n_citation": 2,
+      "title": "Cell-based digital microfluidic chip for drug mixing and droplets generation: Design and simulation",
+      "venue": "biomedical engineering and informatics",
+      "year": 2012
+    },
+    {
+      "author": "Tao Dong",
+      "id": "Ultra-sensitive microfluidic system based on IMRAMP assay to quantify hormones in blood",
+      "n_citation": 0,
+      "title": "Ultra-sensitive microfluidic system based on IMRAMP assay to quantify hormones in blood",
+      "venue": "biomedical engineering and informatics",
+      "year": 2011
+    },
+    {
+      "author": "Tao Dong",
+      "id": "Capacitance Variation Induced by Microfluidic Two-Phase Flow across Insulated Interdigital Electrodes in Lab-On-Chip Devices",
+      "n_citation": 50,
+      "title": "Capacitance Variation Induced by Microfluidic Two-Phase Flow across Insulated Interdigital Electrodes in Lab-On-Chip Devices",
+      "venue": "Sensors",
+      "year": 2015
+    },
+    {
+      "author": "Tao Dong",
+      "id": "Low-temperature void-free wafer-level adhesive bonding for thin film transfer by nano-imprint resist",
+      "n_citation": 0,
+      "title": "Low-temperature void-free wafer-level adhesive bonding for thin film transfer by nano-imprint resist",
+      "venue": "biomedical engineering and informatics",
+      "year": 2012
+    },
+    {
+      "author": "Tao Dong",
+      "id": "1196-Chamber compatible LOC device with bubble valves for signaling molecular profiling in blood",
+      "n_citation": 0,
+      "title": "1196-Chamber compatible LOC device with bubble valves for signaling molecular profiling in blood",
+      "venue": "biomedical engineering and informatics",
+      "year": 2012
+    },
+    {
+      "author": "Tao Dong",
+      "id": "Novel nanoconcentrator for recovering viral particles of biomedical interest: Design and simulation",
+      "n_citation": 0,
+      "title": "Novel nanoconcentrator for recovering viral particles of biomedical interest: Design and simulation",
+      "venue": "biomedical engineering and informatics",
+      "year": 2012
+    },
+    {
+      "author": "Tao Dong",
+      "id": "An efficient passive planar micromixer with ellipse-like micropillars for continuous mixing of human blood",
+      "n_citation": 50,
+      "title": "An efficient passive planar micromixer with ellipse-like micropillars for continuous mixing of human blood",
+      "venue": "Computer Methods and Programs in Biomedicine",
+      "year": 2014
+    },
+    {
+      "author": "Tao Dong",
+      "id": "Calculations of radiation characteristics of reflector antennas with surface deformation and perforation",
+      "n_citation": 50,
+      "title": "Calculations of radiation characteristics of reflector antennas with surface deformation and perforation",
+      "venue": "Computers & Mathematics With Applications",
+      "year": 2011
+    },
+    {
+      "author": "Tao Dong",
+      "id": "Biomedical micro-refinery system for the enrichment of Giardia cysts in source water",
+      "n_citation": 0,
+      "title": "Biomedical micro-refinery system for the enrichment of Giardia cysts in source water",
+      "venue": "biomedical engineering and informatics",
+      "year": 2012
+    },
+    {
+      "author": "Tao Dong",
+      "id": "\"If these walls could talk\": designing with memories of places",
+      "n_citation": 11,
+      "title": "\"If these walls could talk\": designing with memories of places",
+      "venue": "designing interactive systems",
+      "year": 2014
+    },
+    {
+      "author": "Tao Dong",
+      "id": "House memory: on activity traces as a form of cultural heritage",
+      "n_citation": 1,
+      "title": "House memory: on activity traces as a form of cultural heritage",
+      "venue": "Interactions",
+      "year": 2014
+    },
+    {
+      "author": "Tao Dong",
+      "id": "Detection of pathogens using bio-activated nickel hexacyanoferrate film coated interdigitated microelectrodes",
+      "n_citation": 0,
+      "title": "Detection of pathogens using bio-activated nickel hexacyanoferrate film coated interdigitated microelectrodes",
+      "venue": "electronic and mechanical engineering and information technology",
+      "year": 2011
+    },
+    {
+      "author": "Tao Dong",
+      "id": "Social Overlays: Collectively Making Websites More Usable",
+      "n_citation": 5,
+      "title": "Social Overlays: Collectively Making Websites More Usable",
+      "venue": "international conference on human-computer interaction",
+      "year": 2013
+    },
+    {
+      "author": "Tao Dong",
+      "id": "An Improved Algorithm of Bayesian Text Categorization",
+      "n_citation": 24,
+      "title": "An Improved Algorithm of Bayesian Text Categorization",
+      "venue": "Journal of Software",
+      "year": 2011
+    },
+    {
+      "author": "Tao Dong",
+      "id": "Algebraic criteria for second-order global consensus in multi-agent networks with intrinsic nonlinear dynamics and directed topologies",
+      "n_citation": 23,
+      "title": "Algebraic criteria for second-order global consensus in multi-agent networks with intrinsic nonlinear dynamics and directed topologies",
+      "venue": "Information Sciences",
+      "year": 2014
+    },
+    {
+      "author": "Tao Dong",
+      "id": "Microfluidic biosensor array with integrated poly(2,7-carbazole)/fullerene-based photodiodes for rapid multiplexed detection of pathogens.",
+      "n_citation": 50,
+      "title": "Microfluidic biosensor array with integrated poly(2,7-carbazole)/fullerene-based photodiodes for rapid multiplexed detection of pathogens.",
+      "venue": "Sensors",
+      "year": 2013
+    },
+    {
+      "author": "Tao Dong",
+      "id": "Recent Developments in Optical Detection Technologies in Lab-on-a-Chip Devices for Biosensing Applications",
+      "n_citation": 63,
+      "title": "Recent Developments in Optical Detection Technologies in Lab-on-a-Chip Devices for Biosensing Applications",
+      "venue": "Sensors",
+      "year": 2014
+    },
+    {
+      "author": "Tao Dong",
+      "id": "Supporting reflection through play: field testing the home trivia system",
+      "n_citation": 4,
+      "title": "Supporting reflection through play: field testing the home trivia system",
+      "venue": "ubiquitous computing",
+      "year": 2015
+    },
+    {
+      "author": "Tao Dong",
+      "id": "Increasing the protozoan recovery for biomedical membrane filters using multiplexed refining device",
+      "n_citation": 0,
+      "title": "Increasing the protozoan recovery for biomedical membrane filters using multiplexed refining device",
+      "venue": "biomedical engineering and informatics",
+      "year": 2012
+    },
+    {
+      "author": "Tao Dong",
+      "id": "Hopf-pitchfork bifurcation in an inertial two-neuron system with time delay",
+      "n_citation": 18,
+      "title": "Hopf-pitchfork bifurcation in an inertial two-neuron system with time delay",
+      "venue": "Neurocomputing",
+      "year": 2012
+    },
+    {
+      "authors": "Roger S. Armen",
+      "id": "Roger S. Armen",
+      "n_citation": 0,
+      "year": 2009
+    },
+    {
+      "author": "Roger S. Armen",
+      "id": "Prediction of consensus binding mode geometries for related chemical series of positive allosteric modulators of adenosine and muscarinic acetylcholine receptors",
+      "n_citation": 50,
+      "title": "Prediction of consensus binding mode geometries for related chemical series of positive allosteric modulators of adenosine and muscarinic acetylcholine receptors",
+      "venue": "Journal of Computational Chemistry",
+      "year": 2017
+    },
+    {
+      "author": "Roger S. Armen",
+      "id": "Automatic selection of near-native protein-ligand conformations using a hierarchical clustering and volunteer computing",
+      "n_citation": 50,
+      "title": "Automatic selection of near-native protein-ligand conformations using a hierarchical clustering and volunteer computing",
+      "venue": "international conference on bioinformatics",
+      "year": 2010
+    },
+    {
+      "author": "Roger S. Armen",
+      "id": "Systematic and efficient side chain optimization for molecular docking using a cheapest‐path procedure",
+      "n_citation": 50,
+      "title": "Systematic and efficient side chain optimization for molecular docking using a cheapest‐path procedure",
+      "venue": "Journal of Computational Chemistry",
+      "year": 2013
+    },
+    {
+      "author": "Roger S. Armen",
+      "id": "Evaluation of several two-step scoring functions based on linear interaction energy, effective ligand size, and empirical pair potentials for prediction of protein-ligand binding geometry and free energy.",
+      "n_citation": 21,
+      "title": "Evaluation of several two-step scoring functions based on linear interaction energy, effective ligand size, and empirical pair potentials for prediction of protein-ligand binding geometry and free energy.",
+      "venue": "Journal of Chemical Information and Modeling",
+      "year": 2011
+    },
+    {
+      "author": "Roger S. Armen",
+      "id": "A scalable and accurate method for classifying protein-ligand binding geometries using a MapReduce approach",
+      "n_citation": 50,
+      "title": "A scalable and accurate method for classifying protein-ligand binding geometries using a MapReduce approach",
+      "venue": "Computers in Biology and Medicine",
+      "year": 2012
+    },
+    {
+      "author": "Roger S. Armen",
+      "id": "Reengineering High-throughput Molecular Datasets for Scalable Clustering Using MapReduce",
+      "n_citation": 9,
+      "title": "Reengineering High-throughput Molecular Datasets for Scalable Clustering Using MapReduce",
+      "venue": "ieee international conference on high performance computing data and analytics",
+      "year": 2012
+    },
+    {
+      "author": "Roger S. Armen",
+      "id": "Poster: study of protein-ligand binding geometries using a scalable and accurate octree-based algorithm in mapReduce",
+      "n_citation": 0,
+      "title": "Poster: study of protein-ligand binding geometries using a scalable and accurate octree-based algorithm in mapReduce",
+      "venue": "ieee international conference on high performance computing data and analytics",
+      "year": 2011
+    },
+    {
+      "authors": "Obaidur Rahaman",
+      "id": "Obaidur Rahaman",
+      "n_citation": 0,
+      "year": 2009
+    },
+    {
+      "authors": "Charles L. Brooks",
+      "id": "Charles L. Brooks",
+      "n_citation": 0,
+      "year": 2009
+    },
+    {
+      "author": "Charles L. Brooks",
+      "id": "A rapid solvent accessible surface area estimator for coarse grained molecular simulations",
+      "n_citation": 50,
+      "title": "A rapid solvent accessible surface area estimator for coarse grained molecular simulations",
+      "venue": "Journal of Computational Chemistry",
+      "year": 2017
+    },
+    {
+      "author": "Charles L. Brooks",
+      "id": "Assessing the quality of absolute hydration free energies among CHARMM‐compatible ligand parameterization schemes",
+      "n_citation": 50,
+      "title": "Assessing the quality of absolute hydration free energies among CHARMM‐compatible ligand parameterization schemes",
+      "venue": "Journal of Computational Chemistry",
+      "year": 2013
+    },
+    {
+      "author": "Charles L. Brooks",
+      "id": "Parallelization and improvements of the generalized born model with a simple sWitching function for modern graphics processors.",
+      "n_citation": 8,
+      "title": "Parallelization and improvements of the generalized born model with a simple sWitching function for modern graphics processors.",
+      "venue": "Journal of Computational Chemistry",
+      "year": 2016
+    },
+    {
+      "author": "Charles L. Brooks",
+      "id": "Efficient implementation of constant pH molecular dynamics on modern graphics processors.",
+      "n_citation": 2,
+      "title": "Efficient implementation of constant pH molecular dynamics on modern graphics processors.",
+      "venue": "Journal of Computational Chemistry",
+      "year": 2016
+    },
+    {
+      "author": "Charles L. Brooks",
+      "id": "Evaluation of several two-step scoring functions based on linear interaction energy, effective ligand size, and empirical pair potentials for prediction of protein-ligand binding geometry and free energy.",
+      "n_citation": 21,
+      "title": "Evaluation of several two-step scoring functions based on linear interaction energy, effective ligand size, and empirical pair potentials for prediction of protein-ligand binding geometry and free energy.",
+      "venue": "Journal of Chemical Information and Modeling",
+      "year": 2011
+    },
+    {
+      "author": "Charles L. Brooks",
+      "id": "Viral capsid proteins are segregated in structural fold space.",
+      "n_citation": 5,
+      "title": "Viral capsid proteins are segregated in structural fold space.",
+      "venue": "PLOS Computational Biology",
+      "year": 2013
+    },
+    {
+      "author": "Charles L. Brooks",
+      "id": "PCalign: a method to quantify physicochemical similarity of protein-protein interfaces",
+      "n_citation": 50,
+      "title": "PCalign: a method to quantify physicochemical similarity of protein-protein interfaces",
+      "venue": "BMC Bioinformatics",
+      "year": 2015
+    },
+    {
+      "author": "Charles L. Brooks",
+      "id": "PCASSO: A fast and efficient Cα‐based method for accurately assigning protein secondary structure elements",
+      "n_citation": 50,
+      "title": "PCASSO: A fast and efficient Cα‐based method for accurately assigning protein secondary structure elements",
+      "venue": "Journal of Computational Chemistry",
+      "year": 2014
+    },
+    {
+      "author": "Charles L. Brooks",
+      "id": "Applying efficient implicit nongeometric constraints in alchemical free energy simulations",
+      "n_citation": 20,
+      "title": "Applying efficient implicit nongeometric constraints in alchemical free energy simulations",
+      "venue": "Journal of Computational Chemistry",
+      "year": 2011
+    },
+    {
+      "author": "Charles L. Brooks",
+      "id": "Coupled folding and binding with 2D Window‐Exchange Umbrella Sampling",
+      "n_citation": 50,
+      "title": "Coupled folding and binding with 2D Window‐Exchange Umbrella Sampling",
+      "venue": "Journal of Computational Chemistry",
+      "year": 2016
+    },
+    {
+      "author": "Charles L. Brooks",
+      "id": "New paint and a new engine",
+      "n_citation": 0,
+      "title": "New paint and a new engine",
+      "venue": "Journal of Computational Chemistry",
+      "year": 2013
+    },
+    {
+      "author": "Charles L. Brooks",
+      "id": "A Universal Trend among Proteomes Indicates an Oily Last Common Ancestor",
+      "n_citation": 13,
+      "title": "A Universal Trend among Proteomes Indicates an Oily Last Common Ancestor",
+      "venue": "PLOS Computational Biology",
+      "year": 2012
+    },
+    {
+      "author": "Charles L. Brooks",
+      "id": "Surveying implicit solvent models for estimating small molecule absolute hydration free energies",
+      "n_citation": 73,
+      "title": "Surveying implicit solvent models for estimating small molecule absolute hydration free energies",
+      "venue": "Journal of Computational Chemistry",
+      "year": 2011
+    },
+    {
+      "author": "Charles L. Brooks",
+      "id": "MATCH: An Atom- Typing Toolset for Molecular Mechanics Force Fields",
+      "n_citation": 66,
+      "title": "MATCH: An Atom- Typing Toolset for Molecular Mechanics Force Fields",
+      "venue": "Journal of Computational Chemistry",
+      "year": 2012
+    },
+    {
+      "author": "Charles L. Brooks",
+      "id": "Flexible Cdocker: Development and Application of a Pseudo-Explicit Structure-Based Docking Method within Charmm",
+      "n_citation": 11,
+      "title": "Flexible Cdocker: Development and Application of a Pseudo-Explicit Structure-Based Docking Method within Charmm",
+      "venue": "Biophysical Journal",
+      "year": 2014
+    },
+    {
+      "author": "Charles L. Brooks",
+      "id": "Quantifying chaperone-mediated transitions in the proteostasis network of E. coli.",
+      "n_citation": 4,
+      "title": "Quantifying chaperone-mediated transitions in the proteostasis network of E. coli.",
+      "venue": "PLOS Computational Biology",
+      "year": 2013
+    },
+    {
+      "authors": "Aaron T. Frank",
+      "id": "Aaron T. Frank",
+      "n_citation": 0,
+      "year": 2009
+    },
+    {
+      "author": "Aaron T. Frank",
+      "id": "A rapid solvent accessible surface area estimator for coarse grained molecular simulations",
+      "n_citation": 50,
+      "title": "A rapid solvent accessible surface area estimator for coarse grained molecular simulations",
+      "venue": "Journal of Computational Chemistry",
+      "year": 2017
+    },
+    {
+      "author": "Aaron T. Frank",
+      "id": "Can Holo NMR Chemical Shifts be Directly Used to Resolve RNA-Ligand Poses?",
+      "n_citation": 1,
+      "title": "Can Holo NMR Chemical Shifts be Directly Used to Resolve RNA-Ligand Poses?",
+      "venue": "Journal of Chemical Information and Modeling",
+      "year": 2016
+    },
+    {
+      "author": "Aaron T. Frank",
+      "id": "PCASSO: A fast and efficient Cα‐based method for accurately assigning protein secondary structure elements",
+      "n_citation": 50,
+      "title": "PCASSO: A fast and efficient Cα‐based method for accurately assigning protein secondary structure elements",
+      "venue": "Journal of Computational Chemistry",
+      "year": 2014
+    },
+    {
+      "authors": "Shuai Wei",
+      "id": "Shuai Wei",
+      "n_citation": 0,
+      "year": 2009
+    },
+    {
+      "author": "Shuai Wei",
+      "id": "A Vision Location System Design of Glue Dispensing Robot",
+      "n_citation": 0,
+      "title": "A Vision Location System Design of Glue Dispensing Robot",
+      "venue": "international conference on intelligent robotics and applications",
+      "year": 2015
+    },
+    {
+      "author": "Shuai Wei",
+      "id": "The Control System Design of A SCARA Robot",
+      "n_citation": 0,
+      "title": "The Control System Design of A SCARA Robot",
+      "venue": "international conference on intelligent robotics and applications",
+      "year": 2014
+    },
+    {
+      "author": "Shuai Wei",
+      "id": "Trajectory Planning with Bezier Curve in Cartesian Space for Industrial Gluing Robot",
+      "n_citation": 1,
+      "title": "Trajectory Planning with Bezier Curve in Cartesian Space for Industrial Gluing Robot",
+      "venue": "international conference on intelligent robotics and applications",
+      "year": 2014
+    },
+    {
+      "authors": "Nianfeng Wang",
+      "id": "Nianfeng Wang",
+      "n_citation": 0,
+      "year": 2009
+    },
+    {
+      "author": "Nianfeng Wang",
+      "id": "Decoupling Control Based on Dynamic Model of 4-DOF Wafer Handling Robot",
+      "n_citation": 0,
+      "title": "Decoupling Control Based on Dynamic Model of 4-DOF Wafer Handling Robot",
+      "venue": "international conference on intelligent robotics and applications",
+      "year": 2015
+    },
+    {
+      "author": "Nianfeng Wang",
+      "id": "A Vision Location System Design of Glue Dispensing Robot",
+      "n_citation": 0,
+      "title": "A Vision Location System Design of Glue Dispensing Robot",
+      "venue": "international conference on intelligent robotics and applications",
+      "year": 2015
+    },
+    {
+      "author": "Nianfeng Wang",
+      "id": "Efficient Collision Detection for Industrial Robot Simulation System",
+      "n_citation": 0,
+      "title": "Efficient Collision Detection for Industrial Robot Simulation System",
+      "venue": "international conference on intelligent robotics and applications",
+      "year": 2015
+    },
+    {
+      "author": "Nianfeng Wang",
+      "id": "Mechanical design of a compliant prosthesis finger by structural topology optimization",
+      "n_citation": 0,
+      "title": "Mechanical design of a compliant prosthesis finger by structural topology optimization",
+      "venue": "robotics and biomimetics",
+      "year": 2012
+    },
+    {
+      "author": "Nianfeng Wang",
+      "id": "A hybrid genetic algorithm for constrained multi-objective optimization under uncertainty and target matching problems",
+      "n_citation": 50,
+      "title": "A hybrid genetic algorithm for constrained multi-objective optimization under uncertainty and target matching problems",
+      "venue": "Applied Soft Computing",
+      "year": 2013
+    },
+    {
+      "author": "Nianfeng Wang",
+      "id": "The Control System Design of A SCARA Robot",
+      "n_citation": 0,
+      "title": "The Control System Design of A SCARA Robot",
+      "venue": "international conference on intelligent robotics and applications",
+      "year": 2014
+    },
+    {
+      "author": "Nianfeng Wang",
+      "id": "Design of an Anthropomorphic Prosthetic Hand with EMG Control",
+      "n_citation": 0,
+      "title": "Design of an Anthropomorphic Prosthetic Hand with EMG Control",
+      "venue": "international conference on intelligent robotics and applications",
+      "year": 2014
+    },
+    {
+      "author": "Nianfeng Wang",
+      "id": "Design and Analysis of a Novel XY Micro-positioning Stage Used Corrugated Flexure Beams",
+      "n_citation": 2,
+      "title": "Design and Analysis of a Novel XY Micro-positioning Stage Used Corrugated Flexure Beams",
+      "venue": "international conference on intelligent robotics and applications",
+      "year": 2014
+    },
+    {
+      "author": "Nianfeng Wang",
+      "id": "Trajectory Planning with Bezier Curve in Cartesian Space for Industrial Gluing Robot",
+      "n_citation": 1,
+      "title": "Trajectory Planning with Bezier Curve in Cartesian Space for Industrial Gluing Robot",
+      "venue": "international conference on intelligent robotics and applications",
+      "year": 2014
+    },
+    {
+      "authors": "Ankit Verma",
+      "id": "Ankit Verma",
+      "n_citation": 0,
+      "year": 2009
+    },
+    {
+      "author": "Ankit Verma",
+      "id": "Automatic Container Code Recognition via Spatial Transformer Networks and Connected Component Region Proposals",
+      "n_citation": 0,
+      "title": "Automatic Container Code Recognition via Spatial Transformer Networks and Connected Component Region Proposals",
+      "venue": "international conference on machine learning and applications",
+      "year": 2016
+    },
+    {
+      "author": "Ankit Verma",
+      "id": "Telecom Inventory Management via Object Recognition and Localisation on Google Street View Images",
+      "n_citation": 0,
+      "title": "Telecom Inventory Management via Object Recognition and Localisation on Google Street View Images",
+      "venue": "workshop on applications of computer vision",
+      "year": 2017
+    },
+    {
+      "author": "Ankit Verma",
+      "id": "Pedestrian Detection via Mixture of CNN Experts and Thresholded Aggregated Channel Features",
+      "n_citation": 8,
+      "title": "Pedestrian Detection via Mixture of CNN Experts and Thresholded Aggregated Channel Features",
+      "venue": "international conference on computer vision",
+      "year": 2015
+    },
+    {
+      "authors": "Ramya Hebbalaguppe",
+      "id": "Ramya Hebbalaguppe",
+      "n_citation": 0,
+      "year": 2009
+    },
+    {
+      "author": "Ramya Hebbalaguppe",
+      "id": "Indoor Localisation and Navigation on Augmented Reality Devices",
+      "n_citation": 0,
+      "title": "Indoor Localisation and Navigation on Augmented Reality Devices",
+      "venue": "international symposium on mixed and augmented reality",
+      "year": 2016
+    },
+    {
+      "author": "Ramya Hebbalaguppe",
+      "id": "InspectAR: An Augmented Reality Inspection Framework for Industry",
+      "n_citation": 0,
+      "title": "InspectAR: An Augmented Reality Inspection Framework for Industry",
+      "venue": "international symposium on mixed and augmented reality",
+      "year": 2016
+    },
+    {
+      "author": "Ramya Hebbalaguppe",
+      "id": "An AR Inspection Framework: Feasibility Study with Multiple AR Devices",
+      "n_citation": 50,
+      "title": "An AR Inspection Framework: Feasibility Study with Multiple AR Devices",
+      "venue": "international symposium on mixed and augmented reality",
+      "year": 2016
+    },
+    {
+      "author": "Ramya Hebbalaguppe",
+      "id": "GestAR: Real Time Gesture Interaction for AR with Egocentric View",
+      "n_citation": 50,
+      "title": "GestAR: Real Time Gesture Interaction for AR with Egocentric View",
+      "venue": "international symposium on mixed and augmented reality",
+      "year": 2016
+    },
+    {
+      "author": "Ramya Hebbalaguppe",
+      "id": "Robust Hand Gestural Interaction for Smartphone Based AR/VR Applications",
+      "n_citation": 0,
+      "title": "Robust Hand Gestural Interaction for Smartphone Based AR/VR Applications",
+      "venue": "workshop on applications of computer vision",
+      "year": 2017
+    },
+    {
+      "author": "Ramya Hebbalaguppe",
+      "id": "Telecom Inventory Management via Object Recognition and Localisation on Google Street View Images",
+      "n_citation": 0,
+      "title": "Telecom Inventory Management via Object Recognition and Localisation on Google Street View Images",
+      "venue": "workshop on applications of computer vision",
+      "year": 2017
+    },
+    {
+      "author": "Ramya Hebbalaguppe",
+      "id": "An efficient multiple exposure image fusion in JPEG domain",
+      "n_citation": 1,
+      "title": "An efficient multiple exposure image fusion in JPEG domain",
+      "venue": "Proceedings of SPIE",
+      "year": 2012
+    },
+    {
+      "author": "Ramya Hebbalaguppe",
+      "id": "A method for fusing a pair of images in the JPEG domain",
+      "n_citation": 50,
+      "title": "A method for fusing a pair of images in the JPEG domain",
+      "venue": "Journal of Real-time Image Processing",
+      "year": 2014
+    },
+    {
+      "author": "Ramya Hebbalaguppe",
+      "id": "Pedestrian Detection via Mixture of CNN Experts and Thresholded Aggregated Channel Features",
+      "n_citation": 8,
+      "title": "Pedestrian Detection via Mixture of CNN Experts and Thresholded Aggregated Channel Features",
+      "venue": "international conference on computer vision",
+      "year": 2015
+    },
+    {
+      "author": "Ramya Hebbalaguppe",
+      "id": "Reduction of false alarms triggered by spiders/cobwebs in surveillance camera networks",
+      "n_citation": 0,
+      "title": "Reduction of false alarms triggered by spiders/cobwebs in surveillance camera networks",
+      "venue": "international conference on image processing",
+      "year": 2016
+    },
+    {
+      "author": "Ramya Hebbalaguppe",
+      "id": "Identification of moving objects in poor quality surveillance data",
+      "n_citation": 0,
+      "title": "Identification of moving objects in poor quality surveillance data",
+      "venue": "workshop on image analysis for multimedia interactive services",
+      "year": 2013
+    },
+    {
+      "authors": "Ehtesham Hassan",
+      "id": "Ehtesham Hassan",
+      "n_citation": 0,
+      "year": 2009
+    },
+    {
+      "author": "Ehtesham Hassan",
+      "id": "Automatic Container Code Recognition via Spatial Transformer Networks and Connected Component Region Proposals",
+      "n_citation": 0,
+      "title": "Automatic Container Code Recognition via Spatial Transformer Networks and Connected Component Region Proposals",
+      "venue": "international conference on machine learning and applications",
+      "year": 2016
+    },
+    {
+      "author": "Ehtesham Hassan",
+      "id": "Indoor Localisation and Navigation on Augmented Reality Devices",
+      "n_citation": 0,
+      "title": "Indoor Localisation and Navigation on Augmented Reality Devices",
+      "venue": "international symposium on mixed and augmented reality",
+      "year": 2016
+    },
+    {
+      "author": "Ehtesham Hassan",
+      "id": "Robust Hand Gestural Interaction for Smartphone Based AR/VR Applications",
+      "n_citation": 0,
+      "title": "Robust Hand Gestural Interaction for Smartphone Based AR/VR Applications",
+      "venue": "workshop on applications of computer vision",
+      "year": 2017
+    },
+    {
+      "author": "Ehtesham Hassan",
+      "id": "Telecom Inventory Management via Object Recognition and Localisation on Google Street View Images",
+      "n_citation": 0,
+      "title": "Telecom Inventory Management via Object Recognition and Localisation on Google Street View Images",
+      "venue": "workshop on applications of computer vision",
+      "year": 2017
+    },
+    {
+      "author": "Ehtesham Hassan",
+      "id": "Document Image Retrieval Using Feature Combination in Kernel Space",
+      "n_citation": 2,
+      "title": "Document Image Retrieval Using Feature Combination in Kernel Space",
+      "venue": "international conference on pattern recognition",
+      "year": 2010
+    },
+    {
+      "author": "Ehtesham Hassan",
+      "id": "Pedestrian Detection via Mixture of CNN Experts and Thresholded Aggregated Channel Features",
+      "n_citation": 8,
+      "title": "Pedestrian Detection via Mixture of CNN Experts and Thresholded Aggregated Channel Features",
+      "venue": "international conference on computer vision",
+      "year": 2015
+    },
+    {
+      "author": "Ehtesham Hassan",
+      "id": "A Hierarchical Frame-by-Frame Association Method Based on Graph Matching for Multi-object Tracking",
+      "n_citation": 0,
+      "title": "A Hierarchical Frame-by-Frame Association Method Based on Graph Matching for Multi-object Tracking",
+      "venue": "international symposium on visual computing",
+      "year": 2015
+    },
+    {
+      "author": "Ehtesham Hassan",
+      "id": "Multi-modal Information Integration for Document Retrieval",
+      "n_citation": 4,
+      "title": "Multi-modal Information Integration for Document Retrieval",
+      "venue": "international conference on document analysis and recognition",
+      "year": 2013
+    },
+    {
+      "author": "Ehtesham Hassan",
+      "id": "Multi-sensor event detection using shape histograms",
+      "n_citation": 0,
+      "title": "Multi-sensor event detection using shape histograms",
+      "venue": "arXiv: Learning",
+      "year": 2015
+    },
+    {
+      "author": "Ehtesham Hassan",
+      "id": "A CRF Based Scheme for Overlapping Multi-colored Text Graphics Separation",
+      "n_citation": 13,
+      "title": "A CRF Based Scheme for Overlapping Multi-colored Text Graphics Separation",
+      "venue": "international conference on document analysis and recognition",
+      "year": 2011
+    },
+    {
+      "author": "Ehtesham Hassan",
+      "id": "Searching OCR'ed Text: An LDA Based Approach",
+      "n_citation": 7,
+      "title": "Searching OCR'ed Text: An LDA Based Approach",
+      "venue": "international conference on document analysis and recognition",
+      "year": 2011
+    },
+    {
+      "author": "Ehtesham Hassan",
+      "id": "Feature Combination in Kernel Space for Distance Based Image Hashing",
+      "n_citation": 17,
+      "title": "Feature Combination in Kernel Space for Distance Based Image Hashing",
+      "venue": "IEEE Transactions on Multimedia",
+      "year": 2012
+    },
+    {
+      "author": "Ehtesham Hassan",
+      "id": "Off-line hand written input based identity determination using multi kernel feature combination",
+      "n_citation": 9,
+      "title": "Off-line hand written input based identity determination using multi kernel feature combination",
+      "venue": "Pattern Recognition Letters",
+      "year": 2014
+    },
+    {
+      "author": "Ehtesham Hassan",
+      "id": "Word shape descriptor-based document image indexing: a new DBH-based approach",
+      "n_citation": 11,
+      "title": "Word shape descriptor-based document image indexing: a new DBH-based approach",
+      "venue": "International Journal on Document Analysis and Recognition",
+      "year": 2013
+    },
+    {
+      "author": "Ehtesham Hassan",
+      "id": "Identity Determination with Offline Handwritten Input Using Multi Kernel Feature Combination",
+      "n_citation": 50,
+      "title": "Identity Determination with Offline Handwritten Input Using Multi Kernel Feature Combination",
+      "venue": "international conference on frontiers in handwriting recognition",
+      "year": 2010
+    },
+    {
+      "author": "Ehtesham Hassan",
+      "id": "Document indexing framework for retrieval of degraded document images",
+      "n_citation": 2,
+      "title": "Document indexing framework for retrieval of degraded document images",
+      "venue": "international conference on document analysis and recognition",
+      "year": 2015
+    },
+    {
+      "author": "Ehtesham Hassan",
+      "id": "Scene categorization using topic model based hierarchical conditional random fields",
+      "n_citation": 0,
+      "title": "Scene categorization using topic model based hierarchical conditional random fields",
+      "venue": "pattern recognition and machine intelligence",
+      "year": 2011
+    },
+    {
+      "author": "Ehtesham Hassan",
+      "id": "Robust visual analysis for planogram compliance problem",
+      "n_citation": 2,
+      "title": "Robust visual analysis for planogram compliance problem",
+      "venue": "machine vision applications",
+      "year": 2015
+    },
+    {
+      "author": "Ehtesham Hassan",
+      "id": "Feature combination for binary pattern classification",
+      "n_citation": 50,
+      "title": "Feature combination for binary pattern classification",
+      "venue": "International Journal on Document Analysis and Recognition",
+      "year": 2014
+    },
+    {
+      "author": "Ehtesham Hassan",
+      "id": "Use of MKL as symbol classifier for Gujarati character recognition",
+      "n_citation": 8,
+      "title": "Use of MKL as symbol classifier for Gujarati character recognition",
+      "venue": "document analysis systems",
+      "year": 2010
+    },
+    {
+      "author": "Ehtesham Hassan",
+      "id": "Document Image Indexing Using Edit Distance Based Hashing",
+      "n_citation": 0,
+      "title": "Document Image Indexing Using Edit Distance Based Hashing",
+      "venue": "international conference on document analysis and recognition",
+      "year": 2011
+    },
+    {
+      "author": "Ehtesham Hassan",
+      "id": "A hybrid framework for event detection using multi-modal features",
+      "n_citation": 50,
+      "title": "A hybrid framework for event detection using multi-modal features",
+      "venue": "international conference on computer vision",
+      "year": 2011
+    },
+    {
+      "author": "Ehtesham Hassan",
+      "id": "Design of Multi-kernel Distance Based Hashing with Multiple Objectives for Image Indexing",
+      "n_citation": 2,
+      "title": "Design of Multi-kernel Distance Based Hashing with Multiple Objectives for Image Indexing",
+      "venue": "international conference on pattern recognition",
+      "year": 2014
+    },
+    {
+      "authors": "Gaurav Gupta",
+      "id": "Gaurav Gupta",
+      "n_citation": 0,
+      "year": 2009
+    },
+    {
+      "author": "Gaurav Gupta",
+      "id": "Indoor Localisation and Navigation on Augmented Reality Devices",
+      "n_citation": 0,
+      "title": "Indoor Localisation and Navigation on Augmented Reality Devices",
+      "venue": "international symposium on mixed and augmented reality",
+      "year": 2016
+    },
+    {
+      "author": "Gaurav Gupta",
+      "id": "Distributed placement of power generation resources in uncertain environments",
+      "n_citation": 0,
+      "title": "Distributed placement of power generation resources in uncertain environments",
+      "venue": "international conference on cyber physical systems",
+      "year": 2017
+    },
+    {
+      "author": "Gaurav Gupta",
+      "id": "Robust Hand Gestural Interaction for Smartphone Based AR/VR Applications",
+      "n_citation": 0,
+      "title": "Robust Hand Gestural Interaction for Smartphone Based AR/VR Applications",
+      "venue": "workshop on applications of computer vision",
+      "year": 2017
+    },
+    {
+      "author": "Gaurav Gupta",
+      "id": "Tracking gestures using a probabilistic Self-Organising network",
+      "n_citation": 6,
+      "title": "Tracking gestures using a probabilistic Self-Organising network",
+      "venue": "international symposium on neural networks",
+      "year": 2010
+    },
+    {
+      "author": "Gaurav Gupta",
+      "id": "An efficient DCT based image watermarking scheme for protecting distribution rights",
+      "n_citation": 6,
+      "title": "An efficient DCT based image watermarking scheme for protecting distribution rights",
+      "venue": "international conference on contemporary computing",
+      "year": 2015
+    },
+    {
+      "author": "Gaurav Gupta",
+      "id": "uBeacon: Configuration based Beacon tracking",
+      "n_citation": 1,
+      "title": "uBeacon: Configuration based Beacon tracking",
+      "venue": "international conference on pervasive computing",
+      "year": 2016
+    },
+    {
+      "author": "Gaurav Gupta",
+      "id": "Segmentation of retail customers based on cluster analysis in building successful CRM",
+      "n_citation": 0,
+      "title": "Segmentation of retail customers based on cluster analysis in building successful CRM",
+      "venue": "business information systems",
+      "year": 2016
+    },
+    {
+      "author": "Gaurav Gupta",
+      "id": "Edge detection of digital color images using information sets",
+      "n_citation": 0,
+      "title": "Edge detection of digital color images using information sets",
+      "venue": "Journal of Electronic Imaging",
+      "year": 2016
+    },
+    {
+      "author": "Gaurav Gupta",
+      "id": "Region analysis through close contour transformation using growing neural gas",
+      "n_citation": 50,
+      "title": "Region analysis through close contour transformation using growing neural gas",
+      "venue": "international symposium on neural networks",
+      "year": 2012
+    },
+    {
+      "author": "Gaurav Gupta",
+      "id": "Conditional Entropy Based User Selection for Multiuser MIMO Systems",
+      "n_citation": 7,
+      "title": "Conditional Entropy Based User Selection for Multiuser MIMO Systems",
+      "venue": "IEEE Communications Letters",
+      "year": 2013
+    },
+    {
+      "author": "Gaurav Gupta",
+      "id": "Bucket attack on numeric set watermarking model and safeguards",
+      "n_citation": 0,
+      "title": "Bucket attack on numeric set watermarking model and safeguards",
+      "venue": "Information Security Technical Report",
+      "year": 2011
+    },
+    {
+      "author": "Gaurav Gupta",
+      "id": "A novel optimal fuzzy color image enhancement using particle swarm optimization",
+      "n_citation": 50,
+      "title": "A novel optimal fuzzy color image enhancement using particle swarm optimization",
+      "venue": "international conference on contemporary computing",
+      "year": 2013
+    },
+    {
+      "author": "Gaurav Gupta",
+      "id": "User Selection in MIMO Interfering Broadcast Channels",
+      "n_citation": 50,
+      "title": "User Selection in MIMO Interfering Broadcast Channels",
+      "venue": "IEEE Transactions on Communications",
+      "year": 2014
+    },
+    {
+      "author": "Gaurav Gupta",
+      "id": "Adaptive learning in motion analysis with self-organising maps",
+      "n_citation": 2,
+      "title": "Adaptive learning in motion analysis with self-organising maps",
+      "venue": "international symposium on neural networks",
+      "year": 2013
+    },
+    {
+      "author": "Gaurav Gupta",
+      "id": "Socio-technological phishing prevention",
+      "n_citation": 50,
+      "title": "Socio-technological phishing prevention",
+      "venue": "Information Security Technical Report",
+      "year": 2011
+    },
+    {
+      "author": "Gaurav Gupta",
+      "id": "Adaptive-Threshold Region Merging via Path Scanning",
+      "n_citation": 0,
+      "title": "Adaptive-Threshold Region Merging via Path Scanning",
+      "venue": "international conference on pattern recognition",
+      "year": 2014
+    },
+    {
+      "author": "Gaurav Gupta",
+      "id": "Region growing stereo matching method for 3D building reconstruction",
+      "n_citation": 50,
+      "title": "Region growing stereo matching method for 3D building reconstruction",
+      "venue": "International Journal of Computational Vision and Robotics",
+      "year": 2011
+    },
+    {
+      "author": "Gaurav Gupta",
+      "id": "Hand gesture modelling and tracking using a Self-Organising Network",
+      "n_citation": 2,
+      "title": "Hand gesture modelling and tracking using a Self-Organising Network",
+      "venue": "international symposium on neural networks",
+      "year": 2010
+    },
+    {
+      "author": "Gaurav Gupta",
+      "id": "Collaborative Spatial Object Recommendation in Location Based Services",
+      "n_citation": 3,
+      "title": "Collaborative Spatial Object Recommendation in Location Based Services",
+      "venue": "international conference on parallel processing",
+      "year": 2010
+    },
+    {
+      "author": "Gaurav Gupta",
+      "id": "Digital Watermarking Based Stereo Image Coding",
+      "n_citation": 50,
+      "title": "Digital Watermarking Based Stereo Image Coding",
+      "venue": "international conference on contemporary computing",
+      "year": 2010
+    },
+    {
+      "author": "Gaurav Gupta",
+      "id": "Model probability in self-organising maps",
+      "n_citation": 0,
+      "title": "Model probability in self-organising maps",
+      "venue": "international conference on artificial neural networks",
+      "year": 2013
+    },
+    {
+      "author": "Gaurav Gupta",
+      "id": "Compression noise based video forgery detection",
+      "n_citation": 50,
+      "title": "Compression noise based video forgery detection",
+      "venue": "international conference on image processing",
+      "year": 2014
+    },
+    {
+      "authors": "Isha Monga",
+      "id": "Isha Monga",
+      "n_citation": 0,
+      "year": 2009
+    },
+    {
+      "author": "Isha Monga",
+      "id": "VIRmiRNA: a comprehensive resource for experimentally validated viral miRNAs and their targets",
+      "n_citation": 50,
+      "title": "VIRmiRNA: a comprehensive resource for experimentally validated viral miRNAs and their targets",
+      "venue": "Database",
+      "year": 2014
+    },
+    {
+      "authors": "Ekta Gandotra",
+      "id": "Ekta Gandotra",
+      "n_citation": 0,
+      "year": 2009
+    },
+    {
+      "author": "Ekta Gandotra",
+      "id": "Malware Threat Assessment Using Fuzzy Logic Paradigm",
+      "n_citation": 0,
+      "title": "Malware Threat Assessment Using Fuzzy Logic Paradigm",
+      "venue": "Cybernetics and Systems",
+      "year": 2017
+    },
+    {
+      "author": "Ekta Gandotra",
+      "id": "Integrated Framework for Classification of Malwares",
+      "n_citation": 50,
+      "title": "Integrated Framework for Classification of Malwares",
+      "venue": "security of information and networks",
+      "year": 2014
+    },
+    {
+      "author": "Ekta Gandotra",
+      "id": "Classification of PE Files using Static Analysis",
+      "n_citation": 50,
+      "title": "Classification of PE Files using Static Analysis",
+      "venue": "security of information and networks",
+      "year": 2014
+    },
+    {
+      "authors": "Sanjeev Sofat",
+      "id": "Sanjeev Sofat",
+      "n_citation": 0,
+      "year": 2009
+    },
+    {
+      "author": "Sanjeev Sofat",
+      "id": "Preventing Identity Disclosure in Social Networks Using Intersected Node",
+      "n_citation": 50,
+      "title": "Preventing Identity Disclosure in Social Networks Using Intersected Node",
+      "venue": "International Journal of Information Security and Privacy",
+      "year": 2016
+    },
+    {
+      "author": "Sanjeev Sofat",
+      "id": "Followers or Fradulents? An Analysis and Classification of Twitter Followers Market Merchants",
+      "n_citation": 0,
+      "title": "Followers or Fradulents? An Analysis and Classification of Twitter Followers Market Merchants",
+      "venue": "Cybernetics and Systems",
+      "year": 2016
+    },
+    {
+      "author": "Sanjeev Sofat",
+      "id": "Malware Threat Assessment Using Fuzzy Logic Paradigm",
+      "n_citation": 0,
+      "title": "Malware Threat Assessment Using Fuzzy Logic Paradigm",
+      "venue": "Cybernetics and Systems",
+      "year": 2017
+    },
+    {
+      "author": "Sanjeev Sofat",
+      "id": "An Approach of Privacy Preserving based Publishing in Twitter",
+      "n_citation": 50,
+      "title": "An Approach of Privacy Preserving based Publishing in Twitter",
+      "venue": "security of information and networks",
+      "year": 2014
+    },
+    {
+      "author": "Sanjeev Sofat",
+      "id": "Integrated Framework for Classification of Malwares",
+      "n_citation": 50,
+      "title": "Integrated Framework for Classification of Malwares",
+      "venue": "security of information and networks",
+      "year": 2014
+    },
+    {
+      "author": "Sanjeev Sofat",
+      "id": "An efficient scheme for color edge detection in uniform color space",
+      "n_citation": 5,
+      "title": "An efficient scheme for color edge detection in uniform color space",
+      "venue": "autonomous and intelligent systems",
+      "year": 2012
+    },
+    {
+      "author": "Sanjeev Sofat",
+      "id": "Detection of Edges in Color Images: A Review and Evaluative Comparison of State-of-the-Art Techniques",
+      "n_citation": 50,
+      "title": "Detection of Edges in Color Images: A Review and Evaluative Comparison of State-of-the-Art Techniques",
+      "venue": "autonomous and intelligent systems",
+      "year": 2012
+    },
+    {
+      "author": "Sanjeev Sofat",
+      "id": "A statistical operator for detecting weak edges in low contrast images",
+      "n_citation": 0,
+      "title": "A statistical operator for detecting weak edges in low contrast images",
+      "venue": "international conference on image analysis and recognition",
+      "year": 2012
+    },
+    {
+      "author": "Sanjeev Sofat",
+      "id": "An Ant Voronoi Based Clustering Approach for Wireless Sensor Networks",
+      "n_citation": 50,
+      "title": "An Ant Voronoi Based Clustering Approach for Wireless Sensor Networks",
+      "venue": "ad hoc networks",
+      "year": 2013
+    },
+    {
+      "author": "Sanjeev Sofat",
+      "id": "Data collection model for energy-efficient wireless sensor networks",
+      "n_citation": 50,
+      "title": "Data collection model for energy-efficient wireless sensor networks",
+      "venue": "Annales Des Télécommunications",
+      "year": 2015
+    },
+    {
+      "author": "Sanjeev Sofat",
+      "id": "Content Management System Effort Estimation Using Bagging Predictors",
+      "n_citation": 50,
+      "title": "Content Management System Effort Estimation Using Bagging Predictors",
+      "venue": "computer, information, and systems sciences, and engineering",
+      "year": 2010
+    },
+    {
+      "author": "Sanjeev Sofat",
+      "id": "Fingerprint fuzzy vault using hadamard transformation",
+      "n_citation": 0,
+      "title": "Fingerprint fuzzy vault using hadamard transformation",
+      "venue": "advances in computing and communications",
+      "year": 2015
+    },
+    {
+      "author": "Sanjeev Sofat",
+      "id": "Detecting Malicious Users in Twitter using Classifiers",
+      "n_citation": 5,
+      "title": "Detecting Malicious Users in Twitter using Classifiers",
+      "venue": "security of information and networks",
+      "year": 2014
+    },
+    {
+      "author": "Sanjeev Sofat",
+      "id": "Classification of PE Files using Static Analysis",
+      "n_citation": 50,
+      "title": "Classification of PE Files using Static Analysis",
+      "venue": "security of information and networks",
+      "year": 2014
+    },
+    {
+      "authors": "Monika Singh",
+      "id": "Monika Singh",
+      "n_citation": 0,
+      "year": 2009
+    },
+    {
+      "author": "Monika Singh",
+      "id": "Followers or Fradulents? An Analysis and Classification of Twitter Followers Market Merchants",
+      "n_citation": 0,
+      "title": "Followers or Fradulents? An Analysis and Classification of Twitter Followers Market Merchants",
+      "venue": "Cybernetics and Systems",
+      "year": 2016
+    },
+    {
+      "author": "Monika Singh",
+      "id": "Detour matrix-based adjacent path eccentric distance sum indices for QSAR/QSPR. Part I: development and evaluation.",
+      "n_citation": 2,
+      "title": "Detour matrix-based adjacent path eccentric distance sum indices for QSAR/QSPR. Part I: development and evaluation.",
+      "venue": "International Journal of Computational Biology and Drug Design",
+      "year": 2014
+    },
+    {
+      "author": "Monika Singh",
+      "id": "Detour matrix-based adjacent path eccentric distance sum indices for (Q)SAR/QSPR. Part II: application in development of models for COX-2 inhibitory activity of indomethacin derivatives.",
+      "n_citation": 1,
+      "title": "Detour matrix-based adjacent path eccentric distance sum indices for (Q)SAR/QSPR. Part II: application in development of models for COX-2 inhibitory activity of indomethacin derivatives.",
+      "venue": "International Journal of Computational Biology and Drug Design",
+      "year": 2014
+    },
+    {
+      "author": "Monika Singh",
+      "id": "An efficient hybrid scheme for key frame extraction and text localization in video",
+      "n_citation": 4,
+      "title": "An efficient hybrid scheme for key frame extraction and text localization in video",
+      "venue": "advances in computing and communications",
+      "year": 2015
+    },
+    {
+      "author": "Monika Singh",
+      "id": "Detecting Malicious Users in Twitter using Classifiers",
+      "n_citation": 5,
+      "title": "Detecting Malicious Users in Twitter using Classifiers",
+      "venue": "security of information and networks",
+      "year": 2014
     }
    ],
    "links": [ 
+    {
+      "source": "Monika Singh",
+      "target": "Detecting Malicious Users in Twitter using Classifiers",
+      "value": 1
+    },
+    {
+      "source": "Monika Singh",
+      "target": "An efficient hybrid scheme for key frame extraction and text localization in video",
+      "value": 1
+    },
+    {
+      "source": "Monika Singh",
+      "target": "Detour matrix-based adjacent path eccentric distance sum indices for (Q)SAR/QSPR. Part II: application in development of models for COX-2 inhibitory activity of indomethacin derivatives.",
+      "value": 1
+    },
+    {
+      "source": "Monika Singh",
+      "target": "Detour matrix-based adjacent path eccentric distance sum indices for QSAR/QSPR. Part I: development and evaluation.",
+      "value": 1
+    },
+    {
+      "source": "Monika Singh",
+      "target": "Followers or Fradulents? An Analysis and Classification of Twitter Followers Market Merchants",
+      "value": 1
+    },
+    {
+      "source": "Sanjeev Sofat",
+      "target": "Classification of PE Files using Static Analysis",
+      "value": 1
+    },
+    {
+      "source": "Sanjeev Sofat",
+      "target": "Detecting Malicious Users in Twitter using Classifiers",
+      "value": 1
+    },
+    {
+      "source": "Sanjeev Sofat",
+      "target": "Fingerprint fuzzy vault using hadamard transformation",
+      "value": 1
+    },
+    {
+      "source": "Sanjeev Sofat",
+      "target": "Content Management System Effort Estimation Using Bagging Predictors",
+      "value": 1
+    },
+    {
+      "source": "Sanjeev Sofat",
+      "target": "Data collection model for energy-efficient wireless sensor networks",
+      "value": 1
+    },
+    {
+      "source": "Sanjeev Sofat",
+      "target": "An Ant Voronoi Based Clustering Approach for Wireless Sensor Networks",
+      "value": 1
+    },
+    {
+      "source": "Sanjeev Sofat",
+      "target": "A statistical operator for detecting weak edges in low contrast images",
+      "value": 1
+    },
+    {
+      "source": "Sanjeev Sofat",
+      "target": "Detection of Edges in Color Images: A Review and Evaluative Comparison of State-of-the-Art Techniques",
+      "value": 1
+    },
+    {
+      "source": "Sanjeev Sofat",
+      "target": "An efficient scheme for color edge detection in uniform color space",
+      "value": 1
+    },
+    {
+      "source": "Sanjeev Sofat",
+      "target": "Integrated Framework for Classification of Malwares",
+      "value": 1
+    },
+    {
+      "source": "Sanjeev Sofat",
+      "target": "An Approach of Privacy Preserving based Publishing in Twitter",
+      "value": 1
+    },
+    {
+      "source": "Sanjeev Sofat",
+      "target": "Malware Threat Assessment Using Fuzzy Logic Paradigm",
+      "value": 1
+    },
+    {
+      "source": "Sanjeev Sofat",
+      "target": "Followers or Fradulents? An Analysis and Classification of Twitter Followers Market Merchants",
+      "value": 1
+    },
+    {
+      "source": "Sanjeev Sofat",
+      "target": "Preventing Identity Disclosure in Social Networks Using Intersected Node",
+      "value": 1
+    },
+    {
+      "source": "Ekta Gandotra",
+      "target": "Classification of PE Files using Static Analysis",
+      "value": 1
+    },
+    {
+      "source": "Ekta Gandotra",
+      "target": "Integrated Framework for Classification of Malwares",
+      "value": 1
+    },
+    {
+      "source": "Ekta Gandotra",
+      "target": "Malware Threat Assessment Using Fuzzy Logic Paradigm",
+      "value": 1
+    },
+    {
+      "source": "Isha Monga",
+      "target": "VIRmiRNA: a comprehensive resource for experimentally validated viral miRNAs and their targets",
+      "value": 1
+    },
+    {
+      "source": "Gaurav Gupta",
+      "target": "Compression noise based video forgery detection",
+      "value": 1
+    },
+    {
+      "source": "Gaurav Gupta",
+      "target": "Model probability in self-organising maps",
+      "value": 1
+    },
+    {
+      "source": "Gaurav Gupta",
+      "target": "Digital Watermarking Based Stereo Image Coding",
+      "value": 1
+    },
+    {
+      "source": "Gaurav Gupta",
+      "target": "Collaborative Spatial Object Recommendation in Location Based Services",
+      "value": 1
+    },
+    {
+      "source": "Gaurav Gupta",
+      "target": "Hand gesture modelling and tracking using a Self-Organising Network",
+      "value": 1
+    },
+    {
+      "source": "Gaurav Gupta",
+      "target": "Region growing stereo matching method for 3D building reconstruction",
+      "value": 1
+    },
+    {
+      "source": "Gaurav Gupta",
+      "target": "Adaptive-Threshold Region Merging via Path Scanning",
+      "value": 1
+    },
+    {
+      "source": "Gaurav Gupta",
+      "target": "Socio-technological phishing prevention",
+      "value": 1
+    },
+    {
+      "source": "Gaurav Gupta",
+      "target": "Adaptive learning in motion analysis with self-organising maps",
+      "value": 1
+    },
+    {
+      "source": "Gaurav Gupta",
+      "target": "User Selection in MIMO Interfering Broadcast Channels",
+      "value": 1
+    },
+    {
+      "source": "Gaurav Gupta",
+      "target": "A novel optimal fuzzy color image enhancement using particle swarm optimization",
+      "value": 1
+    },
+    {
+      "source": "Gaurav Gupta",
+      "target": "Bucket attack on numeric set watermarking model and safeguards",
+      "value": 1
+    },
+    {
+      "source": "Gaurav Gupta",
+      "target": "Conditional Entropy Based User Selection for Multiuser MIMO Systems",
+      "value": 1
+    },
+    {
+      "source": "Gaurav Gupta",
+      "target": "Region analysis through close contour transformation using growing neural gas",
+      "value": 1
+    },
+    {
+      "source": "Gaurav Gupta",
+      "target": "Edge detection of digital color images using information sets",
+      "value": 1
+    },
+    {
+      "source": "Gaurav Gupta",
+      "target": "Segmentation of retail customers based on cluster analysis in building successful CRM",
+      "value": 1
+    },
+    {
+      "source": "Gaurav Gupta",
+      "target": "uBeacon: Configuration based Beacon tracking",
+      "value": 1
+    },
+    {
+      "source": "Gaurav Gupta",
+      "target": "An efficient DCT based image watermarking scheme for protecting distribution rights",
+      "value": 1
+    },
+    {
+      "source": "Gaurav Gupta",
+      "target": "Tracking gestures using a probabilistic Self-Organising network",
+      "value": 1
+    },
+    {
+      "source": "Gaurav Gupta",
+      "target": "Robust Hand Gestural Interaction for Smartphone Based AR/VR Applications",
+      "value": 1
+    },
+    {
+      "source": "Gaurav Gupta",
+      "target": "Distributed placement of power generation resources in uncertain environments",
+      "value": 1
+    },
+    {
+      "source": "Gaurav Gupta",
+      "target": "An AR Inspection Framework: Feasibility Study with Multiple AR Devices",
+      "value": 1
+    },
+    {
+      "source": "Gaurav Gupta",
+      "target": "InspectAR: An Augmented Reality Inspection Framework for Industry",
+      "value": 1
+    },
+    {
+      "source": "Gaurav Gupta",
+      "target": "Indoor Localisation and Navigation on Augmented Reality Devices",
+      "value": 1
+    },
+    {
+      "source": "Ehtesham Hassan",
+      "target": "Design of Multi-kernel Distance Based Hashing with Multiple Objectives for Image Indexing",
+      "value": 1
+    },
+    {
+      "source": "Ehtesham Hassan",
+      "target": "A hybrid framework for event detection using multi-modal features",
+      "value": 1
+    },
+    {
+      "source": "Ehtesham Hassan",
+      "target": "Document Image Indexing Using Edit Distance Based Hashing",
+      "value": 1
+    },
+    {
+      "source": "Ehtesham Hassan",
+      "target": "Use of MKL as symbol classifier for Gujarati character recognition",
+      "value": 1
+    },
+    {
+      "source": "Ehtesham Hassan",
+      "target": "Feature combination for binary pattern classification",
+      "value": 1
+    },
+    {
+      "source": "Ehtesham Hassan",
+      "target": "Robust visual analysis for planogram compliance problem",
+      "value": 1
+    },
+    {
+      "source": "Ehtesham Hassan",
+      "target": "Scene categorization using topic model based hierarchical conditional random fields",
+      "value": 1
+    },
+    {
+      "source": "Ehtesham Hassan",
+      "target": "Document indexing framework for retrieval of degraded document images",
+      "value": 1
+    },
+    {
+      "source": "Ehtesham Hassan",
+      "target": "Identity Determination with Offline Handwritten Input Using Multi Kernel Feature Combination",
+      "value": 1
+    },
+    {
+      "source": "Ehtesham Hassan",
+      "target": "Word shape descriptor-based document image indexing: a new DBH-based approach",
+      "value": 1
+    },
+    {
+      "source": "Ehtesham Hassan",
+      "target": "Off-line hand written input based identity determination using multi kernel feature combination",
+      "value": 1
+    },
+    {
+      "source": "Ehtesham Hassan",
+      "target": "Feature Combination in Kernel Space for Distance Based Image Hashing",
+      "value": 1
+    },
+    {
+      "source": "Ehtesham Hassan",
+      "target": "Searching OCR'ed Text: An LDA Based Approach",
+      "value": 1
+    },
+    {
+      "source": "Ehtesham Hassan",
+      "target": "A CRF Based Scheme for Overlapping Multi-colored Text Graphics Separation",
+      "value": 1
+    },
+    {
+      "source": "Ehtesham Hassan",
+      "target": "Multi-sensor event detection using shape histograms",
+      "value": 1
+    },
+    {
+      "source": "Ehtesham Hassan",
+      "target": "Multi-modal Information Integration for Document Retrieval",
+      "value": 1
+    },
+    {
+      "source": "Ehtesham Hassan",
+      "target": "A Hierarchical Frame-by-Frame Association Method Based on Graph Matching for Multi-object Tracking",
+      "value": 1
+    },
+    {
+      "source": "Ehtesham Hassan",
+      "target": "Pedestrian Detection via Mixture of CNN Experts and Thresholded Aggregated Channel Features",
+      "value": 1
+    },
+    {
+      "source": "Ehtesham Hassan",
+      "target": "Document Image Retrieval Using Feature Combination in Kernel Space",
+      "value": 1
+    },
+    {
+      "source": "Ehtesham Hassan",
+      "target": "Telecom Inventory Management via Object Recognition and Localisation on Google Street View Images",
+      "value": 1
+    },
+    {
+      "source": "Ehtesham Hassan",
+      "target": "Robust Hand Gestural Interaction for Smartphone Based AR/VR Applications",
+      "value": 1
+    },
+    {
+      "source": "Ehtesham Hassan",
+      "target": "GestAR: Real Time Gesture Interaction for AR with Egocentric View",
+      "value": 1
+    },
+    {
+      "source": "Ehtesham Hassan",
+      "target": "An AR Inspection Framework: Feasibility Study with Multiple AR Devices",
+      "value": 1
+    },
+    {
+      "source": "Ehtesham Hassan",
+      "target": "InspectAR: An Augmented Reality Inspection Framework for Industry",
+      "value": 1
+    },
+    {
+      "source": "Ehtesham Hassan",
+      "target": "Indoor Localisation and Navigation on Augmented Reality Devices",
+      "value": 1
+    },
+    {
+      "source": "Ehtesham Hassan",
+      "target": "Automatic Container Code Recognition via Spatial Transformer Networks and Connected Component Region Proposals",
+      "value": 1
+    },
+    {
+      "source": "Ramya Hebbalaguppe",
+      "target": "Identification of moving objects in poor quality surveillance data",
+      "value": 1
+    },
+    {
+      "source": "Ramya Hebbalaguppe",
+      "target": "Reduction of false alarms triggered by spiders/cobwebs in surveillance camera networks",
+      "value": 1
+    },
+    {
+      "source": "Ramya Hebbalaguppe",
+      "target": "Pedestrian Detection via Mixture of CNN Experts and Thresholded Aggregated Channel Features",
+      "value": 1
+    },
+    {
+      "source": "Ramya Hebbalaguppe",
+      "target": "A method for fusing a pair of images in the JPEG domain",
+      "value": 1
+    },
+    {
+      "source": "Ramya Hebbalaguppe",
+      "target": "An efficient multiple exposure image fusion in JPEG domain",
+      "value": 1
+    },
+    {
+      "source": "Ramya Hebbalaguppe",
+      "target": "Telecom Inventory Management via Object Recognition and Localisation on Google Street View Images",
+      "value": 1
+    },
+    {
+      "source": "Ramya Hebbalaguppe",
+      "target": "Robust Hand Gestural Interaction for Smartphone Based AR/VR Applications",
+      "value": 1
+    },
+    {
+      "source": "Ramya Hebbalaguppe",
+      "target": "GestAR: Real Time Gesture Interaction for AR with Egocentric View",
+      "value": 1
+    },
+    {
+      "source": "Ramya Hebbalaguppe",
+      "target": "An AR Inspection Framework: Feasibility Study with Multiple AR Devices",
+      "value": 1
+    },
+    {
+      "source": "Ramya Hebbalaguppe",
+      "target": "InspectAR: An Augmented Reality Inspection Framework for Industry",
+      "value": 1
+    },
+    {
+      "source": "Ramya Hebbalaguppe",
+      "target": "Indoor Localisation and Navigation on Augmented Reality Devices",
+      "value": 1
+    },
+    {
+      "source": "Ramya Hebbalaguppe",
+      "target": "Automatic Container Code Recognition via Spatial Transformer Networks and Connected Component Region Proposals",
+      "value": 1
+    },
+    {
+      "source": "Ankit Verma",
+      "target": "Pedestrian Detection via Mixture of CNN Experts and Thresholded Aggregated Channel Features",
+      "value": 1
+    },
+    {
+      "source": "Ankit Verma",
+      "target": "Telecom Inventory Management via Object Recognition and Localisation on Google Street View Images",
+      "value": 1
+    },
+    {
+      "source": "Ankit Verma",
+      "target": "Automatic Container Code Recognition via Spatial Transformer Networks and Connected Component Region Proposals",
+      "value": 1
+    },
+    {
+      "source": "Nianfeng Wang",
+      "target": "Trajectory Planning with Bezier Curve in Cartesian Space for Industrial Gluing Robot",
+      "value": 1
+    },
+    {
+      "source": "Nianfeng Wang",
+      "target": "Design and Analysis of a Novel XY Micro-positioning Stage Used Corrugated Flexure Beams",
+      "value": 1
+    },
+    {
+      "source": "Nianfeng Wang",
+      "target": "Design of an Anthropomorphic Prosthetic Hand with EMG Control",
+      "value": 1
+    },
+    {
+      "source": "Nianfeng Wang",
+      "target": "The Control System Design of A SCARA Robot",
+      "value": 1
+    },
+    {
+      "source": "Nianfeng Wang",
+      "target": "A hybrid genetic algorithm for constrained multi-objective optimization under uncertainty and target matching problems",
+      "value": 1
+    },
+    {
+      "source": "Nianfeng Wang",
+      "target": "Mechanical design of a compliant prosthesis finger by structural topology optimization",
+      "value": 1
+    },
+    {
+      "source": "Nianfeng Wang",
+      "target": "Efficient Collision Detection for Industrial Robot Simulation System",
+      "value": 1
+    },
+    {
+      "source": "Nianfeng Wang",
+      "target": "A Vision Location System Design of Glue Dispensing Robot",
+      "value": 1
+    },
+    {
+      "source": "Nianfeng Wang",
+      "target": "Decoupling Control Based on Dynamic Model of 4-DOF Wafer Handling Robot",
+      "value": 1
+    },
+    {
+      "source": "Shuai Wei",
+      "target": "Trajectory Planning with Bezier Curve in Cartesian Space for Industrial Gluing Robot",
+      "value": 1
+    },
+    {
+      "source": "Shuai Wei",
+      "target": "The Control System Design of A SCARA Robot",
+      "value": 1
+    },
+    {
+      "source": "Shuai Wei",
+      "target": "A Vision Location System Design of Glue Dispensing Robot",
+      "value": 1
+    },
+    {
+      "source": "Shuai Wei",
+      "target": "A rapid solvent accessible surface area estimator for coarse grained molecular simulations",
+      "value": 1
+    },
+    {
+      "source": "Aaron T. Frank",
+      "target": "PCASSO: A fast and efficient Cα‐based method for accurately assigning protein secondary structure elements",
+      "value": 1
+    },
+    {
+      "source": "Aaron T. Frank",
+      "target": "Can Holo NMR Chemical Shifts be Directly Used to Resolve RNA-Ligand Poses?",
+      "venue": "Journal of Chemical Information and Modeling",
+      "value": 1
+    },
+    {
+      "source": "Aaron T. Frank",
+      "target": "A rapid solvent accessible surface area estimator for coarse grained molecular simulations",
+      "value": 1
+    },
+    {
+      "source": "Charles L. Brooks",
+      "target": "Quantifying chaperone-mediated transitions in the proteostasis network of E. coli.",
+      "value": 1
+    },
+    {
+      "source": "Charles L. Brooks",
+      "target": "Flexible Cdocker: Development and Application of a Pseudo-Explicit Structure-Based Docking Method within Charmm",
+      "value": 1
+    },
+    {
+      "source": "Charles L. Brooks",
+      "target": "MATCH: An Atom- Typing Toolset for Molecular Mechanics Force Fields",
+      "value": 1
+    },
+    {
+      "source": "Charles L. Brooks",
+      "target": "Surveying implicit solvent models for estimating small molecule absolute hydration free energies",
+      "value": 1
+    },
+    {
+      "source": "Charles L. Brooks",
+      "target": "A Universal Trend among Proteomes Indicates an Oily Last Common Ancestor",
+      "value": 1
+    },
+    {
+      "source": "Charles L. Brooks",
+      "target": "New paint and a new engine",
+      "value": 1
+    },
+    {
+      "source": "Charles L. Brooks",
+      "target": "Coupled folding and binding with 2D Window‐Exchange Umbrella Sampling",
+      "value": 1
+    },
+    {
+      "source": "Charles L. Brooks",
+      "target": "Applying efficient implicit nongeometric constraints in alchemical free energy simulations",
+      "value": 1
+    },
+    {
+      "source": "Charles L. Brooks",
+      "target": "PCASSO: A fast and efficient Cα‐based method for accurately assigning protein secondary structure elements",
+      "value": 1
+    },
+    {
+      "source": "Charles L. Brooks",
+      "target": "PCalign: a method to quantify physicochemical similarity of protein-protein interfaces",
+      "value": 1
+    },
+    {
+      "source": "Charles L. Brooks",
+      "target": "Viral capsid proteins are segregated in structural fold space.",
+      "value": 1
+    },
+    {
+      "source": "Charles L. Brooks",
+      "target": "Evaluation of several two-step scoring functions based on linear interaction energy, effective ligand size, and empirical pair potentials for prediction of protein-ligand binding geometry and free energy.",
+      "value": 1
+    },
+    {
+      "source": "Charles L. Brooks",
+      "target": "Efficient implementation of constant pH molecular dynamics on modern graphics processors.",
+      "value": 1
+    },
+    {
+      "source": "Charles L. Brooks",
+      "target": "Parallelization and improvements of the generalized born model with a simple sWitching function for modern graphics processors.",
+      "value": 1
+    },
+    {
+      "source": "Charles L. Brooks",
+      "target": "Assessing the quality of absolute hydration free energies among CHARMM‐compatible ligand parameterization schemes",
+      "value": 1
+    },
+    {
+      "source": "Charles L. Brooks",
+      "target": "A rapid solvent accessible surface area estimator for coarse grained molecular simulations",
+      "value": 1
+    },
+    {
+      "source": "Obaidur Rahaman",
+      "target": "Evaluation of several two-step scoring functions based on linear interaction energy, effective ligand size, and empirical pair potentials for prediction of protein-ligand binding geometry and free energy.",
+      "value": 1
+    },
+    {
+      "source": "Roger S. Armen",
+      "target": "Poster: study of protein-ligand binding geometries using a scalable and accurate octree-based algorithm in mapReduce",
+      "value": 1
+    },
+    {
+      "source": "Roger S. Armen",
+      "target": "Reengineering High-throughput Molecular Datasets for Scalable Clustering Using MapReduce",
+      "value": 1
+    },
+    {
+      "source": "Roger S. Armen",
+      "target": "A scalable and accurate method for classifying protein-ligand binding geometries using a MapReduce approach",
+      "value": 1
+    },
+    {
+      "source": "Roger S. Armen",
+      "target": "Evaluation of several two-step scoring functions based on linear interaction energy, effective ligand size, and empirical pair potentials for prediction of protein-ligand binding geometry and free energy.",
+      "value": 1
+    },
+    {
+      "source": "Roger S. Armen",
+      "target": "Systematic and efficient side chain optimization for molecular docking using a cheapest‐path procedure",
+      "value": 1
+    },
+    {
+      "source": "Roger S. Armen",
+      "target": "Automatic selection of near-native protein-ligand conformations using a hierarchical clustering and volunteer computing",
+      "value": 1
+    },
+    {
+      "source": "Roger S. Armen",
+      "target": "Prediction of consensus binding mode geometries for related chemical series of positive allosteric modulators of adenosine and muscarinic acetylcholine receptors",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "Hopf-pitchfork bifurcation in an inertial two-neuron system with time delay",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "Increasing the protozoan recovery for biomedical membrane filters using multiplexed refining device",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "Supporting reflection through play: field testing the home trivia system",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "Recent Developments in Optical Detection Technologies in Lab-on-a-Chip Devices for Biosensing Applications",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "Microfluidic biosensor array with integrated poly(2,7-carbazole)/fullerene-based photodiodes for rapid multiplexed detection of pathogens.",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "Algebraic criteria for second-order global consensus in multi-agent networks with intrinsic nonlinear dynamics and directed topologies",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "An Improved Algorithm of Bayesian Text Categorization",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "Social Overlays: Collectively Making Websites More Usable",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "Detection of pathogens using bio-activated nickel hexacyanoferrate film coated interdigitated microelectrodes",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "House memory: on activity traces as a form of cultural heritage",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "\"If these walls could talk\": designing with memories of places",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "Biomedical micro-refinery system for the enrichment of Giardia cysts in source water",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "Calculations of radiation characteristics of reflector antennas with surface deformation and perforation",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "An efficient passive planar micromixer with ellipse-like micropillars for continuous mixing of human blood",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "Novel nanoconcentrator for recovering viral particles of biomedical interest: Design and simulation",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "1196-Chamber compatible LOC device with bubble valves for signaling molecular profiling in blood",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "Low-temperature void-free wafer-level adhesive bonding for thin film transfer by nano-imprint resist",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "Capacitance Variation Induced by Microfluidic Two-Phase Flow across Insulated Interdigital Electrodes in Lab-On-Chip Devices",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "Ultra-sensitive microfluidic system based on IMRAMP assay to quantify hormones in blood",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "Cell-based digital microfluidic chip for drug mixing and droplets generation: Design and simulation",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "Feasibility study on service-based data acquisition for human signal molecule profiling database",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "Social overlays: augmenting existing UIs with social cues",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "Bringing the field into the lab: supporting capture and replay of contextual data for the design of context-aware applications",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "A CMOS Readout With High-Precision and Low-Temperature-Coefficient Background Current Skimming for Infrared Focal Plane Array",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "A novel and efficient synthesis approach on antenna radiation pattern for conformal array",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "Reduced-Order Observer-Based Consensus for Multi-Agent Systems With Time Delay and Event Trigger Strategy",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "Highly sensitive detection of human cancer antigens by an immunogold-silver assay chip coupled with a polythiophene-based optical sensor",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "Performance of heterogeneous multiuser MIMO system with cross-layer design and multiple outdated estimations in Rayleigh fading channel",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "Understanding the Challenges of Designing and Developing Multi-Device Experiences",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "The Making of Cross-Device Experiences: A Hands-on Workshop",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "Rethink Scalable M:N Threading on Modern Operating Systems",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "Rapid detection of E. coli cells in urine samples using a self-capacitance touchscreen device",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "A smart phone-based robust correction algorithm for the colorimetric detection of Urinary Tract Infection.",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "Microfluidic paper-based analytical devices for colorimetric detection of urinary tract infection biomarkers on adult diapers.",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "Text Categorization Based on Semantic Cluster-Hidden Markov Models",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "Modeling, Design, and Fabrication of Self-Doping Si1−xGex/Si Multiquantum Well Material for Infrared Sensing",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "Structure and Reciprocity in Technology-Centered Q&A Communities",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "Event-triggered synchronization strategy for complex dynamical networks with the Markovian switching topologies",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "Discovery-based games for learning software",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "Retraction note: Invulnerability mechanism based on mobility prediction and opportunistic cloud computing with topological evolution for wireless multimedia sensor networks",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "Fabrication of vanadium oxide for uncooled FPAs using dual magnetron AC sputtering",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "Hopf bifurcation in a love-triangle model with time delays",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "Smartphone-Based Rapid Screening of Urinary Biomarkers",
+      "value": 1
+    },
+    {
+      "source": "Tao Dong",
+      "target": "A novel conformal jigsaw EBG structure design",
+      "value": 1
+    },
     {
       "source": "James Bailey",
       "target": "Mining distribution change in stock order streams",

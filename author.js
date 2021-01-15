@@ -1,7 +1,7 @@
 //------------------------1. PREPARATION------------------------//
 //-----------------------------SVG------------------------------// 
 
-var width = 1200;
+var width = 1400;
 var height = 600;
 // var color = d3.scaleOrdinal(d3.schemeSet1);
 var profs = [];
@@ -43,7 +43,7 @@ d3.json("author.json").then(function (graph) {
     var graphLayout = d3.forceSimulation(graph.nodes)
         .force("charge", d3.forceManyBody().strength(-1000))
         .force("center", d3.forceCenter(width / 2, height / 2))
-        .force("x", d3.forceX(width /2 ).strength(1))
+        .force("x", d3.forceX(width / 2 ).strength(1))
         .force("y", d3.forceY(height / 2).strength(1))
         .force("link", d3.forceLink(graph.links).id(function (d) { return d.id; }).distance(100).strength(1))
         .on("tick", ticked);
