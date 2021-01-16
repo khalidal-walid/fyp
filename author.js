@@ -386,6 +386,7 @@ d3.json("author.json").then(function (graph) {
                 // console.log(current_node);
 
                 focus_searcher(current_node, selection.id);
+                checkByYear();
             }
 
             
@@ -424,8 +425,6 @@ d3.json("author.json").then(function (graph) {
     }
 
     function checkByYear(d, index) {
-        // console.log(d)
-        // console.log("focuss: " + index)
 
         d3.selectAll("input[name=filter]").on("change", function(d) {
             var value = this.value;
