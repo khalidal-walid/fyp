@@ -77,26 +77,26 @@ html, body {
   margin-right: 10px; 
 }
 
-.legend .y2018 { background-color: #8a3ffc; }
-.legend .y2017 { background-color: #33b1ff; }
-.legend .y2016 { background-color: #007d79; }
-.legend .y2015 { background-color: #ff7eb6; }
-.legend .y2014 { background-color: #fa4d56; }
-.legend .y2013 { background-color: #fff1f1; }
-.legend .y2012 { background-color: #6fdc8c; }
-.legend .y2011 { background-color: #4589ff; }
-.legend .y2010 { background-color: #d12771; }
+.legend .y2018 { background-color: #905225; }
+.legend .y2017 { background-color: #FF8082; }
+.legend .y2016 { background-color: #7E5FBF; }
+.legend .y2015 { background-color: #DB4642; }
+.legend .y2014 { background-color: #FF863D; }
+.legend .y2013 { background-color: #27813E; }
+.legend .y2012 { background-color: #FFB646; }
+.legend .y2011 { background-color: #00AA9F; }
+.legend .y2010 { background-color: #005FA7; }
 
-.node .year2009 { fill:#d2a106; }
-.node .year2010 { fill:#d12771; }
-.node .year2011 { fill:#4589ff; }
-.node .year2012 { fill:#6fdc8c; }
-.node .year2013 { fill:#fff1f1; }
-.node .year2014 { fill:#fa4d56; }
-.node .year2015 { fill:#ff7eb6; }
-.node .year2016 { fill:#007d79; }
-.node .year2017 { fill:#33b1ff; }
-.node .year2018 { fill:#8a3ffc; }
+.node .year2009 { fill:#ffffff; }
+.node .year2010 { fill:#005FA7; }
+.node .year2011 { fill:#00AA9F; }
+.node .year2012 { fill:#FFB646; }
+.node .year2013 { fill:#27813E; }
+.node .year2014 { fill:#FF863D; }
+.node .year2015 { fill:#DB4642; }
+.node .year2016 { fill:#7E5FBF; }
+.node .year2017 { fill:#FF8082; }
+.node .year2018 { fill:#905225; }
 
 #tooltip {
   margin: 1em;

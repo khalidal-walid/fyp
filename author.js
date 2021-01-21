@@ -180,7 +180,6 @@ d3.json("author.json").then(function (graph) {
 
         node.call(updateNode);
         link.call(updateLink);
-        // node.call(checkByYear);
 
         dataLayout.alphaTarget(0.1).restart();
         dataNode.each(function (d, i) {
@@ -195,8 +194,11 @@ d3.json("author.json").then(function (graph) {
                 var dist = Math.sqrt(diffX * diffX + diffY * diffY);
 
                 var shiftX = b.width * (diffX - dist) / (dist * 2);
-                shiftX = Math.max(-b.width, Math.min(0, shiftX));
+                // shiftX = Math.max(-b.width, Math.min(0, shiftX));
                 var shiftY = 16;
+
+                // shiftX = Math.max(width - radius, Math.min(0, shiftX));
+                // var shiftY = Math.max(radius, Math.min(height - radius, d.y));
                 this.setAttribute("transform", "translate(" + shiftX + "," + shiftY + ")");
             }
         });
@@ -401,9 +403,29 @@ d3.json("author.json").then(function (graph) {
         // console.log("focus: " + index)
         ttp_searchbox = true;
         var legends = d3.select("#legends");
+        var tooltip = d3.select("#tooltip");
 
-        legends.classed("hidden", false)
+        legends
+            .classed("hidden", false)
             .classed("show", true);
+
+        tooltip
+            .classed("hidden", false)
+            .classed("show", true);
+
+        tooltip.select("#tooltip-header")
+            .html(
+
+                '<div>' +
+
+                '<h2>' + 'Author:' + '</h2>' +
+                '<h1>' + d.authors + '</h1>' +
+
+                '<h2>' + 'Title:' + '</h2>' +
+                '<h1>' +'<ul><li>'+ d.title.join("</li><li>") +'</li></ul>'+ '</h1>' 
+                
+
+            );
 
         ttpJustDisplayed = true;
         legJustDisplayed = true;
