@@ -1,7 +1,7 @@
 //------------------------1. PREPARATION------------------------//
 //-----------------------------SVG------------------------------// 
 
-var width = 1400;
+var width = 1700;
 var height = 600;
 // var color = d3.scaleOrdinal(d3.schemeSet1);
 var profs = [];
@@ -419,10 +419,10 @@ d3.json("author.json").then(function (graph) {
                 '<div>' +
 
                 '<h2>' + 'Author:' + '</h2>' +
-                '<h1>' + d.authors + '</h1>' +
+                '<h1>' + d.authors + '</h1>' 
 
-                '<h2>' + 'Title:' + '</h2>' +
-                '<h1>' +'<ul><li>'+ d.title.join("</li><li>") +'</li></ul>'+ '</h1>' 
+             //   '<h2>' + 'Title:' + '</h2>' +
+             //   '<h1>' +'<ul><li>'+ d.title.join("</li><li>") +'</li></ul>'+ '</h1>' 
                 
 
             );
