@@ -4604,9 +4604,944 @@
       "title": "Detecting Malicious Users in Twitter using Classifiers",
       "venue": "security of information and networks",
       "year": 2014
+    },
+    {
+      "authors": "Atsushi Takayasu",
+      "id": "Atsushi Takayasu",
+      "n_citation": 0,
+      "year": 2009
+    },
+    {
+      "author": "Atsushi Takayasu",
+      "id": "Small secret exponent attacks on RSA with unbalanced prime factors",
+      "n_citation": 0,
+      "title": "Small secret exponent attacks on RSA with unbalanced prime factors",
+      "venue": "international symposium on information theory and its applications",
+      "year": 2016
+    },
+    {
+      "author": "Atsushi Takayasu",
+      "id": "Lattice-Based Revocable Identity-Based Encryption with Bounded Decryption Key Exposure Resistance.",
+      "n_citation": 0,
+      "title": "Lattice-Based Revocable Identity-Based Encryption with Bounded Decryption Key Exposure Resistance.",
+      "venue": "australasian conference on information security and privacy",
+      "year": 2017
+    },
+    {
+      "author": "Atsushi Takayasu",
+      "id": "How to Generalize RSA Cryptanalyses",
+      "n_citation": 6,
+      "title": "How to Generalize RSA Cryptanalyses",
+      "venue": "public key cryptography",
+      "year": 2016
+    },
+    {
+      "author": "Atsushi Takayasu",
+      "id": "Partial Key Exposure Attacks on CRT-RSA: Better Cryptanalysis to Full Size Encryption Exponents",
+      "n_citation": 4,
+      "title": "Partial Key Exposure Attacks on CRT-RSA: Better Cryptanalysis to Full Size Encryption Exponents",
+      "venue": "applied cryptography and network security",
+      "year": 2015
+    },
+    {
+      "author": "Atsushi Takayasu",
+      "id": "Partial Key Exposure Attacks on RSA with Multiple Exponent Pairs",
+      "n_citation": 5,
+      "title": "Partial Key Exposure Attacks on RSA with Multiple Exponent Pairs",
+      "venue": "australasian conference on information security and privacy",
+      "year": 2016
+    },
+    {
+      "author": "Atsushi Takayasu",
+      "id": "Better Lattice Constructions for Solving Multivariate Linear Equations Modulo Unknown Divisors",
+      "n_citation": 50,
+      "title": "Better Lattice Constructions for Solving Multivariate Linear Equations Modulo Unknown Divisors",
+      "venue": "IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences",
+      "year": 2014
+    },
+    {
+      "author": "Atsushi Takayasu",
+      "id": "Cryptanalysis of RSA with Multiple Small Secret Exponents",
+      "n_citation": 10,
+      "title": "Cryptanalysis of RSA with Multiple Small Secret Exponents",
+      "venue": "australasian conference on information security and privacy",
+      "year": 2014
+    },
+    {
+      "author": "Atsushi Takayasu",
+      "id": "Better Lattice Constructions for Solving Multivariate Linear Equations Modulo Unknown Divisors",
+      "n_citation": 50,
+      "title": "Better Lattice Constructions for Solving Multivariate Linear Equations Modulo Unknown Divisors",
+      "venue": "australasian conference on information security and privacy",
+      "year": 2013
+    },
+    {
+      "authors": "Maslina Zolkepli",
+      "id": "Maslina Zolkepli",
+      "n_citation": 0,
+      "year": 2009
+    },
+    {
+      "author": "Maslina Zolkepli",
+      "id": "Automatic Switching of Clustering Methods based on Fuzzy Inference in Bibliographic Big Data Retrieval System",
+      "n_citation": 0,
+      "title": "Automatic Switching of Clustering Methods based on Fuzzy Inference in Bibliographic Big Data Retrieval System",
+      "venue": "",
+      "year": 2014
+    },
+    {
+      "author": "Maslina Zolkepli",
+      "id": "Visualizing Fuzzy Relationship in Bibliographic Big Data Using Hybrid Approach Combining Fuzzy c-Means and Newman-Girvan Algorithm",
+      "n_citation": 0,
+      "title": "Visualizing Fuzzy Relationship in Bibliographic Big Data Using Hybrid Approach Combining Fuzzy c-Means and Newman-Girvan Algorithm",
+      "venue": "Journal of Advanced Computational Intelligence and Intelligent Informatics",
+      "year": 2014
+    },
+    {
+      "author": "Maslina Zolkepli",
+      "id": "Application of fuzzy inference engine as an automatic switch between ensembles of clustering methods",
+      "n_citation": 50,
+      "title": "Application of fuzzy inference engine as an automatic switch between ensembles of clustering methods",
+      "venue": "soft computing",
+      "year": 2014
+    },
+    {
+      "authors": "Rania Siatri",
+      "id": "Rania Siatri",
+      "n_citation": 0,
+      "year": 2009
+    },
+    {
+      "author": "Rania Siatri",
+      "id": "Learners' perceptions on the importance of learning object metadata for relevance judgement",
+      "n_citation": 1,
+      "title": "Learners' perceptions on the importance of learning object metadata for relevance judgement",
+      "venue": "International Journal of Metadata, Semantics and Ontologies",
+      "year": 2012
+    },
+    {
+      "author": "Rania Siatri",
+      "id": "A Survey on the Importance of Learning Object Metadata for Relevance Judgment",
+      "n_citation": 0,
+      "title": "A Survey on the Importance of Learning Object Metadata for Relevance Judgment",
+      "venue": "metadata and semantics research",
+      "year": 2011
+    },
+    {
+      "author": "Rania Siatri",
+      "id": "Digital Libraries Evaluation: Measuring Europeana's Usability",
+      "n_citation": 1,
+      "title": "Digital Libraries Evaluation: Measuring Europeana's Usability",
+      "venue": "metadata and semantics research",
+      "year": 2015
+    },
+    {
+      "authors": "Anxhela Dani",
+      "id": "Anxhela Dani",
+      "n_citation": 0,
+      "year": 2009
+    },
+    {
+      "author": "Anxhela Dani",
+      "id": "CERN Analysis Preservation: A Novel Digital Library Service to Enable Reusable and Reproducible Research",
+      "n_citation": 1,
+      "title": "CERN Analysis Preservation: A Novel Digital Library Service to Enable Reusable and Reproducible Research",
+      "venue": "theory and practice of digital libraries",
+      "year": 2016
+    },
+    {
+      "author": "Anxhela Dani",
+      "id": "Digital Libraries Evaluation: Measuring Europeana's Usability",
+      "n_citation": 1,
+      "title": "Digital Libraries Evaluation: Measuring Europeana's Usability",
+      "venue": "metadata and semantics research",
+      "year": 2015
+    },
+    {
+      "authors": "Fotis Mystakopoulos",
+      "id": "Fotis Mystakopoulos",
+      "n_citation": 0,
+      "year": 2009
+    },
+    {
+      "authors": "Stavroula Antonopoulou",
+      "id": "Stavroula Antonopoulou",
+      "n_citation": 0,
+      "year": 2009
+    },
+    {
+      "authors": "Erwan Bousse",
+      "id": "Erwan Bousse",
+      "n_citation": 0,
+      "year": 2009
+    },
+    {
+      "author": "Erwan Bousse",
+      "id": "Execution framework of the GEMOC studio (tool demo)",
+      "n_citation": 0,
+      "title": "Execution framework of the GEMOC studio (tool demo)",
+      "venue": "software language engineering",
+      "year": 2016
+    },
+    {
+      "author": "Erwan Bousse",
+      "id": "Supporting efficient and advanced omniscient debugging for xDSMLs",
+      "n_citation": 30,
+      "title": "Supporting efficient and advanced omniscient debugging for xDSMLs",
+      "venue": "software language engineering",
+      "year": 2015
+    },
+    {
+      "author": "Erwan Bousse",
+      "id": "A Generative Approach to Define Rich Domain-Specific Trace Metamodels",
+      "n_citation": 11,
+      "title": "A Generative Approach to Define Rich Domain-Specific Trace Metamodels",
+      "venue": "european conference on modelling foundations and applications",
+      "year": 2015
+    },
+    {
+      "author": "Erwan Bousse",
+      "id": "Scalable Armies of Model Clones through Data Sharing",
+      "n_citation": 7,
+      "title": "Scalable Armies of Model Clones through Data Sharing",
+      "venue": "model driven engineering languages and systems",
+      "year": 2014
+    },
+    {
+      "authors": "Wieland Schwinger",
+      "id": "Wieland Schwinger",
+      "n_citation": 0,
+      "year": 2009
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "On the Evolution of Modeling Ecosystems: An Evaluation of Co-Evolution Approaches.",
+      "n_citation": 0,
+      "title": "On the Evolution of Modeling Ecosystems: An Evaluation of Co-Evolution Approaches.",
+      "venue": "international conference on model-driven engineering and software development",
+      "year": 2017
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "Change and Delay Contracts for Hybrid System Component Verification",
+      "n_citation": 0,
+      "title": "Change and Delay Contracts for Hybrid System Component Verification",
+      "venue": "fundamental approaches to software engineering",
+      "year": 2017
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "Crowd-Sensing Meets Situation Awareness: A Research Roadmap for Crisis Management",
+      "n_citation": 12,
+      "title": "Crowd-Sensing Meets Situation Awareness: A Research Roadmap for Crisis Management",
+      "venue": "hawaii international conference on system sciences",
+      "year": 2015
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "Identifying and modelling complex workflow requirements in web applications",
+      "n_citation": 50,
+      "title": "Identifying and modelling complex workflow requirements in web applications",
+      "venue": "international conference on web engineering",
+      "year": 2012
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "Editorial: BeAware!-Situation awareness, the ontology-driven way",
+      "n_citation": 37,
+      "title": "Editorial: BeAware!-Situation awareness, the ontology-driven way",
+      "venue": "data and knowledge engineering",
+      "year": 2010
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "From the heterogeneity jungle to systematic benchmarking",
+      "n_citation": 50,
+      "title": "From the heterogeneity jungle to systematic benchmarking",
+      "venue": "model driven engineering languages and systems",
+      "year": 2010
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "Consistent co-evolution of models and transformations",
+      "n_citation": 10,
+      "title": "Consistent co-evolution of models and transformations",
+      "venue": "model driven engineering languages and systems",
+      "year": 2015
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "Systematic Co-Evolution of OCL Expressions",
+      "n_citation": 8,
+      "title": "Systematic Co-Evolution of OCL Expressions",
+      "venue": "asia-pacific conference on conceptual modelling",
+      "year": 2015
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "CARE: a constraint-based approach for re-establishing conformance-relationships",
+      "n_citation": 18,
+      "title": "CARE: a constraint-based approach for re-establishing conformance-relationships",
+      "venue": "asia pacific conference on conceptual modelling",
+      "year": 2014
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "Automatic data transformation: breaching the walled gardens of social network platforms",
+      "n_citation": 6,
+      "title": "Automatic data transformation: breaching the walled gardens of social network platforms",
+      "venue": "asia pacific conference on conceptual modelling",
+      "year": 2013
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "A Survey on Volunteer Management Systems",
+      "n_citation": 4,
+      "title": "A Survey on Volunteer Management Systems",
+      "venue": "hawaii international conference on system sciences",
+      "year": 2016
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "REASONING ON DATA STREAMS FOR SITUATION AWARENESS",
+      "n_citation": 50,
+      "title": "REASONING ON DATA STREAMS FOR SITUATION AWARENESS",
+      "venue": "international conference on knowledge engineering and ontology development",
+      "year": 2011
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "Supporting Variability Exploration and Resolution During Model Migration",
+      "n_citation": 3,
+      "title": "Supporting Variability Exploration and Resolution During Model Migration",
+      "venue": "european conference on modelling foundations and applications",
+      "year": 2016
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "Volatile Functionality in Action: Methods, Techniques and Assessment",
+      "n_citation": 1,
+      "title": "Volatile Functionality in Action: Methods, Techniques and Assessment",
+      "venue": "international conference on web engineering",
+      "year": 2016
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "A Component-Based Approach to Hybrid Systems Safety Verification",
+      "n_citation": 8,
+      "title": "A Component-Based Approach to Hybrid Systems Safety Verification",
+      "venue": "integrated formal methods",
+      "year": 2016
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "Near real-time detection of crisis situations",
+      "n_citation": 0,
+      "title": "Near real-time detection of crisis situations",
+      "venue": "international convention on information and communication technology electronics and microelectronics",
+      "year": 2016
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "TETRABox - A Generic White-Box Testing Framework for Model Transformations",
+      "n_citation": 50,
+      "title": "TETRABox - A Generic White-Box Testing Framework for Model Transformations",
+      "venue": "asia-pacific software engineering conference",
+      "year": 2013
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "Logic-Based Modeling Approaches for Qualitative and Hybrid Reasoning in Dynamic Spatial Systems",
+      "n_citation": 1,
+      "title": "Logic-Based Modeling Approaches for Qualitative and Hybrid Reasoning in Dynamic Spatial Systems",
+      "venue": "ACM Computing Surveys",
+      "year": 2015
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "A survey on UML-based aspect-oriented design modeling",
+      "n_citation": 80,
+      "title": "A survey on UML-based aspect-oriented design modeling",
+      "venue": "ACM Computing Surveys",
+      "year": 2011
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "A tour of BeAware – A situation awareness framework for control centers ☆",
+      "n_citation": 15,
+      "title": "A tour of BeAware – A situation awareness framework for control centers ☆",
+      "venue": "Information Fusion",
+      "year": 2014
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "User profile integration made easy: model-driven extraction and transformation of social network schemas",
+      "n_citation": 50,
+      "title": "User profile integration made easy: model-driven extraction and transformation of social network schemas",
+      "venue": "international world wide web conferences",
+      "year": 2012
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "Managing volatile requirements in web applications",
+      "n_citation": 0,
+      "title": "Managing volatile requirements in web applications",
+      "venue": "symposium on web systems evolution",
+      "year": 2013
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "Automated verification of model transformations based on visual contracts",
+      "n_citation": 75,
+      "title": "Automated verification of model transformations based on visual contracts",
+      "venue": "automated software engineering",
+      "year": 2013
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "Debugging Model-to-Model Transformations",
+      "n_citation": 50,
+      "title": "Debugging Model-to-Model Transformations",
+      "venue": "asia-pacific software engineering conference",
+      "year": 2012
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "Surveying Rule Inheritance in Model-to-Model Transformation Languages",
+      "n_citation": 24,
+      "title": "Surveying Rule Inheritance in Model-to-Model Transformation Languages",
+      "venue": "The Journal of Object Technology",
+      "year": 2012
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "Fact or fiction --- reuse in rule-based model-to-model transformation languages",
+      "n_citation": 15,
+      "title": "Fact or fiction --- reuse in rule-based model-to-model transformation languages",
+      "venue": "international conference on model transformation",
+      "year": 2012
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "A Survey on Clustering Techniques for Situation Awareness",
+      "n_citation": 10,
+      "title": "A Survey on Clustering Techniques for Situation Awareness",
+      "venue": "asia-pacific web conference",
+      "year": 2013
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "Situation prediction nets: playing the token game for ontology-driven situation awareness",
+      "n_citation": 50,
+      "title": "Situation prediction nets: playing the token game for ontology-driven situation awareness",
+      "venue": "international conference on conceptual modeling",
+      "year": 2010
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "A comparison of rule inheritance in model-to-model transformation languages",
+      "n_citation": 17,
+      "title": "A comparison of rule inheritance in model-to-model transformation languages",
+      "venue": "international conference on model transformation",
+      "year": 2011
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "A Conceptual Reference Model of Modeling and Verification Concepts for Hybrid Systems",
+      "n_citation": 0,
+      "title": "A Conceptual Reference Model of Modeling and Verification Concepts for Hybrid Systems",
+      "venue": "knowledge science, engineering and management",
+      "year": 2014
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "TheHiddenU - A Social Nexus for Privacy-assured Personalisation Brokerage",
+      "n_citation": 7,
+      "title": "TheHiddenU - A Social Nexus for Privacy-assured Personalisation Brokerage",
+      "venue": "international conference on enterprise information systems",
+      "year": 2010
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "Towards modeling dynamic behavior with integrated qualitative spatial relations",
+      "n_citation": 50,
+      "title": "Towards modeling dynamic behavior with integrated qualitative spatial relations",
+      "venue": "international conference on conceptual modeling",
+      "year": 2011
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "Surviving the heterogeneity jungle with composite mapping operators",
+      "n_citation": 50,
+      "title": "Surviving the heterogeneity jungle with composite mapping operators",
+      "venue": "international conference on model transformation",
+      "year": 2010
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "Model-Driven Co-evolution for Agile Development",
+      "n_citation": 1,
+      "title": "Model-Driven Co-evolution for Agile Development",
+      "venue": "hawaii international conference on system sciences",
+      "year": 2015
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "Reusing Model Transformations across Heterogeneous Metamodels",
+      "n_citation": 50,
+      "title": "Reusing Model Transformations across Heterogeneous Metamodels",
+      "venue": "Electronic Communication of The European Association of Software Science and Technology",
+      "year": 2012
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "SemGen: towards a semantic data generator for benchmarking duplicate detectors",
+      "n_citation": 1,
+      "title": "SemGen: towards a semantic data generator for benchmarking duplicate detectors",
+      "venue": "database systems for advanced applications",
+      "year": 2011
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "SEM 2 suite — Towards a tool suite for supporting knowledge management in situation awareness systems",
+      "n_citation": 5,
+      "title": "SEM 2 suite — Towards a tool suite for supporting knowledge management in situation awareness systems",
+      "venue": "information reuse and integration",
+      "year": 2014
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "Reuse in model-to-model transformation languages: are we there yet?",
+      "n_citation": 55,
+      "title": "Reuse in model-to-model transformation languages: are we there yet?",
+      "venue": "Software and Systems Modeling",
+      "year": 2015
+    },
+    {
+      "author": "Wieland Schwinger",
+      "id": "Semantics for Accurate Conflict Detection in SMoVer: Specification, Detection and Presentation by Example",
+      "n_citation": 13,
+      "title": "Semantics for Accurate Conflict Detection in SMoVer: Specification, Detection and Presentation by Example",
+      "venue": "International Journal of Enterprise Information Systems",
+      "year": 2010
+    },
+    {
+      "authors": "Elisabeth Kapsammer",
+      "id": "Elisabeth Kapsammer",
+      "n_citation": 0,
+      "year": 2009
+    },
+    {
+      "author": "Elisabeth Kapsammer",
+      "id": "On the Evolution of Modeling Ecosystems: An Evaluation of Co-Evolution Approaches.",
+      "n_citation": 0,
+      "title": "On the Evolution of Modeling Ecosystems: An Evaluation of Co-Evolution Approaches.",
+      "venue": "international conference on model-driven engineering and software development",
+      "year": 2017
+    },
+    {
+      "author": "Elisabeth Kapsammer",
+      "id": "Consistent co-evolution of models and transformations",
+      "n_citation": 10,
+      "title": "Consistent co-evolution of models and transformations",
+      "venue": "model driven engineering languages and systems",
+      "year": 2015
+    },
+    {
+      "author": "Elisabeth Kapsammer",
+      "id": "Systematic Co-Evolution of OCL Expressions",
+      "n_citation": 8,
+      "title": "Systematic Co-Evolution of OCL Expressions",
+      "venue": "asia-pacific conference on conceptual modelling",
+      "year": 2015
+    },
+    {
+      "author": "Elisabeth Kapsammer",
+      "id": "CARE: a constraint-based approach for re-establishing conformance-relationships",
+      "n_citation": 18,
+      "title": "CARE: a constraint-based approach for re-establishing conformance-relationships",
+      "venue": "asia pacific conference on conceptual modelling",
+      "year": 2014
+    },
+    {
+      "author": "Elisabeth Kapsammer",
+      "id": "Automatic data transformation: breaching the walled gardens of social network platforms",
+      "n_citation": 6,
+      "title": "Automatic data transformation: breaching the walled gardens of social network platforms",
+      "venue": "asia pacific conference on conceptual modelling",
+      "year": 2013
+    },
+    {
+      "author": "Elisabeth Kapsammer",
+      "id": "A Survey on Volunteer Management Systems",
+      "n_citation": 4,
+      "title": "A Survey on Volunteer Management Systems",
+      "venue": "hawaii international conference on system sciences",
+      "year": 2016
+    },
+    {
+      "author": "Elisabeth Kapsammer",
+      "id": "User profile integration made easy: model-driven extraction and transformation of social network schemas",
+      "n_citation": 50,
+      "title": "User profile integration made easy: model-driven extraction and transformation of social network schemas",
+      "venue": "international world wide web conferences",
+      "year": 2012
+    },
+    {
+      "author": "Elisabeth Kapsammer",
+      "id": "Model-Driven Co-evolution for Agile Development",
+      "n_citation": 1,
+      "title": "Model-Driven Co-evolution for Agile Development",
+      "venue": "hawaii international conference on system sciences",
+      "year": 2015
     }
    ],
    "links": [ 
+    {
+      "source": "Elisabeth Kapsammer",
+      "target": "Model-Driven Co-evolution for Agile Development",
+      "value": 1
+    },
+    {
+      "source": "Elisabeth Kapsammer",
+      "target": "User profile integration made easy: model-driven extraction and transformation of social network schemas",
+      "value": 1
+    },
+    {
+      "source": "Elisabeth Kapsammer",
+      "target": "A Survey on Volunteer Management Systems",
+      "value": 1
+    },
+    {
+      "source": "Elisabeth Kapsammer",
+      "target": "Automatic data transformation: breaching the walled gardens of social network platforms",
+      "value": 1
+    },
+    {
+      "source": "Elisabeth Kapsammer",
+      "target": "CARE: a constraint-based approach for re-establishing conformance-relationships",
+      "value": 1
+    },
+    {
+      "source": "Elisabeth Kapsammer",
+      "target": "Systematic Co-Evolution of OCL Expressions",
+      "value": 1
+    },
+    {
+      "source": "Elisabeth Kapsammer",
+      "target": "Consistent co-evolution of models and transformations",
+      "value": 1
+    },
+    {
+      "source": "Elisabeth Kapsammer",
+      "target": "On the Evolution of Modeling Ecosystems: An Evaluation of Co-Evolution Approaches.",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "Semantics for Accurate Conflict Detection in SMoVer: Specification, Detection and Presentation by Example",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "Reuse in model-to-model transformation languages: are we there yet?",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "SEM 2 suite — Towards a tool suite for supporting knowledge management in situation awareness systems",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "SemGen: towards a semantic data generator for benchmarking duplicate detectors",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "Reusing Model Transformations across Heterogeneous Metamodels",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "Model-Driven Co-evolution for Agile Development",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "Surviving the heterogeneity jungle with composite mapping operators",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "Towards modeling dynamic behavior with integrated qualitative spatial relations",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "TheHiddenU - A Social Nexus for Privacy-assured Personalisation Brokerage",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "A Conceptual Reference Model of Modeling and Verification Concepts for Hybrid Systems",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "A comparison of rule inheritance in model-to-model transformation languages",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "Situation prediction nets: playing the token game for ontology-driven situation awareness",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "A Survey on Clustering Techniques for Situation Awareness",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "Fact or fiction --- reuse in rule-based model-to-model transformation languages",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "Surveying Rule Inheritance in Model-to-Model Transformation Languages",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "Debugging Model-to-Model Transformations",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "Automated verification of model transformations based on visual contracts",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "Managing volatile requirements in web applications",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "User profile integration made easy: model-driven extraction and transformation of social network schemas",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "A tour of BeAware – A situation awareness framework for control centers ☆",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "A survey on UML-based aspect-oriented design modeling",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "Logic-Based Modeling Approaches for Qualitative and Hybrid Reasoning in Dynamic Spatial Systems",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "TETRABox - A Generic White-Box Testing Framework for Model Transformations",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "Near real-time detection of crisis situations",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "A Component-Based Approach to Hybrid Systems Safety Verification",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "Volatile Functionality in Action: Methods, Techniques and Assessment",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "Supporting Variability Exploration and Resolution During Model Migration",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "REASONING ON DATA STREAMS FOR SITUATION AWARENESS",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "A Survey on Volunteer Management Systems",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "Automatic data transformation: breaching the walled gardens of social network platforms",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "CARE: a constraint-based approach for re-establishing conformance-relationships",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "Systematic Co-Evolution of OCL Expressions",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "Consistent co-evolution of models and transformations",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "From the heterogeneity jungle to systematic benchmarking",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "Editorial: BeAware!-Situation awareness, the ontology-driven way",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "Identifying and modelling complex workflow requirements in web applications",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "Crowd-Sensing Meets Situation Awareness: A Research Roadmap for Crisis Management",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "Change and Delay Contracts for Hybrid System Component Verification",
+      "value": 1
+    },
+    {
+      "source": "Wieland Schwinger",
+      "target": "On the Evolution of Modeling Ecosystems: An Evaluation of Co-Evolution Approaches.",
+      "value": 1
+    },
+    {
+      "source": "Erwan Bousse",
+      "target": "Scalable Armies of Model Clones through Data Sharing",
+      "value": 1
+    },
+    {
+      "source": "Erwan Bousse",
+      "target": "A Generative Approach to Define Rich Domain-Specific Trace Metamodels",
+      "value": 1
+    },
+    {
+      "source": "Erwan Bousse",
+      "target": "Supporting efficient and advanced omniscient debugging for xDSMLs",
+      "value": 1
+    },
+    {
+      "source": "Erwan Bousse",
+      "target": "Execution framework of the GEMOC studio (tool demo)",
+      "value": 1
+    },
+    {
+      "source": "Stavroula Antonopoulou",
+      "target": "Digital Libraries Evaluation: Measuring Europeana's Usability",
+      "value": 1
+    },
+    {
+      "source": "Fotis Mystakopoulos",
+      "target": "Digital Libraries Evaluation: Measuring Europeana's Usability",
+      "value": 1
+    },
+    {
+      "source": "Anxhela Dani",
+      "target": "Digital Libraries Evaluation: Measuring Europeana's Usability",
+      "value": 1
+    },
+    {
+      "source": "Anxhela Dani",
+      "target": "CERN Analysis Preservation: A Novel Digital Library Service to Enable Reusable and Reproducible Research",
+      "value": 1
+    },
+    {
+      "source": "Rania Siatri",
+      "target": "Digital Libraries Evaluation: Measuring Europeana's Usability",
+      "value": 1
+    },
+    {
+      "source": "Rania Siatri",
+      "target": "A Survey on the Importance of Learning Object Metadata for Relevance Judgment",
+      "value": 1
+    },
+    {
+      "source": "Rania Siatri",
+      "target": "Learners' perceptions on the importance of learning object metadata for relevance judgement",
+      "value": 1
+    },
+    {
+      "source": "Maslina Zolkepli",
+      "target": "Application of fuzzy inference engine as an automatic switch between ensembles of clustering methods",
+      "value": 1
+    },
+    {
+      "source": "Maslina Zolkepli",
+      "target": "Visualizing Fuzzy Relationship in Bibliographic Big Data Using Hybrid Approach Combining Fuzzy c-Means and Newman-Girvan Algorithm",
+      "value": 1
+    },
+    {
+      "source": "Maslina Zolkepli",
+      "target": "Automatic Switching of Clustering Methods based on Fuzzy Inference in Bibliographic Big Data Retrieval System",
+      "value": 1
+    },
+    {
+      "source": "Atsushi Takayasu",
+      "target": "Better Lattice Constructions for Solving Multivariate Linear Equations Modulo Unknown Divisors",
+      "value": 1
+    },
+    {
+      "source": "Atsushi Takayasu",
+      "target": "Cryptanalysis of RSA with Multiple Small Secret Exponents",
+      "value": 1
+    },
+    {
+      "source": "Atsushi Takayasu",
+      "target": "Better Lattice Constructions for Solving Multivariate Linear Equations Modulo Unknown Divisors",
+      "value": 1
+    },
+    {
+      "source": "Atsushi Takayasu",
+      "target": "Partial Key Exposure Attacks on RSA with Multiple Exponent Pairs",
+      "value": 1
+    },
+    {
+      "source": "Atsushi Takayasu",
+      "target": "Partial Key Exposure Attacks on CRT-RSA: Better Cryptanalysis to Full Size Encryption Exponents",
+      "value": 1
+    },
+    {
+      "source": "Atsushi Takayasu",
+      "target": "How to Generalize RSA Cryptanalyses",
+      "value": 1
+    },
+    {
+      "source": "Atsushi Takayasu",
+      "target": "Lattice-Based Revocable Identity-Based Encryption with Bounded Decryption Key Exposure Resistance.",
+      "value": 1
+    },
+    {
+      "source": "Atsushi Takayasu",
+      "target": "Small secret exponent attacks on RSA with unbalanced prime factors",
+      "value": 1
+    },
     {
       "source": "Monika Singh",
       "target": "Detecting Malicious Users in Twitter using Classifiers",
